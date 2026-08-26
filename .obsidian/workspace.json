@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "e63c3f2a070f8feb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9482bdcf2bd20a37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20482bd1c0a47614",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Carteira_Clientes/032_Clientes/CUF/_Índice_CUF.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Índice_CUF"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4fde3d26ecec5050",
+    "type": "split",
+    "children": [
+      {
+        "id": "974401b42eb4e6e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e6ad7148c127d2d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ffe9a45348321764",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "592ce1708c25b595",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.5
+  },
+  "right": {
+    "id": "8d233bd26d5557ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "2513ca765b3b702b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d25036d9568908c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03_Carteira_Clientes/032_Clientes/CUF/_Índice_CUF.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "16c7ef1dc9adb848",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "2f5aca632db64139",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f554c06611829d75",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c5918481fb7918fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "20482bd1c0a47614",
+  "lastOpenFiles": [
+    "03_Carteira_Clientes/032_Clientes/_Índice_Clientes.md",
+    "00_Home.md",
+    "01_Conhecimento_Base/011_Biblioteca_Programas/01_Vendas_e_Negociacao/_Índice_01_Vendas_e_Negociacao.md",
+    "01_Conhecimento_Base/011_Biblioteca_Programas/_Catálogo_Geral_Cursos.md",
+    "03_Carteira_Clientes/034_Reunioes_Clientes/2026-06/meeting_script_2026-06-24.md",
+    "Pendentes tratados e por tratar.md",
+    "03_Carteira_Clientes/032_Clientes/Repsol Polímeros/_Índice_Repsol Polímeros.md",
+    "03_Carteira_Clientes/032_Clientes/ADP_Águas de Portugal/_Índice_ADP_Águas de Portugal.md",
+    "03_Carteira_Clientes/032_Clientes/GPFA/_Índice_GPFA.md",
+    "03_Carteira_Clientes/032_Clientes/Joaquim Chaves Saúde/_Índice_Joaquim Chaves Saúde.md",
+    "03_Carteira_Clientes/032_Clientes/IBER-OLEFF/_Índice_IBER-OLEFF.md",
+    "03_Carteira_Clientes/032_Clientes/Quantic_Real_Estate/_Índice_Quantic_Real_Estate.md",
+    "03_Carteira_Clientes/032_Clientes/Audaxys-Linedata/_Índice_Audaxys-Linedata.md",
+    "03_Carteira_Clientes/032_Clientes/Altice/_Índice_Altice.md",
+    "03_Carteira_Clientes/032_Clientes/Innovarisk/_Índice_Innovarisk.md",
+    "03_Carteira_Clientes/032_Clientes/Quilaban/_Índice_Quilaban.md",
+    "03_Carteira_Clientes/032_Clientes/ADDP - Águas Douro e Paiva/_Índice_ADDP - Águas Douro e Paiva.md",
+    "03_Carteira_Clientes/032_Clientes/Puratos/_Índice_Puratos.md",
+    "03_Carteira_Clientes/032_Clientes/Purem_Tondela/_Índice_Purem_Tondela.md",
+    "03_Carteira_Clientes/032_Clientes/Iberdrola_Clientes_Portugal/_Índice_Iberdrola_Clientes_Portugal.md",
+    "03_Carteira_Clientes/032_Clientes/Porto_Business_School/_Índice_Porto_Business_School.md",
+    "03_Carteira_Clientes/032_Clientes/Hydra/_Índice_Hydra.md",
+    "03_Carteira_Clientes/032_Clientes/Pao_de_Rio_Maior/_Índice_Pao_de_Rio_Maior.md",
+    "03_Carteira_Clientes/032_Clientes/Padaria_Portuguesa/_Índice_Padaria_Portuguesa.md",
+    "03_Carteira_Clientes/032_Clientes/Hi-Interactive/_Índice_Hi-Interactive.md",
+    "03_Carteira_Clientes/032_Clientes/Forte_de_Gaia/_Índice_Forte_de_Gaia.md",
+    "03_Carteira_Clientes/Regresso de férias",
+    "03_Carteira_Clientes/032_Clientes/ALDI_Portugal/SKOLAE - Proposta financeira_Ref - 20571 - ALDI Leadership Run_extracted.txt",
+    "03_Carteira_Clientes/032_Clientes/ALDI_Portugal/SKOLAE - Proposta conteúdos_Ref - 20571 - ALDI Leadership Run_extracted.txt",
+    "03_Carteira_Clientes/032_Clientes/ALDI_Portugal/SKOLAE - Proposta financeira_Ref - 20571 - ALDI Leadership Run.pdf",
+    "03_Carteira_Clientes/032_Clientes/ALDI_Portugal/SKOLAE - Proposta conteúdos_Ref - 20571 - ALDI Leadership Run.pdf",
+    "Recording 20260622090724.m4a",
+    "03_Carteira_Clientes/032_Clientes/ALDI_Portugal/Pedido Propostas_Softskills.pdf",
+    "03_Carteira_Clientes/034_Reunioes_Clientes/2026-06/Reunião _ Chagas - Skolae _Formação Liderança e Gestão de Equipas_extracted.txt",
+    "03_Carteira_Clientes/034_Reunioes_Clientes/2026-05/test_technophage.txt",
+    "03_Carteira_Clientes/034_Reunioes_Clientes/2026-06/test_output_utf8.txt"
+  ]
+}

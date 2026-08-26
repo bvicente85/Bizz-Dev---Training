@@ -1,0 +1,1342 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Q-LEAP: Explorador de Roteiro Interativo</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --bg-color: #ffffff;
+            --panel-color: #ffffff;
+            --border-color: #e5e5e5;
+            --text-primary: #000000;
+            --text-secondary: #555555;
+            
+            /* Skolae Core Identity */
+            --accent-orange: #FF9B23;
+            --accent-orange-hover: #e08316;
+            --accent-orange-light: rgba(255, 155, 35, 0.08);
+            
+            /* Trainer Pill Colors (Minimalist Black, White and Orange) */
+            --bg-comportamental: rgba(255, 155, 35, 0.08);
+            --border-comportamental: #FF9B23;
+            
+            --bg-financeiro: rgba(0, 0, 0, 0.05);
+            --border-financeiro: #000000;
+            
+            --bg-tecnico: rgba(85, 85, 85, 0.08);
+            --border-tecnico: #555555;
+            
+            --bg-esg: rgba(16, 185, 129, 0.08);
+            --border-esg: #10b981;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            user-select: none;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-primary);
+            overflow-x: hidden;
+            background-image: radial-gradient(circle at 10% 20%, rgba(255, 155, 35, 0.02) 0%, transparent 40%),
+                              radial-gradient(circle at 90% 80%, rgba(0, 0, 0, 0.02) 0%, transparent 40%);
+        }
+
+        header {
+            padding: 2rem;
+            max-width: 1400px;
+            margin: 0 auto;
+            border-bottom: 2px solid var(--border-color);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo-area {
+            display: flex;
+            align-items: center;
+            gap: 1.5rem;
+        }
+
+        .logo-img {
+            height: 52px;
+            width: auto;
+            object-fit: contain;
+        }
+
+        .logo-text h1 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 2rem;
+            font-weight: 700;
+            letter-spacing: -0.5px;
+            color: var(--text-primary);
+        }
+
+        .logo-text p {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            margin-top: 0.1rem;
+            font-weight: 500;
+        }
+
+        .controls {
+            display: flex;
+            gap: 1rem;
+        }
+
+        .toggle-btn {
+            background-color: var(--bg-color);
+            border: 2px solid var(--text-primary);
+            padding: 0.6rem 1.2rem;
+            border-radius: 8px;
+            color: var(--text-primary);
+            font-weight: 600;
+            font-size: 0.85rem;
+            cursor: pointer;
+            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .toggle-btn:hover {
+            background-color: rgba(0, 0, 0, 0.05);
+        }
+
+        .toggle-btn.active {
+            background-color: var(--text-primary);
+            color: var(--bg-color);
+            border-color: var(--text-primary);
+        }
+
+        .toggle-btn.active-esg {
+            background-color: var(--accent-orange);
+            color: var(--bg-color);
+            border-color: var(--accent-orange);
+        }
+        
+        .toggle-btn.active-esg:hover {
+            background-color: var(--accent-orange-hover);
+        }
+
+        main {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 2rem;
+            display: grid;
+            grid-template-columns: 300px 1fr;
+            gap: 2.5rem;
+            min-height: calc(100vh - 120px);
+        }
+
+        /* Profiles Menu Left */
+        .profiles-panel {
+            background-color: var(--panel-color);
+            border: 2px solid var(--border-color);
+            border-radius: 16px;
+            padding: 1.5rem;
+            height: fit-content;
+            position: sticky;
+            top: 2rem;
+        }
+
+        .panel-title {
+            font-family: 'Outfit', sans-serif;
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            color: var(--text-secondary);
+            margin-bottom: 1.25rem;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .profile-list {
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+        }
+
+        .profile-item {
+            padding: 1rem 1.2rem;
+            border-radius: 10px;
+            border: 2px solid var(--border-color);
+            background-color: var(--bg-color);
+            cursor: pointer;
+            transition: all 0.25s ease;
+            display: flex;
+            flex-direction: column;
+            gap: 0.25rem;
+            position: relative;
+        }
+
+        .profile-item:hover {
+            border-color: var(--text-primary);
+            background-color: rgba(0, 0, 0, 0.02);
+        }
+
+        .profile-item.active {
+            border-color: var(--accent-orange);
+            background-color: var(--accent-orange-light);
+        }
+
+        .profile-item.active::before {
+            content: '';
+            position: absolute;
+            left: -2px;
+            top: 15%;
+            bottom: 15%;
+            width: 4px;
+            background-color: var(--accent-orange);
+            border-radius: 0 4px 4px 0;
+        }
+
+        .profile-item .role-title {
+            font-family: 'Outfit', sans-serif;
+            font-weight: 700;
+            font-size: 1.05rem;
+            color: var(--text-primary);
+        }
+
+        .profile-item .role-desc {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            font-weight: 500;
+        }
+
+        /* Filter Panel Legend */
+        .legend-panel {
+            margin-top: 2rem;
+            padding-top: 1.5rem;
+            border-top: 2px solid var(--border-color);
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            margin-bottom: 0.75rem;
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+            cursor: pointer;
+            padding: 0.5rem;
+            border-radius: 8px;
+            border: 1px solid transparent;
+            transition: all 0.2s;
+            font-weight: 600;
+        }
+
+        .legend-item:hover {
+            background-color: rgba(0, 0, 0, 0.03);
+            color: var(--text-primary);
+            border-color: var(--border-color);
+        }
+
+        .legend-dot {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            border: 1px solid rgba(0,0,0,0.1);
+        }
+
+        .legend-dot.comportamental { background-color: var(--border-comportamental); }
+        .legend-dot.financeiro { background-color: var(--border-financeiro); }
+        .legend-dot.tecnico { background-color: var(--border-tecnico); }
+        .legend-dot.esg { background-color: var(--border-esg); }
+
+        /* Courses Timeline Right */
+        .timeline-container {
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+
+        .section-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 0.5rem;
+            border-bottom: 2px solid var(--text-primary);
+            padding-bottom: 0.75rem;
+        }
+
+        .section-title {
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.7rem;
+            font-weight: 700;
+        }
+
+        .section-badge {
+            background-color: var(--text-primary);
+            color: var(--bg-color);
+            padding: 0.35rem 0.9rem;
+            border-radius: 6px;
+            font-size: 0.75rem;
+            font-weight: 700;
+        }
+
+        .course-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .course-card {
+            background-color: var(--panel-color);
+            border: 2px solid var(--border-color);
+            border-radius: 16px;
+            padding: 1.5rem;
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+            cursor: pointer;
+            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+        }
+
+        .course-card:hover {
+            transform: translateY(-3px);
+            border-color: var(--text-primary);
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+        }
+
+        /* Minimalist Trainer Accent Borders */
+        .course-card.comportamental {
+            border-top: 6px solid var(--border-comportamental);
+        }
+        .course-card.financeiro {
+            border-top: 6px solid var(--border-financeiro);
+        }
+        .course-card.tecnico {
+            border-top: 6px solid var(--border-tecnico);
+        }
+        .course-card.esg {
+            border-top: 6px solid var(--border-esg);
+            background: linear-gradient(180deg, var(--panel-color) 0%, rgba(16, 185, 129, 0.01) 100%);
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+        }
+
+        .course-num {
+            font-size: 0.75rem;
+            font-weight: 800;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .duration-badge {
+            background-color: rgba(0, 0, 0, 0.05);
+            padding: 0.25rem 0.6rem;
+            border-radius: 4px;
+            font-size: 0.7rem;
+            font-weight: 700;
+        }
+
+        .course-name {
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.25rem;
+            font-weight: 700;
+            line-height: 1.4;
+            min-height: 3.5rem;
+            color: var(--text-primary);
+        }
+
+        .trainer-tag {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+            padding: 0.35rem 0.75rem;
+            border-radius: 6px;
+            font-size: 0.75rem;
+            font-weight: 700;
+            width: fit-content;
+            border: 1px solid transparent;
+        }
+
+        .trainer-tag.comportamental {
+            background-color: var(--bg-comportamental);
+            color: var(--border-comportamental);
+            border-color: rgba(255, 155, 35, 0.2);
+        }
+        .trainer-tag.financeiro {
+            background-color: var(--bg-financeiro);
+            color: var(--border-financeiro);
+            border-color: rgba(0, 0, 0, 0.1);
+        }
+        .trainer-tag.tecnico {
+            background-color: var(--bg-tecnico);
+            color: var(--border-tecnico);
+            border-color: rgba(85, 85, 85, 0.2);
+        }
+        .trainer-tag.esg {
+            background-color: var(--bg-esg);
+            color: var(--border-esg);
+            border-color: rgba(16, 185, 129, 0.2);
+        }
+
+        .card-footer {
+            margin-top: auto;
+            border-top: 2px solid var(--border-color);
+            padding-top: 1rem;
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .alignment-label {
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            color: var(--text-secondary);
+            font-weight: 700;
+        }
+
+        .alignment-desc {
+            font-size: 0.8rem;
+            line-height: 1.4;
+            color: var(--text-secondary);
+            font-weight: 500;
+        }
+
+        .mapping-box {
+            background-color: rgba(0, 0, 0, 0.01);
+            border: 1px dashed var(--border-color);
+            padding: 0.75rem;
+            border-radius: 8px;
+            display: flex;
+            flex-direction: column;
+            gap: 0.25rem;
+        }
+
+        .rfi-title {
+            font-size: 0.7rem;
+            color: var(--text-secondary);
+            font-weight: 700;
+        }
+
+        .rfi-val {
+            font-size: 0.85rem;
+            font-weight: 700;
+            color: var(--accent-orange);
+        }
+
+        /* Modal Details */
+        .modal {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: rgba(0, 0, 0, 0.4);
+            backdrop-filter: blur(8px);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            opacity: 0;
+            pointer-events: none;
+            transition: all 0.25s ease;
+            z-index: 100;
+            padding: 1.5rem;
+        }
+
+        .modal.active {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        .modal-content {
+            background-color: var(--bg-color);
+            border: 2px solid var(--text-primary);
+            width: 100%;
+            max-width: 680px;
+            border-radius: 16px;
+            overflow: hidden;
+            box-shadow: 0 16px 40px rgba(0, 0, 0, 0.12);
+            transform: scale(0.96);
+            transition: all 0.25s cubic-bezier(0.34, 1.56, 0.64, 1);
+            display: flex;
+            flex-direction: column;
+            max-height: 90vh;
+        }
+
+        .modal.active .modal-content {
+            transform: scale(1);
+        }
+
+        .modal-header {
+            padding: 1.5rem 2rem;
+            border-bottom: 2px solid var(--border-color);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            position: relative;
+        }
+
+        .modal-title-box {
+            display: flex;
+            flex-direction: column;
+            gap: 0.25rem;
+        }
+
+        .modal-close {
+            background: transparent;
+            border: none;
+            color: var(--text-secondary);
+            font-size: 1.8rem;
+            cursor: pointer;
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s;
+        }
+
+        .modal-close:hover {
+            background-color: rgba(0, 0, 0, 0.05);
+            color: #000;
+        }
+
+        .modal-body {
+            padding: 2rem;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+
+        .syllabus-title {
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.15rem;
+            font-weight: 700;
+            border-left: 4px solid var(--accent-orange);
+            padding-left: 0.6rem;
+            margin-bottom: 0.75rem;
+        }
+
+        .module-list {
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+        }
+
+        .module-item {
+            background-color: rgba(0, 0, 0, 0.01);
+            border: 2px solid var(--border-color);
+            padding: 1rem;
+            border-radius: 8px;
+            display: flex;
+            flex-direction: column;
+            gap: 0.35rem;
+        }
+
+        .module-header {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.75rem;
+            font-weight: 800;
+            color: var(--accent-orange);
+        }
+
+        .module-name {
+            font-weight: 700;
+            font-size: 0.95rem;
+            color: var(--text-primary);
+        }
+
+        .module-desc {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            line-height: 1.4;
+            font-weight: 500;
+        }
+
+        .ref-box {
+            background-color: rgba(255, 155, 35, 0.03);
+            border: 1.5px dashed rgba(255, 155, 35, 0.3);
+            border-radius: 8px;
+            padding: 1rem;
+            font-size: 0.85rem;
+            line-height: 1.4;
+            color: var(--text-primary);
+        }
+
+        .ref-box a {
+            color: var(--accent-orange);
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        .ref-box a:hover {
+            text-decoration: underline;
+        }
+
+        /* Fade-in Animation */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(8px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .course-card {
+            animation: fadeIn 0.3s ease forwards;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="logo-area">
+            <img src="../01_Conhecimento_Base/SKOLAE Formação Logo noir.jpg" alt="SKOLAE" class="logo-img">
+            <div class="logo-text">
+                <h1>Q-LEAP</h1>
+                <p>Quadrante Leadership Excellence & Acceleration Program — Explorador Estrutural</p>
+            </div>
+        </div>
+        <div class="controls">
+            <button class="toggle-btn active" id="viewModeBtn" onclick="toggleViewMode()">
+                👁️ Vista Q-LEAP Sugerida
+            </button>
+            <button class="toggle-btn active-esg" id="esgBtn" onclick="toggleESG()">
+                🌱 Mostrar Especializações ESG
+            </button>
+        </div>
+    </header>
+
+    <main>
+        <!-- Profiles Panel (Left) -->
+        <div class="profiles-panel">
+            <div class="panel-title">👥 Públicos-Alvo</div>
+            <div class="profile-list" id="profileList">
+                <!-- Injetado via JS -->
+            </div>
+            
+            <div class="legend-panel">
+                <div class="panel-title">🎯 Perfis de Formadores</div>
+                <div class="legend-item" onclick="filterTrainer('comportamental')">
+                    <span class="legend-dot comportamental"></span>
+                    <span>Comportamental</span>
+                </div>
+                <div class="legend-item" onclick="filterTrainer('financeiro')">
+                    <span class="legend-dot financeiro"></span>
+                    <span>Financeiro</span>
+                </div>
+                <div class="legend-item" onclick="filterTrainer('tecnico')">
+                    <span class="legend-dot tecnico"></span>
+                    <span>Técnico de Gestão</span>
+                </div>
+                <div class="legend-item" onclick="filterTrainer('esg')">
+                    <span class="legend-dot esg"></span>
+                    <span>Especialista ESG</span>
+                </div>
+                <div class="legend-item" onclick="clearTrainerFilter()" style="justify-content: center; border: 2px dashed var(--border-color); margin-top: 1rem; color: var(--text-primary);">
+                    <span>Limpar Filtros</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Courses Panel (Right) -->
+        <div class="timeline-container">
+            <div class="section-header">
+                <h2 class="section-title" id="activeProfileTitle">Carregando...</h2>
+                <span class="section-badge" id="activeProfileCount">0 Cursos</span>
+            </div>
+            
+            <div class="course-grid" id="courseGrid">
+                <!-- Injetado via JS -->
+            </div>
+        </div>
+    </main>
+
+    <!-- Detailed Modal -->
+    <div class="modal" id="detailsModal" onclick="closeModal(event)">
+        <div class="modal-content" onclick="event.stopPropagation()">
+            <div class="modal-header">
+                <div class="modal-title-box">
+                    <span class="course-num" id="modalCourseNum">CURSO 1.1</span>
+                    <h2 class="section-title" style="font-size: 1.3rem;" id="modalCourseName">Nome do Curso</h2>
+                </div>
+                <button class="modal-close" onclick="closeModal(event)">×</button>
+            </div>
+            <div class="modal-body" id="modalBody">
+                <!-- Injetado via JS -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Data Object -->
+    <script>
+        const qLeapData = {
+            viewMode: "qleap", // qleap vs rfi
+            showESG: true,
+            trainerFilter: null,
+            activeProfile: "pm",
+
+            profiles: {
+                pm: {
+                    title: "Gestores de Projeto (PM)",
+                    desc: "~50 participantes",
+                    count: "5 Cursos",
+                    courses: [
+                        {
+                            id: "1.1",
+                            name: "Fatores Essenciais de Gestão de Projetos (PM Fundamentals)",
+                            rfiName: "PM Fundamentals [CORE]",
+                            duration: "14h",
+                            trainer: "tecnico",
+                            trainerLabel: "Técnico de Gestão",
+                            alignmentLabel: "Total Design & Qualidade",
+                            alignmentDesc: "Ensina planeamento de prazos realistas e task-slicing integrado, essencial para o Total Design.",
+                            source: "15_Gestao_Projetos_e_Inovacao/Fatores_Essenciais_para_a_Gestao_de_Projetos.md",
+                            modules: [
+                                { num: "M1", name: "Organização e Ciclo de Vida do Projeto", desc: "Definição de âmbito, bases operacionais e mapeamento de intervenientes técnicos." },
+                                { num: "M2", name: "Planificação e Prazos Realistas", desc: "Task-slicing coerente, caminhos críticos, margens operacionais e planeamento." },
+                                { num: "M3", name: "Gestão e Mitigação de Riscos", desc: "Identificação e antecipação de ameaças ao delivery do projeto." },
+                                { num: "M4", name: "Lançamento e Acompanhamento", desc: "Kick-offs eficazes, ferramentas de controlo e indicadores operacionais de desempenho (KPIs)." }
+                            ]
+                        },
+                        {
+                            id: "1.2",
+                            name: "Finanças e Controlo de P&L para Project Managers",
+                            rfiName: "Finance & P&L Management [CORE]",
+                            duration: "14h",
+                            trainer: "financeiro",
+                            trainerLabel: "Financeiro",
+                            alignmentLabel: "Rentabilidade de Projetos",
+                            alignmentDesc: "Focado em proteger a margem do projeto (≥25%), orçamentação e forecast dinâmico.",
+                            source: "06_Area_Financeira/Curso_Financas_para_Nao_Financeiros.md",
+                            modules: [
+                                { num: "M1", name: "Contabilidade e Margem de Projeto", desc: "Análise da demonstração de resultados e margens por natureza do projeto." },
+                                { num: "M2", name: "Métricas de Rentabilidade", desc: "Utilização prática de cash-flows, VAL, TIR e Payback aplicados ao investimento no projeto." },
+                                { num: "M3", name: "Orçamentação e Forecast Dinâmico", desc: "Construção de previsões financeiras dinâmicas de receitas/despesas de forma a proteger o fundo de maneio." },
+                                { num: "M4", name: "Gestão e Justificação de Desvios", desc: "Análise de sensibilidade, apuramento de desvios orçamentais de P&L e ações corretivas." }
+                            ]
+                        },
+                        {
+                            id: "1.3",
+                            name: "Liderança Situacional e Gestão de Pessoas (People & Coaching)",
+                            rfiName: "People Management & Coaching [CORE]",
+                            duration: "14h",
+                            trainer: "comportamental",
+                            trainerLabel: "Comportamental",
+                            alignmentLabel: "Aprendizagem por Descoberta",
+                            alignmentDesc: "Utiliza o jogo 'Exploradores' (descoberta ativa) e técnicas factuais de feedback para equipas virtuais dispersas.",
+                            source: "10_Lideranca_e_Gestao_Equipas/Lideranca_Situacional.md",
+                            modules: [
+                                { num: "M1", name: "O Modelo de Liderança Situacional", desc: "Ken Blanchard e a adaptação do líder aos 4 níveis de maturidade e desenvolvimento. Jogo didático 'Exploradores'." },
+                                { num: "M2", name: "Liderança Multicultural e de Equipas Virtuais", desc: "Coordenação de equipas dispersas geograficamente (cross-border) e delegação produtiva sob stress." },
+                                { num: "M3", name: "O Manager como Coach", desc: "Descobrir o potencial de cada colaborador, motivar para resultados e definir objetivos claros." },
+                                { num: "M4", name: "O Feedback de Alto Valor", desc: "Técnicas e estrutura de 7 passos baseada em factos observáveis para motivar e alinhar para a visão." }
+                            ]
+                        },
+                        {
+                            id: "1.4",
+                            name: "Relação com o Cliente e Negociação Win-Win",
+                            rfiName: "Client Service & Stakeholder Management [CORE] / Negotiation Skills [ADVANCED]",
+                            duration: "14h",
+                            trainer: "comportamental",
+                            trainerLabel: "Comportamental",
+                            alignmentLabel: "Relações de Confiança & Concessões",
+                            alignmentDesc: "Ensina a lidar com alteração de âmbito do cliente (change requests) e fechar acordos de longo prazo.",
+                            source: "12_Atendimento_e_Relacao_Cliente/Curso_Excelencia_Servico_ao_Cliente.txt",
+                            modules: [
+                                { num: "M1", name: "Atitude e Espírito de Serviço em Consultoria", desc: "Alinhamento de expectativas e proatividade com clientes B2B exigentes." },
+                                { num: "M2", name: "Comunicação e Construção de Confiança", desc: "Técnicas de rapport, assertividade e escuta ativa com stakeholders corporativos." },
+                                { num: "M3", name: "Condução de Negociações no Projeto", desc: "Definição de limites e margens em alterações de âmbito (change requests) e prazos." },
+                                { num: "M4", name: "Fecho de Acordos Win-Win", desc: "Tratamento positivo de objeções, gestão de concessões e fidelização a longo prazo." }
+                            ]
+                        },
+                        {
+                            id: "1.5",
+                            name: "Ecodesign e Projetos Sustentáveis",
+                            rfiName: "Recomendação Skolae: ESG & Green Delivery",
+                            duration: "14h",
+                            trainer: "esg",
+                            trainerLabel: "Especialista ESG",
+                            alignmentLabel: "Sustentabilidade & Economia Circular",
+                            alignmentDesc: "ESSENCIAL para engenharia. Integra ISO 14040-44 (LCA), pegada de carbono e ecodesign em projetos de infraestruturas.",
+                            source: "14_Sustentabilidade_ESG/curso_ecodesign.md",
+                            isESG: true,
+                            modules: [
+                                { num: "M1", name: "Enquadramento Legislativo", desc: "Pacote de Economia Circular da UE, Regulamento de Conceção Ecológica e Green Claims." },
+                                { num: "M2", name: "Integração da Sustentabilidade na Engenharia", desc: "Avaliação de ciclo de vida (LCA), quantificação de impactos e cálculo do desempenho energético/carbono." },
+                                { num: "M3", name: "Ferramentas do Processo de Eco-conceção", desc: "Otimização de aprovisionamento, balanço metabólico de recursos e normas ISO 14001, 9001, 50001." },
+                                { num: "M4", name: "Valorização dos Projetos Eco-concebidos", desc: "Boas práticas de comunicação ambiental, declarações voluntárias e rotulagem ecológica." }
+                            ]
+                        }
+                    ]
+                },
+                tl: {
+                    title: "Líderes de Equipa (Team Leader)",
+                    desc: "~23 participantes",
+                    count: "5 Cursos",
+                    courses: [
+                        {
+                            id: "2.1",
+                            name: "Finanças e Otimização da Utilização de Recursos",
+                            rfiName: "Finance for Team Leaders [ADVANCED]",
+                            duration: "14h",
+                            trainer: "financeiro",
+                            trainerLabel: "Financeiro",
+                            alignmentLabel: "Billability & Custo Operacional",
+                            alignmentDesc: "Aborda a relação direta entre a billability do engenheiro, custos de inatividade e rentabilidade da BU.",
+                            source: "06_Area_Financeira/Curso_Financas_para_Nao_Financeiros.md",
+                            modules: [
+                                { num: "M1", name: "O Ciclo de Exploração da BU", desc: "Necessidades de working capital e a ligação à produtividade técnica." },
+                                { num: "M2", name: "A Economia dos Recursos", desc: "Relação direta entre taxas de utilização individual (billability), taxas de recuperação e custos de operação." },
+                                { num: "M3", name: "Gestão de Tesouraria Interna", desc: "O impacto financeiro do tempo inativo (non-billable time) no P&L global da Unidade de Negócio." },
+                                { num: "M4", name: "Métricas de Rendibilidade Operacional", desc: "Análise prática de rentabilidade e indicadores de produtividade financeira." }
+                            ]
+                        },
+                        {
+                            id: "2.2",
+                            name: "Liderança Operacional e Gestão de Conflitos",
+                            rfiName: "People Management & Coaching [CORE] / Conflict Management & Negotiation [CORE]",
+                            duration: "14h",
+                            trainer: "comportamental",
+                            trainerLabel: "Comportamental",
+                            alignmentLabel: "Liderança Intermédia & DISC",
+                            alignmentDesc: "Ensina a liderar no dia-a-dia do terreno através de perfis DISC e ferramentas de resolução de conflitos técnicos.",
+                            source: "10_Lideranca_e_Gestao_Equipas/Lideranca_Operacional.md",
+                            modules: [
+                                { num: "M1", name: "Diagnóstico de Competências e Autonomia", desc: "Avaliar a maturidade técnica dos colaboradores e aplicar liderança situacional no terreno." },
+                                { num: "M2", name: "Feedback e Coaching para Crescimento", desc: "O papel do TL como coach, planos de carreira individuais e avaliação de resultados." },
+                                { num: "M3", name: "Dinâmicas de Conflito Laboral", desc: "Causas, etapas e consequências dos desentendimentos no seio de equipas técnicas de engenharia." },
+                                { num: "M4", name: "As Cinco Atitudes diante do Conflito", desc: "Aplicação prática (colaboração, competição, acomodação, evitamento e compromisso) para gerir tensões operacionais." }
+                            ]
+                        },
+                        {
+                            id: "2.3",
+                            name: "Colaboração Sistémica e Gestão de Fluxos de Trabalho",
+                            rfiName: "Resource Planning & Utilisation Management [CORE]",
+                            duration: "14h",
+                            trainer: "comportamental",
+                            trainerLabel: "Comportamental",
+                            alignmentLabel: "Teoria U & Neutralização de Vieses",
+                            alignmentDesc: "Desenha a relação de alocação de recursos com os PMs de forma neutral e objetiva através da Teoria U.",
+                            source: "11_Eficacia_Pessoal_e_Soft_Skills/curso_colaboracao_fluidez_processos.md",
+                            modules: [
+                                { num: "M1", name: "Pensamento Sistémico na Alocação", desc: "A organização como um ecossistema. Identificar loops de feedback na gestão e partilha de recursos técnicos." },
+                                { num: "M2", name: "Clientes e Fornecedores Internos", desc: "Teoria U (MIT) e os 4 níveis de escuta aplicados às negociações de equipa com os PMs." },
+                                { num: "M3", name: "Mapeamento de Dores de Processos", desc: "Customer Journey interno para identificar e eliminar barreiras interdepartamentais de alocação de engenheiros." },
+                                { num: "M4", name: "Objetividade nas Reuniões de Recursos", desc: "Mitigação de vieses cognitivos, neutralização de interesses subjetivos e comunicação clara baseada em dados reais." }
+                            ]
+                        },
+                        {
+                            id: "2.4",
+                            name: "Gestão da Qualidade e Normas de Entrega Técnica",
+                            rfiName: "Quality Management & Technical Standards [SPECIALIST]",
+                            duration: "14h",
+                            trainer: "tecnico",
+                            trainerLabel: "Técnico de Gestão",
+                            alignmentLabel: "Cultura de Peer Review & QA",
+                            alignmentDesc: "Exclusivo para a Quadrante. Ensina a estruturar revisões factuais de projetos (BIM) e ferramentas PDCA.",
+                            source: "Desenho Customizado Ad-Hoc (com base em Lean)",
+                            modules: [
+                                { num: "M1", name: "Fundamentos de QA em Serviços Profissionais", desc: "O custo da não-qualidade técnica nas entregas de engenharia e consultoria." },
+                                { num: "M2", name: "O Processo de Peer Review (Revisão por Pares)", desc: "Estrutura e dinâmica de revisões factuais de modelos e projetos, checklists de verificação e modelos de validação de dados (BIM)." },
+                                { num: "M3", name: "Normalização do Trabalho Diário (Standards)", desc: "Uniformização de entregáveis, criação de templates digitais eficientes e gestão visual de standards de engenharia." },
+                                { num: "M4", name: "Ciclo PDCA e Resolução de Problemas Técnicos", desc: "Utilização estruturada de ferramentas Kaizen (Ishikawa, 5 Porquês) para debelar erros recorrentes de entrega." }
+                            ]
+                        },
+                        {
+                            id: "2.5",
+                            name: "Ecodesign e Projetos Sustentáveis",
+                            rfiName: "Recomendação Skolae: ESG & Green Delivery",
+                            duration: "14h",
+                            trainer: "esg",
+                            trainerLabel: "Especialista ESG",
+                            alignmentLabel: "Sustentabilidade & Economia Circular",
+                            alignmentDesc: "ESSENCIAL para engenharia. Integra ISO 14040-44 (LCA), pegada de carbono e ecodesign em projetos de infraestruturas.",
+                            source: "14_Sustentabilidade_ESG/curso_ecodesign.md",
+                            isESG: true,
+                            modules: [
+                                { num: "M1", name: "Enquadramento Legislativo", desc: "Pacote de Economia Circular da UE, Regulamento de Conceção Ecológica e Green Claims." },
+                                { num: "M2", name: "Integração da Sustentabilidade na Engenharia", desc: "Avaliação de ciclo de vida (LCA), quantificação de impactos e cálculo do desempenho energético/carbono." },
+                                { num: "M3", name: "Ferramentas do Processo de Eco-conceção", desc: "Otimização de aprovisionamento, balanço metabólico de recursos e normas ISO 14001, 9001, 50001." },
+                                { num: "M4", name: "Valorização dos Projetos Eco-concebidos", desc: "Boas práticas de comunicação ambiental, declarações voluntárias e rotulagem ecológica." }
+                            ]
+                        }
+                    ]
+                },
+                cm: {
+                    title: "Gestores de Cliente (Client Manager)",
+                    desc: "~26 participantes",
+                    count: "4 Cursos",
+                    courses: [
+                        {
+                            id: "3.1",
+                            name: "Finanças e Rentabilidade de Contratos Comerciais",
+                            rfiName: "Finance & Profitability Management [CORE]",
+                            duration: "14h",
+                            trainer: "financeiro",
+                            trainerLabel: "Financeiro",
+                            alignmentLabel: "Foco no EBITDA, WIP & CCC",
+                            alignmentDesc: "Ensina a proteger o EBITDA de propostas complexas, reduzir o Ciclo de Conversão de Caixa (CCC) e gerir WIP.",
+                            source: "06_Area_Financeira/Curso_Financas_para_Nao_Financeiros.md",
+                            modules: [
+                                { num: "M1", name: "Modelação Financeira e Proteção do EBITDA", desc: "Estruturação de propostas comerciais de alto valor com foco no EBITDA e margem de contribuição." },
+                                { num: "M2", name: "Fundo de Maneio Operacional e WIP (Work in Progress)", desc: "O impacto financeiro dos prazos de faturação de projetos em curso e controlo do capital investido." },
+                                { num: "M3", name: "Medição de Rentabilidade e CCC (Cash Conversion Cycle)", desc: "Instrumentos de reporting de projetos seniores e redução do ciclo de recebimento de clientes." },
+                                { num: "M4", name: "Indicadores de Proteção da Margem (≥25%)", desc: "Monitorização de desvios, negociação de adicionais de preço e garantias de tesouraria do cliente." }
+                            ]
+                        },
+                        {
+                            id: "3.2",
+                            name: "Desenvolvimento de Negócio e Proatividade Comercial",
+                            rfiName: "Business Development & Sales [CORE]",
+                            duration: "14h",
+                            trainer: "comportamental",
+                            trainerLabel: "Comportamental",
+                            alignmentLabel: "Mindset Comercial B2B",
+                            alignmentDesc: "Quebra o preconceito técnico de 'eu não sou vendedor', capacitando-os como Trusted Advisors.",
+                            source: "01_Vendas_e_Negociacao/Curso_Business_Developer.md",
+                            modules: [
+                                { num: "M1", name: "O Mindset do Business Developer B2B", desc: "Superar o preconceito técnico de 'eu não sou vendedor' e atuar como um conselheiro estratégico." },
+                                { num: "M2", name: "Escuta Estratégica e Identificação de Leads", desc: "Mapeamento de contas e conversão de desafios técnicos em oportunidades de negócio." },
+                                { num: "M3", name: "Upselling e Cross-selling em Cliente", desc: "Identificar novos escopos e criar propostas inovadoras de crescimento de conta." },
+                                { num: "M4", name: "Prospeção B2B", desc: "Estratégias modernas de abordagem a decisores e atitude proativa no mercado." }
+                            ]
+                        },
+                        {
+                            id: "3.3",
+                            name: "Relações Estratégicas e Negociação de Contratos",
+                            rfiName: "Client Relations & Key Account Management [CORE] / Negotiation & Contract Management [CORE]",
+                            duration: "14h",
+                            trainer: "comportamental",
+                            trainerLabel: "Comportamental",
+                            alignmentLabel: "Matriz KAISM & Defesa de Preço",
+                            alignmentDesc: "Mapeamento de contas-chave, elaboração de planos de conta e táticas de defesa de preços comerciais.",
+                            source: "01_Vendas_e_Negociacao/Curso_KAM_Key_Account_Management.md",
+                            modules: [
+                                { num: "M1", name: "Estádios de Relacionamento KAM", desc: "Posicionamento como parceiro consultivo estrutural (Trusted Advisor)." },
+                                { num: "M2", name: "Segmentação de Contas Chave", desc: "Identificação estruturada de contas com maior valor através da Matriz KAISM." },
+                                { num: "M3", name: "O Plano Account", desc: "Estruturação, recolha de dados competitivos e elaboração do plano estratégico da conta." },
+                                { num: "M4", name: "Técnicas de Negociação e Defesa de Margem", desc: "Defesa do preço, gestão tática de concessões comerciais e negociação de contratos complexos." }
+                            ]
+                        },
+                        {
+                            id: "3.4",
+                            name: "Comunicação de Alto Impacto com o PCM®",
+                            rfiName: "Executive Communication & Presence [ADVANCED]",
+                            duration: "16h",
+                            trainer: "comportamental",
+                            trainerLabel: "Comportamental (Certificado PCM®)",
+                            alignmentLabel: "Ferramenta Premium Internacional",
+                            alignmentDesc: "Inclui Assessment individual PCM® e debriefing privado para gerir comunicação e stress sob pressão.",
+                            source: "10_Lideranca_e_Gestao_Equipas/Otimize_a_Sua_Comunicacao.md",
+                            modules: [
+                                { num: "M1", name: "Estrutura de Personalidade PCM®", desc: "Análise dos seis tipos de personalidade, o Relatório Individual PCM® e autoconhecimento." },
+                                { num: "M2", name: "Canais e Regras de Comunicação", desc: "Perceções preferenciais, adaptação ao interlocutor e eliminação de ruídos (Comunicação OK/OK)." },
+                                { num: "M3", name: "Motivação e Necessidades Psicológicas", desc: "Identificar e responder de forma positiva às fontes de motivação dos colaboradores e clientes." },
+                                { num: "M4", name: "Gestão do Stress e Resolução de Conflitos", desc: "Identificar os 'drivers' do stress negativo, graus de stress de cada perfil e estratégias para sair de situações de conflito." }
+                            ]
+                        }
+                    ]
+                },
+                od: {
+                    title: "Diretores de Operações (Operations Director)",
+                    desc: "~11 participantes",
+                    count: "5 Cursos",
+                    courses: [
+                        {
+                            id: "4.1",
+                            name: "Otimização de Processos e Lean Services",
+                            rfiName: "Operations Management & Process Excellence [CORE]",
+                            duration: "14h",
+                            trainer: "tecnico",
+                            trainerLabel: "Técnico de Gestão",
+                            alignmentLabel: "Lean Office / Lean Services",
+                            alignmentDesc: "Adapta a filosofia Kaizen para serviços intelectuais, mapeamento de VSM e eliminação dos 8 desperdícios digitais.",
+                            source: "11_Eficacia_Pessoal_e_Soft_Skills/Curso_Lean_Management.md",
+                            modules: [
+                                { num: "M1", name: "A Cultura Lean aplicada a Serviços", desc: "Os conceitos de valor acrescentado e desperdício de tempo/fluxo em consultoria." },
+                                { num: "M2", name: "Os 8 Desperdícios Operacionais (Muda)", desc: "Identificação e mapeamento de ineficiências em processos técnicos e de proposta." },
+                                { num: "M3", name: "Mapeamento de Cadeia de Valor (VSM)", desc: "Visão macro e estruturação gráfica do fluxo de trabalho operacional da Unidade de Negócio." },
+                                { num: "M4", name: "Ferramentas Lean de Execução", desc: "Metodologia dos 5S (adaptado à gestão documental e digital), Gestão Visual e ciclos PDCA de melhoria." }
+                            ]
+                        },
+                        {
+                            id: "4.2",
+                            name: "Finanças Operacionais e Forecast de Capacidade",
+                            rfiName: "Financial Awareness & Operational Finance [CORE]",
+                            duration: "14h",
+                            trainer: "financeiro",
+                            trainerLabel: "Financeiro",
+                            alignmentLabel: "Forecast & Custos de Capital",
+                            alignmentDesc: "Ensina a desenhar o forecast de recursos focando no EBITDA global e otimização do fundo de maneio das subsidiárias.",
+                            source: "06_Area_Financeira/Curso_Forecast.md",
+                            modules: [
+                                { num: "M1", name: "Forecast e Capacidade focados na Proteção do EBITDA", desc: "Previsões trimestrais para balancear capacidade técnica instalada e proteger margens." },
+                                { num: "M2", name: "Alinhamento de Fundo de Maneio e Custos de Capital", desc: "O impacto da eficiência de entrega da BU nos cash-flows globais da Quadrante e WACC." },
+                                { num: "M3", name: "Indicadores de Reporting Operacional", desc: "Métricas de rentabilidade de atividade para apoio à tomada de decisão de recrutamento ou redimensionamento." },
+                                { num: "M4", name: "Gestão e Articulação Matriz / Filiais", desc: "Articular o reporting operacional interno das BUs de forma eficiente e estruturada." }
+                            ]
+                        },
+                        {
+                            id: "4.3",
+                            name: "Liderança Multidisciplinar e Desenvolvimento de Líderes",
+                            rfiName: "Multidisciplinary Team Leadership [CORE] / Manager & Team Leader Development [ADVANCED]",
+                            duration: "14h",
+                            trainer: "comportamental",
+                            trainerLabel: "Comportamental",
+                            alignmentLabel: "Liderança Multicultural Cross-Border",
+                            alignmentDesc: "Ensina a liderar equipas dispersas internacionalmente e gerir incentivos opostas (PM vs TL).",
+                            source: "10_Lideranca_e_Gestao_Equipas/Lideranca_Operacional.md",
+                            modules: [
+                                { num: "M1", name: "Liderar Equipas Multiculturais Dispersas", desc: "Desafios de comunicação e coordenação 'cross-border' (Lisboa, Madrid, Paris e filiais globais)." },
+                                { num: "M2", name: "Liderar Líderes e Incentivos Concorrentes", desc: "Liderar simultaneamente Project Managers e Team Leaders, gerindo prioridades opostas de margem vs. utilização." },
+                                { num: "M3", name: "O Diretor como Mentor e Coach", desc: "Técnicas avançadas de desenvolvimento profissional dos seus reports diretos para maior autonomia." },
+                                { num: "M4", name: "Gestão de Processos de Mudança e Integração Cultural", desc: "Diagnóstico e alinhamento de equipas técnicas pós-fusões e aquisições." }
+                            ]
+                        },
+                        {
+                            id: "4.4",
+                            name: "Resolução de Conflitos Complexos e Negociação Matricial",
+                            rfiName: "Conflict Resolution & Internal Negotiation [ADVANCED]",
+                            duration: "14h",
+                            trainer: "comportamental",
+                            trainerLabel: "Comportamental",
+                            alignmentLabel: "Gestão Matricial Sem Autoridade",
+                            alignmentDesc: "Capacita a mediar conflitos crónicos e complexos de prioridades operacionais entre diferentes BUs.",
+                            source: "10_Lideranca_e_Gestao_Equipas/Curso_Gestao_Conflitos_7h.txt",
+                            modules: [
+                                { num: "M1", name: "Dinâmica e Consequências de Conflitos Escalados", desc: "Mediação de impasses crónicos de recursos operacionais entre PM e TL." },
+                                { num: "M2", name: "Escuta Ativa e Rapport Executivo", desc: "Gerir o clima de colaboração interna diante de desvios e atrasos operacionais." },
+                                { num: "M3", name: "Negociação em Organizações Matriciais (Cross-BU)", desc: "Alinhamento e negociação interna de prioridades operacionais entre diferentes Unidades de Negócio." },
+                                { num: "M4", name: "Promoção da Objetividade na Operação", desc: "Desenvolver uma cultura assente em dados e imparcialidade factual, desobstruindo as tomadas de decisão." }
+                            ]
+                        },
+                        {
+                            id: "4.5",
+                            name: "Workshop Estratégico de Sustentabilidade e Liderança ESG",
+                            rfiName: "Recomendação Skolae: Liderança ESG",
+                            duration: "3,5h",
+                            trainer: "esg",
+                            trainerLabel: "Especialista ESG",
+                            alignmentLabel: "Cocriação ESG",
+                            alignmentDesc: "Workshop imersivo de alinhamento com Design Thinking para diretores desenharem planos de ação ESG.",
+                            source: "14_Sustentabilidade_ESG/curso_workshop_sustentabilidade_esg.md",
+                            isESG: true,
+                            modules: [
+                                { num: "M1", name: "Conceitos e Contexto ESG Corporativo", desc: "Alinhamento estratégico sobre o papel do ESG no mercado de infraestruturas e consultoria B2B." },
+                                { num: "M2", name: "Co-criação Rumo à Sustentabilidade", desc: "Aplicação prática de Design Thinking para idealizar e desenhar o plano de ação sustentável da BU." },
+                                { num: "M3", name: "Mobilização de Equipas", desc: "Estrategias de liderança para envolver os colaboradores, fomentar comportamentos sustentáveis no terreno e gerir a mudança rumo à conformidade ecológica." }
+                            ]
+                        }
+                    ]
+                },
+                hbu: {
+                    title: "Heads of BU (Head of Business Unit)",
+                    desc: "~7 participantes",
+                    count: "5 Cursos",
+                    courses: [
+                        {
+                            id: "5.1",
+                            name: "Estratégia de Negócio e Acuidade Financeira Executiva",
+                            rfiName: "Strategic Management & Business Strategy [CORE] / Financial Acuity & P&L Leadership [CORE]",
+                            duration: "14h",
+                            trainer: "financeiro",
+                            trainerLabel: "Financeiro",
+                            alignmentLabel: "Criação de Valor em Private Equity",
+                            alignmentDesc: "Otimização de EBITDA, consolidação de margens de grupo e planeamento estratégico plurianual.",
+                            source: "06_Area_Financeira/Curso_Business_Plan.md",
+                            modules: [
+                                { num: "M1", name: "Planeamento Estratégico e Geração de Valor sob PE", desc: "Construção do business case plurianual da BU com foco em criação de valor, WACC e alinhamento com acionistas." },
+                                { num: "M2", name: "Análise da Estrutura de Custos, Otimização de Margens e EBITDA de Grupo", desc: "Análise aprofundada da estrutura de custos fixos/variáveis e alavancagem de EBITDA global." },
+                                { num: "M3", name: "Liderança e Responsabilidade Total pelo P&L", desc: "Defesa e estruturação do orçamento anual consolidado da BU." },
+                                { num: "M4", name: "Previsão e Estratégia Corporativa de Longo Prazo", desc: "Previsões financeiras de cenários (internacionalização, expansão ou reestruturação)." }
+                            ]
+                        },
+                        {
+                            id: "5.2",
+                            name: "Sentidos do Líder (Leadership & Organisational Culture)",
+                            rfiName: "Leadership & Organisational Culture [CORE]",
+                            duration: "14h",
+                            trainer: "comportamental",
+                            trainerLabel: "Comportamental / Imersivo",
+                            alignmentLabel: "Experiencial 'Chef por um Dia'",
+                            alignmentDesc: "Curso imersivo premium. Foco em inteligência emocional e liderança de proximidade (Team Building elite).",
+                            source: "10_Lideranca_e_Gestao_Equipas/Curso_Sentidos_do_Lider.md",
+                            modules: [
+                                { num: "M1", name: "A Visão do Líder", desc: "Clarificar propósito e visão estratégica. Observação atenta para detetar sinais de alerta e identificar talentos na BU." },
+                                { num: "M2", name: "A Audição (Escuta Ativa)", desc: "A arte de ouvir o silêncio e o não dito. Feedback construtivo, diálogo aberto e mitigação de julgamentos." },
+                                { num: "M3", name: "O Olfato e o Paladar (O 'Faro' para o Negócio)", desc: "Raciocínio intuitivo e temperança na tomada de decisões. Dinâmica experiencial 'Chef por um dia' (colaboração sob pressão)." },
+                                { num: "M4", name: "O Tato (Impacto e Proximidade)", desc: "Redução da distância psicológica com as equipas, empatia executiva e consistência prática ('pôr a mão na massa')." }
+                            ]
+                        },
+                        {
+                            id: "5.3",
+                            name: "Grandes Contas, Parcerias e Negociação Executiva",
+                            rfiName: "Business Development & Key Account Management [CORE] / Negotiation & Influence [ADVANCED]",
+                            duration: "14h",
+                            trainer: "comportamental",
+                            trainerLabel: "Comportamental",
+                            alignmentLabel: "Alinhamento Político & Cross-BU",
+                            alignmentDesc: "Fomento da cross-fertilization comercial e negociação em comités multipartidários sem autoridade.",
+                            source: "01_Vendas_e_Negociacao/Curso_KAM_Key_Account_Management.md",
+                            modules: [
+                                { num: "M1", name: "Relações Estratégicas no Mercado", desc: "Gestão e monitorização do pipeline comercial sénior da BU e parcerias estruturais de longo prazo." },
+                                { num: "M2", name: "Colaboração Comercial cross-BU", desc: "Fomentar a cross-fertilization de leads comerciais entre diferentes Unidades de Negócio." },
+                                { num: "M3", name: "Negociação em Matrizes e Acordos Multipartidários", desc: "Exercer influência sem autoridade formal direta em comissões executivas corporativas." },
+                                { num: "M4", name: "Negociação de Grandes Contratos", desc: "Liderar processos negociais de fecho de contratos complexos de elevado valor." }
+                            ]
+                        },
+                        {
+                            id: "5.4",
+                            name: "Inovação, Design Thinking e Pensamento Empreendedor",
+                            rfiName: "Innovation & Entrepreneurial Thinking [SPECIALIST]",
+                            duration: "14h",
+                            trainer: "comportamental",
+                            trainerLabel: "Inovação",
+                            alignmentLabel: "Problem Solving Criativo",
+                            alignmentDesc: "Ensina a passar de ideias de inovação para mini business cases rápidos e protótipos de serviços.",
+                            source: "15_Gestao_Projetos_e_Inovacao/Design_Thinking_na_Gestao_de_Projetos.md",
+                            modules: [
+                                { num: "M1", name: "Criatividade e Intraempreendedorismo", desc: "Conceitos de inovação de serviços aplicados ao ecossistema da BU." },
+                                { num: "M2", name: "Abordagem Baseada em Problem Solving e Ideation", desc: "O processo criativo do Design Thinking (fases de Empatia, Identificação e Insights)." },
+                                { num: "M3", name: "Geração de Ideias Disruptivas", desc: "Técnicas estruturadas de brainstorming e co-criação de soluções de serviços inovadores." },
+                                { num: "M4", name: "Construção de Experiências e Business Cases", desc: "Passagem das ideias a oportunidades reais através da elaboração rápida de protótipos e mini business cases." }
+                            ]
+                        },
+                        {
+                            id: "5.5",
+                            name: "Workshop Estratégico de Sustentabilidade e Liderança ESG",
+                            rfiName: "Recomendação Skolae: Liderança ESG",
+                            duration: "3,5h",
+                            trainer: "esg",
+                            trainerLabel: "Especialista ESG",
+                            alignmentLabel: "Cocriação ESG",
+                            alignmentDesc: "Workshop imersivo de alinhamento com Design Thinking para diretores desenharem planos de ação ESG.",
+                            source: "14_Sustentabilidade_ESG/curso_workshop_sustentabilidade_esg.md",
+                            isESG: true,
+                            modules: [
+                                { num: "M1", name: "Conceitos e Contexto ESG Corporativo", desc: "Alinhamento estratégico sobre o papel do ESG no mercado de infraestruturas e consultoria B2B." },
+                                { num: "M2", name: "Co-criação Rumo à Sustentabilidade", desc: "Aplicação prática de Design Thinking para idealizar e desenhar o plano de ação sustentável da BU." },
+                                { num: "M3", name: "Mobilização de Equipas", desc: "Estrategias de liderança para envolver os colaboradores, fomentar comportamentos sustentáveis no terreno e gerir a mudança rumo à conformidade ecológica." }
+                            ]
+                        }
+                    ]
+                }
+            }
+        };
+
+        function renderProfiles() {
+            const list = document.getElementById("profileList");
+            list.innerHTML = "";
+            
+            Object.keys(qLeapData.profiles).forEach(key => {
+                const p = qLeapData.profiles[key];
+                const activeClass = qLeapData.activeProfile === key ? "active" : "";
+                
+                // Calculate count depending on showESG
+                const coursesList = qLeapData.showESG 
+                    ? p.courses 
+                    : p.courses.filter(c => !c.isESG);
+                
+                list.innerHTML += `
+                    <div class="profile-item ${activeClass}" onclick="selectProfile('${key}')">
+                        <span class="role-title">${p.title}</span>
+                        <span class="role-desc">${p.desc} • ${coursesList.length} Cursos</span>
+                    </div>
+                `;
+            });
+        }
+
+        function renderCourses() {
+            const grid = document.getElementById("courseGrid");
+            grid.innerHTML = "";
+            
+            const profileKey = qLeapData.activeProfile;
+            const p = qLeapData.profiles[profileKey];
+            
+            document.getElementById("activeProfileTitle").innerText = p.title;
+            
+            let coursesList = p.courses;
+            
+            // Filter by ESG toggle
+            if (!qLeapData.showESG) {
+                coursesList = coursesList.filter(c => !c.isESG);
+            }
+            
+            // Filter by Trainer Category click
+            if (qLeapData.trainerFilter) {
+                coursesList = coursesList.filter(c => c.trainer === qLeapData.trainerFilter);
+            }
+            
+            document.getElementById("activeProfileCount").innerText = `${coursesList.length} Curso(s)`;
+            
+            if (coursesList.length === 0) {
+                grid.innerHTML = `
+                    <div style="grid-column: 1/-1; padding: 3rem; text-align: center; color: var(--text-secondary); border: 2px dashed var(--border-color); border-radius: 12px;">
+                        Nenhum curso corresponde ao filtro selecionado.
+                    </div>
+                `;
+                return;
+            }
+            
+            coursesList.forEach((c, idx) => {
+                const isQLeap = qLeapData.viewMode === "qleap";
+                
+                const cardTitle = isQLeap ? c.name : c.rfiName;
+                const cardHeaderLabel = isQLeap ? `CURSO ${c.id}` : `REQUISITO RFI`;
+                
+                grid.innerHTML += `
+                    <div class="course-card ${c.trainer}" onclick="openModal('${profileKey}', '${c.id}')">
+                        <div class="card-header">
+                            <span class="course-num">${cardHeaderLabel}</span>
+                            <span class="duration-badge">${c.duration}</span>
+                        </div>
+                        <h3 class="course-name">${cardTitle}</h3>
+                        
+                        <div class="trainer-tag ${c.trainer}">
+                            👤 ${c.trainerLabel}
+                        </div>
+                        
+                        <div class="card-footer">
+                            <span class="alignment-label">${c.alignmentLabel}</span>
+                            <p class="alignment-desc">${c.alignmentDesc}</p>
+                            
+                            ${!isQLeap ? `
+                                <div class="mapping-box">
+                                    <span class="rfi-title">SUGESTÃO SKOLAE:</span>
+                                    <span class="rfi-val">${c.name}</span>
+                                </div>
+                            ` : ''}
+                        </div>
+                    </div>
+                `;
+            });
+        }
+
+        function selectProfile(key) {
+            qLeapData.activeProfile = key;
+            renderProfiles();
+            renderCourses();
+        }
+
+        function toggleViewMode() {
+            const btn = document.getElementById("viewModeBtn");
+            if (qLeapData.viewMode === "qleap") {
+                qLeapData.viewMode = "rfi";
+                btn.innerText = "📋 Vista Pedido RFI Cliente";
+                btn.classList.remove("active");
+            } else {
+                qLeapData.viewMode = "qleap";
+                btn.innerText = "👁️ Vista Q-LEAP Sugerida";
+                btn.classList.add("active");
+            }
+            renderCourses();
+        }
+
+        function toggleESG() {
+            const btn = document.getElementById("esgBtn");
+            qLeapData.showESG = !qLeapData.showESG;
+            if (qLeapData.showESG) {
+                btn.classList.add("active-esg");
+                btn.innerText = "🌱 Mostrar Especializações ESG";
+            } else {
+                btn.classList.remove("active-esg");
+                btn.innerText = "🍂 Ocultar Especializações ESG";
+            }
+            renderProfiles();
+            renderCourses();
+        }
+
+        function filterTrainer(type) {
+            qLeapData.trainerFilter = type;
+            renderCourses();
+        }
+
+        function clearTrainerFilter() {
+            qLeapData.trainerFilter = null;
+            renderCourses();
+        }
+
+        // Modal Handlers
+        function openModal(profileKey, courseId) {
+            const c = qLeapData.profiles[profileKey].courses.find(item => item.id === courseId);
+            if (!c) return;
+            
+            document.getElementById("modalCourseNum").innerText = `CURSO ${c.id} • ${c.duration}`;
+            document.getElementById("modalCourseName").innerText = c.name;
+            
+            const modalBody = document.getElementById("modalBody");
+            modalBody.innerHTML = "";
+            
+            // Info block
+            modalBody.innerHTML += `
+                <div style="display: flex; gap: 1rem; align-items: center; background-color: rgba(0,0,0,0.01); padding: 1rem; border-radius: 8px; border: 2px solid var(--border-color)">
+                    <div class="trainer-tag ${c.trainer}">👤 Formador: ${c.trainerLabel}</div>
+                    <div style="font-size: 0.8rem; color: var(--text-secondary); font-weight: 600;">Público-Alvo: ${qLeapData.profiles[profileKey].title}</div>
+                </div>
+            `;
+            
+            // Syllabus
+            let syllabusHTML = `
+                <div>
+                    <h4 class="syllabus-title">Conteúdo Programático Detalhado</h4>
+                    <div class="module-list">
+            `;
+            
+            c.modules.forEach(m => {
+                syllabusHTML += `
+                    <div class="module-item">
+                        <div class="module-header">
+                            <span>${m.num}</span>
+                            <span>Módulo Especializado</span>
+                        </div>
+                        <span class="module-name">${m.name}</span>
+                        <p class="module-desc">${m.desc}</p>
+                    </div>
+                `;
+            });
+            
+            syllabusHTML += `
+                    </div>
+                </div>
+            `;
+            
+            modalBody.innerHTML += syllabusHTML;
+            
+            // Reference
+            modalBody.innerHTML += `
+                <div class="ref-box">
+                    <strong>Rastreabilidade de Catálogo Skolae:</strong><br>
+                    Baseado no programa padrão do catálogo:<br>
+                    <a href="file:///${c.source}" target="_blank">📄 ${c.source.split('/').pop()}</a>
+                </div>
+            `;
+            
+            document.getElementById("detailsModal").classList.add("active");
+        }
+
+        function closeModal(event) {
+            document.getElementById("detailsModal").classList.remove("active");
+        }
+
+        // Init
+        window.onload = () => {
+            renderProfiles();
+            renderCourses();
+        };
+    </script>
+</body>
+</html>

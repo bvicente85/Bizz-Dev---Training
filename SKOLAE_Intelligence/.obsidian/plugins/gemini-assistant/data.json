@@ -1,0 +1,49 @@
+{
+  "apiKey": "AIzaSyBM4qEPq06MSJgoFIquLguHV0_zufM6_9M",
+  "model": "gemini-pro",
+  "prompts": [
+    {
+      "display": "Ask Gemini (Selection)",
+      "scope": "SELECTION",
+      "model": "gemini-pro",
+      "config": {
+        "topK": 1,
+        "topP": 1,
+        "temperature": 0.9,
+        "outputTokenLimit": 2048,
+        "maxOutputTokens": 400,
+        "inputTokenLimit": 30720
+      },
+      "prompt": "Age como o meu assistente estratégico na SKOLAE. Analisa este documento seguindo as regras da nossa Sala 00: português de Portugal, tom direto e focado em L&D. Usa o contexto das nossas outras notas sempre que necessário.\n",
+      "type": "generative"
+    },
+    {
+      "display": "Ask Gemini (Document)",
+      "scope": "DOCUMENT",
+      "model": "gemini-pro",
+      "config": {
+        "topK": 1,
+        "topP": 1,
+        "temperature": 0.9,
+        "outputTokenLimit": 2048,
+        "maxOutputTokens": 400,
+        "inputTokenLimit": 30720
+      },
+      "prompt": "Age como o meu assistente estratégico na SKOLAE. Analisa este documento seguindo as regras da nossa Sala 00: português de Portugal, tom direto e focado em L&D. Usa o contexto das nossas outras notas sempre que necessário.",
+      "type": "generative"
+    }
+  ],
+  "chat": {
+    "model": "gemini-pro",
+    "config": {
+      "topK": 1,
+      "topP": 1,
+      "temperature": 0.9,
+      "outputTokenLimit": 2048,
+      "maxOutputTokens": 400,
+      "inputTokenLimit": 30720
+    },
+    "type": "chat"
+  },
+  "saftyThreshold": "HARM_BLOCK_THRESHOLD_UNSPECIFIED"
+}
