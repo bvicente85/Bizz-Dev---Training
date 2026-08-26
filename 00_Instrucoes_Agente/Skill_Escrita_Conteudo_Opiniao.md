@@ -1,12 +1,15 @@
 ---
-type: Agent Skill
-title: Escrita de Conteúdo de Opinião
-description: Protocolo para redação de artigos de opinião, posts de LinkedIn e crónicas sobre Liderança, IA e Desenvolvimento Organizacional.
-tags: [skill, linkedin, substack]
-timestamp: 2026-06-18T10:23:00Z
+type: Deprecated Agent Skill
+title: Escrita de Conteúdo de Opinião (DEPRECATED)
+description: Esta skill foi descontinuada e consolidada no ficheiro bd_estilo_escrita.md como fonte única de verdade de comunicação.
+tags: [deprecated, skill]
+timestamp: 2026-08-26T15:42:00Z
 ---
 
-# Skill: Escrita de Conteúdo de Opinião (LinkedIn, Substack e Ideias)
+# Skill: Escrita de Conteúdo de Opinião (DEPRECATED)
+
+> [!IMPORTANT]
+> **Esta skill foi descontinuada.** Todas as regras de ganchos (hooks), tom, estruturas de LinkedIn e Substack foram consolidadas no ficheiro [bd_estilo_escrita.md](file:///c:/Users/brunn/OneDrive%20-%20GIE%20IFE/Desktop/Bruno/PESSOAL/Business%20Development%20Formação/00_Instrucoes_Agente/bd_estilo_escrita.md) para consulta estática por parte do `subagent_redator`.
 
 ## Objetivo e Contexto
 Esta skill define o protocolo para redigir posts, artigos de opinião, newsletters (Substack), crónicas ou ensaios curtos para a marca pessoal do Bruno Vicente. O foco é produzir conteúdo de alta relevância sobre temas do seu interesse (liderança, inteligência artificial, produtividade, desenvolvimento organizacional e formação), garantindo uma escrita genuinamente humana, perspicaz e livre de vícios robóticos.

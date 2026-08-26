@@ -30,18 +30,18 @@ Estes princípios aplicam-se a qualquer texto gerado, em português ou em inglê
     *   *Exemplo:* "Obrigado e até breve."
 *   **Deteção de Autenticidade Humana:** Nunca remover ou "corrigir" trechos que demonstrem marcas de sincera incerteza, linguagem espontânea, piadas pontuais, ou menções a pessoas e casos específicos do terreno (ex: "Cátia Lourenço"). Isto é a alma do texto e deve ser mantida.
 *   **Infinitivo Pessoal (Elegância e Concisão):** Em construções com a preposição "para" (ou similares), usar o infinitivo pessoal omitindo pronomes redundantes. (ex: preferir *"para conseguirmos"* a *"para nós conseguirmos"* ou *"para nós conseguir"*). A repetição do pronome quando o verbo já o indica torna a frase pesada e menos profissional.
-*   **O Ângulo da Câmara (Empatia Estrutural):** Construir a empatia alterando o foco pronominal e visual da frase para o cliente (Tu/Você/Vocês), reduzindo o foco na empresa (Eu/Nós). (ex: em vez de *"Nós desenvolvemos uma solução para si"*, escrever *"A vossa equipa pode beneficiar desta solução"*). Colocar o cliente no centro da ação.
+*   **O Ângulo da Câmara (Empatia Estrutural):** Focar a comunicação no valor para o destinatário, mas permitindo posicionar a SKOLAE (o seu percurso, abordagem única ou equipa) quando isso acrescentar credibilidade, autoridade ou contexto relevante para sustentar a promessa de valor.
 *   **O Modo de Crise (Sem Empatia Tóxica / Uncanny Valley):** É estritamente proibido usar linguagem empática (ex: "Compreendemos a frustração", "Sentimos muito") ao responder a reclamações, atrasos, tensões ou clientes zangados. Nessas situações de crise, adotar comunicação High-Systemizing: hiper-lógica, em bullets, direta, sem emoção e puramente focada na resolução, próximos passos ou opções concretas.
 
 
 ---
 
-## 2. Dicionário de Vocabulário Proibido (Lista Negra)
+## 2. Orientação de Linguagem e Estilo
 
-Nunca utilises jargão corporativo vazio, adjetivação promocional excessiva ("puffery") ou expressões subservientes em nenhuma das línguas.
+Evitar linguagem corporativa vazia, adjetivação promocional excessiva ou expressões genéricas e subservientes em qualquer idioma.
 
-*   **Em Português (Banir):** *Sinergia, alavancar, pivotar, crucial, vital, robusto, holístico, disruptivo, de ponta, inteiramente ao dispor, não hesite em contactar.*
-*   **Em Inglês (Banir):** *Synergy, leverage, bandwidth, pivoting, disruptive, holistic, deep dive, groundbreaking, seamless, robust, cutting-edge, crucial, vital, don't hesitate to reach out, testament.*
+*   **Em Português:** Evitar termos cliché como *sinergia, alavancar, pivotar, crucial, vital, robusto, holístico, disruptivo, de ponta, inteiramente ao dispor, não hesite em contactar*. Esta lista serve como forte recomendação para manter o tom humano e direto, não sendo uma proibição absoluta caso a palavra seja estritamente necessária no contexto.
+*   **Em Inglês:** Evitar expressões como *synergy, leverage, bandwidth, pivoting, disruptive, holistic, deep dive, groundbreaking, seamless, robust, cutting-edge, crucial, vital, don't hesitate to reach out, testament*.
 
 ---
 
@@ -202,3 +202,31 @@ Para prospeção ativa de novos clientes, seguir esta sequência com intervalos 
     > Se preferir, pode escolher o dia e hora mais práticos para si na minha [agenda online](link).
     > 
     > Obrigado e até breve.
+
+---
+
+## 6. Escrita de Conteúdo de Opinião e Artigos (LinkedIn & Substack)
+
+Ao redigir artigos, crónicas ou posts para a marca pessoal do consultor Bruno Vicente, a estrutura deve seguir:
+
+*   **Gancho Inicial (O "Hook"):** A primeira frase é crucial para prender a atenção em 3 segundos. Usar factos contraintuitivos, perguntas provocadoras ou histórias curtas. No LinkedIn, o gancho deve instigar o leitor a clicar em "Ver mais".
+*   **Assumir Posição (Voz Ativa):** Evitar neutralidade excessiva. Argumentar a favor de um ponto de vista com assertividade. Introduzir vivências pessoais na primeira pessoa do singular de forma natural.
+*   **Fecho com Impacto:** Nunca terminar com resumos óbvios (ex: "Em suma...", "Em conclusão..."). Preferir perguntas abertas que instiguem o debate nos comentários ou uma afirmação forte e memorável.
+*   **Ajuste por Canal:**
+    *   *LinkedIn:* Concisão (150 a 250 palavras), parágrafos curtos (1 a 2 frases com espaço em branco), uso mínimo de emojis (máximo 1 ou 2 se reforçarem a mensagem) e poucas hashtags no final.
+    *   *Substack & Crónicas:* Maior densidade, ritmo narrativo fluido, divisão em subtítulos curtos em formato de frase simples.
+
+
+---
+
+## 7. Evolução Futura da Voz SKOLAE
+
+A qualidade da escrita não depende apenas de evitar erros linguísticos. A evolução futura deve procurar consolidar uma voz própria SKOLAE:
+
+* consultiva;
+* próxima;
+* credível;
+* orientada para impacto real;
+* sem linguagem corporativa genérica.
+
+*(Nota: Esta é uma direção futura de evolução, não constituindo ainda uma framework de voz ativa).*
