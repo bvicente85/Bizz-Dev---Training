@@ -1,7 +1,7 @@
 ---
 type: Client Account / Recovery Opportunity
 client: Várzeamar / AlgarExperience
-status: Relação histórica / reativação em curso
+status: Relação histórica / reativação estratégica
 tags: [varzeamar, algarexperience, recovery, formacao, key-account]
 ---
 
@@ -10,7 +10,7 @@ tags: [varzeamar, algarexperience, recovery, formacao, key-account]
 ## Situação atual
 Existe histórico comercial relevante com a Várzeamar, com várias oportunidades ganhas nas áreas de vendas, atendimento e liderança.
 
-Foi enviado um contacto de reativação a **Ivania Mascarenhas**, identificada como anterior ponto de contacto na área de Recursos Humanos/formação. Até ao momento, não foi recebida resposta.
+Foi enviado um contacto de reativação a **Ivania Mascarenhas**, identificada como anterior ponto de contacto na área de Recursos Humanos/formação, em **30/06/2026**. Até 04/09/2026, não foi recebida resposta.
 
 ## Contactos
 
@@ -50,7 +50,7 @@ O registo do CRM apresentado também indica um total agregado arredondado de cer
 
 ## Interações recentes
 
-### Contacto de reativação a Ivania Mascarenhas
+### 30/06/2026 — Contacto de reativação a Ivania Mascarenhas
 Foi enviada a seguinte mensagem:
 
 > Olá Ivania,
@@ -68,47 +68,38 @@ Foi enviada a seguinte mensagem:
 > Obrigado e até breve,
 
 ### Resultado
-Até ao momento, **Ivania Mascarenhas não respondeu**.
-
-A data do envio não foi registada na informação disponível e deverá ser adicionada quando confirmada.
+Até 04/09/2026, **Ivania Mascarenhas não respondeu**.
 
 ## Leitura comercial
 
 ### Informação confirmada
 - Existe um histórico comercial relevante com a Várzeamar.
 - Foram realizadas várias iniciativas nas áreas de vendas, atendimento e liderança.
-- Célia Crato teve uma relação anterior com a organização SKOLAE/Abilways enquanto oradora no AlgarveRH 2025.
+- Célia Crato teve uma relação anterior com a SKOLAE/Abilways enquanto oradora no AlgarveRH 2025.
 - Ivania Mascarenhas foi identificada como anterior ponto de contacto para temas de formação.
-- O contacto recente a Ivania não obteve resposta.
+- O contacto a Ivania foi enviado em 30/06/2026 e não obteve resposta após mais de dois meses.
 
 ### Inferência
-A conta tem uma base relacional mais forte do que uma prospeção fria. A ausência de resposta da Ivania não deve ser interpretada automaticamente como ausência de necessidade.
+O silêncio prolongado da Ivania é suficiente para justificar uma alteração de estratégia. Não existe benefício comercial claro em continuar a insistir exclusivamente no mesmo contacto.
 
-Célia Crato pode ser uma boa via para reativar a relação a um nível mais estratégico, mas convém evitar uma abordagem que pareça contornar Ivania sem antes respeitar um ciclo razoável de follow-up.
+A conta tem histórico, volume comercial anterior e uma relação prévia com uma stakeholder sénior. Isto torna justificável uma abordagem direta à Célia, desde que seja apresentada como reconexão estratégica e não como tentativa de contornar a Ivania.
 
 ## Estado comercial
-**Relação histórica / reativação em curso / aguarda decisão sobre escalada de contacto.**
+**Relação histórica / reativação estratégica / próximo contacto recomendado: Célia Crato.**
 
 ## Estratégia recomendada
+Contactar Célia Crato agora.
 
-### Cenário A — contacto a Ivania enviado há menos de 7 dias úteis
-Aguardar. Ainda não escalar para Célia.
+A abordagem deve:
+- aproveitar a relação anterior enquanto oradora no AlgarveRH 2025;
+- reconhecer o histórico de colaboração com a Várzeamar;
+- não pressupor que existe uma necessidade concreta;
+- procurar perceber as prioridades atuais de Pessoas, Cultura, Desenvolvimento e formação;
+- abrir espaço para uma breve conversa.
 
-### Cenário B — contacto enviado há 7 a 10 dias úteis
-Enviar um follow-up curto a Ivania, focado apenas em confirmar se continua a ser a pessoa indicada para estes temas.
-
-### Cenário C — após follow-up sem resposta
-Contactar Célia Crato com uma abordagem de reconexão, aproveitando:
-- o histórico de colaboração com a Várzeamar;
-- a participação dela como oradora no AlgarveRH 2025;
-- o objetivo de perceber prioridades atuais de Pessoas, Cultura e Desenvolvimento.
-
-A abordagem à Célia não deve ser centrada numa formação específica. O objetivo inicial deve ser reabrir a relação e identificar se existem prioridades onde a SKOLAE possa apoiar.
+Não é recomendável insistir novamente com a Ivania antes de testar a via da Célia.
 
 ## Próximo passo recomendado
-**Confirmar a data do email enviado à Ivania.**
+**Enviar contacto de reconexão a Célia Crato.**
 
-Com essa data, definir:
-- aguardar;
-- fazer follow-up à Ivania;
-- ou avançar para contacto estratégico com Célia Crato.
+Objetivo: identificar se existe abertura para uma breve conversa sobre prioridades atuais e perceber quem deve ser o interlocutor adequado para futuras necessidades de formação e desenvolvimento.
