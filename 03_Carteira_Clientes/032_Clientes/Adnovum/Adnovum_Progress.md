@@ -9,7 +9,6 @@ timestamp: 2026-06-18T10:59:00Z
 
 *Links:* [Contexto](./Adnovum_Context.md)
 
-
 ## Estado Atual do Funil
 *   **Fase:** Em Negociação / Fecho (Pedido de Aprovação Interna)
 *   **Ação Recente (26/08/2026):** Retoma de contacto com a cliente para avançar com o agendamento da reunião de preparação pedagógica.
@@ -17,13 +16,11 @@ timestamp: 2026-06-18T10:59:00Z
 ## Próximos Passos (Next Actions)
 *   **[x]** **13/07/2026:** Enviar email de agradecimento pela aceitação da proposta, questionar sobre a data prevista de início para alocação da equipa de formadores e propor o agendamento da reunião de preparação.
 *   **[x]** **Julho/Agosto de 2026:** Acompanhar o processo de aprovação interna.
-*   **[ ]** **26/08/2026:** Retomar contacto com a Patrícia Torres para agendar a reunião de preparação pedagógica e definir datas de início.
+*   **[x]** **26/08/2026:** Retomar contacto com a Patrícia Torres para agendar a reunião de preparação pedagógica e definir datas de início.
+*   **[ ]** **08/09/2026:** Caso não exista resposta entretanto, fazer follow-up com a Patrícia Torres para confirmar se já é possível agendar a reunião de preparação pedagógica e começar a definir as datas de início.
 
 ## Resumo de Documentos Submetidos
 1.  `Abilways Proposal_Ref - 18080 - Plano de formação 2026 - Liderança, Comunicação e Resiliência - Adnovum.pdf`
 2.  `Abilways Proposta de conteúdos_Ref - 18080 - Plano de formação 2026 - Liderança, Comunicação e Resiliência - Adnovum.pdf`
 3.  `SKOLAE Proposal_Ref - 19733 - Spring & Devops.pdf`
 4.  `SKOLAE Proposta de conteúdos_Ref - 19733 - Spring & Devops.pdf`
-
-
-
