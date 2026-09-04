@@ -36,5 +36,20 @@ tags: [tranquilidade, team-building, oportunidade]
 - Necessidades de espaço, alimentação e logística
 - Restrições ou requisitos específicos
 
+## Interação comercial
+
+### 03/09/2026 — Resposta enviada ao cliente
+
+Foi enviada resposta ao Pedro Joaquim a agradecer o contacto e a solicitar informação adicional para qualificar o pedido antes da apresentação de uma proposta e orçamento.
+
+Pontos solicitados:
+- Perfil dos participantes.
+- Objetivo central da iniciativa.
+- Formato e duração pretendidos.
+- Preferência por atividade indoor ou outdoor.
+- Localização pretendida.
+
+Foi também disponibilizada a possibilidade de realizar uma conversa via Teams para explorar o pedido de forma mais prática.
+
 ## Estado
-Novo pedido recebido. A aguardar recuperação de contexto da conta e qualificação adicional antes da definição da solução e orçamento.
+Pedido em fase de qualificação. A aguardar feedback do cliente com informação adicional para definição da solução e elaboração do orçamento.
