@@ -55,12 +55,14 @@
 | NaN | 1/2 dia | 4 horas | 800 | 750 | 800 | NaN | 1/2 dia | 4 horas | 400 | 450 | 500 | NaN | Jurídico | 65 | NaN |
 | NaN | 1 dia | 7 horas | 1350 | 1400 | 1450 | NaN | 1 dia | 7 horas | 650 | 700 | 750 | NaN | Logística | 55 | NaN |
 | NaN | 1 dia | 8 horas | 1500 | 1600 | 1650 | NaN | 1 dia | 8 horas | 750 | 800 | 850 | NaN | Mkt | 55 | NaN |
-| NaN | 2 dias | 14 horas | 2650 | 2700 | 2750 | NaN | 2 dias | 14 horas | 1300 | 1350 | 1400 | NaN | IT / Office | 30 | NaN |
-| NaN | 2 dias | 16 horas | 3000 | 3100 | 3150 | NaN | 2 dias | 16 horas | 1400 | 1500 | 1550 | NaN | IT / Técnico | 55 | NaN |
-| NaN | 3 dias | 21 horas | 3950 | 4000 | 4050 | NaN | 3 dias | 21 horas | 1850 | 1900 | 1950 | NaN | IT / IPS | 100 | NaN |
-| NaN | 3 dias | 24 horas | 4500 | 4550 | 4600 | NaN | 3 dias | 24 horas | 2100 | 2150 | 2200 | NaN | Idiomas | 30 | NaN |
+| NaN | 2 dias | 14 horas | 2650 | 2700 | 2750 | NaN | 2 dias | 14 horas | 1300 | 1350 | 1400 | NaN | IT / Office | 45 | NaN |
+| NaN | 2 dias | 16 horas | 3000 | 3100 | 3150 | NaN | 2 dias | 16 horas | 1400 | 1500 | 1550 | NaN | Office 365 / M365 | 50 | NaN |
+| NaN | 3 dias | 21 horas | 3950 | 4000 | 4050 | NaN | 3 dias | 21 horas | 1850 | 1900 | 1950 | NaN | IT / Técnico | 55 | NaN |
+| NaN | 3 dias | 24 horas | 4500 | 4550 | 4600 | NaN | 3 dias | 24 horas | 2100 | 2150 | 2200 | NaN | IT / IPS | 100 | NaN |
+| NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | Idiomas | 30 | NaN |
 | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | Design Thk | 65 | NaN |
-| NaN | ASSESSMENT CENTER | NaN | NaN | NaN | NaN | NaN | DESLOCAÇÕES, ALOJAMENTO E REFEIÇÕES DE FORMADORES | NaN | NaN | NaN | NaN | NaN | IA | 100 | NaN |
+| NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | IA | 100 | NaN |
+| NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | Lean Management | 80 | NaN |
 | NaN | Instrumento | NaN | Valor unitário | Sessão Feedback | NaN | NaN | Item | NaN | NaN | Valor | NaN | NaN | Sustentabilidade | caso a caso | NaN |
 | NaN | DISC | NaN | 75 | 200 | NaN | NaN | Km's | NaN | NaN | 0,40 € p/ Km | NaN | NaN | NaN | NaN | NaN |
 | NaN | DISC - Equipa | NaN | 175 | 200 | NaN | NaN | Portagens - considerar https://www.viamichelin.pt/ | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |

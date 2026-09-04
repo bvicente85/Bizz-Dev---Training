@@ -10,6 +10,26 @@ timestamp: 2026-06-18T10:59:00Z
 *Links:* [Contexto](./GPFA_context.md) | [Progresso Comercial](./GPFA_progress.md)
 
 
+## 2026-08-28 - Reunião de Alinhamento e Diagnóstico
+**Participantes:** Miguel Freitas, Hugo, Raquel Santos, Fernando, André (GPFA); Bruno Vicente (SKOLAE)  
+**Canal:** Remoto (Teams)  
+
+### Notas:
+- **Apresentação do Cliente:** GPFA é uma empresa de engenharia e arquitetura com 34 colaboradores. Muito focada em produtividade (pioneira em BIM desde 2007) e tem como objetivo estratégico implementar IA até 10 de dezembro de 2026.
+- **Discussão Tecnológica:** 
+  - Avaliação de custos do Copilot (bundle standard a 352€/ano/user).
+  - Hugo propôs contornar custos de licenças massivas criando automatizações via API do Claude no NAS da empresa com conectores MCP. Bruno validou que ferramentas como o Antigravity (Google) ajudam no desenvolvimento dessas integrações/skills de forma autónoma.
+- **Decisão sobre Formação:**
+  - Aprovada a realização do curso prático **"Desenvolver a Eficácia Profissional com IA" (7h)**.
+  - Formato: **100% Remoto**, dividido em **duas manhãs ou duas tardes** (3.5h cada) para acomodar a agenda do gerente (Miguel).
+  - Grupo: Máximo de **8 participantes** (os presentes na reunião + 1 ou 2 adicionais).
+- **Compromissos:**
+  - Bruno: Enviar proposta comercial (programa, valores) até 18/09.
+  - Bruno: Consultar formadores para disponibilizar datas disponíveis (manhãs/tardes) a partir de quinta-feira (03/09) até 19/09.
+  - GPFA (Miguel e Raquel): Confirmar as datas selecionadas até 22/09.
+
+---
+
 ## 2026-08-20 - Contacto por Email (Dúvida Copilot vs Claude)
 **Participantes:** Raquel Santos (GPFA), Bruno Vicente (SKOLAE)
 **CC:** Miguel Freitas (GPFA - Gerência)

@@ -43,6 +43,7 @@
 * [Fromagerie BEL](./Fromagerie BEL/FromageriesBEL_Context.md)
 * [Garcias](./Garcias/Garcias_context.md) - Distribuição de Bebidas | Preparação de Proposta (Apoio à Zélia)
 * [GPFA](./GPFA/GPFA_context.md)
+* [Generali Tranquilidade](./Generali Tranquilidade/Generali Tranquilidade_context.md) - Seguros e Serviços Financeiros | **Fase:** Prospeção / Qualificação (Team Building)
 * [Grupo Nabeiro - Delta Cafés](./Grupo Nabeiro - Delta Cafés/Grupo Nabeiro - Delta Cafés_context.md) - Indústria Alimentar / Bebidas (Torrefação e Distribuição de Café) | **Estado Atual:** Em Curso (Delta Feel Good / Oportunidade em Espanha)
 * [Hi-Interactive](./Hi-Interactive/Hi-Interactive_context.md)
 * [Horse](./Horse/Horse_context.md) - **Fase:** prospeção / Qualificação (Follow-up efetuado).

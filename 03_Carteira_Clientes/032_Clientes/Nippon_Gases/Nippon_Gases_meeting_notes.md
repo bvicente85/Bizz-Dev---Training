@@ -1,4 +1,4 @@
-﻿---
+---
 type: Meeting Notes
 title: Notas de Reunião - Nippon_Gases
 description: Histórico de atas, notas e conclusões de reuniões com o cliente Nippon_Gases.
@@ -10,7 +10,15 @@ timestamp: 2026-06-18T10:59:00Z
 *Links:* [Contexto](./Nippon_Gases_context.md) | [Progresso Comercial](./Nippon_Gases_progress.md)
 
 
-## Histórico de Follow-up (Herança Verónica Martins)
+## Histórico de Follow-up
+
+### 2026-08-26 - Follow-up de Planeamento (Bruno Vicente)
+* **Canal:** Email.
+* **Conteúdo:** Ponto de situação sobre a proposta Ref 18811 e consulta sobre a validação da administração, propondo alinhamento via Teams para reservar agenda dos consultores.
+
+### 2026-05-21 - Resposta da Cliente (Marta Silva)
+* **Canal:** Email (em resposta à apresentação/reativação do Bruno Vicente)
+* **Conteúdo:** Agradeceu o cuidado no contacto. Informou que mantêm o interesse em avaliar a proposta face às necessidades da equipa. Contudo, o projeto atingiu uma fase que exige validações superiores, estando dependentes dessa apreciação da administração. Comprometeu-se a dar feedback assim que possível (positivo ou negativo).
 
 ### 2026-04-20 - Follow-up Telefónico (Verónica Martins)
 * **Status:** N/ atende. 

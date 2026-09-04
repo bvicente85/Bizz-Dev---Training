@@ -16,11 +16,13 @@ timestamp: 2026-06-18T10:59:00Z
 - [x] Enviar proposta técnica e comercial detalhada (21/05/2026)
 - [x] Validar proposta com o cliente e agendar reunião de alinhamento (17/06/2026)
 - [x] Elaborar e enviar proposta "chave na mão" adaptada (26/06/2026)
-- [x] Fechar adjudicação e calendarização das sessões (Adjudicação confirmada a 13/08/2026. Datas propostas: 1 a 23 de Outubro)
-- [ ] Agendar e realizar reunião presencial nas instalações da Chagas
-- [ ] Realizar Assessment Inicial (DISC/Diagnóstico de Liderança)
-- [ ] Entrega da Formação (Outubro de 2026)
-
+- [x] Fechar adjudicação e calendarização das sessões (Adjudicação confirmada pela Administração a 28/08/2026 com aprovação do aditamento de deslocações)
+- [ ] Agendar reunião de preparação pedagógica (início de setembro via presencial/Teams com formadora e equipa pedagógica)
+- [ ] Reservar salas de formação SKOLAE em Lisboa e serviço de coffee-breaks
+- [ ] Realizar Assessment Inicial (DISC/Diagnóstico de Liderança via Teams)
+- [ ] Entrega da Formação Presencial em Lisboa (Outubro de 2026)
+- [ ] Realizar Training Lab em Torres Vedras (~2 meses pós-formação)
+- [ ] Emitir Faturas (Fase 1: Formação + DISC + Logística; Fase 2: Training Lab + Deslocações)
 
 ## Histórico de Interações
 - **18/05/2026:** Recebido email de Joana Sousa (Recursos Humanos) a solicitar proposta para 14 colaboradores (8 diretores e 6 encarregados).
@@ -35,6 +37,8 @@ timestamp: 2026-06-18T10:59:00Z
 - **18/08/2026:** Susana Esteves respondeu ao email do Bruno reforçando a preferência por realizar a reunião de preparação de forma presencial nas instalações da Chagas (com a formadora e equipa pedagógica), para que a formadora conheça de perto a realidade da empresa e ajuste o programa. Ficou a aguardar proposta de datas.
 - **20/08/2026:** Susana Esteves enviou novo email a solicitar reunião urgente para amanhã, antes de entrar de férias na segunda-feira seguinte.
 - **26/08/2026:** Susana Esteves respondeu aceitando o envio de aditamento ao orçamento com o valor das deslocações para validação da Administração. Confirmou a visão logística: Formação + Jogo (14h) em sala de hotel, DISC via Teams (individual) e Training-Lab nas instalações da Chagas. Solicitou indicação de parceiros hoteleiros para aluguer de sala.
+- **28/08/2026:** Susana Esteves confirmou a aprovação final da Administração para o cronograma e o aditamento de deslocações ao Training Lab em Torres Vedras. Solicitou emissão de duas faturas distintas (Fase 1 e Fase 2) e indicou que a formação decorrerá em Lisboa (mais central para todos), questionando a disponibilidade de salas na SKOLAE. Bruno Vicente respondeu com a confirmação da faturação faseada, disponibilidade das salas SKOLAE em Lisboa com os respetivos valores de aluguer (250€/dia) e coffee-breaks (10€/pax/dia), apontando a reunião pedagógica para início de setembro.
+
 
 
 

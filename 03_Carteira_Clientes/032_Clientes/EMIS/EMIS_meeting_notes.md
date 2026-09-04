@@ -8,6 +8,14 @@
 
 ## Histórico de Correspondência e Alinhamentos Comerciais (Resumo)
 
+### 2026-09-02 — Contacto Telefónico (Ponto de Situação & Condição de Pagamento)
+* **Participantes:** Contacto EMIS (DRH/DJU), Bruno Vicente (SKOLAE).
+* **Decisões & Informação Relevante:**
+  * A cliente transmitiu que a ordem de pagamento foi dada ao banco, mas ainda não dispõem do comprovativo formal de transferência devido a atrasos no processo administrativo interno durante as férias.
+  * Manifestou grande interesse em não cancelar nem perder a formação agendada para 7 de setembro com o formador Pedro Gonçalves.
+  * **Posição SKOLAE:** Foi acordado internamente que o arranque da ação exige, no mínimo, a receção do comprovativo de pagamento.
+  * **Alternativa de Flexibilidade:** Para evitar o cancelamento, a SKOLAE propõe a possibilidade de ajustar a data de início em 1 a 2 dias (ex: quarta-feira 9 ou quinta-feira 10 de setembro, dependente da agenda do Pedro Gonçalves), dando margem para a receção do comprovativo bancário.
+
 ### 2026-08-20 — Email de Ponto de Situação de Pagamento
 * **Participantes:** Gisela Faria (DRH), Bruno Vicente (SKOLAE). CC: Márcia Vasconcelos (DJU).
 * **Decisões & Informação Relevante:**

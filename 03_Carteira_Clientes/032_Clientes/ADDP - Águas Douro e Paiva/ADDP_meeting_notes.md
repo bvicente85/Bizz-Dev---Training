@@ -10,6 +10,28 @@ timestamp: 2026-06-18T10:59:00Z
 *Links:* [Contexto](./ADDP_context.md) | [Progresso Comercial](./ADDP_progress.md)
 
 
+## 28 de Agosto de 2026 - Resolução do Impasse e Reaceitação da Formação (Cristina Ferreira)
+**Resumo:**
+Troca de e-mails e alinhamento interno após contacto direto do cliente com a formadora.
+- **E-mail de Teresa a Cristina (12h50):** A Teresa enviou uma mensagem direta à Cristina Ferreira, o que fez com que a formadora se sentisse reconhecida e valorizada.
+- **Decisão da Formadora (15h01):** A Cristina Ferreira reverteu a sua decisão anterior e **voltou a assumir o compromisso** de realizar a palestra no dia 30 de setembro.
+- **Requisitos Técnicos e Logísticos:** Para avançar, a Cristina exige que a palestra ocorra no **espaço interior** da Quinta (o qual a Teresa já tinha identificado como Plano B em caso de mau tempo), garantindo:
+  - Plateia devidamente sentada (palestra clássica de 2h).
+  - Sistema de som de qualidade.
+  - Projeção de imagem nítida e visível (sem constrangimentos de luz solar outdoor).
+- **Ações:** 
+  1. Bruno envia e-mail de agradecimento detalhado à Cristina Ferreira pelo esforço e flexibilidade.
+  2. Bruno envia e-mail à Teresa Duborjal estabelecendo que a ação avança no espaço interior da Quinta (Plano B) com as condições técnicas exigidas.
+
+
+## 27 de Agosto de 2026 - E-mail de Teresa Duborjal (Restrições Logísticas)
+**Resumo:**
+A Teresa Duborjal contactou para comunicar a reavaliação logística do Dia das Pessoas (30 de setembro).
+- **Projeção:** A sessão **não deverá recorrer à projeção em tela** devido a constrangimentos meteorológicos por ser ao ar livre e para evitar custos adicionais de instalação outdoor.
+- **Abordagem Pedagógica:** Propõe uma dinâmica orgânica sem projeção. Como alternativa, sugere enviar os materiais previamente para impressão sob a forma de sebenta (a incluir no kit de boas-vindas dos participantes com as folhas de trabalho e a Carta de Compromisso).
+- **Adaptação:** Desafia a Cristina Ferreira a adaptar a metodologia à realidade outdoor sem audiovisuais.
+- **Ação imediata:** Bruno responde acusando a receção e indicando que irá articular e analisar estes pontos logísticos com a formadora Cristina Ferreira.
+
 ## 1 de Julho de 2026 - Reunião de Alinhamento: Dia das Pessoas (Teresa Duborjal & Patrícia Carvalho)
 *Ata de Reunião Completa:* [[meeting-report-addp-2026-07-01]] | [Ver Ficheiro Markdown](../../034_Reunioes_Clientes/2026-07/meeting-report-addp-2026-07-01.md)
 

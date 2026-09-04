@@ -47,8 +47,10 @@ Este ficheiro regista as preferências globais do Bruno, correções de estilo e
     *   **Escalões de Referência (Turmas Intra até 12 formandos):**
         *   **Soft Skills / Liderança / Vendas / Atendimento (Formador 50 €/h):** 14h: 2.100,00 € (Presencial) \| 2.000,00 € (Live Training); 7h: 1.100,00 € (Presencial) \| 1.000,00 € (Live Training).
         *   **Jurídico / Financeiro / Gestão de Projetos (Formador 65 €/h):** 14h: 2.700,00 € (Presencial) \| 2.600,00 € (Live Training).
-        *   **IT / Office - Ótica do Utilizador (Formador 30 €/h):** 14h: 1.350,00 € (Presencial) \| 1.200,00 € (Live Training).
-        *   **IT Técnico / Power BI Avançado / Lean / Logística (Formador 55 €/h):** 14h: 2.300,00 € (Presencial) \| 2.200,00 € (Live Training).
+        *   **IT / Office - Excel / Outlook / PPT (Formador 45 €/h):** 14h: 1.900,00 € (Presencial) \| 1.800,00 € (Live Training).
+        *   **Office 365 / M365 (Formador 50 €/h):** 14h: 2.100,00 € (Presencial) \| 2.000,00 € (Live Training); 7h: 1.100,00 € (Presencial) \| 1.000,00 € (Live Training).
+        *   **IT Técnico / Power BI Avançado / Logística (Formador 55 €/h):** 14h: 2.300,00 € (Presencial) \| 2.200,00 € (Live Training).
+        *   **Lean Management (Formador 80 €/h):** 14h: 3.300,00 € (Presencial) \| 3.200,00 € (Live Training).
         *   **Inteligência Artificial & Copilot (Formador 100 €/h):** 7h: 2.100,00 € (Presencial) \| 2.000,00 € (Live Training).
         *   **Idiomas (Formador 30 €/h):** 30h Grupo: 2.600,00 € (Presencial) \| 2.250,00 € (Live Training).
 *   **Rigor em Links de Catálogo em Tabelas Comerciais:** Ao gerar tabelas comerciais com links para o site da SKOLAE, nunca utilizar URLs genéricos de categorias para preencher campos de programas individuais. Se não existir o URL direto e exato para a página do curso específico, a coluna de link deve ser deixada em branco para preenchimento do Bruno, identificando apenas claramente os programas que seguem como ficha técnica em anexo (`Em Anexo (PDF)`).

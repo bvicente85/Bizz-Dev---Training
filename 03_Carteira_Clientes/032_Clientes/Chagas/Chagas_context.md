@@ -48,13 +48,17 @@ timestamp: 2026-06-18T10:59:00Z
 - **Divisão de Grupos:** Sessões separadas para Diretores (8) e Encarregados (6) para respeitar as necessidades estratégicas e operacionais respetivas, mas com momentos de junção (Training-Lab pós-formação).
 - **Metodologia:** Altamente dinâmica e participativa com recurso ao **Jogo dos Exploradores** (Diretores) e dinâmicas de role-play focadas em casos práticos da empresa para prender a atenção das chefias.
 - **DISC Confidencial:** Realização de assessment DISC com sessões individuais de feedback de 60 minutos **estritamente privadas e confidenciais** para salvaguardar egos e evitar conversas paralelas nocivas.
-- **Logística:**
-  - Realização **fora das instalações da empresa** (para tirar os participantes da zona de conforto).
-  - Cronograma concentrado (2 dias seguidos com 1 noite) para as filiais (Porto, Portimão, Évora).
-  - Execução planeada para a segunda semana de setembro ou outubro de 2026.
+- **Logística e Localização:**
+  - Formação inicial (14h + Jogo dos Exploradores): Realização nas **instalações da SKOLAE em Lisboa** (localização central para as filiais do Porto, Évora, Portimão e Torres Vedras).
+    - Aluguer de Sala SKOLAE: 250 € / dia (500 € / turma de 2 dias).
+    - Coffee-Break (2 pausas diárias): 10 € / formando / dia.
+  - Assessment DISC: Sessões individuais de 60 min via **Teams** (online e confidenciais).
+  - Training-Lab (3,5h): Presencial nas **instalações da Chagas em Torres Vedras** (~2 meses após formação inicial), com deslocação da formadora incluída (256 €/ação).
+- **Faturação:** Duas faturas distintas acordadas com o cliente (Fase 1: Formação inicial + DISC + Sala/Coffee; Fase 2: Training Lab + Deslocações).
 
 ## ⚠️ Alertas Operacionais e Custos Diretos
-- **Deslocação do Formador (Sede Lisboa -> Torres Vedras/Zona Oeste):** A proposta atual não discriminou custos de deslocação/quilómetros/estadia do formador a partir de Lisboa.
+- **Deslocação do Formador ao Training Lab (Sede Lisboa -> Torres Vedras):** Aditamento aprovado pelo cliente (256 € por ação) para os dois dias de Training Lab em Torres Vedras.
 - **Custo do Tabuleiro (Jogo dos Exploradores):** Para a realização das dinâmicas gamificadas de Liderança Situacional, é necessário assegurar e imputar o custo direto associado aos tabuleiros/kits do jogo.
+
 
 

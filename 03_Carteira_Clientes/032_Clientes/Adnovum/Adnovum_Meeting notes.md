@@ -1,5 +1,11 @@
 # Registo de Interações: Adnovum
 
+## Interação: 26/08/2026 - Retoma de Contacto Comercial
+*   **Formato:** E-mail de Seguimento.
+*   **Resumo:** Contacto retomado no sentido de agendar a reunião de preparação pedagógica (com a equipa pedagógica e a formadora) e questionar sobre a previsão de datas de início da formação de Liderança, Comunicação e Resiliência.
+*   **Ação:** Enviar e-mail para agendamento de reunião de preparação e alinhamento de datas de início.
+
+---
 ## Interação: 13/07/2026 - Resposta da Cliente ao Follow-up
 *   **Intervenientes:** Patrícia Torres (Adnovum) e Bruno.
 *   **Formato:** Resposta por E-mail.

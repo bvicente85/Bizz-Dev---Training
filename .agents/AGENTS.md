@@ -21,7 +21,7 @@ Sempre que redigires e-mails de qualificação de oportunidades (inbound ou segu
 4. **CTA Teams Direto:** Para propor a reunião de diagnóstico, sugere de forma simples e sem indicação de tempos ou links rígidos. Exemplos recomendados: *"Se for mais prático alinharmos isto numa conversa via Teams."* ou *"Se for mais prático podemos explorar este tema numa conversa via Teams em data e hora que lhe seja mais favorável."*
 5. **Fecho Objetivo:** Termina sempre com: *"Fico a aguardar o seu feedback."*
 6. **Aplicação Flexível das Regras:** O espírito das regras (ausência de cobrança, concisão, fluidez) deve prevalecer sobre a replicação literal de frases pré-definidas. O e-mail final deve soar natural e comercialmente polido.
-7. **Follow-up a Clientes Sem Resposta (Soft Break-up):** Quando um cliente deixar de responder após envio de informação ou proposta (*ghosting*), o e-mail de follow-up deve adotar uma abordagem suave, dando "permissão para fechar" o assunto e retirando pressão ao cliente. Usa a estrutura: *"Retomo o nosso contacto para perceber se tiveram oportunidade de avaliar..."* e *"Caso o tema tenha ficado em pausa, gostaria apenas de perceber se continua a fazer sentido mantermos este contacto"*. Evita formalismos excessivos ("reiterar disponibilidade") e não faças cobrança da falta de resposta.
+7. **Follow-up a Clientes Sem Resposta (Soft Break-up):** Quando um cliente deixar de responder após envio de informação ou proposta (*ghosting*), o e-mail de follow-up deve adotar uma abordagem de "Limpeza de Arquivo", dando "permissão para fechar" o assunto e retirando a culpa ao cliente. Usa a estrutura: *"Estou a fechar os projetos em aberto deste trimestre. Como não voltei a ter feedback, vou assumir que o vosso foco interno está noutras áreas e vou encerrar este assunto do nosso lado. Se a situação mudar, sinta-se à vontade para reabrir o contacto."* Evita formalismos excessivos ("reiterar disponibilidade") e não faças cobrança da falta de resposta.
 
 ## Diretrizes Ambientais e de Infraestrutura (Windows & CLI)
 Sempre que executares operações de ficheiro ou pesquisas no terminal:
@@ -50,4 +50,25 @@ Sempre que o utilizador pedir para redigir um "primeiro e-mail", uma "abordagem"
 ## Alertas Financeiros e Logísticos (Propostas & Custos Diretos)
 1. **Localização e Deslocações (Sede em Lisboa):** A sede da SKOLAE situa-se em Lisboa. Sempre que uma formação presencial decorrer fora da Grande Lisboa (ex: Torres Vedras, Porto, Évora, etc.), deves **emitir obrigatoriamente um alerta** para verificar se os custos de deslocação, portagens, alimentação e estadia do formador foram devidamente considerados na proposta financeira ou ressalvados como encargo do cliente.
 2. **Materiais Didáticos Especiais (Tabuleiros / Jogos Pedagógicos):** Em formações que utilizem dinâmicas físicas específicas (como o tabuleiro do *Jogo dos Exploradores* no programa de Liderança Situacional), deves **alertar expressamente para o custo do tabuleiro/kit pedagógico**, garantindo que este custo direto não é omitido no cálculo da margem e na proposta financeira.
+
+## Retificação de Propostas e Ajustes de Preço (Transparência sem "Cozinha Interna")
+Sempre que for necessário comunicar a um cliente uma retificação de valor ou subida de preço decorrente de um erro, lapso ou incorreção de cálculo prévio (mesmo que a ação já esteja validada ou adjudicada):
+1. **Proibição de "Cozinha Interna":** Nunca detalhar custos horários de formadores, margens comerciais, despesas internas ou imputar culpas a colegas anteriores.
+2. **Transparência e Objetividade Direta:** Assumir de forma limpa que foi identificada uma incorreção no cálculo inicialmente considerado e apresentar com clareza os dois valores (ex: *"passando de X € para Y €"*).
+3. **Reconhecimento Empático:** Reconhecer com maturidade que a alteração surge após a intenção manifestada de avançar, justificando que a partilha direta dessa informação é feita previamente para validar se o cliente pode prosseguir nessas condições.
+4. **Tom e Concisão:** O e-mail deve ser curto, sóbrio e empático, terminando sempre com a disponibilidade para esclarecer dúvidas e o fecho objetivo: *"Fico a aguardar o seu feedback."*
+
+## Gestão de Memória Comercial (Phase 3.5 - Client Intelligence)
+Sempre que criares ou atualizares a ficha de inteligência de um cliente (ex: `[Cliente]_Intelligence.md`), deves garantir que o ficheiro começa obrigatoriamente com um bloco YAML Frontmatter. Este bloco serve para estruturar os dados para futura exportação e integração com CRMs (ex: Odoo).
+O bloco deve ter a seguinte estrutura mínima:
+```yaml
+---
+status: [Ativo / Frio / Fechado / Adormecido]
+core_business: [Breve descrição da área de negócio]
+decisores: [Lista de nomes e cargos]
+data_ultima_interacao: [YYYY-MM-DD]
+areas_interesse: [Lista de tags de competências, ex: Liderança, Vendas, Excel]
+---
+```
+Isto garante que cada cliente funciona como um micro-banco de dados independente, exportável e imediatamente legível por máquinas.
 

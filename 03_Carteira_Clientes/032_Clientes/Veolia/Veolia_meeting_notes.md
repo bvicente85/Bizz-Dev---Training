@@ -38,3 +38,8 @@ Enviado e-mail de follow-up a questionar sobre a avaliação interna do curso de
 
 ### Resumo Executivo
 Face ao silêncio do cliente após o último contacto, foi enviado um novo follow-up utilizando a técnica de "permissão para fechar" (Soft Break-up). O objetivo foi retirar a pressão comercial e questionar de forma muito suave se o tema ficou em pausa e se ainda faz sentido mantermos o contacto em aberto.
+
+## 27/08/2026 - Resposta do Cliente e Envio de Portefólio (E-mail)
+
+### Resumo Executivo
+A técnica de "break-up" resultou e a Vanessa Pinto respondeu. Informou que ainda se encontram a analisar as necessidades de formação internamente e que entrará em contacto no futuro caso faça sentido avançar. No entanto, solicitou o envio do nosso catálogo/plano de formação para análise. Iremos responder com o portefólio em anexo e o link para o website, mantendo a porta aberta.

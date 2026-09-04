@@ -12,12 +12,12 @@ timestamp: 2026-06-18T10:59:00Z
 
 ## Estado Atual do Funil
 *   **Fase:** Em Negociação / Fecho (Pedido de Aprovação Interna)
-*   **Ação Recente (13/07/2026):** Patrícia Torres respondeu ao follow-up. Decidiram focar-se nas formações de Liderança, Comunicação e Resiliência (Ref 18080) e não avançar com Spring & DevOps (Ref 19733) por motivos de planeamento interno. Solicitaram proposta de Liderança com data atualizada para proceder ao pedido de aprovação interna.
+*   **Ação Recente (26/08/2026):** Retoma de contacto com a cliente para avançar com o agendamento da reunião de preparação pedagógica.
 
 ## Próximos Passos (Next Actions)
-*   **[x]** **08/05/2026:** Enviar email de follow-up final ("Sim ou Sopas") para clarificar se os projetos avançam ou se ficam em stand-by.
-*   **[ ]** **13/07/2026:** Enviar email de agradecimento pela aceitação da proposta, questionar sobre a data prevista de início para alocação da equipa de formadores e propor o agendamento da reunião de preparação.
-*   **[ ]** Acompanhar o processo de aprovação interna no final de julho / início de agosto.
+*   **[x]** **13/07/2026:** Enviar email de agradecimento pela aceitação da proposta, questionar sobre a data prevista de início para alocação da equipa de formadores e propor o agendamento da reunião de preparação.
+*   **[x]** **Julho/Agosto de 2026:** Acompanhar o processo de aprovação interna.
+*   **[ ]** **26/08/2026:** Retomar contacto com a Patrícia Torres para agendar a reunião de preparação pedagógica e definir datas de início.
 
 ## Resumo de Documentos Submetidos
 1.  `Abilways Proposal_Ref - 18080 - Plano de formação 2026 - Liderança, Comunicação e Resiliência - Adnovum.pdf`
