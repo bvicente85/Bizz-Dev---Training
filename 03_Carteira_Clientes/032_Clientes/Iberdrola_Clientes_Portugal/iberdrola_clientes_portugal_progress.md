@@ -11,9 +11,9 @@ timestamp: 2026-06-18T10:59:00Z
 
 
 ## Status Atual
-* **Fase do Funil:** Qualificação (Iberdrola Clientes) & Proposta Enviada (Iberdrola Renováveis)
-* **Última Interação:** 23/06/2026 (Envio de proposta de Comunicação Interpessoal 360° por email para Andreia Pereira)
-* **Próximo Marco:** Aguardar feedback da proposta de Comunicação 360° para a Iberdrola Renováveis.
+* **Fase do Funil:** Proposta enviada / em stand-by (Iberdrola Clientes) & Interesse confirmado, a aguardar aprovação interna da Direção (Iberdrola Renováveis)
+* **Última Interação:** 28/08/2026 (Andreia Pereira confirma interesse na proposta de Comunicação Interpessoal 360°, informa que aguarda confirmação da Direção e pede para não fechar o tema)
+* **Próximo Marco:** Acompanhar discretamente a validação interna junto da Direção e manter o tema aberto.
 
 ## Oportunidade em Negociação
 * **Formações Requeridas (Orçamento):**
@@ -35,14 +35,15 @@ timestamp: 2026-06-18T10:59:00Z
 * **02/06/2026 (Envio de Proposta):** Envio das propostas de conteúdos e financeira (Ref. 20441) por email para Rita Teixeira, aguardando feedback.
 * **17/06/2026 (Inbound Renováveis):** Andreia Pereira (People & Organization) envia email a solicitar proposta de orçamento e programa de Comunicação Estratégica (Comunicação 360) para 22 formandos, presencial em Lisboa, a realizar em setembro de 2026. Contacto recomendado por Rita Teixeira.
 * **23/06/2026 (Envio de Proposta Renováveis):** Andreia Pereira responde com objetivos detalhados. Envio das propostas finalizadas de conteúdos e financeira (Ref - 20545) de Comunicação Interpessoal 360° (versão 7h, 2 turmas presenciais de até 12 formandos em Lisboa), aguardando feedback.
-* **26/08/2026 (Follow-up Renováveis):** Envio de e-mail de soft break-up (Opção C) para Andreia Pereira sobre a proposta Ref - 20545 devido a ausência de resposta, questionando a calendarização para o segundo semestre.
+* **26/08/2026 (Follow-up Renováveis):** Envio de e-mail de acompanhamento à Andreia Pereira sobre a proposta Ref - 20545, questionando a calendarização para o segundo semestre.
+* **28/08/2026 (Feedback Cliente):** Andreia Pereira confirma interesse na proposta de Comunicação Interpessoal 360° (Ref - 20545), informa que aguarda confirmação da Direção e pede para não fechar o tema.
 
 ## Próximos Passos
 * [x] Enviar email de resposta inicial ao pedido (Rita Teixeira)
 * [x] Enviar proposta orçamental e programas detalhados à cliente (Rita Teixeira)
 * [ ] Fazer follow-up da proposta (Rita Teixeira) - em stand-by aguardando feedback do plano
 * [x] Enviar proposta e orçamento de Comunicação Estratégica para Andreia Pereira (Iberdrola Renováveis)
-* [ ] Fazer follow-up do e-mail de soft break-up de Andreia Pereira (previsto para 09/09/2026)
+* [ ] Fazer follow-up discreto com Andreia Pereira sobre a validação da Direção e manter o tema aberto (previsto para 09/09/2026)
 
 
 
