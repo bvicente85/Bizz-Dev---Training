@@ -12,6 +12,8 @@ Existe histórico comercial relevante com a Várzeamar, com várias oportunidade
 
 Foi enviado um contacto de reativação a **Ivania Mascarenhas**, identificada como anterior ponto de contacto na área de Recursos Humanos/formação, em **30/06/2026**. Até 04/09/2026, não foi recebida resposta.
 
+Em 04/09/2026, foi enviado um pedido de ligação no LinkedIn à **Célia Crato**, como novo ponto de contacto estratégico.
+
 ## Contactos
 
 ### Ivania Mascarenhas
@@ -51,24 +53,21 @@ O registo do CRM apresentado também indica um total agregado arredondado de cer
 ## Interações recentes
 
 ### 30/06/2026 — Contacto de reativação a Ivania Mascarenhas
-Foi enviada a seguinte mensagem:
-
-> Olá Ivania,
->
-> Espero que esteja tudo bem consigo.
->
-> O meu nome é Bruno Vicente, sou consultor da SKOLAE e sou o consultor alocado para dar suporte à Várzeamar. Tinha indicação de que era o nosso ponto de contacto na área de formação no passado e gostaria de confirmar se os temas da formação ainda podem ser direcionados para si.
->
-> Temos um histórico de colaboração convosco, em temas como vendas, atendimento e liderança, e por isso faria todo o sentido podermos voltar a colaborar.
->
-> Queria perceber se ainda faz sentido falarmos destes temas consigo e, sendo o caso, ver se há oportunidade para uma breve conversa nas próximas semanas.
->
-> Fico a aguardar o seu feedback.
->
-> Obrigado e até breve,
+Foi enviada uma mensagem de reconexão para confirmar se continuava a ser o ponto de contacto adequado para temas de formação e explorar uma possível conversa sobre novas necessidades.
 
 ### Resultado
 Até 04/09/2026, **Ivania Mascarenhas não respondeu**.
+
+### 04/09/2026 — Pedido de ligação no LinkedIn a Célia Crato
+Foi enviado pedido de ligação à Célia Crato no LinkedIn.
+
+Objetivos:
+- reabrir a relação de forma natural;
+- aproveitar a relação anterior criada através da participação da Célia no AlgarveRH 2025;
+- criar um novo ponto de contacto estratégico na conta;
+- evitar uma escalada comercial direta após a ausência de resposta da Ivania.
+
+**Estado:** pedido de ligação enviado / aguarda aceitação ou reação.
 
 ## Leitura comercial
 
@@ -78,28 +77,25 @@ Até 04/09/2026, **Ivania Mascarenhas não respondeu**.
 - Célia Crato teve uma relação anterior com a SKOLAE/Abilways enquanto oradora no AlgarveRH 2025.
 - Ivania Mascarenhas foi identificada como anterior ponto de contacto para temas de formação.
 - O contacto a Ivania foi enviado em 30/06/2026 e não obteve resposta após mais de dois meses.
+- Foi enviado pedido de ligação à Célia Crato no LinkedIn em 04/09/2026.
 
 ### Inferência
-O silêncio prolongado da Ivania é suficiente para justificar uma alteração de estratégia. Não existe benefício comercial claro em continuar a insistir exclusivamente no mesmo contacto.
+O silêncio prolongado da Ivania justificou uma alteração de estratégia.
 
-A conta tem histórico, volume comercial anterior e uma relação prévia com uma stakeholder sénior. Isto torna justificável uma abordagem direta à Célia, desde que seja apresentada como reconexão estratégica e não como tentativa de contornar a Ivania.
+A conta tem histórico, volume comercial anterior e uma relação prévia com uma stakeholder sénior. Isto justifica testar uma abordagem de reconexão com a Célia, sem apresentar essa ação como tentativa de contornar a Ivania.
 
 ## Estado comercial
-**Relação histórica / reativação estratégica / próximo contacto recomendado: Célia Crato.**
+**Relação histórica / reativação estratégica / pedido de ligação enviado à Célia Crato / aguarda reação.**
 
 ## Estratégia recomendada
-Contactar Célia Crato agora.
+Aguardar a reação da Célia ao pedido de ligação.
 
-A abordagem deve:
-- aproveitar a relação anterior enquanto oradora no AlgarveRH 2025;
-- reconhecer o histórico de colaboração com a Várzeamar;
-- não pressupor que existe uma necessidade concreta;
-- procurar perceber as prioridades atuais de Pessoas, Cultura, Desenvolvimento e formação;
-- abrir espaço para uma breve conversa.
-
-Não é recomendável insistir novamente com a Ivania antes de testar a via da Célia.
+Não é recomendável insistir novamente com a Ivania neste momento.
 
 ## Próximo passo recomendado
-**Enviar contacto de reconexão a Célia Crato.**
+
+1. **Se a Célia aceitar a ligação:** enviar uma mensagem curta de reconexão e procurar abrir espaço para uma breve conversa.
+2. **Se responder ao pedido:** adaptar a abordagem ao conteúdo e tom da resposta.
+3. **Se não houver reação após alguns dias:** avançar com contacto por email, aproveitando a relação anterior e o histórico de colaboração.
 
 Objetivo: identificar se existe abertura para uma breve conversa sobre prioridades atuais e perceber quem deve ser o interlocutor adequado para futuras necessidades de formação e desenvolvimento.
