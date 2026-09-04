@@ -26,6 +26,8 @@ tags: [transdev, ia, formacao, oportunidade, requalificacao]
 
 ### Bruna Rocha
 - **Função:** Responsável de Desenvolvimento e Talento
+- **Email:** bruna.rocha@transdev.pt
+- **Telefone:** +351 964 450 178
 - **Papel potencial:** Stakeholder diretamente alinhada com formação, desenvolvimento e levantamento de necessidades.
 
 ## Necessidade identificada
@@ -85,6 +87,7 @@ Mensagem enviada:
 - Foi apresentada uma condição comercial para um volume mínimo de 5 turmas.
 - Carla Silva é Diretora de Recursos Humanos e já teve uma relação anterior com a SKOLAE como oradora num evento em 2024.
 - Bruna Rocha é Responsável de Desenvolvimento e Talento.
+- Contacto da Bruna Rocha: bruna.rocha@transdev.pt | +351 964 450 178.
 
 ## Lacunas e riscos
 - Não está confirmado se a necessidade inicial de IA ainda se mantém.
