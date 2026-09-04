@@ -1,28 +1,46 @@
 ---
 status: Ativo
 core_business: Banca / Setor Financeiro
-decisores: DCRH (Via Plataforma Vortal)
-data_ultima_interacao: 2026-08-26
-areas_interesse: [Vendas Consultivas, Liderança, Coaching]
+decisores: DCRH (via plataforma Vortal)
+data_ultima_interacao: 2026-09-04
+areas_interesse: [Gestão de Carteira, Vendas Consultivas, Liderança, Coaching]
 ---
 # Inteligência Comercial: Caixa Crédito Agrícola
 
-## 1. Preferências Observadas de Comunicação
-* **[Padrão Observado]:** Processo de compra altamente regulado (via plataforma Vortal). Requer justificação sólida para currículos e metodologias. Exigem respostas a RFP (Request for Proposal).
-  * *Data Registo:* 2026-08-25 | *Fonte:* Histórico RFP | *Confiança:* Alta | *Últ. Validação:* 2026-08-26
+## 1. Preferências e Requisitos Observados
+- **[Padrão Observado]:** Processo de compra altamente regulado e formalizado via Vortal. Requer forte coerência entre necessidades identificadas, arquitetura pedagógica, metodologia e proposta técnica.
+  - *Data Registo:* 2026-08-25
+  - *Fonte:* RFP e trabalho de desenho da solução
+  - *Confiança:* Alta
+  - *Últ. Validação:* 2026-09-04
 
-## 2. Dores e Impacto Comercial (Ockham & MEDDIC)
-* **[Dor]:** GCVs (Gestores de Carteira de Cliente Valor) precisam de sistematização na abordagem comercial e os RA/CCs (chefias) precisam de competências para gerir/coaching comercial.
-  * **[Estado da Dor]:** Atual Validada
-  * **[Consequência]:** Abordagem comercial não normalizada na rede e chefias sem ferramentas para potenciar as equipas comerciais.
-  * **[Métrica Afetada]:** Produtividade comercial e eficácia das chefias.
-  * *Data Registo:* 2026-08-25 | *Fonte:* RFP DCRH | *Confiança:* Alta | *Últ. Validação:* 2026-08-26
+- **[Padrão Observado]:** A solução deve ser prática, aplicada e ligada à realidade das agências e da gestão da carteira de clientes.
+  - *Data Registo:* 2026-09-04
+  - *Fonte:* Decisões de desenho pedagógico
+  - *Confiança:* Alta
 
-## 3. Questões Estratégicas em Aberto
-* **[Questão de Validação]:** "Como pretendem gerir a complexidade regulatória EBA/DORA em banca durante as sessões práticas de simulação de venda?"
-  * **[Estado]:** Aberta
-  * *Data Criação:* 2026-08-26 | *Fonte:* Estrategista (Análise de Risco RFP) | *Confiança:* Média | *Data de Revisão:* Pendente
+## 2. Dores e Impacto
+- **[Dor]:** Necessidade de maior consistência na gestão da carteira e na relação comercial dos GCV.
+  - **[Consequência]:** Práticas e rotinas potencialmente pouco uniformes entre contextos.
+  - **[Resposta Pedagógica Fechada]:** Programa integrado de 49h para GCV, cobrindo gestão da carteira, diagnóstico consultivo, contacto proativo e comunicação clara.
 
-## 4. Estratégias Comerciais Testadas (Aprendizagens)
-* **[A Validar]:** Utilização da metodologia "Neuroselling V3" e "5 I" para combater a fadiga cognitiva dos clientes do banco, aliada ao jogo de tabuleiro "Os Exploradores" para as chefias.
-  * *Data:* 2026-08-26 | *Fonte:* Desenho de Solução | *Confiança:* Média | *Últ. Validação:* 2026-08-26
+- **[Dor]:** Necessidade de reforçar a capacidade das chefias para acompanhar e desenvolver os GCV.
+  - **[Consequência]:** Risco de a aprendizagem não se consolidar no contexto profissional.
+  - **[Resposta Pedagógica Fechada]:** Programa integrado de 21h para RA/CC, complementado por mentoring individual.
+
+## 3. Arquitetura Validada
+- **Fase 1:** Diagnóstico e Alinhamento.
+- **Fase 2:** Formação.
+- **Fase 3:** Transferência e Consolidação.
+- **Fase 4:** Avaliação e Evidências de Aprendizagem.
+
+A arquitetura pedagógica foi considerada fechada em 04/09/2026.
+
+## 4. Questões Estratégicas em Aberto
+- **[Questão de Validação]:** Garantir que a proposta técnica e financeira traduzem integralmente os requisitos formais e de compliance do concurso.
+  - **[Estado]:** Aberta
+  - *Data de Revisão:* Pendente
+
+## 5. Aprendizagens do Desenho da Solução
+- **[Validado]:** A solução ganha coerência quando os conteúdos deixam de ser apresentados como formações isoladas e passam a ser organizados em dois percursos integrados e complementares.
+- **[Validado]:** O assessment pré e pós-programa deve ser apresentado como evidência de evolução da aprendizagem, não como prova direta de impacto no negócio.
