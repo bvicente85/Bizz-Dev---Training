@@ -133,7 +133,7 @@ def generate_reports(courses, base_path):
         tags = ", ".join(c['tags']) if c['tags'] else '-'
         
         try:
-            rel_path = Path(c['filepath']).relative_to(out_dir).as_posix()
+            rel_path = Path(c['filepath']).relative_to(base_path).as_posix()
         except ValueError:
             rel_path = c['filepath']
             
