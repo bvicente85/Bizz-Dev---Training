@@ -6,7 +6,7 @@ role: Técnica de Recursos Humanos
 email: cristina.caldeira@ulisancas.pt
 phone: 918 684 245
 request_date: 2026-08-31
-status: Proposta / solução apresentada - aguarda resposta
+status: Follow-up enviado - aguarda resposta
 tags: [ulisancas, espanhol, a1, idiomas, yesnyou, oportunidade]
 ---
 
@@ -46,6 +46,17 @@ Foi proposta uma breve conversa via Teams para compreender melhor:
 
 O objetivo era apresentar a solução mais adequada ao contexto identificado.
 
+### 07/09/2026 — Follow-up enviado
+Foi enviado follow-up à Cristina Caldeira para retomar o tema da formação de Espanhol para iniciantes.
+
+O contacto teve como objetivo:
+- confirmar se teve oportunidade de analisar a solução YES'N'YOU;
+- perceber se continua a fazer sentido avaliar esta possibilidade;
+- solicitar informação adicional para dimensionar uma solução e estimativa mais ajustadas, nomeadamente o número aproximado de participantes e o formato pretendido;
+- manter disponível uma breve conversa por Teams ou telefone, caso seja mais simples.
+
+**Estado:** aguarda resposta.
+
 ## Informação confirmada
 - Empresa: Ulissancas.
 - Necessidade: Espanhol para iniciantes / A1.
@@ -54,6 +65,7 @@ O objetivo era apresentar a solução mais adequada ao contexto identificado.
 - Foi apresentada a solução YES'N'YOU.
 - Foi proposta uma conversa via Teams para aprofundar o contexto.
 - O CRM apresenta a oportunidade com probabilidade de 41,83%.
+- Foi enviado follow-up em 07/09/2026.
 
 ## Lacunas e riscos
 - Número de participantes ainda não confirmado.
@@ -69,11 +81,16 @@ Existe uma necessidade concreta e o cliente já pediu informação operacional e
 Contudo, a oportunidade ainda não está suficientemente qualificada para uma proposta final. O principal próximo passo é obter os dados necessários para dimensionar a solução.
 
 ## Estado comercial
-**Solução apresentada / aguarda resposta para qualificação e dimensionamento.**
+**Follow-up enviado / aguarda resposta para qualificação e dimensionamento.**
 
 ## Próximo passo
-Aguardar feedback da Cristina ao email de 31/08/2026.
+Aguardar resposta da Cristina ao follow-up de 07/09/2026.
 
-Se houver resposta, validar primeiro número de participantes, objetivos, duração e horário antes de fechar condições comerciais.
+Se houver resposta, validar primeiro:
+- número de participantes;
+- objetivos concretos;
+- duração;
+- horário/formato pretendido;
+- calendário de início, se aplicável.
 
-Se não houver resposta, fazer follow-up orientado para obter esses quatro elementos, em vez de apenas perguntar se recebeu a informação.
+Se não houver resposta após 5 a 7 dias úteis, avançar para contacto telefónico curto para confirmar se a necessidade continua ativa e se faz sentido manter a oportunidade em aberto.
