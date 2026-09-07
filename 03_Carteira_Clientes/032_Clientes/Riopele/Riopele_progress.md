@@ -3,7 +3,7 @@ type: Progress Log
 title: Progresso Comercial - Riopele
 description: Estado do funil de vendas e tarefas pendentes de prospeção do cliente Riopele.
 tags: [progresso, textil]
-timestamp: 2026-09-07T09:00:00Z
+timestamp: 2026-09-07T12:00:00Z
 ---
 # Progresso: Riopele
 
@@ -13,7 +13,7 @@ timestamp: 2026-09-07T09:00:00Z
 ---
 
 ## Estado do Funil
-* **Fase Atual:** Elaboração de Proposta / Pré-negociação (duas oportunidades prioritárias validadas em reunião de 03/09/2026)
+* **Fase Atual:** Propostas enviadas / Aguarda validação interna (RH)
 
 ---
 
@@ -24,13 +24,15 @@ timestamp: 2026-09-07T09:00:00Z
 * [x] **2026-05-20**: Sylvie Rocha demonstra interesse e sugere agendamento de reunião de alinhamento com Cc a Luísa Moreira.
 * [x] **2026-06-24**: Reunião de diagnóstico realizada com Luísa Moreira para mapear necessidades para a nova Academia Riopele.
 * [x] **2026-09-03**: Reunião de alinhamento com Sylvie Rocha e Luísa Moreira. Foram priorizadas duas oportunidades: Liderança Operacional e Formação de Formadores Internos. Validado o encaminhamento para propostas pedagógicas e comerciais antes da passagem do processo à equipa de Compras.
+* [x] **2026-09-07**: Enviadas a Sylvie Rocha e Luísa Moreira duas propostas separadas, para facilitar a análise autónoma de cada iniciativa: Liderança Operacional - Jogo dos Exploradores (Ref. 21164) e Formação de Formadores Internos / Train the Trainers (Ref. 21165).
 
 ---
 
 ## Próximos Passos (Tarefas Pendentes)
-* [ ] **Liderança Operacional:** Enviar programa detalhado do **Jogo dos Exploradores** e proposta comercial para 4 turmas de até 12 participantes, em formato de 14h repartidas por blocos de 3h30 ajustados aos turnos.
-* [ ] **Formação de Formadores:** Enviar proposta pedagógica e comercial para cerca de 15 formadores internos, com foco em comunicação, dinamização, autonomia, inovação e ferramentas digitais, considerando potencial continuidade futura.
-* [ ] **Validação RH:** Aguardar avaliação pedagógica e interna de Sylvie Rocha / Luísa Moreira.
+* [x] **Liderança Operacional:** Enviado programa detalhado do **Jogo dos Exploradores** e proposta comercial para 4 turmas de até 12 participantes, em formato de 14h repartidas por blocos de 3h30 ajustados aos turnos.
+* [x] **Formação de Formadores:** Enviada proposta pedagógica e comercial para cerca de 15 formadores internos, com foco em comunicação, dinamização, autonomia, inovação e ferramentas digitais, considerando potencial continuidade futura.
+* [ ] **Validação RH:** Aguardar avaliação pedagógica e interna de Sylvie Rocha / Luísa Moreira sobre cada uma das duas propostas.
+* [ ] **Follow-up:** Caso não exista resposta, retomar contacto entre **15 e 18/09/2026**, orientando a conversa para confirmar se as propostas estão pedagogicamente alinhadas e se alguma seguirá para o processo interno e equipa de Compras.
 * [ ] **Compras:** Após validação interna, acompanhar a passagem do processo para a equipa de Compras e preparar a negociação comercial.
 * [ ] **Preparação técnica:** Após adjudicação, agendar reunião entre RH e formadora para afinação final antes do arranque.
 * [ ] **Outras necessidades:** Manter IA, Excel, Inglês e Gestão do Tempo em acompanhamento, sem dispersar o foco comercial enquanto as duas prioridades atuais não avançarem.
