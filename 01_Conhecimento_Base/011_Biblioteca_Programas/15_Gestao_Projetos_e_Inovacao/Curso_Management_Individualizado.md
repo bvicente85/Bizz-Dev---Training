@@ -1,0 +1,18 @@
+# Curso: Management Individualizado
+**Área:** Gestão de Projetos e Inovação | **Duração:** 24h | **Metodologia:** O programa recorre a métodos de aprendizagem diversificados : Assessment individual c/ Plano de ação...
+
+## Descrição e Objetivos
+Este programa destina-se a capacitar os participantes nas melhores práticas e conceitos relacionados com management individualizado, focando-se no desenvolvimento de competências críticas e na aplicação de ferramentas práticas no contexto de trabalho.
+
+* ESPECÍFICOS Reforçar a autoconsciência e o autocontrolo do manager como base da eficácia relacional. Desenvolver a capacidade de comunicar e influenciar de forma ajustada aos diferentes perfis de personalidade. Gerir tensões e conflitos de forma construtiva, compreendendo os mecanismos de stress associados a cada perfil. Aplicar ferramentas de comunicação e motivação para adaptar a gestão a cada colaborador.
+
+## Programa Detalhado
+### 1. Conteúdo Programático
+* === FILE: IP SKOLAE - Management Individualizado.pptx (PPTX) ===
+* Slide slide1 --- LIDERANÇA E MANAGEMENT MANAGER COACH Impulsione a motivação interna da equipa
+* Slide slide13 --- EQUIPA DE FORMADORES Licenciatura em Gestão e Administração Pública, pelo Instituto Superior de Ciências Sociais e Políticas, da Universidade de Lisboa Formadora e Consultora, com competências nas áreas de Finanças, Finanças Públicas, Banca, Mercado de Capitais, Mercados Financeiros, Contabilidade, Análise Financeira, Análise de Investimentos, Fiscalidade, Compliance , Branqueamento de Capitais, Auditoria, Seguros, Governança Corporativa e Administração Pública. 2000 a 2016: Diretora de Sucursal no Banco Comercial Português, com funções ligadas ao Planeamento, Controlo de Gestão, Gestão Financeira, Mercado de Capitais, Mercados Financeiros, Análise de Crédito, Compliance , Prevenção de Branqueamento de Capitais, Regulação e Supervisão Bancária, Análise Financeira, Investimentos Financeiros, Auditoria, Trade Finance , Offshore, Gestão de Risco, Gestão de Equipas, Gestão de Seguros e consultoria financeira de Banca e Seguros, entre outros; 1999 a 2000: Gestor de Negócios Empresas, no Banco Comercial Português, com atuação em vertentes como a análise de crédito, análise financeira de empresas, gestão de seguros, gestão de cartões de crédito, acompanhamento de grupos económicos, gestão de tesouraria, análise de crédito, consultoria e assessoria financeira de Banca e Seguros; 1995 a 1999: Técnica de Planeamento e Controlo de Gestão, no Banco Comercial Português, com funções de planeamento estratégico, monitorização de resultados e desenvolvimento do negócio bancário.
+* Slide slide16 --- Organizações que confiam em nós para construir futuro
+* Slide slide18 --- O CLIENTE NO CENTRO O nosso compromisso está na resposta aos desafios estratégicos do nosso cliente. O DIGITAL COMO UM MEIO O digital é um meio para ganhar agilidade e flexibilidade e potenciar a abertura. A aprendizagem será multiformato e multiplataforma. A INOVAÇÃO COMO ALAVANCA O desenvolvimento de novas competências e formas de trabalhar permitem inovar, acelerar processos de mudança e facilitar a imersão no futuro. O REFORÇO DA COLABORAÇÃO A aprendizagem será cada vez mais colaborativa, reforçando a partilha entre pares, quer presencialmente quer em comunidades. O PRESENCIAL COMO UM PILAR O presencial terá cada vez mais um papel social e vai continuar a ser fulcral para a melhoria da performance. AS NOSSAS CONVICÇÕES
+
+## Perfil do Formador / Notas de Venda
+Formador/consultor sénior da SKOLAE com vasta experiência executiva e de consultoria na área. Este curso foi desenhado à medida com base em dinâmicas de Action Learning e estudos de caso práticos aplicados ao contexto real de trabalho.

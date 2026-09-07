@@ -1,0 +1,18 @@
+# Curso: IP PNL aplicado à negociação Inglês
+**Área:** Vendas e Negociação | **Duração:** 7h | **Metodologia:** Presencial / Live Training
+
+## Descrição e Objetivos
+Este programa destina-se a capacitar os participantes nas melhores práticas e conceitos relacionados com ip pnl aplicado à negociação inglês, focando-se no desenvolvimento de competências críticas e na aplicação de ferramentas práticas no contexto de trabalho.
+
+* Desenvolver competências essenciais no âmbito de IP PNL aplicado à negociação Inglês.
+* Adquirir ferramentas práticas para aplicação direta no contexto profissional.
+* Promover a melhoria contínua e a eficácia das práticas diárias.
+
+## Programa Detalhado
+### 1. Conteúdo Programático
+* === FILE: IP_PNL aplicado à negociação_ Inglês.pptx (PPTX) ===
+* Slide slide1 --- DURATION 14 hours 4 sessions of 1/2 days . Skills to be developed Negotiation Persuasion PNL Methodologies Training based on several practical exercises based on the application of NLP tools and techniques applied to negotiation processes. The clarification of concepts and good practices of win-win negotiation will be fostered in the debriefings. Recipients All people who are interested in developing and improving their knowledge in the area of sales and commercial action. Concepts means Feedback; Syntheses; Debriefings Use of contents to share good practices, case studies, videos Scenery; role playing; apply feedback and leadership communication exercises to diverse contexts Develop negotiation skills using neurolinguistics NLP applied to trading TRAINING PHASE 2 DISCOVERY TRAINING PEDAGOGICAL ITINERARY
+* Slide slide2 --- GENERAL OBJECTIVE Develop commercial skills, in particular negotiation, using NLP SPECIFIC OBJECTIVES Identify practical NLP tools to boost sales Know how to establish rapport and apply it in a negotiation Identify the interlocutor's motivations and reactions through NLP REPROGRAM YOUR TRADER PROFILE WITH NLP Agility and proactivity to improve efficiency: the visualization of your goals Being assertive and controlling emotions Develop your behavior to be more at ease in all situations HOW TO DEVELOP THE EMPATHY AND TRUST NEEDED FOR EFFECTIVE NEGOTIATION – RAPPORT Analyze the way we receive information and communicate and the sensory representation systems in interpersonal relationships Establish rapport: adjust or track behaviors and establish attunement HOW TO MEASURE YOUR CLIENT'S NON-VERBAL COMMUNICATION PATTERN AND IDENTIFY THE BEST NEGOTIATION PATH Identify and take into account the dominant and unconscious sources of motivation for decisions Get accurate information, redirect the conversation, and identify thinking IDENTIFY THE CUSTOMER'S MOTIVATIONS FOR THE PURCHASE Sources of motivation and unconscious decisions THE ABILITY TO ARGUE THROUGH THE REACTIONS GIVEN BY THE INTERLOCUTOR Convey accurate messages, avoiding conflictual situations Reinforce arguments through sensory stimulation of the client, through language and representation systems Develop negotiation skills using neurolinguistics NLP applied to trading TRAINING PHASE 2 DISCOVERY TRAINING PEDAGOGICAL ITINERARY
+
+## Perfil do Formador / Notas de Venda
+Formador/consultor sénior da SKOLAE com vasta experiência executiva e de consultoria na área. Este curso foi desenhado à medida com base em dinâmicas de Action Learning e estudos de caso práticos aplicados ao contexto real de trabalho.

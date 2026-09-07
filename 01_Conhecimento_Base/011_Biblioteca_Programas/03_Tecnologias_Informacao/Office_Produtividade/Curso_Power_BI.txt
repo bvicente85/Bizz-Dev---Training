@@ -1,0 +1,7 @@
+Curso: Power BI Executivo (Nível Inicial até Avançado)
+Carga horária: 21h a 42h (por níveis).
+
+Módulos Core:
+1. O Power Pivot e Power Query: Como trabalhar dados de diferentes fontes em Power Query, relacionar esquemas no modelo.
+2. Fórmulas DAX e Modelação: Diferentes fórmulas matriciais, colunas e medidas calculadas precisas, Fórmulas complexas de Time-Intelligence para cenários financeiros, de vendas cruzadas e perfórmance de negócio.
+3. Reporting Management e Dashboards (Dashboard Architecture): Publicar com base em indicadores reais que respondam a perguntas C-Level.

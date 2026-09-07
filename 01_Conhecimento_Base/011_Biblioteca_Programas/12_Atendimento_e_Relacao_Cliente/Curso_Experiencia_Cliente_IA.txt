@@ -1,0 +1,54 @@
+# Programa: Reinventar a Experiência Cliente com a IA
+**Tipo:** Curso Presencial/Online
+**Duração Base:** 14 horas
+
+**Público-alvo:** Responsáveis de marketing, vendas, customer success, call-centers e comunicação empresarial orientados à automação relacional do contacto.
+
+**Objetivo Central:**
+Dotar os formandos das soft e hard-skills precisas e necessárias para potenciar a relação diária e contínua do cliente através da IA, gerando uma melhoria de impacto exponencial na satisfação do percurso e simplificando radicalmente os fluxos vitais do contacto humano da organização.
+
+**Competências Core a Desenvolver:**
+1. **Literacia Pragmática em IA Tecnológica e Operacional:** Entender claramente as aplicações da IA para a UX de Cliente, os riscos éticos/segurança, mitos globais vs factos de mercado. Funcionalidades da tecnologia generativa disponível hoje.
+2. **Personalização Empática com Dados de Cliente:** Mapeamento tático do percurso dos utilizadores correntes para determinar "blind-spots" e utilizar ferramentas de LLM e predição para melhorar respostas. Definição via AI de personas comportamentais para adaptar perfeitamente o script da empresa na relação.
+3. **Conversão pelo Autocuidado Chatbots e Automação:** Analisar satisfação qualitativa extraída (reviews e emoções) em aglomerador massivos em segundos. Criar o esqueleto do primeiro assistente / chabot sem necessidade de código, agilizando tarefas exaustadas de Help-Desk e SLA.
+4. **Implementação de Assistência Laboral Gen AI:** Criação do "Copiloto" do dia a dia individual em processos de rotina individual (plugins SaaS, LLM API Tools, Office suites e web integrations).
+
+**Metodologia Pedagógica:**
+"Hands-on" do começo ao fim: forte prática orientada nas metodologias aplicadas diretas das grandes inovações atuais recorrendo à criação orientada a laboratórios: desenhar a persona; construir a árvore de base conversacional num bot AI; usar um bot generativo para agrupar as reclamações anuais, entre outros cenários.
+
+**Ponto de Referência:**
+IA no centro de otimização de Tempo ("Time is Money"). O Homem como "maestro" de uma frota de interfaces IA de primeiro nível e como analista/escalador das resoluções complexas em que o toque Humano tem de sobressair na resolução emocional do caso do "cliente".
+
+**Programa:**
+
+INTRODUÇÃO À IA
+Definição, história, aplicações da IA no mundo da experiência do cliente.
+Os diferentes tipos de IA e tecnologias-chave.
+Analise os benefícios e limitações da IA para a experiência do cliente.
+Identificação de ferramentas relevantes.
+Ética e segurança: o essencial a saber.
+
+IA PARA PERSONALIZAÇÃO E MELHORIA DA EXPERIÊNCIA DO CLIENTE
+Analise os dados do cliente à sua disposição para alimentar sua IA (escuta do cliente).
+Crie segmentos de clientes relevantes com IA e análises preditivas.
+Mapeando as jornadas existentes dos clientes e definindo possíveis otimizações usando IA generativa.
+Identificar técnicas de personalização.
+Personalize suas interações, experiências do cliente, conteúdo e ofertas.
+Exercício prático: identifique e crie suas personas usando IA
+
+MELHORAR O ENVOLVIMENTO E O ATENDIMENTO AO CLIENTE USANDO IA
+Avaliação da satisfação do cliente em um processo de melhoria de conteúdo.
+Identifique tarefas rotineiras para automatizar e aumentar a disponibilidade do atendimento ao cliente.
+Integre ferramentas de autocuidado (chatbot, assistentes virtuais, FAQ, SVL) e automação para acelerar os tempos de resposta e processamento.
+Chatbots e atendimento virtual: concepção, design e desenvolvimento de seu primeiro assistente.
+Melhore a qualidade das respostas (script + dados do cliente): aumente as conversas com seus clientes.
+Análise de conversas e envio de e-mails usando IA: análise de emoções, agrupamento de palavras-chave e síntese acionável de um grande conjunto de dados.
+Manter o papel dos humanos, mas reunindo forças entre a IA e os humanos e implementando um melhor atendimento ao cliente.
+Exercício prático: criação do seu primeiro chatbot.
+
+IA COMO COPILOTO DO SEU TRABALHO DIÁRIO
+Lembre a importância dos seres humanos nas operações e do papel de copiloto da IA para otimizar as suas tarefas.
+Identifique tarefas e processos para automatizar.
+Escolha as ferramentas adequadas: desde o plugin do Chrome até SaaS, incluindo suas soluções de escritório (Google, Microsoft, etc.).
+Implemente seu processo de automação para você e sua equipe.
+Exercício prático: identificação de processos a serem automatizados e testes de inúmeras ferramentas de mercado.

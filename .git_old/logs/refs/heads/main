@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 7148ab4dd0759e4b9f16d10c4fa7c4dbd02553cf bvicente85 <brunnofilipe@gmail.com> 1787747073 +0100	commit (initial): Upload arquitetura agentica SKOLAE
+7148ab4dd0759e4b9f16d10c4fa7c4dbd02553cf 7148ab4dd0759e4b9f16d10c4fa7c4dbd02553cf bvicente85 <brunnofilipe@gmail.com> 1787747092 +0100	Branch: renamed refs/heads/main to refs/heads/main
+7148ab4dd0759e4b9f16d10c4fa7c4dbd02553cf 1b5dfc7f3247c6e7497458ed156885cadfbaf2c5 bvicente85 <brunnofilipe@gmail.com> 1787755697 +0100	commit: feat(agent): concluida Fase 2 - CORE_AGENT_SYSTEM e otimizacoes Subagente_Redator
+1b5dfc7f3247c6e7497458ed156885cadfbaf2c5 22afb6a55d878659b2e903a6553ca3b0310bafb7 bvicente85 <brunnofilipe@gmail.com> 1788509949 +0100	commit: feat(crm): inject YAML frontmatter for Phase 3.5 Client Intelligence + update AGENTS rules and recent meeting notes
