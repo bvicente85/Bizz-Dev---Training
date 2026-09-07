@@ -1,9 +1,0 @@
-Curso: Marketing Digital Corporativo
-Carga horária: 14h
-Foco: Dirigido a gestores/diretores de marketing.
-
-Módulos:
-1. Desafios do Marketing: Obrigações legais (RGPD e e-Privacy), Interrupção vs Permissão, e-CRM, Customer Experience (Acentuar emoções).
-2. Planear o Marketing Estratégico Digital (Contexto e Objetivos): Análise SWOT online, Definição do público-alvo, Construir pilares e matriz de webmarketing.
-3. Social Media Marketing Avançado: Papel das redes, Influenciadores digitais, SMM, Publicidade para conversão real.
-4. Desempenho e Retorno de Investimento (Fidelização Analítica): Alavancas de meios digitais, Gestão de vínculos, Content Marketing, uso estrito de KPIs para calcular o ROI das campanhas digitais.
