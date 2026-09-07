@@ -3,7 +3,7 @@ type: Meeting Notes
 title: Notas de Reunião - Riopele
 description: Histórico de atas, notas e conclusões de reuniões com o cliente Riopele.
 tags: [reunioes, atas]
-timestamp: 2026-06-24T10:12:00Z
+timestamp: 2026-09-07T12:00:00Z
 ---
 # Notas de Reunião: Riopele
 
@@ -80,3 +80,23 @@ timestamp: 2026-06-24T10:12:00Z
 
 ### Leitura comercial
 Esta reunião reduziu significativamente a incerteza em duas oportunidades e confirmou que ambas estão diretamente ligadas à estratégia da Academia Riopele. A prioridade comercial deve ser transformar rapidamente este alinhamento verbal em documentação pedagógica e comercial clara, evitando reabrir o diagnóstico antes de entregar o que foi pedido.
+
+
+---
+
+## 2026-09-07 - Envio das Propostas Prioritárias
+* **Destinatárias:** Sylvie Rocha e Luísa Moreira (Riopele)
+* **Interveniente:** Bruno Vicente (SKOLAE)
+* **Contexto:** Na sequência da reunião de alinhamento de 03/09/2026, foram enviadas as propostas solicitadas para as duas iniciativas prioritárias.
+
+### Propostas enviadas
+1. **Liderança Operacional - Jogo dos Exploradores** (Ref. 21164)
+2. **Formação de Formadores Internos / Train the Trainers** (Ref. 21165)
+
+### Opção de envio
+As iniciativas foram apresentadas em **duas propostas separadas**, para permitir uma análise autónoma e mais simples de cada solução.
+
+### Estado após envio
+* Aguarda validação pedagógica e interna por parte de Sylvie Rocha e Luísa Moreira.
+* Após validação, o processo poderá seguir para a equipa de Compras para negociação comercial.
+* Caso não exista resposta, o próximo contacto recomendado é entre 15 e 18/09/2026.
