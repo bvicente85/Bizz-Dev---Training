@@ -1,9 +1,18 @@
-﻿---
+---
 type: Cliente Context
 title: Contexto do Cliente - DHM
 description: Perfil de contexto, setor e interlocutores do cliente DHM.
-tags: [cliente, cliente]
-timestamp: 2026-06-18T10:59:00Z
+tags: [cliente, dhm, octant]
+status: Ativo
+core_business: Gestão de Ativos Hoteleiros e Lazer (Octant Hotels)
+decisores:
+  - Joana (RH / Interlocutora Principal)
+data_ultima_interacao: 2026-09-08
+areas_interesse:
+  - Inteligência Emocional
+  - Comunicação com PNL
+  - Liderança
+  - Gestão de Conflitos
 ---
 # Contexto: DHM (Discovery Hotel Management)
 
