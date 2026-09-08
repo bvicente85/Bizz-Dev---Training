@@ -1,4 +1,4 @@
-﻿---
+---
 type: Meeting Notes
 title: Notas de Reunião - Details
 description: Histórico de atas, notas e conclusões de reuniões com o cliente Details.
@@ -41,6 +41,10 @@ A Joana informou que a equipa gostou das propostas e que decidiram avançar com 
 ### Ações Decorrentes
 *   Foi gerada e enviada uma nova versão da proposta financeira (`SKOLAE - Proposta financeira_Ref - 19981 - Formação em Vendas_v2.pdf`) refletindo o ajuste solicitado para a adjudicação em conjunto.
 
+## 2026-08-18 | Follow-up (Email)
+
+### Sumário
+Envio de um e-mail de acompanhamento para Joana Mesquita (com Cristiana Gato em cópia) com o objetivo de validar se houve algum desenvolvimento sobre os próximos passos para a realização das ações. A aguardar resposta.
 
 
 

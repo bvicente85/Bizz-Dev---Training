@@ -1,4 +1,4 @@
-﻿---
+---
 type: Cliente Context
 title: Contexto do Cliente - Details
 description: Perfil de contexto, setor e interlocutores do cliente Details.
@@ -17,7 +17,8 @@ A **Details** é uma das principais plataformas de gestão de hospitalidade em P
 *   **Segmento:** Hospitality, Sports & Leisure.
 
 ## Stakeholders
-*   **Joana:** Serviços Centrais (Interlocutora principal / Influenciadora). Solicitou a proposta inicial para enviar aos colegas.
+*   **Joana Mesquita:** Serviços Centrais (Interlocutora principal / Influenciadora). Solicitou a proposta inicial para enviar aos colegas (joana.mesquita@details.net).
+*   **Cristiana Gato:** (cristiana.gato@details.net) Stakeholder / incluída nas comunicações sobre o projeto.
 *   **Equipa Comercial (Golf Team):** Target da formação. Equipa que gere e dinamiza o portefólio de golfe.
 
 ## Necessidades e Dores Identificadas
