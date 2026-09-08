@@ -110,6 +110,8 @@ A Blacklist foi movida de texto livre para código de forma a garantir seguranç
 *   **[2026-08-20]:** Agendamento com sucesso da reunião de diagnóstico via Teams com a RETA (Rita Cruz) para 6.ª feira, 21 de agosto de 2026, às 14h30. Atualização do funil para "Diagnóstico / Reunião Agendada" e preparação da estrutura de notas de reunião.
 *   **[2026-08-25]:** [/learn] Formalização da matriz oficial `TMB Training 25-26_Bruno.md` como fonte exclusiva de pricing para propostas comerciais intra-empresa e proibição de estimativas ad-hoc. Estabelecida a regra de rigor para links de catálogo (deixar em branco caso não exista URL direto do curso específico).
 *   **[2026-08-25]:** [/learn] **Regra de Alerta de Custos Diretos & Logística:** Implementada a obrigatoriedade de alerta para: (1) Custos de deslocação/estadia de formadores quando a formação presencial decorre fora da Grande Lisboa (tendo em conta que a sede da SKOLAE é em Lisboa); e (2) Custos de materiais físicos/tabuleiros pedagógicos dedicados (ex: tabuleiro do *Jogo dos Exploradores* para Liderança Situacional), para garantir que não são omitidos nas propostas e cálculos de margem.
+*   **[2026-08-31]:** Reunião de levantamento de necessidades e envio da proposta revista Ref. 19170 para a MEO (Altice) com segmentação do programa de Storytelling em 2 formatos (Líderes 7h em Lisboa e Técnicos 14h em Lisboa/Porto/Aveiro, totalizando 8 turmas) com acolhimento logístico nas salas da SKOLAE.
+
 
 
 

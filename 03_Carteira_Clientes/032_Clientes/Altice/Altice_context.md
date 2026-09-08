@@ -1,9 +1,16 @@
 ---
-type: Cliente Context
-title: Contexto do Cliente - Altice
-description: Perfil de contexto, setor e interlocutores do cliente Altice.
-tags: [cliente, telecomunicaes]
-timestamp: 2026-06-18T10:59:00Z
+status: Ativo
+core_business: Telecomunicações e Tecnologias de Informação
+decisores:
+  - Ana Cláudia Costa (DPE | Formação e Desenvolvimento)
+  - Susana (DPE | Operacionalização Formação)
+  - Ana Pinto (Responsável DPE | Formação)
+data_ultima_interacao: 2026-08-31
+areas_interesse:
+  - Comunicação
+  - Storytelling
+  - Liderança
+  - Soft Skills
 ---
 # Contexto do Cliente: Altice
 
