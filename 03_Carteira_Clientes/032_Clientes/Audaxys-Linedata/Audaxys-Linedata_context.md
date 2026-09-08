@@ -1,4 +1,4 @@
-﻿---
+---
 type: Cliente Context
 title: Contexto do Cliente - Audaxys-Linedata
 description: Perfil de contexto, setor e interlocutores do cliente Audaxys-Linedata.
@@ -16,6 +16,7 @@ timestamp: 2026-06-18T10:59:00Z
 
 ## Stakeholders Identificados
 - **Ana Rita Brites:** Chief Office Manager (Ponto de contacto e facilitadora do processo).
+- **Rodolphe Buis:** Head of Lending & Leasing Portugal (Direção / Interlocutor internacional - França).
 
 ## Dores e Necessidades (Diagnóstico Inicial)
 - **Equipas Alvo:** Client Support (Suporte ao Cliente) e Sales (Vendas).
@@ -25,4 +26,7 @@ timestamp: 2026-06-18T10:59:00Z
 
 ## Histórico de Interações
 - **2026-04-27:** Receção de pedido de informação via Ana Rita Brites.
+- **2026-04-28:** Reunião de diagnóstico e alinhamento das soluções de GP e Negociação.
+- **2026-04-29:** Envio de propostas de conteúdos e financeiras (Refs. 20086 e 20087).
+- **2026-09-08:** Receção de email de Rodolphe Buis a solicitar possibilidade de adiamento da formação de Sales (agendada para 10/09) para outubro ou novembro devido a imprevisto familiar de participante. Pedido em análise.
 
