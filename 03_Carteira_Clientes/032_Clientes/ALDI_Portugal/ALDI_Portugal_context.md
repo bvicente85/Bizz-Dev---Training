@@ -71,8 +71,12 @@ timestamp: 2026-06-18T10:59:00Z
 * **prospeção Ativa / Reativação:** Processo de prospeção iniciado a 29/05/2026 por Bruno Vicente para reativar a conta e mapear novas oportunidades.
 * **Convite para Consulta - Liderança (18/06/2026):** Mariana Ramalho (L&D) convidou formalmente a SKOLAE a participar na consulta ao mercado/tendering para o novo programa formativo de liderança operacional.
 * **Reunião de Diagnóstico (19/06/2026):** Alinhamento técnico e levantamento de necessidades detalhado com Mariana Ramalho e Rita Fernandes.
-* **Envio e Revisão de Proposta Liderança (25/06 a 07/07/2026):** Proposta do programa ALDI Leadership Run revista para o formato 100% presencial (52.800,00 € por 3 módulos).
-* **Novo Pedido de Informação - Microsoft Excel (18/08/2026):** Receção de consulta de mercado enviada por Rita Fernandes para formação de ~70 colaboradores em Microsoft Excel com teste de diagnóstico e cotação em formato Presencial e Live Training.
+* **Envio e Revisão de Proposta Liderança (25/06 a 07/07/2026):** Proposta do programa ALDI Leadership Run revista para o formato 100% presencial (52.800,00 € por 3 módulos). Proposta não adjudicada/rejeitada a 21/08/2026.
+* **Novo Pedido de Informação - Microsoft Excel (18/08/2026):** Receção de consulta de mercado enviada por Rita Fernandes para formação de ~70 colaboradores em Microsoft Excel com teste de diagnóstico e cotação em formato Presencial e Live Training. Proposta enviada a 18/08.
+* **Confirmação e Análise de Proposta Excel (26/08/2026):** Mariana Ramalho confirmou a receção da proposta, informando que aproveitam o NDA do tendering anterior e que a proposta de Excel se encontra em fase de análise interna.
+* **Follow-up Comercial Excel (09/09/2026):** Contacto de follow-up efetuado focado na análise da proposta de Excel e disponibilidade para esclarecimentos.
+
+
 
 
 

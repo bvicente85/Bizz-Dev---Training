@@ -10,28 +10,33 @@ timestamp: 2026-06-18T10:59:00Z
 *Links Relativos:* [Contexto](./ALDI_Portugal_context.md) | [Notas de Reunião](./ALDI_Portugal_meeting_notes.md)
 
 ## Status Atual
-* **Fase do Funil:** Proposta / Consulta de Mercado (Tendering) - Proposta de Excel em Elaboração / Envio
-* **Última Interação:** 18/08/2026 (Receção de consulta de mercado para formação de ~70 colaboradores em Microsoft Excel por Rita Fernandes)
+* **Fase do Funil:** Proposta / Análise de Propostas (Tendering) - Follow-up Microsoft Excel (Única Ativa)
+* **Última Interação:** 09/09/2026 (Envio de e-mail de follow-up comercial para Mariana Ramalho e Rita Fernandes sobre a proposta de Excel)
 * **Próximos Marcos:**
-  * Submeter proposta técnica e financeira de Microsoft Excel a Rita Fernandes (18/08/2026).
-  * Decisão de adjudicação do tender de Liderança (21/08/2026).
+  * Obter feedback e decisão sobre a proposta de Microsoft Excel (Setembro 2026).
+  * Planear arranque e diagnósticos online para meados de outubro de 2026.
 
-## Oportunidades em Negociação
+## Oportunidades
 
-### 1. Programa Formativo de Microsoft Excel (Nova Oportunidade - Agosto 2026)
+### 1. Programa Formativo de Microsoft Excel (EM ABERTO / ATIVA - Agosto 2026)
 *   **Público-Alvo:** Aproximadamente 70 colaboradores.
-*   **Âmbito:** Níveis Inicial, Intermédio e Avançado, com teste de diagnóstico prévio online pela SKOLAE para distribuição de turmas.
+*   **Âmbito:** Níveis Inicial, Intermédio e Avançado, com teste de diagnóstico prévio online pela SKOLAE (gratuito na adjudicação) para distribuição de 6 turmas até 12 pax.
 *   **Modalidades:** Formação Presencial (instalações ALDI) e Live Training (online síncrono).
 *   **Arranque Previsto:** Meados de outubro de 2026.
-*   **Contacto:** Rita Fernandes (Specialist L&D).
+*   **Contacto:** Rita Fernandes / Mariana Ramalho (L&D Team).
+*   **Estado:** Proposta enviada a 18/08/2026, confirmada receção a 26/08/2026 (em análise interna e follow-up a 09/09).
 
-### 2. Programa Formativo de Liderança e Comunicação Operacional (ALDI Leadership Run)
+### 2. Programa Formativo de Liderança e Comunicação Operacional (ALDI Leadership Run) - [NÃO ADJUDICADO / REJEITADO]
 *   **Temas:** Liderança Eficaz, Inteligência Emocional aplicada, Comunicação na Liderança e Comunicação para a Performance.
-*   **Volume:** 16 ações de formação para cerca de 173 participantes distribuídos por 6 pontos geográficos (3 módulos presenciais autónomos de 1 dia a 17.600,00 € cada, totalizando 52.800,00 €).
-*   **Calendário:** Adjudicação prevista para 21/08/2026 e arranque oficial na Semana 40 (01/10/2026).
+*   **Volume:** 16 ações de formação para cerca de 173 participantes (3 módulos presenciais a 52.800,00 €).
+*   **Resultado:** Proposta não adjudicada / rejeitada pelo cliente na decisão final do tendering de 21/08/2026. Oportunidade encerrada como Perdida.
 
 ## Histórico de Interações
+* **09/09/2026 (Follow-up Excel):** Envio de e-mail de seguimento a Mariana Ramalho e Rita Fernandes focado na análise da proposta de Microsoft Excel e disponibilidade para esclarecimentos.
+* **26/08/2026 (Receção & Validação NDA):** Mariana Ramalho enviou e-mail a agradecer o envio da proposta, a informar que utilizam o NDA celebrado no tendering anterior e que a proposta de Excel se encontra em fase de análise interna.
+* **21/08/2026 (Decisão Tender Liderança):** Proposta do programa ALDI Leadership Run não adjudicada / rejeitada internamente pelo ALDI. Foco comercial transitou integralmente para a oportunidade de Microsoft Excel.
 * **18/08/2026 (Consulta Excel):** Receção de pedido de proposta enviado por Rita Fernandes para capacitação em Microsoft Excel para ~70 colaboradores (Presencial e Live Training), incluindo realização de testes de diagnóstico prévio. Envio de proposta comercial e ementas programáticas.
+
 * **07/07/2026 (Tendering Liderança):** Feedback do cliente solicitando corte de VOD e On-Job. Ajuste e envio da proposta comercial revista para formato 100% presencial em 3 módulos autónomos no valor global de 52.800,00 €.
 * **25/06/2026 (Tendering):** Submissão formal da proposta pedagógica (integrada no catálogo central em [[Programa_ALDI_Leadership_Run]]) e proposta financeira global de 115.120,00 € via e-mail. Destaque enviado à Mariana Ramalho sobre a modularidade do percurso (flexibilidade para avançar sem todos os opcionais) e salvaguardas sobre alocação de formadores locais para reduzir despesas de deslocação.
 * **25/06/2026 (Tendering):** Definição da proposta financeira global com Mariana/Rita com base nas indicações do TMB (Bootcamp a 1.100€/dia, Action Learning a 250€/sessão, e VOD a 40€/pax/vídeo) e Acompanhamento On-Job de meio dia (550€/sessão). O projeto global fecha em 115.120,00 € com margem bruta de 79,17%. Simulação financeira interna integrada em [[ALDI_Portugal_progress]] (secção TMB).
@@ -46,9 +51,9 @@ timestamp: 2026-06-18T10:59:00Z
 * **29/05/2026 (prospeção):** Criação da pasta do cliente e dos ficheiros padrão de contexto, progresso e notas de reunião para iniciar a prospeção em Portugal.
 
 ## Próximos Passos
-* **Imediato (18/08/2026):** Enviar proposta técnica e financeira de Microsoft Excel a Rita Fernandes (Presencial + Live Training, com teste de diagnóstico online).
-* **Decisão Liderança (21/08/2026):** Aguardar decisão final de adjudicação do projeto de liderança pelo ALDI Portugal.
-* **Arranque Excel (Meados de Outubro 2026):** Disponibilizar os testes de diagnóstico aos 70 colaboradores e planear as turmas por nível.
+* **Curto Prazo (Setembro 2026):** Aguardar feedback do follow-up sobre as decisões do tender de Liderança e da consulta de Excel.
+* **Planeamento (Outubro 2026):** Alinhar cronogramas práticos de arranque para ambas as ações formativas.
+
 
 
 ## Simulação Financeira (TMB)

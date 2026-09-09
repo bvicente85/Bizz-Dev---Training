@@ -10,6 +10,22 @@ timestamp: 2026-06-18T10:59:00Z
 *Links Relativos:* [Contexto](./ALDI_Portugal_context.md) | [Progresso Comercial](./ALDI_Portugal_progress.md)
 
 
+## 09/09/2026 - Follow-up Comercial (Proposta Microsoft Excel)
+* **Participantes:** Bruno Vicente (SKOLAE), Mariana Ramalho e Rita Fernandes (ALDI Portugal)
+* **Objetivo:** Contacto de seguimento para perceber a previsão de conclusão da análise da proposta de Microsoft Excel e disponibilizar apoio ou esclarecimentos.
+* **Ações Tomadas:**
+  * Envio de e-mail de follow-up direto e polido a Mariana Ramalho e Rita Fernandes.
+
+## 26/08/2026 - Confirmação de Receção e Formalização de NDA
+* **Participantes:** Mariana Ramalho (Specialist Learning & Development - ALDI Portugal), Bruno Vicente (SKOLAE)
+* **Objetivo:** Informar que aproveitam o NDA do tendering anterior e que a proposta de Excel está em análise interna.
+* **Ações Tomadas:**
+  * Receção de e-mail de Mariana Ramalho a acusar a receção da proposta e a confirmar o aproveitamento do NDA anterior.
+
+## 21/08/2026 - Decisão de Adjudicação (Concurso de Liderança)
+* **Objetivo:** Conclusão do tendering do programa de Liderança e Comunicação Operacional (ALDI Leadership Run).
+* **Resultado:** Proposta não adjudicada / rejeitada pelo cliente. Foco comercial passa a ser exclusivamente o programa de Microsoft Excel.
+
 ## 18/08/2026 - Consulta de Mercado (Microsoft Excel)
 * **Participantes:** Rita Fernandes (Specialist Learning & Development - ALDI Portugal), Bruno Vicente (SKOLAE)
 * **Objetivo:** Receção de consulta de mercado para formação técnica em Microsoft Excel adaptada a diferentes níveis para ~70 colaboradores.
