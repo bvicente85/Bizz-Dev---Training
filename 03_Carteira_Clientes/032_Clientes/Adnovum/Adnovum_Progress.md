@@ -11,14 +11,15 @@ timestamp: 2026-06-18T10:59:00Z
 
 
 ## Estado Atual do Funil
-*   **Fase:** Em Negociação / Fecho (Pedido de Aprovação Interna)
-*   **Ação Recente (04/09/2026):** E-mail de retoma enviado à Patrícia Torres para agendamento da reunião de preparação pedagógica e definição de datas de início.
+*   **Fase:** Em Negociação / Fecho (Aprovação L&D e Alinhamento Pedagógico)
+*   **Ação Recente (04/09/2026):** E-mail de retoma enviado à Raquel Gomes a solicitar previsão de datas para a formação de Liderança e agendamento da reunião de preparação com a equipa pedagógica e a formadora.
 
 ## Próximos Passos (Next Actions)
-*   **[x]** **13/07/2026:** Enviar email de agradecimento pela aceitação da proposta, questionar sobre a data prevista de início para alocação da equipa de formadores e propor o agendamento da reunião de preparação.
-*   **[x]** **Julho/Agosto de 2026:** Acompanhar o processo de aprovação interna.
-*   **[x]** **04/09/2026:** Retomar contacto com a Patrícia Torres para agendar a reunião de preparação pedagógica e definir datas de início.
-*   **[ ]** Aguardar feedback da Patrícia Torres com previsão de datas para a formação e disponibilidade para a reunião de preparação pedagógica.
+*   **[x]** **26/06/2026:** Envio das propostas com data atualizada e valores mantidos a pedido de Raquel Gomes.
+*   **[x]** **10/07/2026:** Raquel Gomes confirma foco em Liderança, Comunicação e Resiliência (descartando Spring & DevOps) e avanço para aprovação interna no departamento de L&D.
+*   **[x]** **13/07/2026:** Envio de e-mail de agradecimento e proposta de reunião pedagógica à Raquel Gomes.
+*   **[x]** **04/09/2026:** E-mail de retoma enviado à Raquel Gomes a solicitar agendamento da reunião de preparação e previsão de datas.
+*   **[ ]** Aguardar retorno da Raquel Gomes com as datas pretendidas e disponibilidade para a reunião pedagógica.
 
 ## Resumo de Documentos Submetidos
 1.  `Abilways Proposal_Ref - 18080 - Plano de formação 2026 - Liderança, Comunicação e Resiliência - Adnovum.pdf`

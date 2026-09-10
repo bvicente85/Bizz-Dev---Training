@@ -1,19 +1,30 @@
 # Registo de Interações: Adnovum
 
 ## Interação: 04/09/2026 - Envio de E-mail de Retoma Comercial
-*   **Intervenientes:** Bruno Vicente e Patrícia Torres.
+*   **Intervenientes:** Bruno Vicente e Raquel Gomes (Adnovum).
 *   **Formato:** E-mail de Seguimento (Enviado).
-*   **Resumo:** Envio de e-mail a retomar o contacto sobre o programa de Liderança, Comunicação e Resiliência. Foi proposto o agendamento da reunião de preparação pedagógica (com a equipa pedagógica e a formadora) e foram colocadas as seguintes questões para planeamento:
-    * Previsão de quando gostariam de realizar a formação (para gestão de cronograma e alocação da equipa de formadores);
-    * Disponibilidade para agendamento da reunião de preparação pedagógica.
-*   **Próximo Passo:** Aguardar feedback da cliente com disponibilidade e datas.
+*   **Resumo:** Envio de e-mail à Raquel Gomes a retomar o contacto sobre o programa de Liderança, Comunicação e Resiliência. Foi proposto o agendamento da reunião de preparação pedagógica (com a equipa pedagógica e a formadora) e foram colocadas as seguintes questões para planeamento:
+    * Quando gostariam de realizar a formação (para gestão de cronograma e alocação da equipa de formadores);
+    * Quando teriam disponibilidade para agendarmos a reunião de preparação pedagógica.
+*   **Próximo Passo:** Aguardar resposta da Raquel Gomes.
 
 ---
-## Interação: 13/07/2026 - Resposta da Cliente ao Follow-up
-*   **Intervenientes:** Patrícia Torres (Adnovum) e Bruno.
-*   **Formato:** Resposta por E-mail.
-*   **Resumo:** A Patrícia agradeceu o contacto e informou que decidiram não avançar com as formações de Spring & DevOps devido a questões de planeamento interno (não relacionado com a proposta). Em contrapartida, pretendem avançar com o plano de **Liderança, Comunicação e Resiliência (Ref 18080)**. Solicitou o envio das propostas correspondentes apenas com a data atualizada (visto que os valores se mantêm), para dar início ao processo de aprovação interna.
-*   **Ação:** Enviar email a agradecer a aceitação da proposta de Liderança, propor o agendamento de reunião de preparação com a área pedagógica/formadores e questionar sobre a previsão de início da formação para alocação da equipa.
+## Interação: 13/07/2026 - Alinhamento Operacional e Reunião Pedagógica
+*   **Intervenientes:** Bruno Vicente e Raquel Gomes.
+*   **Formato:** E-mail enviado.
+*   **Resumo:** Agradecimento pelo feedback e confiança na SKOLAE. Bruno explicou que o próximo passo seria o agendamento de reunião de preparação com a equipa pedagógica e formadores, questionando sobre a previsão de datas e disponibilidade para a reunião.
+
+---
+## Interação: 10/07/2026 - Decisão e Pedido de Aprovação Interna (Raquel Gomes)
+*   **Intervenientes:** Raquel Gomes e Bruno Vicente.
+*   **Formato:** E-mail recebido.
+*   **Resumo:** Raquel Gomes informou que estão focados nas formações de Liderança, Comunicação e Resiliência e que não vão avançar com Spring & DevOps unicamente por motivos de planeamento interno. Confirmou que tudo estava claro com a proposta enviada a 26/06 (valores mantidos) e que iriam avançar brevemente com o pedido de aprovação interna no departamento de L&D.
+
+---
+## Interação: 26/06/2026 - Transição de Interlocutora (Entrada de Raquel Gomes)
+*   **Intervenientes:** Raquel Gomes e Bruno Vicente.
+*   **Formato:** E-mails trocados.
+*   **Resumo:** Raquel Gomes (Professional HR Generalist) assumiu o contacto do projeto de formação, indicando que a Patrícia Torres passou a focar-se noutros temas internos. Raquel solicitou a confirmação dos valores e atualização da data de expiração da proposta para apresentar ao L&D. Bruno respondeu no mesmo dia mantendo os valores e reenviando as propostas com datas atualizadas.
 
 ---
 ## Interação: 08/05/2026 - Ponto de Situação e Revisão de Histórico
