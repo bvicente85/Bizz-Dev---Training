@@ -41,3 +41,7 @@ timestamp: 2026-06-18T10:59:00Z
 
 
 
+
+
+### Comprovativo de Envio da Proposta
+![Email Enviado - Proposta Cegid](./email_enviado_cegid_08_07_2026.png)
