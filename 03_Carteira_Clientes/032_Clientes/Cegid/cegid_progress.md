@@ -15,6 +15,7 @@ timestamp: 2026-06-18T10:59:00Z
 * **Temperatura:** Alta (Oportunidade concreta com orçamento e volume definido).
 
 ## Histórico de Interações
+* **2026-09-10:** Envio de e-mail de follow-up para aferir o estado de análise das propostas de Cibersegurança e GDPR.
 * **2026-07-08:** Envio das propostas Pedagógica e Financeira (Security & Risk Management and GDPR) a Safa Masmoudi e Diana Sanchez, propondo segmentação em duas *pathways* formativas.
 * **2026-07-08:** Validação da estrutura com o formador Pedro Gonçalves e criação do programa de formação final em Português e Inglês (UK) de acordo com a Skill SKOLAE.
 * **2026-07-02:** Receção de e-mail de Safa Masmoudi a solicitar ponto de situação da proposta. Resposta enviada a confirmar o envio até amanhã (03/07) e a pedir desculpa pelo ligeiro atraso.
@@ -25,7 +26,7 @@ timestamp: 2026-06-18T10:59:00Z
 * **2026-04-28:** Reunião de diagnóstico. Identificação de 3 eixos: IA PM (Ibérico), IA Marketing (PT) e Liderança (PT).
 
 ## Próximos Passos (Next Actions)
-1. **[BRUNO]** Fazer follow-up das propostas enviadas hoje (Security & Risk Management / GDPR) se não houver feedback até meados da próxima semana.
+1. **[CEGID]** Aguardar feedback ao *follow-up* das propostas de Security & Risk Management / GDPR. Em caso de *ghosting*, aplicar técnica de "limpeza de arquivo" (*soft break-up*).
 2. **[BRUNO]** Fazer follow-up da proposta de IA Marketing (Ref: 20139) — **Prazo: Esta semana**.
 3. **[DALILA]** Responder às questões de qualificação sobre o curso de IA para Gestão de Projetos (Pendente).
 
