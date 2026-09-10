@@ -18,6 +18,11 @@ timestamp: 2026-06-18T10:59:00Z
 
 ## Stakeholders Identificados
 * **Dalila Brito:** HRBP e Responsável pela Formação em Portugal (ex-Primavera). Ponto de contacto central para PT e articuladora com Espanha. Perfil pragmático, focado em resultados práticos.
+* **Safa Masmoudi:** Destinatária principal (IT/IS) da proposta de Cibersegurança/GDPR. Participou ativamente no desenho do projeto.
+* **Susana Abas Burgos:** Participante no diagnóstico técnico de IT IS.
+* **Diana Sanchez:** Participante no diagnóstico técnico de IT IS.
+* **Laura Bellido Banares:** Em CC na entrega final da proposta técnica/financeira.
+* **Grecia Paola Franco Jimenez:** Em CC na entrega final da proposta técnica/financeira.
 
 ## Dores e Necessidades Centrais
 1. **Inteligência Artificial (IA):**
