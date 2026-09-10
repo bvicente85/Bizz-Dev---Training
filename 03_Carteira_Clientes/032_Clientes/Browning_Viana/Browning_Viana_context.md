@@ -28,7 +28,12 @@ timestamp: 2026-06-18T10:59:00Z
   - **4. Excel (21 participantes):** Vários níveis. Requer diagnóstico prévio online gratuito da SKOLAE para aferir os níveis reais de conhecimento.
   - **5. Power BI (15 participantes):** 11 colaboradores para o Nível II e 4 colaboradores para o nível inicial (Nível I).
   - **6. Comunicação Interna (2 participantes - Novo Pedido 06/07/2026):** Solicitação de cotação para 2 formandos. A aguardar qualificação do perfil para proposta à medida.
-  - **Preferências de Regime:** Presencial para as áreas comportamentais (Comunicação); remoto/híbrido para as áreas técnicas (Excel e Power BI).
+  - **7. Power Query & Power Automate (6 participantes - Novo Pedido 09/09/2026):** 
+    - **Power Query:** Melhorar desempenho de BDDs, preparação/modelação de dados, funções M.
+    - **Power Automate:** Ferramentas de suporte à decisão, gestão de tarefas, fluxos de otimização, listas e automatismos.
+    - **Perfil/Nível:** Utilizam diariamente ferramentas como Excel, SharePoint, SQL e PowerBI, mas desconhecem o nível exato. Requerem diagnóstico incluído na proposta.
+    - **Regime:** Solicitaram cotação para ambos os formatos (Presencial e Remoto).
+  - **Preferências de Regime Gerais:** Presencial para as áreas comportamentais; remoto/híbrido para as áreas técnicas.
 
 ## Cronograma e Planeamento do Projeto
 - **Prazo para Envio da Proposta:** Até ao final da próxima semana (19/06/2026).
