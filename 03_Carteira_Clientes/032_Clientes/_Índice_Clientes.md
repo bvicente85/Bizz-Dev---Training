@@ -7,6 +7,7 @@ tags: [indice, moc]
 ## Pastas / Categorias
 - [[_Índice_ADDP - Águas Douro e Paiva]]
 - [[_Índice_ADP_Águas de Portugal]]
+- [[_Índice_ADSE]]
 - [[_Índice_ALDI_Portugal]]
 - [[_Índice_Adnovum]]
 - [[_Índice_Altice]]
