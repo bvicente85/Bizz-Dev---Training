@@ -1,4 +1,4 @@
-﻿---
+---
 type: Meeting Notes
 title: Notas de Reunião - Base Capital
 description: Histórico de atas, notas e conclusões de reuniões com o cliente Base Capital.
@@ -9,6 +9,20 @@ timestamp: 2026-06-18T10:59:00Z
 
 *Links:* [Contexto](./Base Capital_context.md) | [Progresso Comercial](./Base Capital_progress.md)
 
+
+## 01/09/2026 - Retoma de Contacto pós-Férias (E-mail de Bruno Vicente)
+- **Objetivo:** Retomar o contacto após o período de verão para aferir se houve decisão da Direção.
+- **Questão Chave:** Perguntou se algum dos tópicos da proposta SKOLAE ainda se mantém em aberto e com viabilidade de execução em 2026.
+- **Estado:** A aguardar resposta de Filipa Gomes.
+
+## 10/07/2026 - Ponto de Situação da Direção (E-mail de Filipa Gomes)
+- **Decisão:** A Direção da Base Capital continuava sem tomar uma decisão sobre o plano de formação de 2026.
+- **Bloqueio:** Impossibilidade de avançar com adjudicações sem a aprovação superior.
+- **Compromisso:** Filipa comprometeu-se a contactar assim que existissem novidades e desejou boas férias ao Bruno.
+
+## 30/06/2026 - Follow-up pós-Férias de Filipa (E-mail de Bruno Vicente)
+- **Objetivo:** Ponto de situação pós-regresso de Filipa Gomes (15 de junho) e aviso das férias de Bruno (a partir de 20 de julho).
+- **Abordagem:** Questionou se fazia sentido avançar com alguma ação antes de 20 de julho ou se o enquadramento passaria todo para o 2.º semestre.
 
 ## 29/05/2026 - Feedback das Propostas Enviadas (E-mail de Filipa Gomes)
 - **Estado das Propostas:** As propostas foram finalmente submetidas para aprovação interna. Assim que forem validadas, avançaremos com os orçamentos finais e planeamento de turmas.
