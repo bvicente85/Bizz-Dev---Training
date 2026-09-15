@@ -5,7 +5,7 @@ decisores:
   - Ana Cláudia Costa (DPE | Formação e Desenvolvimento)
   - Susana (DPE | Operacionalização Formação)
   - Ana Pinto (Responsável DPE | Formação)
-data_ultima_interacao: 2026-08-31
+data_ultima_interacao: 2026-09-15
 areas_interesse:
   - Comunicação
   - Storytelling
@@ -29,7 +29,7 @@ areas_interesse:
     *   **Papel:** Economic Buyer / Champion
 *   **Susana** (DPE | Formação)
     *   **Cargo:** Responsável pela operacionalização do plano de formação e acompanhamento das áreas comportamental e comercial (substituiu Maria Soeiro)
-    *   **Papel:** Influenciadora / Champion Operacional (Interlocutora na reunião de levantamento de necessidades de 31/08/2026)
+    *   **Papel:** Influenciadora / Champion Operacional (Interlocutora principal na adjudicação e calendarização)
 *   **Ana Pinto**
     *   **Cargo:** Responsável máxima da DPE | Formação (desde meados de 2025)
 *   **Marta Acosta**
@@ -38,10 +38,12 @@ areas_interesse:
 ## Histórico de Dores e Necessidades
 *   **[11-12-2025] - Planeamento do Plano de Formação 2026 (Soft Skills):** Necessidade de apresentar proposta de formação alinhada com as competências estratégicas comportamentais da organização. Requisitos iniciais: foco em soft skills, duração de 8h a 16h por ação, formato presencial ou online, turmas de cerca de 15 pessoas. Identificados 13 pilares/competências a desenvolver.
 *   **[12-02-2026] - Foco na Área da Comunicação (Apresentações com Impacto / Storytelling):** A MEO decidiu focar os esforços na área da comunicação, solicitando uma proposta detalhada para apresentações com impacto/eficazes, incluindo estruturação de mensagens, apresentações internas/externas, comunicação com impacto e clareza, adaptação a diferentes públicos e storytelling.
-*   **[31-08-2026] - Dimensionamento e Ajuste do Programa de Storytelling:** Reunião de levantamento de necessidades com a Susana para detalhar a implementação:
-    *   **Carreira de Gestão (Chefias/Diretores):** 3 turmas em Lisboa (diretores e alguns managers/team leaders). Procura-se um foco em comunicação/apresentações estratégicas com a duração compacta de 1 dia (devido à agenda dos diretores).
-    *   **Carreira Técnica (Colaboradores):** 5 turmas (3 em Lisboa, 1 em Aveiro e 1 no Porto). Formação com a duração de 2 dias (14 horas), preferencialmente divididos em semanas consecutivas (pedagogicamente validado) para melhor consolidação.
-    *   **Logística (Lisbon):** Devido a obras nas instalações da MEO em Lisboa, a formação decorrerá presencialmente nas salas da SKOLAE na Avenida da Liberdade.
-    *   **Personalização:** Necessidade de envio de um questionário de pre-work/diagnóstico online prévio aos participantes para afinar os exercícios e casos práticos de acordo com o departamento e necessidades de cada turma.
+*   **[31-08-2026] - Dimensionamento e Ajuste do Programa de Storytelling:** Reunião de levantamento de necessidades com a Susana para detalhar a implementação (8 turmas no total).
+*   **[15-09-2026] - Confirmação de Adjudicação e Ajustes Finais:** A MEO confirmou a adjudicação das 8 turmas de Storytelling:
+    *   **Carreira de Gestão (3 turmas em Lisboa):** Expansão para programa de 2 dias (14 horas), com solicitação expressa de inclusão do módulo de **Gestão da Ansiedade** no programa de chefias.
+    *   **Carreira Técnica (5 turmas: 3 Lisboa, 1 Aveiro, 1 Porto):** Mantém-se o programa de 2 dias (14 horas).
+    *   **Logística em Lisboa:** A MEO disponibiliza salas próprias em Lisboa para todas as 2ªs, 3ªs, 5ªs e 6ªs feiras entre 26 de outubro e 13 de novembro (deixando de ser necessário aluguer de salas/coffee breaks na SKOLAE).
+    *   **Condições Comerciais:** Nota de encomenda prevista para a 1ª quinzena de outubro; prazo de pagamento acordado a 60 dias.
+
 
 

@@ -11,13 +11,13 @@ timestamp: 2026-06-18T10:59:00Z
 
 
 ## Estado no Funil de Vendas
-*   Proposta / Follow-up
+*   Adjudicado / Calendarização
 
 ## Próximos Passos
-*   `[x]` Desenhar as duas propostas curriculares: programa de 1 dia para chefias (Carreira de Gestão) e de 2 dias para técnicos (Carreira Técnica) [Concluído em 31-08-2026]
-*   `[x]` Enviar proposta comercial revista (Ref. 19170) e conteúdos em PowerPoint para a Susana [Concluído em 31-08-2026]
-*   `[ ]` Aguardar feedback da proposta comercial e discriminação dos perfis de liderança por parte da Susana
-*   `[ ]` Validar datas e reserva formal das salas da SKOLAE na Av. da Liberdade após receção da distribuição por departamento
+*   `[ ]` Atualizar proposta pedagógica do programa de Gestão (14h) com o módulo de Gestão da Ansiedade
+*   `[ ]` Atualizar proposta financeira (8 turmas x 14h, remoção de aluguer de salas e coffee breaks em Lisboa, termo de pagamento a 60 dias)
+*   `[ ]` Enviar proposta de cronograma operacional à Susana (Lisboa: 26/10 a 13/11; sugerir datas para Aveiro e Porto)
+*   `[ ]` Confirmar receção da Nota de Encomenda formal durante a primeira quinzena de outubro
 
 ## Histórico de Interações
 *   **[11-12-2025]:** Ana Cláudia Costa contacta a SKOLAE (Nuno Jorge) a solicitar proposta para o planeamento de formação de 2026 para 13 competências estratégicas da MEO (soft skills, 8h-16h, ~15 formandos por turma).
@@ -36,6 +36,8 @@ timestamp: 2026-06-18T10:59:00Z
 *   **[16-06-2026]:** Triagem de e-mails históricos do ficheiro PDF e setup do cliente na carteira de clientes. Preparação do e-mail de follow-up para meados de junho.
 *   **[31-08-2026]:** Reunião de levantamento de necessidades com a nova responsável pela operacionalização, Susana. Alinhados os requisitos para o programa de Storytelling: 3 turmas de gestão (1 dia) e 5 turmas técnicas (2 dias, divididos em 2 semanas, localizadas em Lisboa, Porto e Aveiro).
 *   **[31-08-2026]:** Envio de e-mail com a proposta comercial revista (Ref. 19170) e proposta pedagógica em PowerPoint detalhando as duas vertentes (Líderes 7h e Técnicos 14h), contemplando os 9 dias de sala e coffee-break em Lisboa.
+*   **[15-09-2026]:** A MEO (Susana) confirma a adjudicação do projeto de 8 turmas de Storytelling (3 turmas de Gestão de 14h e 5 turmas Técnicas de 14h), solicita inclusão do módulo de Gestão da Ansiedade para a Gestão, disponibiliza salas em Lisboa entre 26/10 e 13/11 e solicita proposta de cronograma e acordo com pagamento a 60 dias.
+
 
 
 
