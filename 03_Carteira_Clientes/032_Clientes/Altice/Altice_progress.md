@@ -14,9 +14,9 @@ timestamp: 2026-06-18T10:59:00Z
 *   Adjudicado / Calendarização
 
 ## Próximos Passos
-*   `[ ]` Atualizar proposta pedagógica do programa de Gestão (14h) com o módulo de Gestão da Ansiedade
-*   `[ ]` Atualizar proposta financeira (8 turmas x 14h, remoção de aluguer de salas e coffee breaks em Lisboa, termo de pagamento a 60 dias)
-*   `[ ]` Enviar proposta de cronograma operacional à Susana (Lisboa: 26/10 a 13/11; sugerir datas para Aveiro e Porto)
+*   `[x]` Enviar proposta pedagógica de Gestão com módulo de ansiedade e proposta financeira revista [Concluído em 16-09-2026]
+*   `[ ]` Validar disponibilidade final da equipa de formadores para o cronograma de Lisboa (26/10 a 13/11), Aveiro (Rua Eng.º José Ferreira Pinto Basto) e Porto (Rua Tenente Valadim, 431)
+*   `[ ]` Enviar proposta definitiva de calendarização à Susana Colaço com a respetiva alocação de formadores
 *   `[ ]` Confirmar receção da Nota de Encomenda formal durante a primeira quinzena de outubro
 
 ## Histórico de Interações
@@ -34,9 +34,11 @@ timestamp: 2026-06-18T10:59:00Z
 *   **[26-03-2026]:** Ana Cláudia Costa indica que o levantamento do plano de formação decorrerá em abril e espera ter mapeamento e datas em maio.
 *   **[07-05-2026]:** Nova interação da MEO a indicar que não fecharam o plano em maio e estimam ter os números de turmas fechados em Junho para avaliação.
 *   **[16-06-2026]:** Triagem de e-mails históricos do ficheiro PDF e setup do cliente na carteira de clientes. Preparação do e-mail de follow-up para meados de junho.
-*   **[31-08-2026]:** Reunião de levantamento de necessidades com a nova responsável pela operacionalização, Susana. Alinhados os requisitos para o programa de Storytelling: 3 turmas de gestão (1 dia) e 5 turmas técnicas (2 dias, divididos em 2 semanas, localizadas em Lisboa, Porto e Aveiro).
+*   **[31-08-2026]:** Reunião de levantamento de necessidades com a nova responsável pela operacionalização, Susana Colaço. Alinhados os requisitos para o programa de Storytelling: 3 turmas de gestão (1 dia) e 5 turmas técnicas (2 dias, divididos em 2 semanas, localizadas em Lisboa, Porto e Aveiro).
 *   **[31-08-2026]:** Envio de e-mail com a proposta comercial revista (Ref. 19170) e proposta pedagógica em PowerPoint detalhando as duas vertentes (Líderes 7h e Técnicos 14h), contemplando os 9 dias de sala e coffee-break em Lisboa.
-*   **[15-09-2026]:** A MEO (Susana) confirma a adjudicação do projeto de 8 turmas de Storytelling (3 turmas de Gestão de 14h e 5 turmas Técnicas de 14h), solicita inclusão do módulo de Gestão da Ansiedade para a Gestão, disponibiliza salas em Lisboa entre 26/10 e 13/11 e solicita proposta de cronograma e acordo com pagamento a 60 dias.
+*   **[15-09-2026]:** A MEO (Susana Rita Fernandes Colaço) confirma a adjudicação do projeto de 8 turmas de Storytelling de 14h (3 Gestão e 5 Técnicas), solicita inclusão do módulo de Gestão da Ansiedade para as chefias, disponibiliza salas em Lisboa entre 26/10 e 13/11, e solicita proposta de cronograma e acordo com pagamento a 60 dias.
+*   **[15-09-2026 a 16-09-2026]:** Troca de e-mails entre Bruno Vicente e Susana Colaço: aceitação das condições a 60 dias, receção das moradas oficiais das salas da MEO no Porto (R. Tenente Valadim, 431) e em Aveiro (R. Eng.º José Ferreira Pinto Basto), e reenvio do anexo atualizado da proposta pedagógica/financeira com início da validação das agendas de formadores.
+
 
 
 
