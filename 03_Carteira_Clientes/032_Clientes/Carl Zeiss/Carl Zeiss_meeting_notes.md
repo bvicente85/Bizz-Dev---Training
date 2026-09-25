@@ -1,4 +1,4 @@
-﻿---
+---
 type: Meeting Notes
 title: Notas de Reunião - Carl Zeiss
 description: Histórico de atas, notas e conclusões de reuniões com o cliente Carl Zeiss.
@@ -63,6 +63,21 @@ timestamp: 2026-06-18T10:59:00Z
   * **Agendamento:** O Diretor Geral (Tiago) pretendia os dias 3 e 17 de junho (únicos dias disponíveis na sua agenda). Contudo, devido à agenda lotada da Helena em junho e à necessidade de articular a deslocação ao Porto, as datas de junho são inviáveis. A formação poderá passar para **julho**, dependendo das datas que a Helena disponibilizar. A Skolae ficou de enviar hoje todas as disponibilidades de junho e julho da formadora para validação com o Diretor.
 * **Caso Especial - Alberto Oculista:**
   * Mencionado pela Zeiss como caso especial (em avaliação pela Nali). Bruno ficou de verificar o histórico e estado da relação com o Nuno (consultor Skolae).
+
+## Expansão Neuroselling Parceiros e Ponto de Situação (27/08/2026 - 03/09/2026)
+
+* **Intervenientes:** Patrícia Fernandes, Ana Sofia Carvalho (Zeiss); Bruno Vicente (Skolae).
+* **Novo Pedido - Neuroselling para Parceiros Óticos:**
+  * Na sequência do sucesso e validação interna da formação piloto de Neuroselling assistida pela Ana Sofia Carvalho (*Head of Product & Ophthalmology*), a Zeiss solicitou uma proposta para levar o programa diretamente aos seus parceiros estratégicos.
+  * Âmbito previsto: 8 ações de formação presenciais para 8 parceiros óticos, a realizar entre outubro e dezembro de 2026 (Q4), mantendo a formadora Helena.
+* **Negociação Financeira e Condições:**
+  * Bruno transmitiu que a anterior descida para 2.000,00 € / ação (+ IVA) já tinha sido concedida no pressuposto e escala de futuras ações, representando o limite absoluto da margem comercial da Skolae.
+  * Para o lote das 8 ações, foi assegurada a manutenção dessa tarifa de 2.000,00 € / ação (investimento global de 16.000,00 € + IVA), dependente da confirmação do lote completo e com salvaguarda das despesas de deslocação fora da Grande Lisboa.
+  * Questionada a cliente sobre a necessidade de emissão de proposta formal para validação com o Diretor-Geral (Tiago Almeida).
+* **Adicional DISC #SOMOS:**
+  * Solicitada a integração de uma nova colaboradora no projeto com emissão de 1 *DISC Assessment* simples (sem sessão de feedback individual), pelo valor unitário contratado de 65,00 € + IVA.
+* **Ponto de Faturação (Fecho de Ano Fiscal):**
+  * Em 27/08/2026, questionada a viabilidade administrativa de emissão de fatura parcial dos 50% finais antes de 31 de agosto (fecho do exercício fiscal da Skolae), mantendo o prazo de pagamento a 30 dias.
 
 ## Histórico de Atas de Reuniões
 * [Ata de Reunião - 28/05/2026](../../034_Reunioes_Clientes/2026-05/meeting-report-zeiss-2026-05-28_transcript.md)

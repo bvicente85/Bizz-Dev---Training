@@ -1,4 +1,4 @@
-﻿---
+---
 type: Cliente Context
 title: Contexto do Cliente - Carl Zeiss
 description: Perfil de contexto, setor e interlocutores do cliente Carl Zeiss.
@@ -16,13 +16,13 @@ timestamp: 2026-06-18T10:59:00Z
 - **Posicionamento:** Marca premium/luxo de alta tecnologia e precisão biológica. A venda ocorre primariamente por influência, recomendação técnica e autoridade clínica (junto de médicos e óticos), não sendo transacional.
 
 ## Decisores e Equipa de Projeto
-- **Patrícia Fernandes** (Principal ponto de contacto, envolvida no planeamento estratégico e liderança da Zeiss)
-- **Ana Sofia** (Product Manager / Gestora de Produto - dona do *storytelling* da campanha de lançamento do "Clear Mind". Essencial para parametrizar guiões no Neuroselling).
+- **Patrícia Fernandes** (Principal ponto de contacto, People Business Partner, envolvida no planeamento estratégico e desenvolvimento na Zeiss).
+- **Ana Sofia Carvalho** (Head of Product & Ophthalmology - dona do *storytelling* da campanha de lançamento do "Clear Mind" e impulsionadora da expansão do Neuroselling aos parceiros óticos).
 - **Marisa** (Responsável pelo backoffice operacional e gestão rigorosa de agendas).
 - **Ana** (Decisora/Influenciadora - exigente quanto a um posicionamento de luxo e "Smart" para as formações).
 - **João** (Decisor/Influenciador - focado no desafio da justificação de produtos de alto valor ao cliente final).
 - **Pedro Castanheira e Jorge** (Pedro é o Diretor-Geral das óticas *Saúde Visual*, da esfera Zeiss. O foco desta liderança é desmistificar e valorizar as competências da equipa técnica em loja).
-- **Tiago** (Diretor-Geral da Zeiss - com perfil de vendas, muito envolvido na negociação financeira e alinhamento de agendas).
+- **Tiago Almeida** (Diretor-Geral da Zeiss - forte perfil comercial, envolvido na negociação financeira e validação final de orçamentos).
 - **Alberto Oculista** (Parceiro/Cliente especial da Zeiss - relação sob avaliação de histórico pela Skolae a pedido da Zeiss).
 - **Helena** (Formadora Skolae alocada ao projeto de Neuroselling).
 - **Catarina Cabanelas** (Formadora Skolae e especialista alocada ao projeto #SOMOS - DISC).

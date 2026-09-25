@@ -14,10 +14,6 @@
   - Cargo: HR Business Partner (HRBP) - Jumia Porto Tech Center
   - Email: sandrina.alves@jumia.com
   - Contacto Cc: Portugal HR <hrteam.pt@jumia.com>
-- Nome: Mariana Alves
-  - Cargo: Ex-colaboradora (iniciou o contacto inbound mas já não colabora com a Jumia)
-  - Email: mariana.alves@jumia.com
-
 ## Histórico de Dores e Necessidades (Listar as dores e a data de identificação)
 - [2026-07-08] **Transição Técnico para Líder (Dificuldades de Liderança Básica):** Gestores (muitos deles com forte perfil técnico e promovidos a partir de dentro devido ao rápido crescimento com mentalidade de startup) continuam muito focados na execução ("mãos na massa") e enfrentam dificuldades em delegar, gerir conflitos e fornecer feedback construtivo (especialmente feedback negativo, que muitas vezes tentam delegar nos RH).
 - [2026-07-08] **Necessidade de Metodologia Prática:** A Jumia já possui formação teórica fornecida pela sua equipa global de L&D. Os gestores estão cansados, stressados e sobrecarregados devido à elevada pressão por resultados e congelamento de vagas. A formação necessita de ser prática, gamificada, baseada em simulações e role-play (metodologia invertida), rejeitando modelos teóricos ou puramente expositivos.

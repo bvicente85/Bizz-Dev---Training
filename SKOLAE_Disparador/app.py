@@ -10,7 +10,7 @@ CORS(app)
 EXCEL_PATH = r"\\?\c:\Users\brunn\OneDrive - GIE IFE\Desktop\Bruno\PESSOAL\Business Development Formação\03_Carteira_Clientes\031_Bases_Dados\Contacts 2026-2027.xlsx"
 LOG_PATH = r"\\?\c:\Users\brunn\OneDrive - GIE IFE\Desktop\Bruno\PESSOAL\Business Development Formação\03_Carteira_Clientes\031_Bases_Dados\Historico_Envios.xlsx"
 
-REST_DAYS = 45
+REST_DAYS = 15
 
 def read_excel():
     df = pd.read_excel(EXCEL_PATH)

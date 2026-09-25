@@ -11,23 +11,23 @@ timestamp: 2026-06-18T10:59:00Z
 
 
 ## Status Atual
-* **Fase do Funil:** Identificação de Necessidades (Nova Oportunidade)
-* **Última Interação:** 18/06/2026 (Feedback do OnStage e pedido de proposta para Curso de Liderança)
-* **Próximo Marco:** Agendar reunião de diagnóstico para desenhar o curso de Liderança em Portugal.
+* **Fase do Funil:** Apresentação / Envio de Proposta
+* **Última Interação:** 21/09/2026 (Reunião de levantamento de necessidades de Liderança com Nuno Martins)
+* **Próximo Marco:** Enviar proposta técnica e financeira até 23/09/2026 (manhã).
 
 ## Histórico de Oportunidades
 ### 1. Team Building ONSTAGE (Concluído / Realizado)
 * **Estado:** Concluído com sucesso (Realizado a 17/06/2026)
-* **Faturação:** Fatura a pagamento (previsão de liquidação a 19/06/2026)
+* **Faturação:** Liquidada em junho de 2026
 * **Duração:** 4 horas (manhã)
 * **Participantes:** 11 pessoas (1 português e 10 espanhóis)
 * **Equipa Operacional:** Ana Palma (atriz) + Luís Cordeiro (formador)
 * **Proposta Financeira Ref:** 20454
 
-### 2. Curso de Liderança – Portugal (Nova Oportunidade)
-* **Estado:** Em prospeção / Levantamento de necessidades (Solicitado a 18/06/2026)
-* **Âmbito:** Curso focado apenas na equipa de liderança da Aquaservice em Portugal.
-* **Próximos passos:** Agendar chamada de diagnóstico para detalhar o programa e preparar proposta.
+### 2. Curso de Liderança – Portugal (Nível 1)
+* **Estado:** Proposta em elaboração (Levantamento realizado a 21/09/2026)
+* **Âmbito:** Formação em gestão de equipas para chefias operacionais de distribuição (Séniores de Distribuição e Team Leaders). 2 turmas (Lisboa e Porto), 14 participantes base (+4 comerciais a validar). Carga horária de 2 dias (4 meios dias) entre outubro e novembro de 2026.
+* **Próximos passos:** Fechar proposta pedagógica e financeira com Joana Caparica e enviar até 23/09/2026 (manhã).
 
 ## Histórico de Interações
 * **Antes de 03/06/2026:** Contacto e alinhamento preliminar entre Nuno Martins (Aquaservice) e Joana Caparica (SKOLAE).
@@ -35,10 +35,13 @@ timestamp: 2026-06-18T10:59:00Z
 * **08/06/2026:** Confirmação por email da adjudicação da proposta OnStage (Ref: 20454) por Nuno Martins.
 * **17/06/2026:** Realização do Team Building OnStage nas instalações da SKOLAE.
 * **18/06/2026:** Envio de certificados e resultados de avaliação pela Joana Caparica. Resposta de Nuno Martins com feedback muito positivo (sucesso absoluto, impacto na sede em Espanha) e solicitação de nova formação em Liderança para a equipa em Portugal.
-
+* **21/09/2026:** Reunião via Granola entre Bruno Vicente e Nuno Martins para levantamento detalhado de necessidades de Liderança (Nível 1) para as equipas de Lisboa e Porto.
+* **21/09/2026:** Reunião interna via Granola entre Bruno Vicente e Joana Caparica (Pedagógico SKOLAE) para desenhar a arquitetura curricular em 3 módulos, descartar o tabuleiro físico do Jogo dos Exploradores (preferindo dinâmicas ativas de terreno) e definir 1 formador local no Porto e 1 em Lisboa.
+ 
 ## Próximos Passos
-* **Imediato (Bruno/SKOLAE):** Responder ao email de Nuno Martins agradecendo o feedback do OnStage, confirmando o acompanhamento da faturação e propondo janelas horárias para chamada de diagnóstico do curso de Liderança em Portugal.
-* **Posterior:** Desenhar a proposta de Liderança e apresentar ao cliente.
+* **Imediato (Bruno/Joana - 21-22/09):** Estruturar programa pedagógico e proposta financeira, salvaguardando modelo do Jogo dos Exploradores, custos de deslocação para o Porto e aluguer de sala na Maia.
+* **23/09/2026 (Manhã):** Enviar proposta a Nuno Martins para validação conjunta com a Direção em Espanha.
+* **Posterior:** Acompanhar decisão ibérica e calendarizar as 2 turmas para outubro/novembro.
 
 
 

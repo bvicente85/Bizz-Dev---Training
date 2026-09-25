@@ -1,4 +1,4 @@
-﻿---
+---
 type: Meeting Notes
 title: Notas de Reunião - BBVA
 description: Histórico de atas, notas e conclusões de reuniões com o cliente BBVA.
@@ -63,5 +63,28 @@ A reunião serviu para formalizar a transição de conta para o Bruno e alinhar 
 
 ---
 
+## Data: 16/09/2026 (Reunião de Preparação Pedagógica e Logística)
+**Participantes:** Radhika Darmeci, Lúcia Bagio (BBVA), Joana Caparica, Ana Rocha (Formadora), Bruno Vicente (SKOLAE)
+
+**Resumo Executivo:**
+Reunião de alinhamento com a formadora Ana Rocha para a formação «Gestão de Tempo e Produtividade para Gestores de Equipa» (dias 2 e 3 de outubro, das 9h30 às 17h30, presencial no BBVA). Universo de 73 colaboradores no BBVA IFIC com chefias intermédias de risco, contabilidade, operações e informática. Foco pedagógico experiencial com pouca dependência de slides e forte dinâmica de gestão de prioridades e assertividade.
+
+**Pontos Chave e Decisões:**
+* Módulos validados: Visão estratégica vs. operacional, organização pessoal, planeamento semanal e comunicação sob pressão.
+* Horário: 9h30 às 17h30. A formadora chega às 8h30 no 1.º dia.
+* Sala: mesas, cadeiras, extensão elétrica e flip chart assegurados pelo cliente; kits de formação assegurados pela SKOLAE.
+* Projeção: BBVA não tem projetor próprio; SKOLAE vai avaliar se projeta na parede ou aluga projetor externo.
+* Radhika em cópia de todas as comunicações aos formandos.
+
+**Ações Acordadas:**
+1. **Radhika (BBVA):** Enviar morada detalhada das instalações a Bruno Vicente.
+2. **Bruno (SKOLAE):** Avaliar e confirmar a melhor solução para o projetor.
+3. **Bruno / Joana (SKOLAE):** Partilhar programa final fechado para parametrização na plataforma e convocatórias.
+
+*(Ata completa disponível em: `../../034_Reunioes_Clientes/2026-09/meeting-report-BBVA-2026-09-16.md`)*
+
+---
+
 ## Histórico de Atas de Reuniões
+* [Ata de Reunião - 16/09/2026](../../034_Reunioes_Clientes/2026-09/meeting-report-BBVA-2026-09-16.md)
 * [Ata de Reunião - 24/04/2026](../../034_Reunioes_Clientes/2026-04/meeting-report-bbva-2026-04-24.md)

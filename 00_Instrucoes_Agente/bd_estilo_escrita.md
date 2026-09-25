@@ -51,6 +51,9 @@ Evitar linguagem corporativa vazia, adjetivação promocional excessiva ou expre
 *   **Naturalidade em Redes Sociais:** No LinkedIn, usa a palavra **"ligação"** em vez de "conexão" (ex: *"Obrigado por aceitar a minha ligação por aqui."*).
 *   **Tratamento de Clientes (Você / Terceira Pessoa):** Em emails de enquadramento de proposta e follow-ups formais, utiliza a terceira pessoa do singular (Você implícito ou referindo o nome do cliente), evitando o "tu" de proximidade excessiva quando a relação exige respeito protocolar.
 *   **Ponte de Ligação Inicial:** Iniciar sempre o email com uma breve nota de conexão pessoal ou contextual antes de introduzir o assunto comercial (ex: *"Espero que a semana esteja a correr bem."*).
+*   **Ênclise Obrigatória em Infinitivos (PT-PT Culto):** Em verbos reflexivos ou pronominais no infinitivo sem palavra atrativa prévia, usar sempre a ênclise com hífen (ex: preferir *"conhecermo-nos"* ou *"alinharmo-nos"* a *"nos conhecermos"* ou *"nos alinhar"*). A próclise nestes casos soa a tradução automática ou a português do Brasil.
+*   **Paralelismo Verbal em Objetivos e Fim do Ruído:** Quando se listam múltiplos objetivos subordinados, manter a simetria no infinitivo impessoal (ex: *"[o objetivo será apenas] conhecermo-nos, compreender (...) e avaliar se existe..."*). Eliminar muletas adverbiais de consultoria que não acrescentam substância (ex: cortar *"de forma muito prática"*).
+*   **Concisão em Prazos e Disponibilidade:** Preferir expressões temporais diretas como *"nos próximos dias"* em vez de fórmulas hesitantes como *"num destes próximos dias"*.
 
 ---
 
@@ -67,19 +70,26 @@ Evitar linguagem corporativa vazia, adjetivação promocional excessiva ou expre
 
 Utiliza estes templates calibrados como base de escrita, adaptando os campos entre parênteses:
 
-### A. Contactos Frios ("Cold Emails" / Prospeção)
-*   **Objetivo:** Validar o interlocutor e propor uma reunião sem pressão.
-*   **Assunto:** [Nome da Empresa]: Plano de Formação e Próximas Iniciativas
-*   **Template (PT-PT):**
+### A. Contactos Frios ("Cold Emails" / Validação de Interlocutor Direta)
+*   **Objetivo:** Validar o interlocutor e propor uma breve reunião sem fricção ou ruído.
+*   **Assunto:** [Nome da Empresa]: Prioridades de Formação e Próximas Iniciativas | SKOLAE
+*   **Template Padrão (PT-PT):**
     > Olá [Nome], bom dia.
     > 
-    > O meu nome é Bruno Vicente e sou consultor de Business Development, responsável pelo acompanhamento da [Nome da Empresa].
+    > [Opcional se houver tentativa de chamada: No seguimento da minha tentativa de contacto telefónico de hoje, tomo a iniciativa de lhe escrever por esta via.]
     > 
-    > Recebi a indicação de que é responsável pela área de formação e desenvolvimento. Nesta fase inicial, gostaria de confirmar se este tema deve ser tratado consigo ou se devo direcionar o contacto para outro colega.
+    > O meu nome é Bruno Vicente e sou consultor da SKOLAE (Antiga Abilways), responsável pelo acompanhamento da [Nome da Empresa].
     > 
-    > Caso seja a pessoa indicada, teria disponibilidade para uma breve chamada via Teams (cerca de 15 minutos) na próxima semana? O objetivo é compreender as vossas prioridades para os próximos meses e avaliar, de forma prática, se faz sentido desenharmos algum tipo de apoio à medida da vossa equipa.
+    > Tenho a indicação de que poderá estar com a área da formação na [Nome da Empresa] e, nesta fase, gostaria de validar se este tema se mantém consigo ou se faria sentido falar com outro colega da equipa.
+    > 
+    > Caso seja a pessoa indicada, teria disponibilidade para uma breve chamada via Teams (cerca de 15 minutos) nos próximos dias? O objetivo será apenas conhecermo-nos, compreender as vossas prioridades para os próximos meses e avaliar se existe algum tema onde vos possamos apoiar.
     > 
     > Obrigado e até breve.
+    > 
+    > Cumprimentos,
+    > 
+    > Bruno Vicente  
+    > SKOLAE Formação
 
 ### B. Respostas Rápidas e Agendamentos Quotidianos
 *   **Objetivo:** Confirmar convites ou interações simples com brevidade coloquial.
@@ -202,6 +212,72 @@ Para prospeção ativa de novos clientes, seguir esta sequência com intervalos 
     > Se preferir, pode escolher o dia e hora mais práticos para si na minha [agenda online](link).
     > 
     > Obrigado e até breve.
+
+### I. Kit de Prospeção para Empresas de IT e Telco
+Modelos calibrados para software houses, consultoras de tecnologias de informação e operadores de telecomunicações, abordando as dores reais da área de engenharia e consultoria:
+
+*   **Variante 1: O E-mail dos 3 Desafios Tech (Software Houses & Consultoras TI)**
+    *   *Assunto:* `prioridades de formação em tech | skolae` ou `desenvolvimento de equipas na [Nome da Empresa]`
+    *   *Template (PT-PT):*
+        > Olá [Nome], bom dia.
+        > 
+        > O meu nome é Bruno Vicente e sou consultor de Business Development na SKOLAE, responsável pelo acompanhamento da [Nome da Empresa].
+        > 
+        > No setor de tecnologia temos estado a apoiar organizações em três desafios muito específicos desta fase:
+        > • Transição de perfis técnicos para liderança de equipas (novos Tech Leads e Engineering Managers);
+        > • Comunicação com impacto e gestão de clientes para perfis de engenharia e consultoria;
+        > • Produtividade e otimização de trabalho diário com recurso a Inteligência Artificial.
+        > 
+        > Nesta fase, gostaria de perceber se algum destes tópicos está nas vossas prioridades, ou se o vosso foco atual se encontra noutras áreas de competências.
+        > 
+        > Caso faça sentido, teria disponibilidade para uma breve chamada via Teams (cerca de 15 minutos) nos próximos dias? O objetivo será apenas conhecermo-nos, compreender as vossas prioridades para os próximos meses e avaliar se existe algum tema onde vos possamos apoiar.
+        > 
+        > Fico a aguardar o seu feedback.
+        > 
+        > Com os melhores cumprimentos,
+        > 
+        > Bruno Vicente  
+        > SKOLAE Formação
+
+*   **Variante 2: A Ponte "Engenharia vs. Negócio" (Telco & Grandes Integradores)**
+    *   *Assunto:* `apresentações com impacto para equipas técnicas`
+    *   *Template (PT-PT):*
+        > Olá [Nome], bom dia.
+        > 
+        > O meu nome é Bruno Vicente e sou responsável pelo acompanhamento da [Nome da Empresa] na SKOLAE.
+        > 
+        > Temos vindo a desenvolver um trabalho muito próximo no setor das telecomunicações e tecnologias de informação focado num desafio recorrente: dotar os perfis técnicos e de engenharia de ferramentas de comunicação e storytelling, capacitando-os a traduzir complexidade técnica em apresentações claras, seguras e orientadas a decisões de negócio.
+        > 
+        > Gostaria de validar se este é um tema que vos faça sentido explorar com as vossas equipas, ou se têm atualmente outras prioridades no radar de formação.
+        > 
+        > Se fizer sentido uma breve conversa de 15 minutos via Teams nos próximos dias para partilhar o modelo prático que temos implementado, diga-me como está a sua disponibilidade.
+        > 
+        > Fico a aguardar o seu feedback.
+        > 
+        > Com os melhores cumprimentos,
+        > 
+        > Bruno Vicente  
+        > SKOLAE Formação
+
+*   **Variante 3: Baixa Fricção / Timing Q4 vs. 2027 (Startups / Scaleups / Decisores Ocupados)**
+    *   *Assunto:* `uma pergunta rápida, [Nome]`
+    *   *Template (PT-PT):*
+        > Olá [Nome], bom dia.
+        > 
+        > O meu nome é Bruno Vicente e acompanho a área de tecnologia e consultoria na SKOLAE.
+        > 
+        > Uma pergunta muito direta: nesta fase na [Nome da Empresa], a vossa prioridade está em fechar alguma ação pontual ainda para o que resta de 2026, ou já estão a desenhar o plano de capacitação para 2027?
+        > 
+        > Temos desenhado programas ágeis para ambas as fases e gostaria apenas de perceber se faria sentido uma breve troca de ideias de 10 minutos via Teams para nos conhecermos e partilharmos soluções práticas que temos levado a equipas do setor.
+        > 
+        > Diga-me se tiver disponibilidade num destes próximos dias.
+        > 
+        > Fico a aguardar o seu feedback.
+        > 
+        > Com os melhores cumprimentos,
+        > 
+        > Bruno Vicente  
+        > SKOLAE Formação
 
 ---
 

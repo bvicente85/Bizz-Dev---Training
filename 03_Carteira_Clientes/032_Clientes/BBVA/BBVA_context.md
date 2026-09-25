@@ -1,4 +1,4 @@
-﻿---
+---
 type: Cliente Context
 title: Contexto do Cliente - BBVA
 description: Perfil de contexto, setor e interlocutores do cliente BBVA.
@@ -16,7 +16,8 @@ timestamp: 2026-06-18T10:59:00Z
 * **Gestor de Conta (SKOLAE):** Bruno (anteriormente acompanhado pela Verónica)
 
 ## Stakeholders
-* **Radhika:** Ponto de contacto principal para a formação. Assume o papel de decisora/influenciadora no projeto de "Gestão do Tempo e Produtividade para Líderes".
+* **Radhika Darmeci:** Ponto de contacto principal e responsável de Recursos Humanos / Formação.
+* **Lúcia Bagio:** Equipa de suporte/gestão de formação do BBVA.
 * **Verónica:** Antiga gestora de conta da SKOLAE.
 
 ## Dores / Necessidades Iniciais

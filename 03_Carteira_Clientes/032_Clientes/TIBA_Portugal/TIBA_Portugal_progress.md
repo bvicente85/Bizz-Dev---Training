@@ -3,7 +3,7 @@ type: Progress Log
 title: Progresso Comercial - TIBA Portugal
 description: Estado do funil de vendas e tarefas de prospeção/proposta da TIBA Portugal.
 tags: [progresso, logistica, transportes]
-timestamp: 2026-07-09T11:35:00Z
+timestamp: 2026-09-15T11:45:00Z
 ---
 # Progresso e Funil: TIBA Portugal
 
@@ -11,19 +11,20 @@ timestamp: 2026-07-09T11:35:00Z
 *Links Relativos:* [Contexto](./TIBA_Portugal_context.md) | [Notas de Reunião](./TIBA_Portugal_meeting_notes.md)
 
 ## Status Atual
-* **Fase do Funil:** Formação Comercial Fechada / Prospeção de Cross-Selling (Team Building 2026 e Plano 2027)
-* **Última Interação:** 13/08/2026 (Reunião agendada para as 14h30 para discutir novas oportunidades)
-* **Próximo Marco:** Apresentar solução de Team Building ("Trust & Go") e alinhar estratégia para inter-empresas.
+* **Fase do Funil:** Formação Comercial Concluída (Sucesso) / Em Negociação: Soft Skills, Excel e Team Building
+* **Última Interação:** 15/09/2026 (E-mail de feedback muito positivo da Marta Gomes e pedido de debriefing/oportunidades de melhoria das formadoras)
+* **Próximo Marco:** Partilhar feedback consolidado das formadoras com a TIBA e acompanhar decisão das propostas de Soft Skills/Excel e Team Building
 
 ## Oportunidade em Negociação
-* **Formação de Sales Mindset & Prospeção Digital (Fechada/Organizada):**
-  * **Status:** Logística e calendário já fechados pelo Samuel Mourato (agosto 2026). Início em setembro.
-* **NEW - Team Building 2026 ("Trust & Go"):**
-  * **Tema:** Comunicação Assertiva, Gestão de Stress, Gestão de Tempo, Inteligência Emocional, Resolução de Problemas.
-  * **Status:** Cliente demonstrou interesse expresso. Tópico a discutir na reunião de 13/08.
-* **NEW - Plano de Formação 2027 (Soft Skills e Liderança):**
-  * **Tema:** Gestão de Conflitos, Gestão de Reclamações, Liderança e Gestão de Equipas.
-  * **Obstáculo:** Cliente perguntou por "formação inter-empresas" (inscrições avulso) porque tem poucos colaboradores para cada tema. Necessário aplicar a regra de objeção a calendário.
+* **Formação de Sales Mindset & Prospeção Digital (Concluída com Sucesso):**
+  * **Status:** Concluída a 14/09/2026. Feedback de excelência da cliente (equipas saíram da zona de conforto e elogio direto às formadoras).
+* **Proposta Enviada (11/09/2026) - Eficácia Pessoal e Excel:**
+  * **Eficácia Pessoal e Foco no Cliente:** 14h (Presencial ou Live Training) para turmas de 10-12 pax.
+  * **Microsoft Excel:** Live Training com diagnóstico prévio online gratuito (3 níveis).
+* **Team Building 2026:**
+  * **Status:** Apresentação geral das soluções enviada a 11/09/2026. A aguardar escolha de dinâmica pela TIBA para envio de proposta financeira.
+* **Plano de Formação 2027 (Liderança e Gestão de Equipas):**
+  * **Status:** Previsto arrancar em janeiro de 2027.
 
 ## Histórico de Interações
 * **29/06/2026 (Pedido de Informação):** Receção do pedido inbound via CRM.
@@ -33,19 +34,17 @@ timestamp: 2026-07-09T11:35:00Z
 * **09/07/2026 (Aceitação da Proposta):** Marta Gomes confirmou o interesse em avançar com o programa de 21h, solicitando clarificação sobre o formato híbrido (Porto/Lisboa e África), faturação e sugerindo a primeira quinzena de setembro. Resposta enviada por Bruno com proposta de reunião de preparação.
 * **Julho a Agosto 2026 (Backoffice):** Durante as férias do Bruno, o Gestor de Projetos Samuel Mourato fechou as datas, formadoras e o formato da formação de vendas com a Marta Gomes.
 * **10/08/2026 (Abertura de Cross-Selling):** Marta Gomes enviou o plano de formação 2026/2027, mostrando interesse num Team Building ("Trust & Go") para agregar soft skills, e questionou se a SKOLAE tem "formação inter-empresas" para 2027.
-* **13/08/2026 (Reunião de Cross-Selling):** Reunião agendada para as 14h30 com a Marta Gomes para discutir o Team Building de 2026 e o plano de 2027.
+* **17/08/2026 (Reunião de Cross-Selling):** Reunião com Marta Gomes para diagnosticar o Team Building (40-45 pax, 1 dia fora, quebra de silos) e formações dedicadas de Soft Skills e Excel.
+* **11/09/2026 (Envio de Proposta):** Envio da proposta formativa de Eficácia Pessoal + Excel e da apresentação de Team Buildings.
+* **14/09/2026 (Conclusão da Formação Comercial):** Realização da última sessão presencial em Lisboa com a formadora Helena Couras, completando as 21h do percurso.
+* **15/09/2026 (Feedback de Excelência):** Marta Gomes envia e-mail com rasgados elogios à formação e formadoras, solicitando o feedback das formadoras com oportunidades de melhoria para balizar futuros investimentos.
 
 ## Próximos Passos
 * **Ações de Bruno (SKOLAE):**
-  * [x] Enviar convite de calendário Teams para a reunião de sexta-feira, 03/07/2026, às 11:00.
-  * [x] Desenhar a proposta customizada de Sales Mindset com integração de pitch de valor logístico.
-  * [x] Apresentar a proposta na reunião de sexta-feira (03/07/2026, 11:00).
-  * [x] Enviar e-mail de envio da proposta comercial à Marta Gomes (03/07/2026).
-  * [x] Enviar proposta de 21h com módulo de prospeção técnica (08/07/2026).
-  * [x] Enviar e-mail de resposta logístico e de agendamento de reunião de preparação (09/07/2026).
-  * [x] Agendar e realizar a reunião de preparação e alinhamento com a formadora e a TIBA (Hoje - 13/08/2026).
-  * [ ] Emitir fatura no início da ação (prazo de pagamento a 30 dias).
+  * [x] Enviar proposta de Eficácia Pessoal e Excel e catálogo de Team Buildings (11/09/2026).
+  * [ ] Articular com o Samuel Mourato a recolha e consolidação do feedback das formadoras (Márcia, Cristina e Helena).
+  * [ ] Responder ao e-mail da Marta a agradecer o reconhecimento e a agendar breve reunião de debriefing (ou envio da síntese de oportunidades de melhoria).
+  * [ ] Fazer follow-up à proposta de Eficácia Pessoal e Team Building enviada a 11/09.
 * **Ações de Marta Gomes (TIBA):**
-  * [x] Analisar a proposta internamente com a direção e confirmar o interesse em avançar.
-  * [x] Responder com disponibilidade de data para a reunião de preparação.
-  * [ ] Definir e confirmar o local da sessão presencial em Lisboa.
+  * [ ] Analisar proposta de Eficácia Pessoal/Excel e catálogo de Team Buildings.
+  * [ ] Participar na reunião de debriefing pedagógico da formação comercial.

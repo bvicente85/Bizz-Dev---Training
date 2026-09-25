@@ -91,3 +91,4 @@ Se for detetado um caso de sucesso aplicável em [bd_casos_sucesso.md](file:///c
 
 ## Gatilho (Trigger)
 Sempre que o Bruno pedir: *"Cria o programa para o curso X"*, *"Desenha a estrutura do curso Y"* ou *"Prepara o conteúdo para a proposta Z"*.
+* **Geração Automática de Apresentação PowerPoint (.pptx):** Se o pedido for gerar a proposta diretamente em PowerPoint, deves ativar obrigatoriamente a [Skill_Gerar_Proposta_PowerPoint.md](file:///c:/Users/brunn/OneDrive%20-%20GIE%20IFE/Desktop/Bruno/PESSOAL/Business%20Development%20Formação/00_Instrucoes_Agente/Skill_Gerar_Proposta_PowerPoint.md), executando o script `00_Instrucoes_Agente/scripts/gerar_proposta_pptx.py` para produzir a apresentação 100% pronta e gravada na pasta do cliente.

@@ -19,9 +19,11 @@ timestamp: 2026-06-18T10:59:00Z
 * **Contacto Operativo (SKOLAE):** Joana Caparica
 
 ## Stakeholders
-* **Nuno Martins:** Diretor de Recursos Humanos
+* **Nuno Martins:** Gestão de Talento / Recursos Humanos Portugal
   * **Email:** nuno.martins@edensprings.pt
   * **Telefone:** [A confirmar]
+* **Colega no Porto:** Recrutamento e Formação (acompanha o projeto no Norte / Maia)
+* **Colega em Espanha:** Direção / Formação Ibérica (validação e aprovação de propostas)
 * **Outros contactos (base de dados):**
   * **Carlos Mendes:** Branch Manager (carlos.mendes@edensprings.pt)
   * **Inês Amado:** Técnica de Recursos Humanos (ines.amado@edensprings.pt)
@@ -30,12 +32,18 @@ timestamp: 2026-06-18T10:59:00Z
 * **Team Building OnStage (Realizado):**
   * Foco em trabalhar a comunicação eficaz e o espírito/coesão de equipa.
   * **Público-alvo:** 11 participantes (1 português e 10 espanhóis - equipa ibérica/bilingue). Realizado com sucesso a 17/06/2026.
-* **Curso de Liderança (Portugal) - Nova Oportunidade:**
-  * Solicitação efetuada a 18/06/2026 por Nuno Martins.
-  * Foco exclusivo no desenvolvimento de liderança para a equipa em Portugal.
-  * Detalhes de público-alvo, duração e datas em diagnóstico.
+* **Curso de Liderança - Nível 1 (Portugal) - Em Elaboração de Proposta:**
+  * Levantamento de necessidades detalhado a 21/09/2026 com Nuno Martins.
+  * **Objetivo:** Ferramentas essenciais para gerir equipas (missão do líder, feedback, estilos de liderança, objetivos/KPIs, motivação, gestão de conflitos, reuniões e produtividade).
+  * **Público-alvo:** Chefias intermédias e operacionais no mesmo patamar funcional (área de distribuição: Séniores de Distribuição e Team Leaders de Branch).
+  * **Estrutura:** 2 turmas presenciais:
+    * Turma Lisboa: 7 participantes (instalações da Aquaservice em Famões).
+    * Turma Porto: 7 participantes (zona da Maia - provável aluguer de sala externa).
+    * Potencial inclusão de +4 elementos comerciais (a confirmar).
+  * **Carga horária e Calendário:** 2 dias (ou 4 meios dias) por turma, entre outubro e final de novembro de 2026.
+  * **Evolução:** Nível 2 previsto para 2027 com maior especificidade funcional.
 
 ## Relação com a SKOLAE
-* Contacto e alinhamento preliminar efetuado por Joana Caparica.
-* Proposta comercial e financeira (Ref: 20454) adjudicada e executada com sucesso a 17/06/2026 (OnStage), recebendo feedback extremamente positivo do DRH.
-* Nova fase de levantamento de necessidades iniciada para formação em Liderança local em Portugal (Junho de 2026).
+* Contacto inicial e OnStage executado em junho de 2026 com feedback de excelência e faturação liquidada.
+* Reunião de levantamento de necessidades realizada a 21/09/2026 por Bruno Vicente.
+* Proposta pedagógica e financeira a entregar até 23/09/2026 (manhã) para análise com a equipa corporativa em Espanha.

@@ -30,3 +30,5 @@ A oportunidade anterior de formação em IA, tratada com outro interlocutor, dev
 2. Partilhar informação e link do Porto RH Meeting de novembro.
 3. Manter contacto com Bruna.
 4. Retomar conversa até ao final de 2026 para aprofundar os desafios de 2027 e perceber onde existe efetivamente fit com a oferta SKOLAE.
+
+*(Ata completa disponível em: `../../034_Reunioes_Clientes/2026-09/meeting-report-Transdev-2026-09-16.md`)*

@@ -18,6 +18,7 @@ timestamp: 2026-06-18T10:59:00Z
 *   `[ ]` Validar disponibilidade final da equipa de formadores para o cronograma de Lisboa (26/10 a 13/11), Aveiro (Rua Eng.º José Ferreira Pinto Basto) e Porto (Rua Tenente Valadim, 431)
 *   `[ ]` Enviar proposta definitiva de calendarização à Susana Colaço com a respetiva alocação de formadores
 *   `[ ]` Confirmar receção da Nota de Encomenda formal durante a primeira quinzena de outubro
+*   `[ ]` Acompanhar com André Calado o fecho das 7 inscrições da MEO na Conferência In Retail (Ana Cláudia Costa)
 
 ## Histórico de Interações
 *   **[11-12-2025]:** Ana Cláudia Costa contacta a SKOLAE (Nuno Jorge) a solicitar proposta para o planeamento de formação de 2026 para 13 competências estratégicas da MEO (soft skills, 8h-16h, ~15 formandos por turma).
@@ -38,6 +39,7 @@ timestamp: 2026-06-18T10:59:00Z
 *   **[31-08-2026]:** Envio de e-mail com a proposta comercial revista (Ref. 19170) e proposta pedagógica em PowerPoint detalhando as duas vertentes (Líderes 7h e Técnicos 14h), contemplando os 9 dias de sala e coffee-break em Lisboa.
 *   **[15-09-2026]:** A MEO (Susana Rita Fernandes Colaço) confirma a adjudicação do projeto de 8 turmas de Storytelling de 14h (3 Gestão e 5 Técnicas), solicita inclusão do módulo de Gestão da Ansiedade para as chefias, disponibiliza salas em Lisboa entre 26/10 e 13/11, e solicita proposta de cronograma e acordo com pagamento a 60 dias.
 *   **[15-09-2026 a 16-09-2026]:** Troca de e-mails entre Bruno Vicente e Susana Colaço: aceitação das condições a 60 dias, receção das moradas oficiais das salas da MEO no Porto (R. Tenente Valadim, 431) e em Aveiro (R. Eng.º José Ferreira Pinto Basto), e reenvio do anexo atualizado da proposta pedagógica/financeira com início da validação das agendas de formadores.
+*   **[16-09-2026]:** Ana Cláudia Costa (DPE | Learning & Development) informa que Sílvia Prestes indicou ser inscrição direta, reencaminhando o processo para André Calado; Bruno Vicente articulou internamente com André Calado e enviou e-mail de confirmação do seguimento operacional a Ana Cláudia Costa.
 
 
 

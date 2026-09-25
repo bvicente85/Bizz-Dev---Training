@@ -1,9 +1,9 @@
 ---
-type: Cliente Context
-title: Contexto do Cliente - Iberdrola_Clientes_Portugal
-description: Perfil de contexto, setor e interlocutores do cliente Iberdrola_Clientes_Portugal.
-tags: [cliente, energia]
-timestamp: 2026-06-18T10:59:00Z
+status: Ativo
+core_business: Energia (Eletricidade, Gás Natural e Energias Renováveis)
+decisores: [Andreia Pereira, Rita Teixeira, Rita Duarte, Catarina Farinha]
+data_ultima_interacao: 2026-09-25
+areas_interesse: [Comunicação Estratégica, Inteligência Artificial, Gestão de Projetos Ágeis, Excel, Liderança]
 ---
 # Contexto do Cliente: Iberdrola Portugal (Clientes & Renováveis)
 
@@ -27,6 +27,12 @@ timestamp: 2026-06-18T10:59:00Z
   * **Cargo:** People & Organization (Iberdrola Renováveis)
   * **Email:** ampereira@iberdrola.pt
   * **Telefone:** - (contacto reencaminhado por Rita Teixeira)
+* **Rita Duarte Duque Vinhas Ascenção:**
+  * **Cargo:** People & Organization / Acompanhamento Operacional (Iberdrola Renováveis)
+  * **Email:** rduarte@iberdrola.pt
+* **Catarina Sofia Farinha:**
+  * **Cargo:** People & Organization / Acompanhamento Operacional (Iberdrola Renováveis)
+  * **Email:** cfarinha@iberdrola.pt
 
 ## Dores / Necessidades Identificadas
 * **Pedido de Orçamento (Inbound - 02/06/2026) - Objetivos Detalhados:**

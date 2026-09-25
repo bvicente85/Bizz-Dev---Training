@@ -17,6 +17,7 @@ timestamp: 2026-07-06T13:55:00Z
 * **Gestor de Conta (SKOLAE):** Bruno Vicente
 
 ## Stakeholders
+* **Ana Pereira:** People & Culture / Formação (`ana.pereira@groupe-bel.com`). Substituiu a Margarida como ponto de contacto operacional para a formação.
 * **Diana:** People & Culture / Recursos Humanos
   * **Cargo:** Responsável de Recursos Humanos
 * **Tiago:** Diretor Industrial

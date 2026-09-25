@@ -26,6 +26,10 @@ Sempre que redigires e-mails de qualificação de oportunidades (inbound ou segu
 6. **Aplicação Flexível das Regras:** O espírito das regras (ausência de cobrança, concisão, fluidez) deve prevalecer sobre a replicação literal de frases pré-definidas. O e-mail final deve soar natural e comercialmente polido.
 7. **Follow-up em Análise de Proposta (Sem Chavões Vagos):** Em e-mails de acompanhamento a propostas enviadas que estejam sob avaliação, **proibir terminantemente chavões vazios de vendas** como *"fazer um ponto de situação"* ou *"breve ponto de situação"*. A mensagem deve perguntar de forma clara e direta pela previsão de conclusão da análise e disponibilizar esclarecimentos (ex: *"gostava de perceber se já têm alguma previsão quanto à conclusão da análise das propostas (...), ou se faz sentido esclarecer algum detalhe adicional do nosso lado"*).
 8. **Follow-up a Clientes Sem Resposta (Soft Break-up):** Quando um cliente deixar de responder após envio de informação ou proposta (*ghosting*), o e-mail de follow-up deve adotar uma abordagem de "Limpeza de Arquivo", dando "permissão para fechar" o assunto e retirando a culpa ao cliente. Usa a estrutura: *"Estou a fechar os projetos em aberto deste trimestre. Como não voltei a ter feedback, vou assumir que o vosso foco interno está noutras áreas e vou encerrar este assunto do nosso lado. Se a situação mudar, sinta-se à vontade para reabrir o contacto."* Evita formalismos excessivos ("reiterar disponibilidade") e não faças cobrança da falta de resposta.
+9. **Envio de Propostas Pedagógicas (Rapport Contextual & Concisão Extrema):** Sempre que redigires o e-mail de envio de uma proposta técnica/pedagógica a um cliente com relacionamento estabelecido ou após reunião de diagnóstico:
+   - **Rapport Contextual Inicial:** Se houver um detalhe contextual ou evento interno partilhado na conversa prévia (ex: uma visita da administração, uma viagem, um evento corporativo), iniciar o e-mail com uma nota curta e calorosa sobre esse facto (ex: *"Espero que a visita do vosso Administrador a Lisboa tenha corrido bem."*), antes de avançar para a fórmula de envio.
+   - **Estrutura de 2 Bullets Sem Ruído:** Sintetizar a solução em apenas dois bullets focados (ex: *Formato e Proximidade* das turmas/locais e *Metodologia prática* / dinâmicas-chave), cortando qualquer parágrafo explicativo redundante sobre o que o PDF anexo já detalha (evitar frases como *"O documento anexo detalha a carga horária..."*).
+   - **Fecho Ágil:** Fazer a transição direta para a disponibilidade de esclarecimento com *"Caso seja útil rever algum detalhe, por favor disponha."* e rematar com o fecho obrigatório *"Fico a aguardar o seu feedback."*.
 
 ## Diretrizes Ambientais e de Infraestrutura (Windows & CLI)
 Sempre que executares operações de ficheiro ou pesquisas no terminal:
@@ -45,11 +49,15 @@ Sempre que redigires comunicações em inglês (e-mails, propostas ou abordagens
 * **Proibição de Conectores IA:** Banir conectores académicos ou de inteligência artificial (*Furthermore, Moreover, Indeed, Therefore*).
 * **Tom:** Adotar um estilo coloquial-profissional, direto e empático, utilizando *phrasal verbs* comuns em ambiente de negócios internacional.
 
-## Abordagem a Novos Contactos (Cold Emails / Prospeção)
-Sempre que o utilizador pedir para redigir um "primeiro e-mail", uma "abordagem" a um novo contacto ou um "cold email":
-1. **Uso Obrigatório de Templates:** Deves seguir rigorosamente a estrutura definida no `bd_estilo_escrita.md` (Template A - Contactos Frios, ou Template H - Sequência de Prospeção). Não inventes templates novos.
-2. **Estrutura Base:** O e-mail deve conter uma apresentação direta ("O meu nome é Bruno Vicente..."), a validação do interlocutor ("Tenho a indicação de que lidera... / Gostaria de confirmar se este tema deve ser tratado consigo..."), o foco nas prioridades para os próximos meses (sem vender soluções logo de imediato) e um Call to Action leve ("breve conversa via Teams de 15 minutos" condicionado por um "Caso seja a pessoa indicada...").
-3. **Omissão de Contexto Colateral:** Nunca menciones pedidos de empresas subsidiárias, colegas de outras delegações ou eventos passados como "gancho" inicial, a menos que o utilizador peça explicitamente para usar essa alavanca. Por defeito, a abordagem deve ser tratada como um contacto 100% "frio" e focado apenas no interlocutor atual.
+## Abordagem a Novos Contactos (Cold Emails / Validação de Interlocutor)
+Sempre que o utilizador pedir para redigir um "primeiro e-mail", uma "abordagem" a um novo contacto ou um "cold email" para validar interlocutor:
+1. **Uso Obrigatório do Template Padrão:** Seguir rigorosamente o modelo simplificado e direto, sem listas de bullets ou parágrafos adicionais de apresentação setorial a menos que solicitado:
+   - **Abertura:** *"Olá [Nome], bom dia."*
+   - **Apresentação Direta:** *"O meu nome é Bruno Vicente e sou consultor da SKOLAE (Antiga Abilways), responsável pelo acompanhamento da [Empresa]."*
+   - **Validação de Pasta (Sem Rodeios):** *"Tenho a indicação de que poderá estar com a área da formação na [Empresa] e, nesta fase, gostaria de validar se este tema se mantém consigo ou se faria sentido falar com outro colega da equipa."*
+   - **Call to Action Leve:** *"Caso seja a pessoa indicada, teria disponibilidade para uma breve chamada via Teams (cerca de 15 minutos) nos próximos dias? O objetivo será apenas conhecermo-nos, compreender as vossas prioridades para os próximos meses e avaliar se existe algum tema onde vos possamos apoiar."*
+   - **Fecho Ágil:** *"Obrigado e até breve. / Cumprimentos,"*
+2. **Omissão de Ruído e Contexto Colateral:** Não adicionar bullets de áreas de intervenção nem reconstruir árvores de contactos anteriores, mantendo a abordagem 100% focada, limpa e de baixa fricção.
 
 ## Alertas Financeiros e Logísticos (Propostas & Custos Diretos)
 1. **Localização e Deslocações (Sede em Lisboa):** A sede da SKOLAE situa-se em Lisboa. Sempre que uma formação presencial decorrer fora da Grande Lisboa (ex: Torres Vedras, Porto, Évora, etc.), deves **emitir obrigatoriamente um alerta** para verificar se os custos de deslocação, portagens, alimentação e estadia do formador foram devidamente considerados na proposta financeira ou ressalvados como encargo do cliente.
@@ -75,4 +83,20 @@ areas_interesse: [Lista de tags de competências, ex: Liderança, Vendas, Excel]
 ---
 ```
 Isto garante que cada cliente funciona como um micro-banco de dados independente, exportável e imediatamente legível por máquinas.
+
+## Protocolo de Integridade e Atualização do Repositório (Workflow de Manutenção)
+Sempre que uma nova interação com cliente (notas de reunião, atas Granola, e-mails recebidos/enviados, decisões, próximos passos) for processada para atualização no GitHub:
+1. **Exclusividade de Escrita:** O `Chief_of_Staff` é o único agente com capacidade de escrita. Todos os especialistas (`Knowledge_Specialist`, `Commercial_Specialist`, `Learning_Solution_Specialist`) são estritamente *read-only*.
+2. **Auditoria Factual Prévia Obrigatória:** Antes de qualquer proposta de alteração, o `Knowledge_Specialist` deve obrigatoriamente auditar a informação contra os ficheiros existentes da conta para verificar se o cliente existe, identificar novidades reais, detetar duplicações e identificar conflitos.
+3. **Proposta de Alteração Estruturada (Diff Proposal):** O sistema deve apresentar sempre uma proposta discriminada (`[NOVO]`, `[MODIFICAR]`, `[SEM ALTERAÇÕES]`) identificando os ficheiros e secções exatas afetadas.
+4. **Portão de Confirmação Obrigatório (User Approval Gate):** É estritamente proibido escrever no repositório sem a confirmação e validação explícita do utilizador no chat.
+5. **Edição Cirúrgica Obrigatória:** Usar sempre substituição cirúrgica de blocos de texto (`replace_file_content`). É proibido sobrescrever ficheiros completos quando uma alteração cirúrgica for viável.
+6. **Criação de Ficheiros (`write_to_file`):** Permitida exclusivamente para novas atas/relatórios de reuniões (`034_Reunioes_Clientes/YYYY-MM/meeting-report-...md` ou na pasta do cliente) expressamente aprovadas. É expressamente **proibido criar automaticamente novas pastas de clientes ou novas estruturas de diretórios**; perante um cliente inexistente no repositório, o sistema deve alertar o utilizador e aguardar instruções prévias.
+7. **`meeting_notes.md` é Estritamente Append-Only:** As notas de reuniões anteriores nunca são apagadas ou modificadas; novos resumos são sempre acrescentados cronologicamente no final.
+8. **Preservação de Histórico:** O registo cronológico de interações (`_progress.md`) nunca pode ser truncado ou apagado.
+9. **Visibilidade de Conflitos:** Qualquer contradição ou divergência de dados entre a nova interação e o histórico prévio deve ser explicitamente sinalizada para decisão do utilizador, nunca sendo resolvida de forma silenciosa ou automática.
+10. **Zero Inferências em Ficheiros Factuais:** Hipóteses ou deduções do modelo nunca podem ser gravadas nos ficheiros de factos (`context.md`, `progress.md`, `meeting_notes.md`).
+11. **Preservação Estrutural:** Manter a hierarquia de pastas (`031_Bases_Dados`, `032_Clientes`, `033_Pedidos_Informacao`, `034_Reunioes_Clientes`) e a segregação funcional dos ficheiros (`context.md`, `progress.md`, `meeting_notes.md`).
+12. **Zero Git Ops & Preservação de Chats:** Não efetuar commits/pushes automáticos nem apagar ou alterar conversas antigas.
+
 

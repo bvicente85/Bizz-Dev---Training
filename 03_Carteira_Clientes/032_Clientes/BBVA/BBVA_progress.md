@@ -1,4 +1,4 @@
-﻿---
+---
 type: Progress Log
 title: Progresso Comercial - BBVA
 description: Estado do funil de vendas e tarefas pendentes de prospeção do cliente BBVA.
@@ -11,21 +11,23 @@ timestamp: 2026-06-18T10:59:00Z
 
 
 ## Status Atual
-* **Fase do Funil:** Fechado / Agendamento
-* **Última Interação:** 07/05/2026 (Email: Reagendamento para setembro)
-* **Data Alvo do Projeto:** Setembro de 2026 (Semana de 21 a 25 proposta)
+* **Fase do Funil:** Adjudicado / Em Operacionalização e Preparação
+* **Última Interação:** 16/09/2026 (Reunião de Preparação Pedagógica e Logística)
+* **Data Alvo do Projeto:** 2 e 3 de outubro de 2026
 
 ## Histórico de Interações
+* **16/09/2026:** Reunião de alinhamento com Radhika Darmeci, Lúcia Bagio, Joana Caparica, formadora Ana Rocha e Bruno Vicente. Validação metodológica e de conteúdos para «Gestão de Tempo e Produtividade para Gestores de Equipa». Levantamento de necessidades logísticas (sala, kits e avaliação de projetor).
 * **07/05/2026:** Receção de email da Radhika. Devido a compromissos previamente agendados e indisponibilidade de um formando nos dias 14 e 15, a formação em maio (formato 7h/dia falado ao telefone) foi cancelada. A Radhika solicitou o reagendamento para setembro, sugerindo a semana de 21 a 25.
 * **06/05/2026:** Conversa telefónica (Bruno e Radhika). Bruno propôs o formato de 7h/dia para viabilizar as datas de maio.
 * **05/05/2026:** Receção de email da Radhika a adjudicar a proposta revista. Solicitou a antecipação da ação de setembro para maio, propondo os dias 14, 15 (6 horas/dia) e 22 (2 horas de manhã) para um total de 14 horas.
 * **24/04/2026:** Reunião (Bruno e Radhika). Apresentação do Bruno como novo gestor de conta. Reajuste da proposta de "Gestão de Tempo": redução de 15 para 7 participantes (apenas Chefes de Equipa). Ação projetada para setembro. Identificado também interesse na oferta inter-empresas e tecnológica.
 
 ## Próximos Passos
-* **Imediato (SKOLAE - Bruno):**
-  * Confirmar disponibilidade da formadora para a semana de 21 a 25 de setembro.
-  * Responder à Radhika a confirmar as novas datas em setembro.
-* **Dependência (SKOLAE - Formadora):** Validação da agenda para a semana de 21 a 25 de setembro.
+* **Imediato (SKOLAE - Bruno / Logística):**
+  * `[ ]` Avaliar e confirmar com a logística a solução de projeção (parede vs. aluguer de projetor externo).
+  * `[ ]` Partilhar versão final do programa com Radhika Darmeci para parametrização na plataforma e convocatórias.
+* **Acompanhamento com Cliente (Radhika - BBVA):**
+  * `[ ]` Recolher morada das instalações do BBVA para transmitir à formadora Ana Rocha.
 
 
 

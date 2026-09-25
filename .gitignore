@@ -12,3 +12,6 @@ desktop.ini
 tmp/
 *.bak
 *.tmp
+__pycache__/
+*.pyc
+scratch/

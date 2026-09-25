@@ -31,11 +31,12 @@ timestamp: 2026-07-06T13:55:00Z
     * *Fase 5 – Transferência e Sustentação (6 meses depois / 9h)*: Apresentação formal do legado à organização, nova recolha de indicadores de baseline para comparação de progresso e potencial início de um segundo piloto.
 
 ## Histórico de Interações
+* **16/09/2026:** Reunião interna (Joana Caparica): Com a saída de colaboração da Sílvia, a 5.ª turma de Gestão de Conflitos é atribuída ao formador Nuno Ribeiro (briefing direto assegurado entre formadores). Identificada a nova interlocutora na Fromagerie BEL, Ana Pereira (`ana.pereira@groupe-bel.com`), que substituiu a Margarida.
 * **06/07/2026:** Receção e análise do programa detalhado "Keystone Program" elaborado pela Sílvia (docx recebido). Atualização da pasta do cliente com o contexto e plano de progressão comercial.
 * **01/07/2026:** Reunião de alinhamento comercial e pedagógico entre Bruno Vicente e Sílvia para debater as conclusões do diagnóstico informal feito com o Tiago nos Açores.
 * **Maio/Junho 2026:** Recusa da Sílvia em realizar avaliação psicológica pontual tradicional; proposta de uma abordagem contínua de desenvolvimento de liderança após reuniões no terreno com o Diretor Industrial (Tiago).
 
 ## Próximos Passos
-* **Imediato (Bruno):** `[ ]` Validar a estrutura do programa "Keystone Program" e consolidar com a ementa pedagógica.
-* **Curto Prazo (Bruno):** `[ ]` Contactar a Diana (RH) para agendar reunião no Teams de modo a apresentar a proposta.
-* **Curto Prazo (Bruno/Sílvia):** `[ ]` Preparar a proposta comercial/financeira com base nas 50h estimadas (34h diretas + 16h suporte).
+* **Imediato (Bruno):** `[ ]` Enviar nota à cliente Ana Pereira a apresentar a alteração de formador para o Nuno Ribeiro na 5.ª turma de Gestão de Conflitos, manifestando disponibilidade para uma breve reunião de apresentação se o cliente desejar.
+* **Médio Prazo (Bruno):** `[ ]` Validar a estrutura do programa "Keystone Program" e consolidar com a ementa pedagógica.
+* **Médio Prazo (Bruno):** `[ ]` Contactar a Diana (RH) para agendar reunião no Teams de modo a apresentar a proposta do Keystone Program.

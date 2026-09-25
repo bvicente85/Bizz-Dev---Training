@@ -11,6 +11,7 @@ areas_interesse:
   - Storytelling
   - Liderança
   - Soft Skills
+  - Conferências e Eventos de Retalho (In Retail)
 ---
 # Contexto do Cliente: Altice
 
@@ -50,6 +51,7 @@ areas_interesse:
     *   **Carreira Técnica (5 turmas: 3 Lisboa, 1 Aveiro, 1 Porto):** Programa de 2 dias (14 horas).
     *   **Logística:** Todas as sessões presenciais decorrem nas instalações da MEO em Lisboa, Porto e Aveiro.
     *   **Condições Comerciais:** Prazo de pagamento acordado a 60 dias; Nota de Encomenda formal prevista para a primeira quinzena de outubro.
+*   **[16-09-2026] - Inscrições Conferência In Retail (7 Colaboradores):** Pedido de Ana Cláudia Costa para integração de 7 colaboradores no evento In Retail com faturação via nota de encomenda. Processo articulado com Sílvia Prestes e reencaminhado para André Calado para operacionalização e emissão de proposta/inscrição direta.
 
 
 

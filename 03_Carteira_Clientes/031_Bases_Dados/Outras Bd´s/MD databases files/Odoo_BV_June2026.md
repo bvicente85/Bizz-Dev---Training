@@ -3,7 +3,6 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A PADARIA PORTUGUESA CQ - ACTIVIDADES HOTELEIRAS, LDA. | Ana Horta | ana.horta@apadariaportuguesa.pt | RH | Lisboa | Lisboa (PT) | Portugal | PT509323065 | Prospecting | Retail & FMCG sector | contactos a remover |
 | A PADARIA PORTUGUESA CQ - ACTIVIDADES HOTELEIRAS, LDA. | Diogo Mendes | diogo.mendes@apadariaportuguesa.pt | Head of Finance | Lisboa | Lisboa (PT) | Portugal | PT509323065 | Prospecting | Retail & FMCG sector | contactos a remover |
-| A PADARIA PORTUGUESA CQ - ACTIVIDADES HOTELEIRAS, LDA. | Susana Rosa | susana.rosa@apadariaportuguesa.pt | Diretora RH | Lisboa | Lisboa (PT) | Portugal | PT509323065 | Prospecting | Retail & FMCG sector | contactos a remover |
 | A SAMPAIO & FILHOS - TEXTEIS S.A. | Inês Palmeira | Ines.palmeira@asampaio.pt | Dir RH | SANTO TIRSO | Porto (PT) | Portugal |  | Prospecting | Industry |  |
 | A TEAM ANALYTICS LDA | Nuno Borges | Nborges@datamorfose.com | CEO | LISBOA | Lisboa (PT) | Portugal | PT515312045 | Prospecting | IT services & telco |  |
 | AAVANZ - INOVAÇÃO, UNIPESSOAL LDA | Nuno Cunha | nuno.cunha@aavanz.com | CEO | LISBOA | Lisboa (PT) | Portugal | PT509101305 | Prospecting | Education, Culture and Foundations |  |
@@ -36,7 +35,6 @@
 | AGUAS DO NORTE, S.A. | Isabel Fernandes | isabel.fernandes@ADP.PT | Técnica Superior de Recursos Humanos - Capital Humano | Vila Real | Vila Real (PT) | Portugal | PT513606084 | Prospecting | Industry |  |
 | AGUAS DO NORTE, S.A. | Maria de Fátima Cardoso Ribeiro Gomes | fatima.gomes@adp.pt | Supervisora Principal de Recursos Humanos - Gestão Administrativa | Vila Real | Vila Real (PT) | Portugal | PT513606084 | Prospecting | Industry |  |
 | AGUAS DO NORTE, S.A. | Maria João Fonseca | m.fonseca@ADP.PT | Técnica Superior de Recursos Humanos - Administrativa - Gestor Individual do Colaborador | Vila Real | Vila Real (PT) | Portugal | PT513606084 | Prospecting | Industry |  |
-| AGUAS DO NORTE, S.A. | Teresa Mendonça | teresa.mendonca@adnoroeste.pt | RESPONSAVEL RECURSOS HUMANOS | Vila Real | Vila Real (PT) | Portugal | PT513606084 | Prospecting | Industry |  |
 | AIR LIQUIDE MEDICINAL SA | Rita Tenrinho | rita.tenrinho@airliquide.com | HR Specialist | Algés | Lisboa (PT) | Portugal | PT501576436 | Prospecting | Healthcare & farma |  |
 | ALDI RETAIL, UNIPESSOAL LDA. | Duarte Rodrigues | duarte.rodrigues@aldi.pt | Marketing Specialist | Moita | Setúbal (PT) | Portugal |  | Low Potencial | Retail & FMCG sector |  |
 | ALDI RETAIL, UNIPESSOAL LDA. | Andreia Santos | andreia.santos@aldi.pt | Responsável de Formação | Moita | Setúbal (PT) | Portugal | PT516245708 | Low Potencial | Retail & FMCG sector |  |
@@ -79,7 +77,6 @@
 | AUTO-ESTRADAS DO ATLÂNTICO - CONCESSÕES RODOVIARIAS DE PORTUGAL, S.A. | Miguel Mósca Nunes | mnunes@aeatlantico.pt | Responsável de formação | Torres Vedras | Lisboa (PT) | Portugal | PT504290592 | Prospecting | Industry |  |
 | AUTO-ESTRADAS DO ATLÂNTICO - CONCESSÕES RODOVIARIAS DE PORTUGAL, S.A. | Rui Veiga | aea@aeatlantico.pt | IT Director | Torres Vedras | Lisboa (PT) | Portugal | PT504290592 | Prospecting | Industry |  |
 | AUTORIDADE DE SEGURANÇA ALIMENTAR E ECONÓMICA (ASAE) | João Codina | formacao@asae.pt | Chefe de Divisão de Recursos Humanos | Lisboa | Lisboa (PT) | Portugal | PT600080986 | Prospecting | Public sector |  |
-| AUTORIDADE DE SEGURANÇA ALIMENTAR E ECONÓMICA (ASAE) | Salomé Ribeiro | msribeiro@asae.pt | Gabinete de Planeamento Estratégico\\, Qualidade e Auditoria (GPEQA) | Lisboa | Lisboa (PT) | Portugal | PT600080986 | Prospecting | Public sector |  |
 | AUTORIDADE DE SEGURANÇA ALIMENTAR E ECONÓMICA (ASAE) | Susana Maya Leal | formacao@asae.pt | Gabinete de Planeamento Estratégico\\, Qualidade e Auditoria (GPEQA) | Lisboa | Lisboa (PT) | Portugal | PT600080986 | Prospecting | Public sector |  |
 | AUTOVISION, SOCIEDADE UNIPESSOAL, LDA. | Diogo Santo | diogo.santo@autoeuropa.pt | CHRO Iberia at Volkswagen Group Services | Quinta Do Anjo | Setúbal (PT) | Portugal | PT513002847 | Prospecting | Industry | contactos a remover |
 | AUTOVISION, SOCIEDADE UNIPESSOAL, LDA. | Nádia Costa | nadia.costa@autovision.pt |  | Quinta Do Anjo | Setúbal (PT) | Portugal | PT513002847 | Prospecting | Industry | contactos a remover |
@@ -132,7 +129,6 @@
 | BOMPORTO HOTELS, LDA | Telma Fundões | telmafundoes@gmail.com | RH | LISBOA | Lisboa (PT) | Portugal | PT513766790 | Prospecting | Hospitality & tourism sector |  |
 | BOMPORTO HOTELS, LDA | Vanesa Tipau | vanessa.tipau@hotmail.com | RH | LISBOA | Lisboa (PT) | Portugal | PT513766790 | Prospecting | Hospitality & tourism sector |  |
 | BOMPORTO HOTELS, LDA | Vanessa Tipau | vanessa.tipau@hotmail.com | Técnica de Recursos Humanos | LISBOA | Lisboa (PT) | Portugal | PT513766790 | Prospecting | Hospitality & tourism sector |  |
-| BOOST, IT, LDA. | Filipa Lopes | filipa.lopes@boost-it.pt | Happiness and Retention Manager \| Chief Happiness Officer (CHO) | LISBOA | Lisboa (PT) | Portugal | PT514756217 | Prospecting | IT services & telco |  |
 | BORGWARNER EMISSION SYSTEMS PORTUGAL | Joana Vila Pouca | jvilapouca@borgwarner.com | HR Master Data and Reporting | Lanheses | Viana do Castelo (PT) | Portugal |  | Prospecting | IT services & telco |  |
 | BORGWARNER EMISSION SYSTEMS PORTUGAL | Margarida Pimenta | mpimenta@borgwarner.com | Human Resources Intern | Lanheses | Viana do Castelo (PT) | Portugal |  | Prospecting | IT services & telco |  |
 | BORGWARNER EMISSION SYSTEMS PORTUGAL | Stephanie Macedo | smacedo@borgwarner.com | Training Specialist | Lanheses | Viana do Castelo (PT) | Portugal |  | Prospecting | IT services & telco |  |
@@ -184,15 +180,9 @@
 | CLÍNICA VETERINÁRIA DE MAFRA | NUNO ALBERTO PALMA PINHEIRO DA SILVA |  | Diretor Clínico | Mafra |  | Portugal | PT502797231 | Prospecting | Healthcare & farma | contactos a remover |
 | CMPEAE - EMPRESA DE ÁGUAS E ENERGIA DO MUNICIPIO DO PORTO EM | Jéssica Lopes | jessica.lopes@aguasdoporto.pt | Técnico Saúde e Segurança Trabalho | Porto | Porto (PT) | Portugal | PT507718666 | Low Potencial | Utilities services & energy |  |
 | COFICAB PORTUGAL - COMPANHIA DE FIOS E CABOS, LDA. | Vitor Fonseca | vitor.fonseca@coficab.com | Técnico de Recursos Humanos | Vale De Estrela | Guarda (PT) | Portugal |  | Low Potencial | Industry |  |
-| COFIDIS | Pedro Leitão | pedro.leitao@cofidis.pt | Coordenador comercial | Lisboa | Lisboa (PT) | Portugal |  | Prospecting | Financial services - banks & insurance |  |
-| COFIDIS | Rui Magalhães | rui.magalhaes@cofidis.pt | Responsavel Comercial | Lisboa | Lisboa (PT) | Portugal |  | Prospecting | Financial services - banks & insurance |  |
 | COFIDIS | Ana Cação | ana.cacao@cofidis.pt | Responsavel B2B Mkt & Business Development | Lisboa | Lisboa (PT) | Portugal | PT980125995 | Prospecting | Financial services - banks & insurance |  |
 | COFIDIS | Carina Lopes | carina.lopes@cofidis.pt | Wellbeing Specialist - Direção Experiência Colaborador | Lisboa | Lisboa (PT) | Portugal | PT980125995 | Prospecting | Financial services - banks & insurance |  |
-| COFIDIS | Inês Saúde | ines.saude@cofidis.pt | Talent & Development Manager | Lisboa | Lisboa (PT) | Portugal | PT980125995 | Prospecting | Financial services - banks & insurance |  |
-| COFIDIS | Patrícia Coelho | people_growth@cofidis.pt | Serviço People Growth | Lisboa | Lisboa (PT) | Portugal | PT980125995 | Prospecting | Financial services - banks & insurance |  |
-| COFIDIS | People Growth | people_growth@cofidis.pt | Departamento de Formaçao | Lisboa | Lisboa (PT) | Portugal | PT980125995 | Prospecting | Financial services - banks & insurance |  |
 | COFIDIS | Sandra Valente | sandra.valente@cofidis.pt | HR Development Specialist Direção Experiência Colaborador | Lisboa | Lisboa (PT) | Portugal | PT980125995 | Prospecting | Financial services - banks & insurance |  |
-| COFIDIS | Sofia Mergulhão Roque | sofia.roque@cofidis.pt | Head of People Wellbeing | Lisboa | Lisboa (PT) | Portugal | PT980125995 | Prospecting | Financial services - banks & insurance |  |
 | COLEP PACKAGING PORTUGAL SA | Marlene Rocha | marlene.rocha@colep-pk.com | Continuous Improvement Specialist | Vale de Cambra | Aveiro (PT) | Portugal | PT516267230 | Low Potencial | Industry |  |
 | COM4YOU UNIPESSOAL LDA | Beatriz Bento | beatriz.bento@becom.com.pt | Communication Business Partner | CRUZ QUEBRADA | Lisboa (PT) | Portugal | PT515816167 | Prospecting | Multi services & consulting |  |
 | CONCREMAT PREFABRICACAO E OBRAS GERAIS SA | Dulce Carreira | dcarreira@concremat.pt |  | PINHAL NOVO | Setúbal (PT) | Portugal | PT502018852 | Prospecting | Engineering services & construction |  |
@@ -292,7 +282,6 @@
 | FEELINTERNATIONAL LDA | Renata Costa | renata.costa@feel-group.com | People\\, Talent & Sustainability Technician | PORTO | Porto (PT) | Portugal | PT513996893 | Prospecting | Hospitality & tourism sector |  |
 | FH - FUTURE HEALTHCARE, SERVIÇOS DE SAÚDE E ASSISTÊNCIA S.A. | Mariana Peixoto | mariana.peixoto@future-healthcare.eu | Talent Management Lead | Lisboa | Lisboa (PT) | Portugal | PT506518434 | Prospecting | Financial services - banks & insurance |  |
 | FIAAL - FOMENTO INDUSTRIAL E AGRICOLA DO ALGARVE LDA | Luis Fernandes | luis.fernandes@fiaal.pt | General Manager | Faro | Faro (PT) | Portugal | PT500117500 | Prospecting | Industry |  |
-| FINAL SOLUTION - AGÊNCIA DE COMUNICAÇÃO, LDA | Cristiana Oliveira | cristiana.oliveira@fs-ac.pt | General Manager | AMADORA | Lisboa (PT) | Portugal | PT505272172 | Prospecting | Multi services & consulting |  |
 | FINANFARMA - SOCIEDADE FINANCEIRA DE CRÉDITO, S.A. | Luís Filipe Lopes | recursos.humanos@finanfarma.pt | Diretor de Recursos Humanos | Sintra | Lisboa (PT) | Portugal | PT507496345 | Prospecting | Financial services - banks & insurance |  |
 | FINERGE, S.A. | Ana Vieira Simões | ana.simoes@finerge.pt | Head of HR | Matosinhos | Porto (PT) | Portugal | PT513699953 | Prospecting | Utilities services & energy |  |
 | FINERGE, S.A. | Aurea Fernandes | aurea.mendes@finerge.pt | HR Manager \| People Development | Matosinhos | Porto (PT) | Portugal | PT513699953 | Prospecting | Utilities services & energy |  |
@@ -303,7 +292,6 @@
 | FROMAGERIES BEL PORTUGAL, S.A. | Margarida Lopes | margarida.lopes@groupe-bel.com | HR Administration Specialist | Vale Cambra | Aveiro (PT) | Portugal | PT503130630 | Key Account | Retail & FMCG sector |  |
 | FROMAGERIES BEL PORTUGAL, S.A. | Mario Saez | mario.saez@groupe-bel.com | HR Director - Ibérico | Vale Cambra | Aveiro (PT) | Portugal | PT503130630 | Key Account | Retail & FMCG sector |  |
 | FROMAGERIES BEL PORTUGAL, S.A. | Ricardo Marques | ricardo.marques@groupe-bel.com | Director Supply Chain | Vale Cambra | Aveiro (PT) | Portugal | PT503130630 | Key Account | Retail & FMCG sector |  |
-| FUJITSU TECHNOLOGY SERVICES | Ana Frade | ana.frade@fujitsu.com | Global Learning and Development Specialist | Lisboa | Lisboa (PT) | Portugal | PT500646791 | Prospecting | Multi services & consulting |  |
 | FUNDAÇÃO EUGÉNIO DE ALMEIDA | Carlos Henriques | carlos.henriques@fea.pt | Diretor de Recursos Humanos | Évora | Évora (PT) | Portugal | PT500730733 | Key Account | Education, Culture and Foundations |  |
 | FUNDAÇÃO EUGÉNIO DE ALMEIDA | Duarte Lopes | duarte.lopes@fea.pt | Enólogo | Évora | Évora (PT) | Portugal | PT500730733 | Key Account | Education, Culture and Foundations |  |
 | FUNDAÇÃO EUGÉNIO DE ALMEIDA | Maria João Herculano | maria.herculano@fea.pt | Human Resources Coordinator | Évora | Évora (PT) | Portugal | PT500730733 | Key Account | Education, Culture and Foundations |  |
@@ -329,7 +317,6 @@
 | GRANDVISION SUPPLY CHAIN (PORTUGAL), S.A. | Gabriela Oliveira | gabriela.oliveira@grandvision.pt | HR Manager | Vila Nova De Gaia | Porto (PT) | Portugal | PT510969933 | Prospecting | Retail & FMCG sector |  |
 | GRANDVISION SUPPLY CHAIN (PORTUGAL), S.A. | Mariana Braz | mariana.braz@grandvision.pt | HR Specialist | Vila Nova De Gaia | Porto (PT) | Portugal | PT510969933 | Prospecting | Retail & FMCG sector |  |
 | GRUPO AP HOTELS & RESORTS | Elsa Guerreiro | elsa.guerreiro@ap-hotelsresorts.com | Coorporate Human Resources Director | Albufeira | Faro (PT) | Portugal | PT507947843 | Prospecting | Hospitality & tourism sector | contactos a remover |
-| GRUPO AP HOTELS & RESORTS | Vania Costa | recursoshumanos@ap-hotelsresorts.pt | Tecnica Recursos Humanos | Albufeira | Faro (PT) | Portugal | PT507947843 | Prospecting | Hospitality & tourism sector | contactos a remover |
 | GRUPO BEL, S.A. | Dina Ferreira | dinaferreira@grupobel.pt | Recursos Humanos | Carnaxide | Lisboa (PT) | Portugal | PT505372592 | Prospecting | Retail & FMCG sector |  |
 | GRUPO BEL, S.A. | GRUDISUL SOC DISTRIBUIDORA DO SUL SA | dinaferreira@grupobel.pt | Recursos Humanos | Carnaxide | Lisboa (PT) | Portugal | PT505372592 | Prospecting | Retail & FMCG sector |  |
 | GRUPO HILTON - MOURASTOCK INVEST.TURÍSTICOS E HOTELEIROS, S.A | BEGONA CAMPOY | begona.campoy@hilton.com | DIRECTORA DE RECURSOS HUMANOS | Vilamoura | Faro (PT) | Portugal | PT514955732 | Prospecting | Hospitality & tourism sector |  |
@@ -367,7 +354,6 @@
 | INETUM TECH PORTUGAL S.A | Vera Conceição | vera.conceicao@inetum.com | Talent Manager | Lisboa | Lisboa (PT) | Portugal | PT502726890 | Prospecting | IT services & telco |  |
 | INFORLANDIA S.A. | Johny Valente | johny@inforlandia.pt | Corporate and Government Area Manager | Aveiro | Aveiro (PT) | Portugal | PT502425296 | Prospecting | IT services & telco |  |
 | INFRAQUINTA, E.M. | Daniela Branco | daniela.branco@infraquinta.pt | Técnica de recursos humanos | Almancil | Faro (PT) | Portugal | PT503830704 | Prospecting | Utilities services & energy |  |
-| INFRAQUINTA, E.M. | NATIVIDADE MARIA COELHO V | nvieira@infraquinta.pt | Chefia de Recursos Humanos | Almancil | Faro (PT) | Portugal | PT503830704 | Prospecting | Utilities services & energy |  |
 | INNOVARISK LDA | Carla Gomes | carla.gomes@hiscox.com | Head of HR Iberia & Ireland | LISBOA | Lisboa (PT) | Portugal | PT510624138 | Prospecting | Financial services - banks & insurance |  |
 | INNOVARISK LDA | Filipa Lêdo | filipa.ledo@innovarisk.eu | Gestora Formação e Desenvolvimento | LISBOA | Lisboa (PT) | Portugal | PT510624138 | Prospecting | Financial services - banks & insurance |  |
 | INNOWAVE TECHNOLOGIES, S.A. | Mónica Carvalho | monica.carvalho@innowave.tech | Head of Performance & Governance | Lisboa | Lisboa (PT) | Portugal | PT508453488 | Prospecting | IT services & telco |  |
@@ -462,9 +448,7 @@
 | MIND SOFTWARE MULTIMEDIA E INDUSTRIAL SA | Joana Vieira | joana.vieira@mind.pt | People & Culture Specialist | SANTA MARIA DA FEIRA | Porto (PT) | Portugal | PT503857769 | Prospecting | IT services & telco | contactos a remover |
 | MINDERA - ENGMINDERA, SOFTWARE ENGINEERING, S.A. | Cátia Amaral | catia.amaral@mindera.com | Recruitment and People Relations | PORTO | Porto (PT) | Portugal | PT513199560 | Prospecting | IT services & telco |  |
 | MINDSHARE, A.C.E. | Teresa Oliveira | teresa.oliveira@mindshareworld.com | CEO | Lisboa | Lisboa (PT) | Portugal | PT504067214 | Prospecting | Multi services & consulting |  |
-| MINSAIT - INDRA - SISTEMAS PORTUGAL, S.A. | Catarina Vargas | cvargas@minsait.com | HR Manager | Amadora | Lisboa (PT) | Portugal | PT506176142 | Prospecting | IT services & telco |  |
 | MINSAIT - INDRA - SISTEMAS PORTUGAL, S.A. | Susana Carvalho | scarvalho@minsait.com | Human Resources | Amadora | Lisboa (PT) | Portugal | PT506176142 | Prospecting | IT services & telco |  |
-| MINSAIT - INDRA - SISTEMAS PORTUGAL, S.A. | Teresa Vicente | tvicente@minsait.com | Head Of People | Amadora | Lisboa (PT) | Portugal | PT506176142 | Prospecting | IT services & telco |  |
 | MOCOFFEE EUROPE, LDA | Ricardo Flores | ricardo@mocoffee.com | CEO & Growth | Lisboa | Lisboa (PT) | Portugal | PT513874151 | Prospecting | Retail & FMCG sector |  |
 | MOLAFLEX | Molaflex | clara.reis@molaflex.com | Técnico Recursos Humanos |  |  |  |  | Prospecting | Industry |  |
 | MOLAFLEX COLCHOES SA | Clara Reis | clara.reis@molaflex.com | Técnico Recursos Humanos | ESPARGO | Porto (PT) | Portugal | PT502088176 | Prospecting | Industry | contactos a remover |
@@ -555,7 +539,6 @@
 | PERFINOX - INDÚSTRIA METALÚRGICA, LDA. PERFINOX - INDÚSTRIA METALÚRGICA, LDA. | Cristina Hneriques | cristina.henriques@perfinox.pt | Senior HR | Arouca | Aveiro (PT) | Portugal | PT503823724 | Prospecting | Industry | contactos a remover |
 | PERFINOX - INDÚSTRIA METALÚRGICA, LDA. PERFINOX - INDÚSTRIA METALÚRGICA, LDA. | Salomé Campelo | salome.campelo@perfinox.pt | HR Director | Arouca | Aveiro (PT) | Portugal | PT503823724 | Prospecting | Industry | contactos a remover |
 | PERFUMARIA DOUGLAS PORTUGAL, LDA | Susana Pombo | s.pombo@douglas.pt | Responsável RH | Lisboa | Lisboa (PT) | Portugal | PT504573527 | Prospecting | Retail & FMCG sector | contactos a remover |
-| PERFUMES & COMPANHIA, SA | Sara Moreira | sara.moreira@perfumesecompanhia.pt | Responsável de Formação | Lisboa | Lisboa (PT) | Portugal | PT504163515 | Prospecting | Retail & FMCG sector |  |
 | PERINO LDA. | Patrícia Camacho | patricia.camacho@thl.pt | Recursos Humanos | Estrada Nac 249/3 Alto da Bela Vista, Cacem | Lisboa (PT) | Portugal | PT503324060 | Prospecting | Engineering services & construction |  |
 | PETROTEC - INOVAÇÃO E INDUSTRIA S.A. | Filipe Ferreira | filipe.ferreira@petrotec.com | Diretor de Capital Humano | PONTE GMR | Braga (PT) | Portugal | PT501381201 | Prospecting | Education, Culture and Foundations |  |
 | PETROTEC - INOVAÇÃO E INDUSTRIA S.A. | Juliana Pereira | juliana.pereira@petrotec.com | Técnica de Recursos Humanos | PONTE GMR | Braga (PT) | Portugal | PT501381201 | Prospecting | Education, Culture and Foundations |  |
@@ -787,7 +770,6 @@
 |  | Cláudia Ferreira | claudia.ferreira@covipor.pt | Diretora de Recursos Humanos | Santo Tirso | Porto (PT) | Portugal |  | Low Potencial | Multi services & consulting |  |
 | ÁGUAS DE GAIA, EM, S.A | Cristiana Pires | cristianap@aguasgaia.pt | Técnico Superior de RH | Vila Nova De Gaia | Porto (PT) | Portugal |  | Prospecting | Utilities services & energy |  |
 | UNILABS - UNI SHARED SERVICES, A.C.E. | Eduardo Queijo | eduardo.queijo@unilabs.com | Diretor de Recursos Humanos | Porto | Porto (PT) | Portugal |  | Prospecting | Multi services & consulting |  |
-| GRUPO TROFA SAÚDE, SGPS, S.A. | Filipa Monteiro | filipa.monteiro@trofasaude.com | Responsável Desenvolvimento RH | V. N. de Gaia | Porto (PT) | Portugal |  | Prospecting | Healthcare & farma |  |
 | COLQUIMICA - INDÚSTRIA NACIONAL DE COLAS, S.A. | Inês Póvoas | ines.povoas@colquimica.pt | HR Coordinator | Valongo | Porto (PT) | Portugal |  | Prospecting | Industry |  |
 | AVELEDA, S.A. | Leonor Sottomayor Domingues | leonor.sottomayor@aveleda.pt | HR Key Manager | Penafiel | Porto (PT) | Portugal |  | Low Potencial | Agriculture and Agrobusiness |  |
 | APPLUS PORTUGAL , LDA | Liliana Araújo | liliana.araujo@applus.com | Diretora RH | Vila do Conde | Porto (PT) | Portugal |  | Prospecting | Multi services & consulting |  |
@@ -795,14 +777,10 @@
 | SIKA PORTUGAL - PRODUTOS CONSTRUÇÃO E INDÚSTRIA S.A. | Marta Almeida | almeida.marta@pt.sika.com | Diretor de Recursos Humanos | Vila Nova De Gaia | Porto (PT) | Portugal |  | Prospecting | Industry |  |
 | BNP PARIBAS FACTOR - SOCIEDADE FINANCEIRA DE CRÉDITO, S.A. | Pedro Baldaque | pedro.baldaque@bnpparibas.com | HR Officer | Porto | Porto (PT) | Portugal |  | Prospecting | Financial services - banks & insurance |  |
 | LINDE GLOBAL SERVICES PORTUGAL, UNIPESSOAL, LDA | Rita Fontes | rita.fontes@linde.com | HR Manager | Maia | Porto (PT) | Portugal |  | Prospecting | Multi services & consulting |  |
-| I-CHARGING, MOBILIDADE ELÉTRICA S.A. | Rita Pereira | rita.pereira@i-charging.pt | HR Coordinator | Matosinhos | Porto (PT) | Portugal |  | Prospecting | Industry |  |
 | LINDE GLOBAL SERVICES PORTUGAL, UNIPESSOAL, LDA | Sara Cabanas | sara.cabanas@linde.com | HR Recruitment Specialist | Maia | Porto (PT) | Portugal |  | Prospecting | Multi services & consulting |  |
 | LINDE GLOBAL SERVICES PORTUGAL, UNIPESSOAL, LDA | Sofia Brás | sofia.bras@linde.com | Human Resources Specialist | Maia | Porto (PT) | Portugal |  | Prospecting | Multi services & consulting |  |
-| CEREALIS - PRODUTOS ALIMENTARES, S.A. | Bruna Rocha | bruna.rocha@cerealis.pt | HR Business Partner | Maia | Porto (PT) | Portugal | PT500068860 | Prospecting | Retail & FMCG sector |  |
 | THE EDITORY COLLECTION HOTELS, S.A. | Carla Correia | cfcorreia@editoryhotels.pt | HR Business Partner | PORTO | Porto (PT) | Portugal |  | Prospecting | Hospitality & tourism sector |  |
 | SCHMITT - ELEVADORES, LDA. | Carla Novais | c.novais@schmitt-elevadores.com | Técnica de RH | São Mamede de Infesta | Porto (PT) | Portugal |  | Prospecting | Engineering services & construction |  |
-| BA GLASS PORTUGAL, S.A. | CRISTINA FREITAS | cfreitas@bavidro.com | RESP. DEPART. RECURSOS HUMANOS | AVINTES | Porto (PT) | Portugal | PT500041393 | Prospecting | Industry |  |
-| HESS PORTUGAL | Daniela Pinheiro | daniela.pinheiro@hess-lda.pt | DRH | Vila Nova de Famalicão | Braga (PT) | Portugal |  | Prospecting | Industry |  |
 | THE EDITORY COLLECTION HOTELS, S.A. | Diana Moreira | dpmoreira@editoryhotels.pt | Recursos Humanos | PORTO | Porto (PT) | Portugal |  | Prospecting | Hospitality & tourism sector |  |
 | BANEMA - MADEIRAS E DERIVADOS, S.A | Filipa Araújo | filipa.araujo@banema.pt | Recursos Humanos | Camarate | Lisboa (PT) | Portugal |  | Prospecting | Industry |  |
 | UNILABS - UNI SHARED SERVICES, A.C.E. | Geovânia Cardoso | maria.geovania.cardoso@unilabs.com | Payroll Technician | Porto | Porto (PT) | Portugal |  | Prospecting | Multi services & consulting |  |
@@ -822,11 +800,9 @@
 | ADCLICK, S.A. | Departamento RH | rh@adclick.pt | HR | PORTO | Porto (PT) | Portugal |  | Prospecting | Multi services & consulting |  |
 | COLEP PORTUGAL, SA | Francisca Blanquet | francisca.blanquet@colep-cp.com | Human Resources Business Partner | Porto | Porto (PT) | Portugal |  | Prospecting | Industry |  |
 | MONTEIRO RIBAS - EMBALAGENS FLEXÍVEIS SA | Hugo Guimarães | hg@mri.pt | Técnico de R.H. | Estrada Da Circunvalacao, 9020 Apartado 5251 | Porto (PT) | Portugal | PT500173176 | Low Potencial | Industry |  |
-| COLEP PORTUGAL, SA | Joana Maia | joana.maia@colep-pk.com | People Business Partner & Labour Relations | Porto | Porto (PT) | Portugal |  | Prospecting | Industry |  |
 | DEVSCOPE, S.A. | Márcia Teixeira | marcia.teixeira@devscope.net | ESG Manager | Porto | Porto (PT) | Portugal |  | Prospecting | IT services & telco |  |
 | ARMIS - SISTEMAS DE INFORMAÇÃO S.A. | Orlando Bissacot Neto | orlando.neto@armis.pt | Diretor de Recursos Humanos | Porto | Porto (PT) | Portugal |  | Prospecting | IT services & telco |  |
 | TELEPIZZA PORTUGAL - COMÉRCIO DE PRODUTOS ALIMENTARES, S.A. | Rafaela Ramos | rafaela.ramos@fooddeliverybrands.com | Coordenadora de Recursos Humanos | Almada | Setúbal (PT) | Portugal |  | Prospecting | Retail & FMCG sector |  |
-| ARMIS - SISTEMAS DE INFORMAÇÃO S.A. | Sofia Pires | sofia.pires@armis.pt | Responsável RH | Porto | Porto (PT) | Portugal |  | Prospecting | IT services & telco |  |
 | Details Hospitality, Sports & Leisure, S.A. | Teresa Féria | teresa.feria@details.net | Diretora de Recursos Humanos | Albufeira | Faro (PT) | Portugal | PT508838398 | Low Potencial | Hospitality & tourism sector |  |
 | CS WIND PORTUGAL, S.A. | Ana Francisca Martins | afvalente@cswind.com | Técnico RH | Sever do Vouga | Aveiro (PT) | Portugal | PT513669264 | Prospecting | Utilities services & energy |  |
 | CS WIND PORTUGAL, S.A. | Andreia Lopes | alopes@cswind.com | Formação | Sever do Vouga | Aveiro (PT) | Portugal | PT513669264 | Prospecting | Utilities services & energy |  |

@@ -21,8 +21,6 @@ timestamp: 2026-06-18T10:59:00Z
 * **Sandra Cunha** (Compradora - Alvo da formação)
   * Email: `sandra.cunha@apadariaportuguesa.pt`
   * Telefone: `969253551`
-* **Susana Rosa** (Diretora de Recursos Humanos)
-  * Email: `susana.rosa@apadariaportuguesa.pt`
 * **Ana Horta** (Recursos Humanos)
   * Email: `ana.horta@apadariaportuguesa.pt`
 * **Diogo Mendes** (Head of Finance)
