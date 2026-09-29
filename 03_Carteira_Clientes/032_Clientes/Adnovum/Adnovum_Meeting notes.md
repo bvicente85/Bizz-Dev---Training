@@ -1,5 +1,25 @@
 # Registo de Interações: Adnovum
 
+## Interação: 25/09/2026 - Conclusão do Processo de Liderança, FCT e Transição de Interlocutora
+*   **Intervenientes:** Raquel Gomes (Adnovum), Bruno Vicente e equipa de People (`people@adnovum.pt` em CC, incluindo Maria Mariscal e Patrícia Torres).
+*   **Formato:** E-mails trocados (Recebido e Respondido).
+*   **1. Resposta Recebida de Raquel Gomes:**
+    > *"Boa tarde, Bruno. Muito obrigada pelo contacto e pelas várias tentativas de contacto para retomar este tema. Entretanto, tivemos algumas alterações que acabaram por condicionar a evolução deste plano. Em primeiro lugar, ainda não conseguimos concluir com sucesso o resgate dos FCT, pelo que, neste momento, não temos condições para avançar com a formação. Relativamente à formação de Liderança, creio que fiquei com a ideia de que já vos tinha dado esta indicação, mas aparentemente não: decidimos não avançar com esta formação, uma vez que temos atualmente uma oferta interna nesta área e, nesse sentido, não fará sentido manter as duas formações em paralelo. Acrescento também que estou de saída da empresa e que este tema passará a ser acompanhado pela minha colega Maria Mariscal. Face a estas circunstâncias, neste momento não conseguimos ainda indicar uma previsão para avançarmos com as restantes formações. Assim que tivermos maior clareza relativamente ao planeamento e às condições para avançar, a Maria dará continuidade ao tema convosco. Mais uma vez, obrigada pela disponibilidade e pelo acompanhamento ao longo deste processo, e peço desculpa por só agora conseguirmos dar-vos este ponto de situação. Cumprimentos,"*
+*   **2. Resposta Institucional Enviada por Bruno Vicente:**
+    > *"Boa tarde, Raquel. Obrigado pelo ponto de situação e pela clareza relativamente ao tema. Compreendo perfeitamente a decisão relativamente à formação de Liderança, sobretudo tendo em conta a solução interna que têm atualmente. Da nossa parte, fica então o tema em pausa, sem qualquer problema. Agradeço também a indicação da Maria Mariscal. Fico naturalmente disponível para dar continuidade ao contacto com ela quando houver maior clareza relativamente ao planeamento e às restantes necessidades de formação. Desejo-lhe as maiores felicidades para esta nova etapa e agradeço toda a disponibilidade e colaboração ao longo deste processo. Obrigado e até breve. Bruno Vicente"*
+*   **Conclusão e Próximo Passo:** Oportunidade de Liderança encerrada sem atrito. Restantes áreas em pausa aguardando resolução interna do FCT. Transição mapeada para Maria Mariscal.
+
+---
+## Interação: 25/09/2026 - Follow-up de Aprovação Interna e Alinhamento de Planeamento
+*   **Intervenientes:** Bruno Vicente e Raquel Gomes (Adnovum).
+*   **Formato:** E-mail de Seguimento (Enviado).
+*   **Resumo:** Envio de mensagem direta e focada em descompressão comercial a retomar o plano de Liderança, Comunicação e Resiliência (Ref: 18080):
+    * Questionado se conseguiram avançar com a aprovação interna e se já têm previsão de realização;
+    * Concedida flexibilidade explícita caso o tema tenha ficado para mais tarde, de forma a ajustar o planeamento mútuo sem pressão;
+    * Proposta de agendamento da reunião de alinhamento pedagógico e fecho de datas caso estejam em condições de avançar.
+*   **Próximo Passo:** Aguardar feedback da Raquel Gomes para agendar reunião pedagógica ou atualizar timing de fecho.
+
+---
 ## Interação: 04/09/2026 - Envio de E-mail de Retoma Comercial
 *   **Intervenientes:** Bruno Vicente e Raquel Gomes (Adnovum).
 *   **Formato:** E-mail de Seguimento (Enviado).
