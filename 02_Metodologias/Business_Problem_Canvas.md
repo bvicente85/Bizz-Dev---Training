@@ -27,7 +27,7 @@ Contexto → Problema → Diagnóstico → Hipótese → Competências → Solu�
 | :--- | :--- | :--- | :--- |
 | **Nível 1 — Fast Track** | Pedido concreto + contexto suficiente (ex: agendamento de reunião pontual, follow-up direto, necessidade fechada) | Resposta ágil e direta sem burocracia desnecessária | CoS ou Commercial Specialist direto |
 | **Nível 2 — Calibration** | Necessidade declarada com lógica clara, carecendo apenas de ajuste em 1 ou 2 variáveis operacionais/pedagógicas | Calibração de formato, público-alvo, horários ou modalidade | CoS + LSS / CS para perguntas pontuais |
-| **Nível 3 — Diagnostic Mode** | Necessidade genérica, ambígua ou sintomática (ex: "precisamos de formação em liderança/comunicação") | Aplicação estrita do *Challenge Before Solution* e construção do Canvas v2 | CoS (Canvas) + KS (histórico) + CS (4MAT/Ockham) + LSS (Solution Fit posterior) |
+| **Nível 3 — Diagnostic Mode** | Necessidade genérica, ambígua ou sintomática (ex: "precisamos de formação em liderança/comunicação") | Aplicação estrita do *Challenge Before Solution* e construção do Canvas v2. *(Em reuniões com cliente, mobiliza o Mapa de Conversa Orgânico em 6 Perguntas Nucleares — ver regra 12 em AGENTS.md)* | CoS (Canvas) + KS (histórico) + CS (4MAT/Ockham) + LSS (Solution Fit posterior) |
 | **Nível 4 — Exploration Mode** | Prospecção sem necessidade declarada (lead fria, nova ligação de rede, validação de interlocutor) | Diagnóstico prospectivo em 9 blocos com hipóteses e ângulos de abordagem | CoS + KS (factos/fontes) + CS (hipóteses e outreach de baixo atrito) |
 
 ---

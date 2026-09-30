@@ -221,10 +221,21 @@ Sempre que uma nova interação com cliente (notas de reunião, atas Granola, e-
 11. **Estrutura Final em 13 Blocos (Exploration Mode):**
     1. FACTS | 2. EXTERNAL CONTEXT | 3. COMPANY SIGNALS | 4. POTENTIAL PROBLEM SIGNALS | 5. HYPOTHESES (máx. 3 ou *None validated*) | 6. WHAT WE DON'T KNOW | 7. VALIDATION QUESTIONS (5–7) | 8. CONVERSATION ANGLES (2–3) | 9. WHAT NOT TO ASSUME | 10. RECOMMENDED OUTREACH (com Commercial Intent, Role, Next Step e Commercial Door) | 11. NEXT-STEP LOGIC | 12. DIAGNOSTIC CONFIDENCE | 13. CHALLENGE THE BD.
 
-
-
-
-
+12. **Preparação de Reuniões de Diagnóstico: Framework Analítico vs. Mapa de Conversa Orgânico:**
+    Nas reuniões de qualificação e diagnóstico (Nível 3 — Diagnostic Mode / Problem-Led), o sistema deve respeitar estritamente a fronteira entre a análise interna e a condução da conversa no terreno:
+    - **Framework Analítico Interno $\neq$ Mapa de Conversa de Terreno:** O *Business Problem Canvas*, o *4MAT* ou os níveis de *Kirkpatrick* são grelhas de pensamento pós-reunião para o consultor e o especialista pedagógico desenharem a intervenção. É expressamente proibido despejar frameworks ou checklists de 15 perguntas para o consultor "preencher" durante a reunião. O guião deve ser um **Mapa de Conversa Orgânico** estruturado em torno de **6 Perguntas Nucleares**.
+    - **Proibição Absoluta de Perguntas Contaminadas (No Leading Questions):** É expressamente proibido introduzir opções, deduções ou hipóteses prévias nas perguntas ao cliente (ex.: nunca perguntar *"foi por perda de clientes ou projetos internacionais?"* nem *"a dificuldade é de estrutura, confiança ou gestão de perguntas?"*). As perguntas devem ser estritamente abertas: *"O que aconteceu para esta necessidade surgir agora?"* e *"Onde sentem que está a principal dificuldade?"*. Sempre que o cliente apresentar um sintoma abstrato (*"falam demasiado"*, *"não têm impacto"*), o consultor deve pedir imediatamente ancoragem factual: ***"Consegue dar-me um exemplo prático de algo que tenha acontecido recentemente?"***.
+    - **As 6 Perguntas Nucleares do Mapa de Conversa:**
+      * **P1. Origem da Necessidade (O Gatilho):** *"O que aconteceu para esta necessidade surgir agora?"*
+      * **P2. Contexto Real de Aplicação (As Situações):** *"Em que situações concretas estas pessoas precisam de fazer este tipo de apresentação/ação?"*
+      * **P3. Diagnóstico do Comportamento Atual:** *"E o que é que normalmente acontece nessas situações? Onde sentem que está a principal dificuldade?"* (com pedido de exemplos práticos).
+      * **P4. Gap Comportamental:** *"O que gostariam que estas pessoas conseguissem fazer de forma diferente?"*
+      * **P5. Critério Real de Sucesso (Evidência de Mudança):** *"Se daqui a algum tempo disserem que esta formação resultou, o que é que terá mudado na prática? Como perceberiam internamente essa mudança?"*
+      * **P6. Parâmetros Operacionais de Desenho (no final):** Volume de formandos, funções/senioridade, preferências de formato, local, timing e decisores envolvidos.
+    - **Teste Obrigatório 'Intervention Before Training':** Antes de fechar a reunião, testar se a necessidade é puramente pedagógica ou se exige intervenções organizacionais: *"Para além de desenvolver competências, existe alguma alteração de processo, ferramentas, acompanhamento dos managers ou contexto de trabalho que considerem necessária para que estas pessoas consigam aplicar isto no dia a dia?"*.
+    - **Proibição de Antecipar Soluções e Rácios no Diagnóstico:** Nunca condicionar rácios de participantes (ex.: *"turmas de 8 a 12 pax"*) nem técnicas pedagógicas específicas (ex.: *"gravações de vídeo"*) durante a reunião de levantamento. As variáveis operacionais são recolhidas como dados neutros e analisadas internamente a posteriori.
+    - **Aberturas Naturais vs. Fórmulas de Consultoria:** Banir frases ensaiadas como *"o nosso objetivo não é falar da SKOLAE nem despejar um catálogo"*. Iniciar com uma transição limpa e credível: reconhecer os requisitos já recebidos e focar em compreender o contexto real das equipas antes de pensar na solução.
+    - **Matriz Obrigatória "O Que NÃO Assumir":** Toda a preparação de reunião deve incluir a tabela de premissas a evitar, desconstruindo termos genéricos (ex.: *Elevator Pitch $\neq$ apresentar a empresa; problema $\neq$ falta de confiança; problema $\neq$ barreira linguística; formação $\neq$ única intervenção indicada*).
 
 
 ## Doutrina Geral de Raciocínio e Qualidade de Escrita

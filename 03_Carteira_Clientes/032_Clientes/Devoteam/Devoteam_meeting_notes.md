@@ -71,3 +71,23 @@
 > Com os melhores cumprimentos,  
 > Bruno Vicente  
 > SKOLAE Formação"
+
+---
+
+## Chamada Telefónica de Alinhamento: 29 de Setembro de 2026
+
+**Participantes:** Bruno Vicente (SKOLAE) e Carolina Lopes (L&D Specialist - Devoteam)  
+**Data:** 29 de setembro de 2026 (17:27)  
+**Canal:** Chamada telefónica  
+**Registo Granola:** [`Devoteam - chamada`](https://notes.granola.ai/d/18c72687-2b5d-41a6-a0d0-9a00bff3b98a)
+
+### Resumo e Pontos Principais:
+* **Contexto do Contacto:** Chamada no seguimento do e-mail enviado por Bruno Vicente com proposta de reunião para diagnóstico da formação em "Elevator Pitch" e Técnicas de Apresentação.
+* **Justificação de Ausência de Resposta:** Carolina Lopes confirmou que viu a mensagem enviada na véspera, mas não teve oportunidade de responder devido a prioridades urgentes de trabalho.
+* **Disponibilidade Imediata:** Sem disponibilidade de agenda para reunir durante a corrente semana.
+* **Agendamento Acordado:** 
+  * Reunião a realizar na semana seguinte via Microsoft Teams.
+  * Segunda-feira (5 de outubro) é feriado.
+  * Carolina sugeriu **quinta-feira, 8 de outubro, às 15:30**.
+  * Bruno confirmou disponibilidade de horário.
+* **Compromisso / Formalização:** Carolina ficou de enviar resposta ao e-mail para confirmar formalmente o agendamento da reunião para 8 de outubro às 15:30.

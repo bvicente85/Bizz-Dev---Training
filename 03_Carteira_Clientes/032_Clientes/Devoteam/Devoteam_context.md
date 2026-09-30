@@ -3,7 +3,7 @@ status: Ativo
 core_business: Consultoria em Tecnologias de Informação, Cloud, Cibersegurança, Dados e Transformação Digital
 decisores:
   - Carolina Lopes (L&D Specialist | Learning & Development)
-data_ultima_interacao: 2026-09-28
+data_ultima_interacao: 2026-09-29
 areas_interesse:
   - Elevator Pitch
   - Técnicas de Apresentação e Comunicação de Impacto para Perfis Técnicos
@@ -37,4 +37,4 @@ areas_interesse:
     2. **Formato:** Presencial (em sala);
     3. **Metodologia:** Abordagem prática, dinâmicas de grupo, apresentações e *role plays*;
     4. **Acompanhamento:** Feedback estruturado e individual sobre o desempenho para aperfeiçoamento contínuo.
-  * **Estado Atual:** Pedido de reunião de diagnóstico/calibração aceite e enviado por Bruno Vicente a 28/09/2026.
+  * **Estado Atual:** Reunião de diagnóstico alinhada por chamada telefónica a 29/09/2026 e prevista para quinta-feira, 8 de outubro de 2026, às 15:30 via Teams (a aguardar e-mail de formalização de Carolina Lopes).
