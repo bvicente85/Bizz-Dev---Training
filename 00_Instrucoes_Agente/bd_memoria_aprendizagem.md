@@ -24,6 +24,11 @@ Este ficheiro regista as preferências globais do Bruno, correções de estilo e
     *   **Apresentação:** Preferir "O meu nome é Bruno Vicente" (mais natural) em vez de "Sou o Bruno Vicente".
     *   **Contexto:** Utilizar "Tenho a indicação de que..." ou "Recebi a indicação..." em vez de formulações passivas como "Fui informado".
 *   **Follow-ups:** Devem ser empáticos e curtos, focados em "ajudar a desbloquear" e não em cobrar.
+    *   **Padrão de Follow-up a Propostas em Análise (35–55 Palavras):** Estrutura concisa de 3 blocos para acompanhamento de propostas enviadas:
+        1. **Conexão simples:** *"Olá [Nome], / Espero que esteja bem."* (ou *"Olá [Nome], bom dia."*).
+        2. **Retoma direta e menção aos temas:** *"Retomo o tema da proposta que partilhámos [ou "relativamente à proposta de formação em TEMA"] para perceber se já tiveram oportunidade de concluir a análise interna e se existe alguma atualização ou decisão interna."*
+        3. **Dupla disponibilidade e fecho limpo:** *"Caso seja útil esclarecermos algum ponto ou ajustarmos algum aspeto da solução apresentada, terei todo o gosto em ajudar. [ou "Fico ao dispor para qualquer esclarecimento."] / Fico a aguardar o seu feedback."*
+        - **Proibição:** Banir terminantemente chavões vazios (*"ponto de situação"*, *"breve ponto de situação"*), re-pitches ou justificações desnecessárias.
     *   **Regra de Ockham para Projetos Suspensos (Efeito Martifer):** Quando um cliente suspende explicitamente um projeto para avaliação interna, é estritamente proibido enviar emails passivos de acompanhamento (ex: "Só para saber se há novidades" ou "Fazer ponto de situação"). Isto gera fadiga (*Signal Fatigue*) e fricção. Para retomar o contacto no futuro, aplicar **Ancoragem por Agregação de Valor**: enviar um pretexto prático (ex: um artigo do setor, *case study* ou nova tendência) que reabre a conversa de forma útil sem cobrar ou exigir uma resposta.
     *   **Regra de Ockham para Adiamentos Táticos (Controlo de Quadro):** Quando o cliente adia a decisão para um mês futuro ("falamos em setembro"), não forçar reuniões antecipadas. Usar o *Frame Control*: aceitar o adiamento de forma limpa, mas assumir o controlo do próximo passo definindo proativamente quando o voltaremos a contactar (ex: "Perfeito, registo na agenda para voltarmos a falar a meio de setembro. Bom trabalho."), encerrando a conversa sem pedir validação.
     *   **Regra de Ockham para Bloqueios da Administração (Aversão à Perda):** Se o decisor técnico quer avançar mas a Administração bloqueia a decisão, e há risco real de perda de datas (escassez de agenda), não usar táticas agressivas de urgência ("compre já ou perde a vaga"). Usar a *Arquitetura de Escolha*: oferecer uma pré-reserva provisória de datas sem compromisso financeiro, perguntando "Quais as semanas de preferência a acautelar?". Isto muda o foco da compra para a proteção logística.
@@ -117,6 +122,9 @@ A Blacklist foi movida de texto livre para código de forma a garantir seguranç
     *   **Não Antecipar Soluções nem Dimensões Operacionais:** Não fechar limites de turma (ex.: 8-12 formandos) nem metodologias específicas (ex.: gravações) durante o diagnóstico; perguntar apenas a intenção do cliente (*"Quantas pessoas estão a considerar?"*).
     *   **Teste 'Intervention Before Training':** Incluir discretamente a validação sobre se o problema é estritamente formativo ou se exige processos/ferramentas/acompanhamento de liderança.
     *   **Abertura Natural:** Substituir fórmulas ensaiadas de consultor (*"não vimos vender catálogo"*) por naturalidade direta (*"Já temos os requisitos do pedido, por isso não queria repetir o que enviaram. Gostava de perceber melhor o contexto..."*).
+*   **[2026-09-30]:** [/learn] **Follow-up de Propostas em Avaliação (Padrão Conciso de 35–55 Palavras):**
+    *   **Estrutura de 3 Blocos:** (1) Conexão e saudação humana e limpa; (2) Retoma do tema com nomeação direta das formações e pergunta factual sobre o estado da análise interna/decisão; (3) Dupla disponibilidade para esclarecer dúvidas ou ajustar a proposta às necessidades do cliente, fechando com *"Fico a aguardar o seu feedback."*.
+    *   **Concisão Extrema & Zero Fricção:** Extensão entre 35 e 55 palavras. Sem re-pitch comercial, sem auto-elogios e sem chavões vagos de vendas (*"ponto de situação"*).
 
 
 

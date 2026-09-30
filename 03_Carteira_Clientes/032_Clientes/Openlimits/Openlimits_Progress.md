@@ -2,24 +2,34 @@
 type: Progress Log
 title: Progresso Comercial - Openlimits
 description: Estado do funil de vendas, oportunidades e tarefas pendentes da Openlimits.
-tags: [progresso, openlimits, ti, reuniao-agendada]
-timestamp: 2026-09-25T15:55:00Z
+tags: [progresso, openlimits, ti, diagnostico-realizado, follow-up]
+timestamp: 2026-09-30T15:30:00Z
 ---
 
 # Progresso Comercial: Openlimits
 
-*Links:* [Contexto](./Openlimits_Context.md) | [Notas e Comunicações](./Openlimits_Meeting_notes.md)
+*Links:* [Contexto](./Openlimits_Context.md) | [Notas e Comunicações](./Openlimits_Meeting_notes.md) | [Ata da 1ª Reunião (30/09/2026)](../../034_Reunioes_Clientes/2026-09/meeting-report-openlimits-2026-09-30.md)
 
 ## Estado no Funil de Vendas
-* **Fase:** Reunião Agendada / Diagnóstico Inicial (Agendada para 30/09/2026 às 15h00)
+* **Fase:** Diagnóstico Realizado / Follow-up Porteca & Mapeamento de Proposta
 
-## Histórico de Interações (25/09/2026)
+## Histórico de Interações
+* **[30-09-2026] - 1ª Reunião de Diagnóstico de Formação (Sandra Assunção - Teams):**
+  * Realizada reunião de levantamento consultivo com Sandra Assunção (15h00 às 15h30).
+  * Mapeada estrutura da empresa (41 colaboradores no total, polos em Coimbra e Viseu, e polo em Angola).
+  * Dores identificadas: transição de técnicos a líderes de equipa, comunicação interpessoal e relação com clientes, comunicação interna Coimbra vs. Viseu, e Inglês de negócios.
+  * Soluções posicionadas: Yes'N'You (modelo blended learning adaptado à dispersão Coimbra/Viseu) e programas de Liderança Operacional à medida.
+  * Gancho de relacionamento: convite para a conferência Porteca (25 e 26 de novembro, Alfândega do Porto).
+  * Sandra indicou que aguardam aprovação de um projeto de formação numa área específica; o avanço com a SKOLAE incidirá sobre as áreas complementares.
+  * Ver ata detalhada em: [meeting-report-openlimits-2026-09-30.md](../../034_Reunioes_Clientes/2026-09/meeting-report-openlimits-2026-09-30.md).
 * **[25-09-2026] - Chamada de Prospeção Direta (Sandra Assunção):**
   * Bruno Vicente realizou chamada direta com Sandra Assunção.
   * A Sandra confirmou categoricamente que assume a pasta de formação e desenvolvimento de pessoas na Openlimits.
   * Ficou acordada a realização de uma reunião exploratória para a próxima **quarta-feira, 30/09/2026, às 15h00**.
-  * Envio do convite com link de reunião a realizar de seguida.
+  * Envio do convite com link de reunião realizado com sucesso.
 
 ## Próximos Passos
-* `[ ]` Enviar convite de calendário (Teams) com texto curto para 30/09/2026 às 15h00.
-* `[ ]` Preparar guião de reunião de diagnóstico consultivo (Calibration Mode / Diagnostic) para a sessão de 30/09/2026.
+* `[x]` Enviar convite de calendário e realizar reunião de diagnóstico (30/09/2026).
+* `[ ]` Enviar e-mail de follow-up com convite formal para a Porteca e pergunta de qualificação sobre a área do projeto pendente de aprovação.
+* `[ ]` Preparar síntese pedagógica focada em Liderança para Perfis Técnicos e solução Yes'N'You.
+
