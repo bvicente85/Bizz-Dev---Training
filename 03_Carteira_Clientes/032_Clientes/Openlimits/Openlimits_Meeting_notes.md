@@ -40,3 +40,41 @@ timestamp: 2026-09-25T15:55:00Z
   * Clarificar tema do projeto de formação que aguarda aprovação externa para apresentar proposta das áreas complementares;
   * Relatório completo arquivado em: [meeting-report-openlimits-2026-09-30.md](../../034_Reunioes_Clientes/2026-09/meeting-report-openlimits-2026-09-30.md).
 
+## 30/09/2026 - E-mail de Agradecimento & Convite Porteca (Enviado)
+
+* **Destinatária:** Sandra Assunção
+* **Assunto / Enquadramento:** Agradecimento da reunião de hoje e partilha de informação institucional/Porteca.
+* **Teor do E-mail Enviado:**
+> Olá Sandra,  
+>  
+> Obrigado pelo tempo e pela conversa de hoje.  
+>  
+> Conforme combinado, envio-lhe alguma informação sobre as áreas de formação em que podemos apoiar a Openlimits, bem como o convite para o Porteca, que iremos realizar em novembro.  
+>  
+> Fico também disponível para falarmos sempre que surja alguma necessidade que faça sentido trabalhar em conjunto.  
+>  
+> Obrigado e até breve.  
+>  
+> Cumprimentos,  
+> Bruno Vicente
+
+---
+
+## Minuta de Follow-up Preparada (A enviar daqui a 2 a 3 semanas — meados de outubro)
+
+* **Objetivo:** Priorização cirúrgica de necessidades e levantamento da dor mais urgente antes do desenho de soluções.
+* **Minuta de E-mail a Disparar:**
+> Olá Sandra,  
+>  
+> Na sequência da nossa conversa, fiquei a pensar sobretudo na questão da identificação e organização das necessidades de formação.  
+>  
+> Quando falámos dos vários temas que têm pela frente, referiu comunicação, liderança, IA, cibersegurança e inglês.  
+>  
+> Desses temas, há algum que esteja neste momento mais próximo de avançar ou que esteja a ser sentido como uma necessidade mais urgente?  
+>  
+> Se sim, gostava de perceber um pouco melhor o contexto antes de lhe enviar qualquer solução.  
+>  
+> Cumprimentos,  
+> Bruno Vicente
+
+

@@ -14,6 +14,9 @@ timestamp: 2026-09-30T15:30:00Z
 * **Fase:** Diagnóstico Realizado / Follow-up Porteca & Mapeamento de Proposta
 
 ## Histórico de Interações
+* **[30-09-2026] - Envio de E-mail de Agradecimento & Convite Porteca:**
+  * Bruno Vicente enviou e-mail de agradecimento pela reunião à Sandra Assunção, partilhando informação sobre as áreas de atuação da SKOLAE e convite para o evento Porteca (novembro).
+  * Minuta registada em [Openlimits_Meeting_notes.md](./Openlimits_Meeting_notes.md).
 * **[30-09-2026] - 1ª Reunião de Diagnóstico de Formação (Sandra Assunção - Teams):**
   * Realizada reunião de levantamento consultivo com Sandra Assunção (15h00 às 15h30).
   * Mapeada estrutura da empresa (41 colaboradores no total, polos em Coimbra e Viseu, e polo em Angola).
@@ -30,6 +33,9 @@ timestamp: 2026-09-30T15:30:00Z
 
 ## Próximos Passos
 * `[x]` Enviar convite de calendário e realizar reunião de diagnóstico (30/09/2026).
-* `[ ]` Enviar e-mail de follow-up com convite formal para a Porteca e pergunta de qualificação sobre a área do projeto pendente de aprovação.
-* `[ ]` Preparar síntese pedagógica focada em Liderança para Perfis Técnicos e solução Yes'N'You.
+* `[x]` Enviar e-mail de agradecimento e convite para a Porteca (30/09/2026).
+* `[ ]` **Follow-up de Priorização de Necessidades (Previsão: 14 a 21 de outubro de 2026):**
+  * Enviar e-mail de acompanhamento à Sandra Assunção (minuta pronta arquivada nas notas) para isolar qual dos temas (comunicação, liderança, IA, cibersegurança ou inglês) é a prioridade urgente antes do envio da solução técnica.
+* `[ ]` Desenhar proposta pedagógica focada no tema prioritário que for validado pela Sandra.
+
 
