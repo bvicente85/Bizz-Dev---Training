@@ -26,3 +26,9 @@ timestamp: 2026-09-22T17:30:00Z
 * **Articular com Formadora:** Fechar as 4 sessões com base nas disponibilidades já indicadas:
   * 1.ª Formanda (outubro): 2, 6, 7, 8, 9, 16, 20, 26, 30 de outubro.
   * 2.ª Formanda (novembro): 5, 6, 9, 13, 16, 17, 18, 19, 20, 27 de novembro.
+## 30/09/2026 - Atualização: Formadora e Datas Confirmadas para Validação
+* **Formadora:** Alcina.
+* **Disponibilidade SKOLAE:** 8 e 9 de outubro (1.ª turma) e 19 e 20 de novembro (2.ª turma), dentro das janelas de disponibilidade previamente indicadas pela ERSE.
+* **Reunião de preparação proposta:** 06/10/2026 às 10h00.
+* **Ação imediata:** enviar CV da formadora e solicitar confirmação final das datas e da reunião de preparação.
+* **Estado:** Oportunidade em fase de validação operacional/agendamento; não considerar ainda as datas/reunião como confirmadas pelo cliente até receber resposta.
