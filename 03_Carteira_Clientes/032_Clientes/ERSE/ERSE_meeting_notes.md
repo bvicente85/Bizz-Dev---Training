@@ -25,3 +25,13 @@ timestamp: 2026-09-22T17:30:00Z
     * **Opção A:** 14 horas por colaboradora a 2.000,00 € por curso (4.000,00 € + IVA total);
     * **Opção B:** 20 horas por colaboradora a 2.800,00 € por curso (5.600,00 € + IVA total), caso exista requisito estrito de 20h no plano anual.
   * Manutenção da reunião prévia de preparação para calibração com a formadora.
+## 30/09/2026 - Chamada de Follow-up e Validação de Formadora/Data
+* **Intervenientes:** Luís Pinheiro (ERSE), Bruno Vicente (SKOLAE)
+* **Conteúdo:**
+  * Luís indicou que existe uma inscrição pendente da informação sobre a formadora.
+  * Confirmado que a formadora será **Alcina**.
+  * Validada a disponibilidade da formadora face às datas previamente indicadas pelo cliente:
+    * **1.ª turma:** 8 e 9 de outubro de 2026.
+    * **2.ª turma:** 19 e 20 de novembro de 2026.
+  * Foi proposta uma **reunião de preparação para 06/10/2026 às 10h00**.
+  * Ficou acordado o envio do CV da formadora e a confirmação das datas/reunião por e-mail.
