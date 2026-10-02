@@ -4,7 +4,7 @@ title: Consultoria Organizacional e Academias Corporativas
 description: Referencial de serviços de consultoria organizacional, processos, modelos de atendimento, cultura e valores, sistemática comercial e co-construção de Academias Corporativas da SKOLAE.
 tags: [consultoria, academias-corporativas, processos, atendimento, cultura, sistemática-comercial]
 source_document: "Referência de projetos de consultoria - exemplos vários.pdf"
-source_status: "Revisto com base no PDF de referência; separar factos documentados de interpretação comercial."
+source_status: "Revisto com base no PDF de referência e complementado com os princípios de atuação da consultoria fornecidos pela equipa SKOLAE."
 ---
 
 # Consultoria Organizacional & Academias Corporativas — SKOLAE
@@ -13,13 +13,38 @@ source_status: "Revisto com base no PDF de referência; separar factos documenta
 
 A SKOLAE apresenta a consultoria como parte de um ecossistema integrado de intervenção consultiva e desenvolvimento de competências. A proposta não se limita à entrega de formação: pode incluir diagnóstico, análise e redefinição de processos, co-construção de modelos de trabalho e desenvolvimento de competências para apoiar desafios organizacionais concretos.
 
-O PDF de referência descreve a abordagem como um ecossistema integrado de intervenção consultiva com desenvolvimento de competências das equipas e organizações, e posiciona a formação como um serviço adaptável, personalizado e multiformato.
+A mensagem institucional fornecida pela equipa refere que a organização ajuda empresas a transformar desafios em soluções há quase 30 anos. **Antes de usar esta antiguidade em materiais externos, confirmar se se refere à história da SKOLAE, à organização que a antecedeu ou à experiência acumulada da equipa.**
 
-**Regra de utilização comercial:** não assumir que um sintoma referido pelo cliente confirma um diagnóstico. Usar as tipologias abaixo para orientar perguntas de descoberta; só propor uma intervenção depois de validar o problema, o impacto, os intervenientes e o resultado pretendido.
+## ADN e princípios de atuação da consultoria SKOLAE
+
+Os quatro princípios seguintes resultam da descrição institucional fornecida pela equipa SKOLAE e devem orientar o posicionamento comercial, o desenho de propostas e a execução dos projetos.
+
+### 1. Especialistas que fazem e que ensinam
+A comunidade de consultores reúne perfis que também atuam como formadores, facilitadores e mentores. A intenção é ligar diagnóstico e intervenção à capacidade de desenvolver competências nas pessoas. A composição e a disponibilidade dos especialistas devem ser confirmadas em cada projeto.
+
+### 2. Simples, prático e realista
+A abordagem privilegia cronogramas curtos e exequíveis e sessões de trabalho focadas na solução. O objetivo é evitar complexidade processual desnecessária e produzir recomendações acionáveis. O âmbito, os prazos e os entregáveis devem ser acordados com o cliente.
+
+A descrição institucional refere que a entrega consultiva pode assumir a forma de uma proposta de solução, cabendo ao cliente decidir como pretende avançar com as recomendações. **Não assumir que a SKOLAE apenas recomenda e nunca implementa:** confirmar se o projeto inclui diagnóstico, desenho, implementação, acompanhamento ou uma combinação destas fases.
+
+### 3. Co-construímos, não impomos
+O consultor trabalha em colaboração com o cliente para construir uma solução ajustada à sua cultura, aos seus valores e ao seu negócio. A abordagem não parte de modelos consultivos pré-formatados; a metodologia deve ser adaptada ao desafio e ao contexto específico.
+
+### 4. Consultoria que chega às pessoas
+O desenvolvimento das competências dos colaboradores é uma dimensão central da abordagem, associada à melhoria da organização e à sustentabilidade da mudança. A formação pode integrar a intervenção quando for adequada ao diagnóstico; não deve ser apresentada como componente obrigatória de todos os projetos.
+
+### Flexibilidade na composição da equipa
+A equipa SKOLAE é ajustada à natureza e às necessidades do projeto. A experiência descrita pela equipa inclui:
+- **Consultor especialista dedicado:** quando o projeto exige conhecimento específico e foco individual.
+- **Equipa ajustada ao projeto:** quando são necessárias competências complementares.
+
+Não prometer uma composição, especialista ou disponibilidade antes de validar os recursos para o projeto concreto.
+
+**Orientação comercial:** estes quatro princípios descrevem a forma de trabalhar da SKOLAE; não substituem o diagnóstico do problema do cliente nem constituem, por si só, prova de resultados num projeto específico.
 
 ## 1. Ecossistema integrado de aprendizagem
 
-O documento de referência identifica três modalidades articuláveis:
+O PDF de referência descreve um ecossistema integrado de intervenção consultiva com desenvolvimento de competências das equipas e organizações, e posiciona a formação como um serviço adaptável, personalizado e multiformato. Identifica três modalidades articuláveis:
 
 - **Formal learning:** aprendizagem experiencial, exercícios práticos, estudos de caso, simulações, roleplays, reflexão individual, dinâmicas de grupo e jogos pedagógicos.
 - **Informal learning:** autoaprendizagem, expedições imersivas/outdoor, comunidades de aprendizagem e conteúdos multiformato, como vídeos, podcasts, ebooks, white papers, infografias e newsletters.
@@ -190,10 +215,12 @@ Antes de avançar para uma proposta, procurar clarificar:
 - Confirmar com a equipa SKOLAE a disponibilidade atual de especialistas, capacidade de execução, âmbito, metodologia, prazo e preço antes de prometer uma intervenção.
 - Usar os casos como exemplos de experiência em áreas específicas, não como garantia de que o mesmo resultado será replicado noutro cliente.
 - Para identificar cursos ou programas formativos existentes, consultar separadamente o catálogo global de cursos e o índice por competências.
-- Consultoria, formação e soluções combinadas são possibilidades distintas; a seleção deve decorrer do diagnóstico da necessidade do cliente.
+- Consultoria, formação e soluções combinadas são possibilidades distintas; a seleção deve decorrer do diagnóstico da necessidade.
 
 ## 8. Fonte e limites
 
 **Fonte principal:** PDF “Referência de projetos de consultoria — exemplos vários” (19 páginas), fornecido no contexto do projeto.
 
-Este ficheiro sistematiza a informação explícita dessa fonte. Onde o PDF apresenta apenas uma referência breve, a descrição permanece breve. Não foram acrescentados resultados quantitativos, reduções de custos, melhorias de produtividade ou métricas que a fonte não documenta.
+**Fonte complementar:** descrição institucional do ADN de consultoria, fornecida pela equipa SKOLAE. Inclui a referência a “quase 30 anos”, cuja entidade/período de referência deve ser confirmado antes de utilização externa.
+
+Este ficheiro sistematiza a informação explícita das fontes. Onde o PDF apresenta apenas uma referência breve, a descrição permanece breve. Não foram acrescentados resultados quantitativos, reduções de custos, melhorias de produtividade ou métricas que as fontes não documentam.
