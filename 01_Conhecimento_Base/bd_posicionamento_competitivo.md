@@ -18,9 +18,10 @@ A nossa proposta assenta na **mudança efetiva de comportamentos** através da v
 *   **Co-construção:** Todos os programas são desenhados ou adaptados com base no diagnóstico prévio do cliente. Não vendemos "caixas fechadas" ou soluções prontas.
 *   **Learning by Doing (Metodologias Ativas):** Foco absoluto em simulações, roleplays (muitas vezes filmados e analisados em sala) e dinâmicas interativas.
 *   **Ferramentas Proprietárias e Gamification:** Utilização de ativos exclusivos da SKOLAE/Abilways para aumentar a retenção e a motivação:
-    *   **Jogo de Tabuleiro "Os Exploradores®":** Customizado para simular a jornada de clientes reais (usado com sucesso no Pingo Doce, Nova SBE, Geberit).
+    *   **Jogo de Tabuleiro "Os Exploradores®":** Customizado para simular a jornada de clientes reais (usado com sucesso no Pingo Doce, Nova SBE, Geberit, EuroBic).
     *   **Lego® Serious Play®:** Para dinâmicas de co-criação e trabalho em equipa.
     *   **Assessments Científicos:** Utilização do PDA (Personal Development Analysis), EQ (Emotional Quotient) e perfis DISC integrados no percurso formativo.
+*   **Consultoria Integrada & Academias Corporativas:** A SKOLAE não entrega apenas cursos avulso; atua a montante no diagnóstico e reengenharia de processos operacionais (ex: gestão de turnos na Contisystems, scripts e cultura de Contact Center na Solverde.pt, cliente mistério na ULS Cova da Beira) e co-constrói Academias Corporativas completas de raiz (Ano 0 até à autonomização com tutores internos), como comprovado no Grupo Pasta Non Basta, Auchan, Aviludo e wTVision.
 
 ---
 
@@ -41,6 +42,12 @@ A nossa proposta assenta na **mudança efetiva de comportamentos** através da v
 *   **A abordagem deles:** Catálogos massivos de formação inter-empresas, com datas fixas e pouca flexibilidade para o contexto operacional do cliente.
 *   **A nossa contra-argumentação:**
     > "As consultoras tradicionais oferecem formação 'de prateleira'. A SKOLAE adapta o enquadramento comercial, os roleplays e os casos práticos à realidade exata das vossas lojas ou escritórios. Além disso, incluímos sessões de follow-up pós-formação (*Training Labs*) para garantir que a aprendizagem é consolidada a médio prazo."
+
+### D. VS. Consultoras de Gestão Pura (Big 4 / Estratégia)
+*   **A abordagem deles:** Desenho de relatórios e recomendações teóricas densas que muitas vezes não são adotadas no terreno pelas equipas operacionais.
+*   **A nossa contra-argumentação:**
+    > "A SKOLAE une a intervenção consultiva de processos (redesenho de turnos, scripts de atendimento, cultura de vendas) à capacitação prática das pessoas no terreno. Não deixamos um relatório na gaveta nem damos formação no vazio: redesenhamos o processo e treinamos as equipas para o executar com excelência."
+
 
 ---
 

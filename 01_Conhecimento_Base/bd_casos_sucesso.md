@@ -814,3 +814,108 @@ Este documento contém os casos de sucesso reais da SKOLAE organizados por área
 *   **Solução:** Percurso individual focado nas dores e no nível linguístico do formando.
 *   **Metodologia:** Total flexibilidade de agendamento de 12 aulas individuais síncronas online com formador nativo.
 *   **Impacto Obtido:** Progressão linguística rápida e aumento da segurança nas interações internacionais.
+
+---
+
+## 14. Área: Consultoria Organizacional, Processos e Atendimento
+
+### Caso: Contisystems
+*   **Setor:** Indústria Gráfica / Soluções Tecnológicas
+*   **Foco:** Consultoria de eficácia organizacional, gestão de equipas e gestão de turnos.
+*   **Contexto:** Apoiar a implementação de um modelo de eficácia organizacional relacionado com a gestão de equipas e gestão de turnos.
+*   **Solução:** Intervenção consultiva com a direção da empresa no âmbito de diagnóstico, análise crítica e redefinição de vários processos para maior eficiência organizacional.
+*   **Metodologia:** Sessões de trabalho colaborativas com consultores especialistas e mapeamento operacional.
+*   **Impacto Obtido:** Relatório executivo com propostas de melhoria entregue às lideranças, com foco na estruturação da gestão de turnos e equipas operacionais e de suporte.
+
+### Caso: Solverde.pt
+*   **Setor:** Entretenimento / Jogos e Apostas Online
+*   **Foco:** Modelos de atendimento e processos de Contact Center.
+*   **Contexto:** Co-construir um modelo que potencie uma cultura interna de serviço ao cliente orientada à excelência.
+*   **Solução:** Intervenção consultiva com a Administração na área de Apostas Desportivas online para criar processos e procedimentos da equipa de Contact Center.
+*   **Metodologia:** Sessões de trabalho com consultora especialista, desenho de scripts de atendimento e mapeamento de canais.
+*   **Impacto Obtido:** Relatório com propostas de melhoria para o Contact Center, organização de scripts omnicanal e apoio à Administração na tomada de decisão em atos de gestão de equipa.
+
+### Caso: EuroBic (Sistemática Comercial)
+*   **Setor:** Financeiro / Banca
+*   **Foco:** Cultura organizacional e sistemática comercial renovada.
+*   **Contexto:** Apoiar a implementação de um modelo de sistemática comercial para homogeneizar práticas e procedimentos comerciais em toda a rede.
+*   **Solução:** Programa modular combinando intervenção em processos comerciais, competências de atendimento e jornada do cliente EuroBic, com liderança para gerentes.
+*   **Metodologia:** Jogo pedagógico proprietário "Os Exploradores®" adaptado à realidade EuroBic, com discussão de casos, roleplays e simulações gravadas.
+*   **Impacto Obtido:** Envolvimento transversal da rede comercial, alinhamento das práticas de liderança operacional e homogeneização do processo de venda e atendimento.
+
+### Caso: ULS Cova da Beira
+*   **Setor:** Saúde / Setor Público
+*   **Foco:** Consultoria de qualidade de serviço e auditoria de atendimento.
+*   **Contexto:** Avaliar objetivamente os padrões de atendimento e experiência dos utentes nos serviços hospitalares e de cuidados de saúde.
+*   **Solução:** Auditoria consultiva de qualidade de serviço através de visitas e contactos de Cliente Mistério aos serviços de atendimento.
+*   **Metodologia:** Cliente Mistério (*Mystery Shopping*) com grelha estruturada de avaliação de acolhimento, tempos de espera e clareza informativa.
+*   **Impacto Obtido:** Diagnóstico rigoroso dos pontos de atrito no acolhimento ao utente e plano de recomendações para elevar a qualidade do serviço.
+
+### Caso: GrandVision
+*   **Setor:** Retalho Óptico / Saúde Visual
+*   **Foco:** Employer Branding, marketing e comunicação interna.
+*   **Contexto:** Reforçar a atratividade da marca empregadora e alinhar a comunicação interna com a proposta de valor aos colaboradores.
+*   **Solução:** Consultoria estratégica em Employer Branding articulando marketing e comunicação interna.
+*   **Metodologia:** Workshops de co-criação e alinhamento de mensagens-chave da marca com os colaboradores.
+*   **Impacto Obtido:** Fortalecimento da proposta de valor de RH e consistência na comunicação interna e externa de talento.
+
+### Caso: Partex Oil and Gas
+*   **Setor:** Energia / Petróleo e Gás
+*   **Foco:** Compliance e RGPD (Proteção de Dados).
+*   **Contexto:** Adequar processos internos aos normativos legais de conformidade e regulamento geral de proteção de dados.
+*   **Solução:** Consultoria especializada de processos e governança de dados.
+*   **Metodologia:** Auditoria procedimental e sessões de trabalho de enquadramento regulamentar.
+*   **Impacto Obtido:** Mitigação de riscos legais e conformidade assegurada nas operações de tratamento de dados.
+
+### Caso: Sacyr
+*   **Setor:** Construção / Infraestruturas e Serviços
+*   **Foco:** Consultoria digital e processos de Direito da Concorrência.
+*   **Contexto:** Apoiar as equipas na conformidade concorrencial e transformação digital de fluxos internos.
+*   **Solução:** Intervenção consultiva especializada no desenho de processos de conformidade com regras de concorrência e ferramentas digitais.
+*   **Metodologia:** Análise de risco, desenho de fluxogramas e alinhamento normativo.
+*   **Impacto Obtido:** Blindagem de procedimentos e adoção de práticas em estrito respeito pelas regras de mercado.
+
+---
+
+## 15. Área: Academias Corporativas & Universidades de Empresa
+
+### Caso: Grupo Pasta Non Basta
+*   **Setor:** Restauração / Cadeia de Lojas
+*   **Foco:** Construção da Academia Corporativa Pasta Non Basta.
+*   **Contexto:** Crescimento acelerado da rede de lojas exigiu uma política estruturada de RH para garantir retenção dos melhores talentos, planos de carreira claros e uma cultura assente na empatia, hospitalidade e transparência.
+*   **Solução:** Projeto de consultoria e criação da Academia Corporativa com duração de 9 a 12 meses: (1) Apoio à criação da Academia no Ano 0; (2) Gestão operacional e empowerment pedagógico nos primeiros 6 meses; (3) Capacitação das equipas para assegurarem o onboarding e formações internas da organização.
+*   **Metodologia:** Reuniões de trabalho e focus groups com o Management e RH, recurso a metodologias ativas, interativas e jogos pedagógicos variados.
+*   **Impacto Obtido:** Operacionalização de uma nova estrutura formal (Academia PASTA NON BASTA), colaboração próxima na gestão de talento, clarificação dos planos de carreira e redução de turnover.
+
+### Caso: Aviludo
+*   **Setor:** Distribuição Alimentar / Canal Horeca
+*   **Foco:** Academia "A Arte da Entrega Profissional".
+*   **Contexto:** Capacitar cerca de 200 colaboradores de distribuição em 7 polos logísticos sobre conduta pessoal, cuidados de imagem e relacionamento eficaz com clientes no ato de entrega Horeca.
+*   **Solução:** Co-construção do percurso com a equipa de L&D da Aviludo focado nos pilares essenciais da marca e valorização da linha da frente.
+*   **Metodologia:** Action Learning em 4 momentos chave: Conduta Pessoal, Imagem do Colaborador, Relacionamento Profissional e Credibilidade da Marca.
+*   **Impacto Obtido:** Quase 200 colaboradores envolvidos e conscientes do seu papel como embaixadores da marca e elementos de fidelização de clientes.
+
+### Caso: wTVision
+*   **Setor:** Tecnologias de Informação / Transmissões e Mídia Internacional
+*   **Foco:** wTALENT Academy — Capacitar o management team.
+*   **Contexto:** Upskilling e reskilling de gestores e team leaders (muitos com background técnico) em competências de gestão, liderança e tomada de decisão.
+*   **Solução:** 1.º grande projeto estratégico da wTALENT Academy, com módulos co-criados: Liderar em modo Start-Up, Sessão DiSC®, Comunicação & Feedback, Marketing Toolbox, Gestão Estratégica e Financeira, Sales Empowerment, RH e Teams & Business.
+*   **Metodologia:** Formação ativa 100% em inglês para turmas internacionais em várias geografias, agregando assessments comportamentais, sessões individuais de feedback e coaching de projeto.
+*   **Impacto Obtido:** Gestores técnicos com maior consciência prática de liderança de equipas e visão integrada de negócio em marketing, vendas e gestão de pessoas.
+
+### Caso: Leroy Merlin (Academia LM)
+*   **Setor:** Retalho de Grande Distribuição / Bricolage
+*   **Foco:** Desenvolvimento de um modelo transversal de feedback para managers e colaboradores.
+*   **Contexto:** Criação de uma cultura consistente de feedback na organização através da Academia LM.
+*   **Solução:** Co-construção do modelo de feedback e respetivos suportes e materiais práticos de acompanhamento.
+*   **Metodologia:** Focus groups com interlocutores-chave da organização para compreender as práticas já enraizadas e desenhar uma matriz transversal.
+*   **Impacto Obtido:** Enraizamento do feedback como hábito cultural diário e mapeamento do ecossistema interno de liderança e comunicação eficaz.
+
+### Caso: Auchan (Academias de Liderança e Tutoria)
+*   **Setor:** Retalho / Grande Distribuição
+*   **Foco:** Fast Track (Academia da Liderança) e TutorShip (Capacitação de Tutores Internos).
+*   **Contexto:** Dotar a Academia Auchan de percursos robustos para acelerar responsáveis de mercado e estruturar a tutoria on-the-job.
+*   **Solução:** Desenho e entrega do percurso Fast Track (20 dias / 4 semanas intensivas) e do percurso TutorShip (16 semanas com observação e acompanhamento on the job nas lojas).
+*   **Metodologia:** Action Learning em sala combinado com sessões de terreno e feedback individual.
+*   **Impacto Obtido:** Criação de uma rede de tutores certificados internos e aceleração contínua de competências de liderança operacional e gestão de equipas.
+

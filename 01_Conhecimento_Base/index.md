@@ -11,6 +11,7 @@ Biblioteca centralizada de referências comerciais, pedagógicas e materiais de 
 
 * [Biblioteca de Cursos](./bd_biblioteca_cursos.md) - Índice geral e links para a oferta formativa.
 * [Casos de Sucesso](./bd_casos_sucesso.md) - Mais de 50 histórias de sucesso estruturadas para demonstração de prova social (Auchan, Galp, Geberit, Hiscox, Lidl, Pingo Doce, etc.).
+* [Consultoria e Academias Corporativas](./bd_consultoria_e_academias.md) - Referencial de serviços de consultoria estratégica, processos, modelos de atendimento e co-construção de Academias Corporativas (Pasta Non Basta, Aviludo, wTVision, Auchan, etc.).
 * [Posicionamento Competitivo](./bd_posicionamento_competitivo.md) - Guia de diferenciação da SKOLAE contra plataformas tradicionais de e-learning e concorrência direta (Cegoc, Yesnyou, etc.).
 
 ## Recursos de Proposta

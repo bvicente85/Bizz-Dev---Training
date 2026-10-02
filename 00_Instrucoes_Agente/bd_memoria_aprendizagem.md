@@ -125,6 +125,12 @@ A Blacklist foi movida de texto livre para código de forma a garantir seguranç
 *   **[2026-09-30]:** [/learn] **Follow-up de Propostas em Avaliação (Padrão Conciso de 35–55 Palavras):**
     *   **Estrutura de 3 Blocos:** (1) Conexão e saudação humana e limpa; (2) Retoma do tema com nomeação direta das formações e pergunta factual sobre o estado da análise interna/decisão; (3) Dupla disponibilidade para esclarecer dúvidas ou ajustar a proposta às necessidades do cliente, fechando com *"Fico a aguardar o seu feedback."*.
     *   **Concisão Extrema & Zero Fricção:** Extensão entre 35 e 55 palavras. Sem re-pitch comercial, sem auto-elogios e sem chavões vagos de vendas (*"ponto de situação"*).
+*   **[2026-10-02]:** [/learn] **Expansão de Portfólio: Serviços de Consultoria Organizacional & Academias Corporativas:**
+    *   **Oferta Estratégica:** A SKOLAE não se limita à entrega de formação de catálogo; intervém como parceira consultiva no ecossistema de *Formal*, *Informal* e *Peer-to-Peer Learning*.
+    *   **Eixos de Consultoria:** (1) Reengenharia de processos e eficiência (ex.: gestão de turnos na Contisystems); (2) Modelos de atendimento e Contact Center (ex.: Solverde.pt, cliente mistério na ULS Cova da Beira); (3) Sistemática comercial renovada (ex.: EuroBic com o jogo "Os Exploradores®"); (4) Employer branding, mentoring, compliance e RGPD (GrandVision, Colep, Continental, Partex).
+    *   **Co-construção de Academias Corporativas:** Metodologia de 3 fases (Ano 0 criação/diagnóstico -> Gestão operacional e empowerment de 6 meses -> Transferência e capacitação de tutores internos), comprovada no Grupo Pasta Non Basta, Aviludo (Horeca/200 motoristas), wTVision (wTALENT Academy para líderes técnicos), Leroy Merlin (modelo de feedback) e Auchan (TutorShip e Fast Track).
+    *   **Ativação em Propostas:** Sempre que um cliente sinalizar dores estruturais ou vontade de criar uma universidade corporativa, os especialistas devem propor a abordagem de consultoria e co-construção em vez de soluções de prateleira. Ficheiro mestre de referência: `01_Conhecimento_Base/bd_consultoria_e_academias.md`.
+
 
 
 
