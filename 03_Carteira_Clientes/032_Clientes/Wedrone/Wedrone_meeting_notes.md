@@ -22,3 +22,13 @@ timestamp: 2026-09-30T16:00:00+01:00
   * Foi explicado que, apesar de existir um conteúdo base, numa formação dedicada existe uma reunião de preparação e possibilidade de ajustar os tópicos à realidade da empresa.
 * **Próximo passo acordado:** Bruno preparar e enviar a proposta com a informação da solução e datas possíveis.
 * **Estado:** proposta em preparação; número final de participantes e datas ainda não definidos.
+
+## 06/10/2026 - Elaboração da Proposta Oficial em PowerPoint
+* **Documento gerado:** `Proposta_Wedrone_Compras_Sustentaveis.pptx` (formato oficial SKOLAE Standard).
+* **Parâmetros da solução:**
+  * Programa: Compras Sustentáveis (14 horas).
+  * Modalidade: Live Training (100% remoto, formação dedicada).
+  * Dimensão: Proposta configurada para 1 a 3 formandos (Gestor de Compras + Técnico de Compras).
+  * Enquadramento: Foco na transição ecológica, critérios ESG para qualificação de fornecedores, conformidade com a certificação EcoVadis e preparação de métricas/KPIs para relatórios de sustentabilidade.
+  * Reunião prévia de diagnóstico e alinhamento com a formadora incluída.
+

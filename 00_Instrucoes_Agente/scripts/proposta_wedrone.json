@@ -1,0 +1,75 @@
+{
+  "cliente": "Wedrone",
+  "cliente_completo": "Wedrone",
+  "area": "SUSTENTABILIDADE & ESG",
+  "titulo_curso": "COMPRAS SUSTENTÁVEIS",
+  "subtitulo": "Integrar critérios ESG, conformidade EcoVadis e sustentabilidade na cadeia de fornecedores",
+  "duracao": "14 horas",
+  "duracao_detalhe": "Formato Live Training (remoto dedicado) em 4 sessões de 3h30 ou 2 dias adaptados à agenda",
+  "destinatarios": "Equipa de Compras e Responsáveis de Gestão de Fornecedores da Wedrone",
+  "formandos_num": "3",
+  "modalidade": "Live Training (Formato Remoto Dedicado)",
+  "enquadramento_p1": "Os responsáveis da Wedrone tomaram a decisão de capacitar a sua equipa de Compras em práticas de compras responsáveis e sustentabilidade.",
+  "enquadramento_p2": "Desde sempre a SKOLAE Formação dispõe no seu portefólio de soluções de aprendizagem específicas orientadas ao desenvolvimento de competências críticas e impacto no negócio.",
+  "enquadramento_p3": "A integração de critérios ESG na seleção e avaliação de fornecedores fortalece a conformidade com referenciais internacionais de sustentabilidade (como a certificação EcoVadis) e assegura o alinhamento com os relatórios de sustentabilidade corporativos.",
+  "enquadramento_p4": "Contextualizamos que abordar este tema é integrar abordagens práticas, ferramentas aplicadas de qualificação e auditoria de parceiros e metodologias ativas orientadas a resultados mensuráveis.",
+  "subtitulo_enquadramento": "Capacitação Estratégica em Compras Sustentáveis e Conformidade ESG",
+  "proposito": "Dotar a equipa da Wedrone de ferramentas práticas para implementar uma política de compras responsáveis alinhada com os requisitos EcoVadis e a estratégia de sustentabilidade da empresa.",
+  "competencias": [
+    "Integração de Critérios ESG na Função de Compras",
+    "Alinhamento com Referenciais Ecológicos e EcoVadis",
+    "Qualificação e Seleção de Fornecedores Sustentáveis",
+    "Cláusulas Contratuais Sociais e Ambientais",
+    "Monitorização, Métricas e KPIs de Fornecedores"
+  ],
+  "metodologia_p1": "Formação prática e interativa em modelo remoto dedicado, com recurso a análise de ferramentas, boas práticas e discussão de casos práticos da função de compras.",
+  "metodologia_p2": "Inclui reunião prévia de diagnóstico e alinhamento com a formadora especialista para adaptar exemplos, referenciais e exercícios ao contexto operacional da Wedrone.",
+  "metodologia_foco": "Aplicação direta à cadeia de abastecimento da Wedrone e preparação de evidências para auditorias e relatórios de sustentabilidade.",
+  "metodologia_cenarizacao": "Simulação de critérios de avaliação de propostas; matrizes de ponderação ESG; redação de cláusulas contratuais e checklists de auditoria",
+  "metodologia_casos": "Estudos de boas práticas de contratação sustentável, critérios EcoVadis aplicados a fornecedores e métricas de desempenho ambiental e social",
+  "objetivos_especificos": [
+    "Compreender o enquadramento do desenvolvimento sustentável, princípios ESG e exigências de compras responsáveis",
+    "Identificar os referenciais ambientais, ecolabels e requisitos de conformidade com o referencial EcoVadis",
+    "Integrar critérios de sustentabilidade ambiental, direitos humanos e ética na qualificação e seleção de fornecedores",
+    "Desenvolver cláusulas contratuais de responsabilidade social e ambiental e mecanismos de monitorização",
+    "Definir indicadores e KPIs práticos para medir o desempenho de sustentabilidade na cadeia de compras"
+  ],
+  "modulos": [
+    {
+      "titulo": "MÓDULO 1: Enquadramento, Desafios ESG e Compras Sustentáveis",
+      "topicos": [
+        "Desenvolvimento sustentável, fundamentos e exigências corporativas",
+        "Compras Sustentáveis: finalidade, atores e conformidade normativa",
+        "A cadeia de abastecimento e a transição ecológica nas organizações",
+        "Responsabilidade Social Empresarial (RSE): análise de riscos e oportunidades"
+      ]
+    },
+    {
+      "titulo": "MÓDULO 2: Referenciais, Eco-responsabilidade e EcoVadis",
+      "topicos": [
+        "Conceito de ciclo de vida e qualidade ecológica de produtos e serviços",
+        "Ecolabels, rotulagem ecológica e declarações ambientais",
+        "Referenciais de sustentabilidade e alinhamento com auditorias EcoVadis",
+        "Identificação dos requisitos aplicáveis à carteira de compras"
+      ]
+    },
+    {
+      "titulo": "MÓDULO 3: Processo de Compra Responsável e Seleção de Fornecedores",
+      "topicos": [
+        "Mapeamento da carteira de compras e matriz de impacto ESG",
+        "Integração de critérios ambientais e sociais nas consultas ao mercado",
+        "Avaliação e homologação da oferta e postura dos fornecedores",
+        "Ética, deontologia e mitigação de riscos na cadeia de valor"
+      ]
+    },
+    {
+      "titulo": "MÓDULO 4: Contratualização, Métricas e Monitorização Contínua",
+      "topicos": [
+        "Redação de cláusulas contratuais sociais e ambientais",
+        "Mecanismos de controlo e auditoria de conformidade dos fornecedores",
+        "Definição de métricas operacionais e KPIs de compras sustentáveis",
+        "Evidências e indicadores para relatórios de sustentabilidade"
+      ]
+    }
+  ]
+}

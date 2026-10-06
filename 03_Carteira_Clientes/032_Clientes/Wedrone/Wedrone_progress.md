@@ -11,18 +11,15 @@ timestamp: 2026-09-30T16:00:00+01:00
 *Links:* [Contexto](./Wedrone_context.md) | [Notas de Reunião e Histórico](./Wedrone_meeting_notes.md)
 
 ## Status Atual
-* **Fase do Funil:** Qualificação / Proposta em preparação
-* **Última Interação:** 30/09/2026 — chamada de resposta ao pedido de informação.
-* **Solução em análise:** Compras Sustentáveis, formato remoto e dedicado.
-* **Participantes:** 1 inicialmente; possibilidade de incluir outros elementos da equipa de Compras.
-* **Trigger confirmado:** necessidade de evidência de formação para EcoVadis/relatórios de sustentabilidade e desenvolvimento do colaborador.
+* **Fase do Funil:** Proposta Pedagógica Preparada / Aguarda Validação e Envio
+* **Última Interação:** 30/09/2026 — chamada de resposta ao pedido de informação com Caroline Marchi.
+* **06/10/2026:** Geração da proposta oficial em PowerPoint (`Proposta_Wedrone_Compras_Sustentaveis.pptx`) com 14 horas de formação dedicada remota para 1 a 3 participantes.
+* **Solução desenhada:** Compras Sustentáveis (alinhada com conformidade EcoVadis, relatórios ESG e qualificação de fornecedores).
 
 ## Próximos Passos
-* Preparar e enviar proposta comercial e pedagógica.
-* Incluir a possibilidade de a solução abranger mais elementos da equipa de Compras.
-* Indicar datas possíveis para realização da formação.
-* Manter a flexibilidade de ajuste do conteúdo através de reunião de preparação.
-* Após envio da proposta, validar número final de participantes e data.
+* Enviar e-mail com a proposta anexada a Caroline Marchi.
+* Sugerir datas para a realização da formação (em modelo de 4 sessões de 3h30 ou 2 dias inteiros).
+* Agendar reunião prévia de alinhamento com a formadora especialista após validação.
 
 ## Alertas
 * Não está confirmado o número final de participantes.
