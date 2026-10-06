@@ -110,6 +110,12 @@ Sempre que for necessário comunicar a um cliente uma retificação de valor ou 
 2. **Desbloqueio Imediato de Requisitos Eliminatórios:** Se o cliente questionar sobre certificação legal (ex.: certificação DGERT / emissão de certificados SIGO), responder categoricamente logo no início da mensagem para eliminar esse risco antes de avançar para a análise pedagógica.
 3. **Compromisso de Prazo:** Estabelecer um horizonte temporal claro e curto (ex.: início da semana seguinte) para envio da proposta técnica/financeira.
 
+## Padrões de Propostas em PowerPoint (SKOLAE Standard)
+Sempre que forem gerados conteúdos pedagógicos ou propostas em PowerPoint (`.pptx`):
+1. **Competências a Desenvolver (Slide 12):** Devem ser geradas exclusivamente como tags executivas ultra-curtas de **2 a 3 palavras por bullet point** (ex.: *Liderança Operacional*, *Gestão de Conflitos*, *Comunicação Assertiva*).
+2. **Objetivos Específicos (Slide 13):** Devem ter no máximo **1 linha (10 a 14 palavras)**, iniciados por verbos de ação no infinitivo e sem bullets literais.
+3. **Invariante do Bloco Gráfico Metodológico (Slide 12 / Slide 8):** O bloco lateral direito *"TREINO / ESTIMULAR A APRENDIZAGEM"* é parte gráfica standard e institucional do template mestre da SKOLAE e nunca pode ser alterado ou customizado em função do programa.
+
 ## Gestão de Memória Comercial (Phase 3.5 - Client Intelligence)
 Sempre que criares ou atualizares a ficha de inteligência de um cliente (ex: `[Cliente]_Intelligence.md`), deves garantir que o ficheiro começa obrigatoriamente com um bloco YAML Frontmatter. Este bloco serve para estruturar os dados para futura exportação e integração com CRMs (ex: Odoo).
 O bloco deve ter a seguinte estrutura mínima:

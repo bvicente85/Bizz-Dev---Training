@@ -34,12 +34,15 @@ A skill deve ser ativada sempre que o utilizador pedir:
    * **Texto do Enquadramento (Slide 6):** `Basier Square` a 12pt.
 3. **Regra Anti-Bullets no Slide 13:**
    * É **estritamente proibido** inserir caracteres literais de lista (`•`, `-`, etc.) no Slide 13. Todos os tópicos e objetivos devem ser gerados como linhas limpas de texto simples para facilitar a edição pelo utilizador.
-4. **Alocação Exata de Grupos no Slide 12:**
+4. **Alocação e Densidade Textual no Slide 12:**
    * O subtítulo superior (`CaixaDeTexto 81`) contém apenas a promessa curta em 1 linha.
    * Os **Destinatários** são inseridos no cartão dedicado `Agrupar 9` (`CaixaDeTexto 28`).
-   * As **Competências a Desenvolver** são inseridas no cartão dedicado `Agrupar 1` (`CaixaDeTexto 27`).
+   * As **Competências a Desenvolver** (`Agrupar 1` / `CaixaDeTexto 27`) devem ser estritamente **tags executivas ultra-curtas de 2 a 3 palavras por bullet point** (ex.: *Qualificação de Fornecedores*, *Contratação Sustentável*, *Métricas e KPIs*).
    * As **Metodologias** são inseridas no cartão dedicado `Agrupar 5` (`CaixaDeTexto 26`).
-5. **Preservação do Bloco Metodológico Gráfico Standard (TREINO / ESTIMULAR A APRENDIZAGEM):**
+5. **Densidade dos Objetivos Específicos no Slide 13:**
+   * Cada objetivo específico deve ter **no máximo 1 linha (10 a 14 palavras)**, iniciando obrigatoriamente por verbo de ação no infinitivo (*Identificar, Aplicar, Integrar, Elaborar, Monitorizar*).
+   * Sem bullets literais (linhas limpas de texto simples).
+6. **Preservação Invariável do Bloco Metodológico Gráfico Standard (Slide 12 / Slide 8):**
    * No slide de abertura do itinerário (Slide 12 no template base de 22 slides / Slide 8 após eliminação das capas excedentes), o bloco gráfico à direita (`CaixaDeTexto 83`, `CaixaDeTexto 84` e `CaixaDeTexto 85`: *"TREINO / ESTIMULAR A APRENDIZAGEM"*, *"Cenarização; role playing..."*, *"Utilização de exemplos, estudos de caso..."* e *"Clarificação de conceitos / Feedback / Sínteses / Debriefings"*) é **estritamente standard e invariável**. **Nunca deve ser adaptado ou alterado**, mantendo-se 100% fiel ao template de origem.
 
 ---
