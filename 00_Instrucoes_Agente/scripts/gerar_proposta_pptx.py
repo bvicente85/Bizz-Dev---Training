@@ -209,14 +209,8 @@ def gerar_proposta(data, template_path=r'Template Proposta - 1 curso.pptx', outp
             p = sh.text_frame.paragraphs[0]
             p.text = ''
             set_run(p.add_run(), subtitulo, F_BODY, 14, bold=False)
-        elif sh.name == 'CaixaDeTexto 84':
-            p = sh.text_frame.paragraphs[0]
-            p.text = ''
-            set_run(p.add_run(), metodologia_casos, F_BODY, 10.5, bold=False)
-        elif sh.name == 'CaixaDeTexto 85':
-            p = sh.text_frame.paragraphs[0]
-            p.text = ''
-            set_run(p.add_run(), metodologia_cenarizacao, F_BODY, 10.5, bold=False)
+        # Nota: CaixaDeTexto 83, 84 e 85 (bloco "ESTIMULAR A APRENDIZAGEM / TREINO")
+        # são estritamente standard da SKOLAE e não devem ser modificadas.
         elif sh.name == 'CaixaDeTexto 3':
             tf = sh.text_frame
             p1 = tf.paragraphs[1]

@@ -39,6 +39,8 @@ A skill deve ser ativada sempre que o utilizador pedir:
    * Os **Destinatários** são inseridos no cartão dedicado `Agrupar 9` (`CaixaDeTexto 28`).
    * As **Competências a Desenvolver** são inseridas no cartão dedicado `Agrupar 1` (`CaixaDeTexto 27`).
    * As **Metodologias** são inseridas no cartão dedicado `Agrupar 5` (`CaixaDeTexto 26`).
+5. **Preservação do Bloco Metodológico Gráfico Standard (TREINO / ESTIMULAR A APRENDIZAGEM):**
+   * No slide de abertura do itinerário (Slide 12 no template base de 22 slides / Slide 8 após eliminação das capas excedentes), o bloco gráfico à direita (`CaixaDeTexto 83`, `CaixaDeTexto 84` e `CaixaDeTexto 85`: *"TREINO / ESTIMULAR A APRENDIZAGEM"*, *"Cenarização; role playing..."*, *"Utilização de exemplos, estudos de caso..."* e *"Clarificação de conceitos / Feedback / Sínteses / Debriefings"*) é **estritamente standard e invariável**. **Nunca deve ser adaptado ou alterado**, mantendo-se 100% fiel ao template de origem.
 
 ---
 
