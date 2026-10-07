@@ -29,3 +29,7 @@ Um curso prático para profissionais de vendas que querem usar a IA para identif
 
 ## Perfil do Formador / Notas de Venda
 **Argumentos de Venda:** Foco total em ROI. Ensina o vendedor a gastar menos tempo em tarefas administrativas e mais tempo a interagir com clientes de alto potencial.
+
+## Ferramentas de Diagnóstico Associadas
+* [[Questionario_Diagnostico_Vendas_e_Prospeccao_com_IA|Questionário de Diagnóstico Pré-Formação (Template Oficial)]]
+
