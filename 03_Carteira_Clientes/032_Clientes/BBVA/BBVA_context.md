@@ -27,7 +27,7 @@ timestamp: 2026-06-18T10:59:00Z
 ### BBVA Banco (Sucursal em Portugal - Av. da Liberdade)
 * **João Pedroso:**
   * **Cargo:** Human Resources Manager (Responsável de Formação)
-  * **Contactos:** +351 969 529 270 | `joao.pedroso@bbva.com`
+  * **Contactos:** `joao.pedroso@bbva.com` | Tel: +351 969 529 270 (incorreto/desatualizado - atendeu outra pessoa a 07/10/2026)
   * **Validação (02/10/2026):** Indicado diretamente pela colega Sandra Mendes como a pessoa que gere a pasta de formação no banco.
 * **Sandra Mendes:**
   * **Cargo:** Human Resources Senior Manager

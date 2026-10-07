@@ -16,7 +16,8 @@ timestamp: 2026-06-18T10:59:00Z
 * **Data Alvo do Projeto:** 2 e 3 de outubro de 2026
 
 ## Histórico de Interações
-* **02/10/2026 (BBVA Banco):** Triagem junto de Sandra Mendes (HR Senior Manager na Av. da Liberdade). Sandra clarificou que não gere diretamente a pasta de formação e indicou formalmente o **João Pedroso** (Human Resources Manager, `joao.pedroso@bbva.com` / +351 969 529 270) como responsável pela área. Ficha criada no Odoo como "Responsável de Formação". Bruno Vicente realizou tentativa de chamada telefónica para o telemóvel do João Pedroso, que não atendeu. Fica planeada nova tentativa para a próxima semana.
+* **07/10/2026 (BBVA Banco):** Nova tentativa de contacto telefónico para o número anteriormente registado (+351 969 529 270). A chamada foi atendida por outra pessoa, constatando-se que o contacto telefónico está incorreto/desatualizado. Abordagem de prospeção transitada para canal de e-mail direto (`joao.pedroso@bbva.com`) com âncora na indicação da Sandra Mendes.
+* **02/10/2026 (BBVA Banco):** Triagem junto de Sandra Mendes (HR Senior Manager na Av. da Liberdade). Sandra clarificou que não gere diretamente a pasta de formação e indicou formalmente o **João Pedroso** (Human Resources Manager, `joao.pedroso@bbva.com`) como responsável pela área. Ficha criada no Odoo como "Responsável de Formação". Bruno Vicente realizou tentativa de chamada telefónica para o telemóvel associado, que não atendeu.
 * **16/09/2026 (BBVA IFIC):** Reunião de alinhamento com Radhika Darmeci, Lúcia Bagio, Joana Caparica, formadora Ana Rocha e Bruno Vicente. Validação metodológica e de conteúdos para «Gestão de Tempo e Produtividade para Gestores de Equipa». Levantamento de necessidades logísticas (sala, kits e avaliação de projetor).
 * **07/05/2026:** Receção de email da Radhika. Devido a compromissos previamente agendados e indisponibilidade de um formando nos dias 14 e 15, a formação em maio (formato 7h/dia falado ao telefone) foi cancelada. A Radhika solicitou o reagendamento para setembro, sugerindo a semana de 21 a 25.
 * **06/05/2026:** Conversa telefónica (Bruno e Radhika). Bruno propôs o formato de 7h/dia para viabilizar as datas de maio.
@@ -25,7 +26,7 @@ timestamp: 2026-06-18T10:59:00Z
 
 ## Próximos Passos
 * **BBVA Banco (Av. da Liberdade):**
-  * `[ ]` Voltar a ligar para o telemóvel do João Pedroso (+351 969 529 270) na próxima semana (5 a 9 de outubro).
+  * `[ ]` Enviar e-mail de abordagem e pedido de reunião via Teams ao João Pedroso (`joao.pedroso@bbva.com`) e aguardar feedback.
 * **BBVA IFIC (Radhika / Logística):**
   * `[ ]` Avaliar e confirmar com a logística a solução de projeção (parede vs. aluguer de projetor externo).
   * `[ ]` Partilhar versão final do programa com Radhika Darmeci para parametrização na plataforma e convocatórias.
