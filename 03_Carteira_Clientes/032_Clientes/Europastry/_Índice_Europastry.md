@@ -1,5 +1,4 @@
-# Europastry
+# Europastry Portugal, S.A.
 
-- [[Europastry_context]]
-- [[Europastry_progress]]
-- [[Europastry_meeting_notes]]
+* [[Europastry_context|Ficha de Contexto e Inteligência da Conta]]
+* [[Europastry_progress|Plano de Outreach e Progresso]]

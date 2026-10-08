@@ -48,7 +48,7 @@ Evitar linguagem corporativa vazia, adjetivação promocional excessiva ou expre
 ## 3. Diretrizes Específicas de Português (PT-PT)
 
 *   **Idioma:** Português Europeu estrito (ex: *contacto, equipa, reativar, equacionar*).
-*   **Naturalidade em Redes Sociais:** No LinkedIn, usa a palavra **"ligação"** em vez de "conexão" (ex: *"Obrigado por aceitar a minha ligação por aqui."*).
+*   **Naturalidade em Redes Sociais:** No LinkedIn, usa a palavra **"ligação"** em vez de "conexão" (ex: *"Obrigado por aceitar a ligação."* ou *"É um gosto tê-la na minha rede de contactos."*). Banir terminantemente a muleta *"por aqui"* ou *"por esta via"* no próprio LinkedIn (ex: *"juntá-la à minha rede por aqui"*), por ser óbvia e redundante. Evitar igualmente presumir etapas profissionais ou transições de vida (*"felicidades para esta etapa"*); fechar de forma limpa e profissional (*"Bom trabalho e boa semana."*).
 *   **Tratamento de Clientes (Você / Terceira Pessoa):** Em emails de enquadramento de proposta e follow-ups formais, utiliza a terceira pessoa do singular (Você implícito ou referindo o nome do cliente), evitando o "tu" de proximidade excessiva quando a relação exige respeito protocolar.
 *   **Ponte de Ligação Inicial:** Iniciar sempre o email com uma breve nota de conexão pessoal ou contextual antes de introduzir o assunto comercial (ex: *"Espero que a semana esteja a correr bem."*).
 *   **Ênclise Obrigatória em Infinitivos (PT-PT Culto):** Em verbos reflexivos ou pronominais no infinitivo sem palavra atrativa prévia, usar sempre a ênclise com hífen (ex: preferir *"conhecermo-nos"* ou *"alinharmo-nos"* a *"nos conhecermos"* ou *"nos alinhar"*). A próclise nestes casos soa a tradução automática ou a português do Brasil.
@@ -263,6 +263,42 @@ Utiliza estes templates calibrados como base de escrita, adaptando os campos ent
     > Terça-feira às 10h00 ou quinta-feira às 14h30 funciona para si?
     > 
     > Obrigado e até breve.
+
+#### Variante F1: Resposta Ágil a Pedido Inbound com Tentativa de Chamada Não Atendida
+*   **Objetivo:** Responder a um pedido direto de preço/disponibilidade após tentativa telefónica sem sucesso, encaminhando para reunião de 10 minutos sem sobrecarregar o cliente com perguntas por e-mail.
+*   **Regras Críticas:**
+    *   **Agradecimento e Legitimação:** Agradecer o contacto e demonstrar interesse genuíno em apoiar a entidade na ação solicitada.
+    *   **Registo Natural da Chamada:** Assumir a tentativa telefónica sem cobrança (*"Tentei ligar-lhe há pouco para falarmos, mas como não foi possível, escrevo-lhe por aqui."*).
+    *   **Justificação de Solução à Medida:** Enquadrar que a SKOLAE desenha habitualmente soluções à medida, tornando prático alinhar formato e calendário numa conversa de 10 minutos em vez de trocar e-mails longos.
+    *   **Pergunta Fluida Sem Imperativos:** Utilizar pergunta aberta e direta (*"Como está a sua disponibilidade nos próximos dias para falarmos?"*), banindo ordens como *"Diga-me, por favor"*.
+    *   **Fecho:** *"Obrigado e até breve."*
+*   **Template Padrão (PT-PT):**
+    > Olá [Nome], boa tarde.
+    > 
+    > Muito obrigado pelo contacto e pelo interesse na SKOLAE.
+    > 
+    > Teremos todo o interesse em apoiar o [Nome da Empresa] nesta iniciativa de [Tema] para os [N] colaboradores.
+    > 
+    > Tentei ligar-lhe há pouco para falarmos, mas como não foi possível, escrevo-lhe por aqui. Como desenhamos habitualmente as soluções à medida da vossa realidade, seria muito prático fazermos uma breve reunião (cerca de 10 minutos via Teams ou por telefone) para esclarecer algumas questões essenciais de formato e calendarização, de modo a enviar-lhe a proposta mais adequada.
+    > 
+    > Como está a sua disponibilidade nos próximos dias para falarmos?
+    > 
+    > Obrigado e até breve.
+    > 
+    > Cumprimentos,  
+    > Bruno Vicente  
+    > SKOLAE Formação
+
+#### Variante F2: Prospeção Multi-Departamental (Multi-Threading Outreach)
+*   **Objetivo:** Abordar múltiplos interlocutores de uma organização em paralelo (RH, Direção Geral, Direções Operacionais/Técnicas) com cadência escalonada e sem atrito interno.
+*   **Regras Críticas:**
+    *   **Identificação & Marca Histórica:** Iniciar com apresentação direta incorporando o peso institucional da marca: *"O meu nome é Bruno Vicente e sou consultor da SKOLAE (antiga Abilways) na área de [área]..."*.
+    *   **Validação de Legitimidade da Pasta:** Demonstrar claramente porque contactamos aquela pessoa (*"Sendo o/a [Nome] o responsável por..."* ou *"Tenho a indicação de que é o responsável pela área de [Área], pelo que poderá ser a pessoa certa para..."*).
+    *   **Reconhecimento Interno dos RH:** Nas abordagens à Direção Geral e Operações, reconhecer a existência da equipa de RH para facilitar reencaminhamentos naturais top-down (*"ou se qualquer iniciativa nesta área é gerida exclusivamente pelos Recursos Humanos?"*).
+    *   **CTA Calibrado ao Cargo:**
+        - **RH e Operações:** Pergunta com `?` focada em utilidade: *"Se tiverem desafios prioritários no desenvolvimento das equipas para os próximos meses, podemos falar 10 minutos por Teams para nos conhecermos e perceber onde podemos ser úteis em algum tema?"*
+        - **Direção Geral:** Bifurcação Executiva (falar vs. reencaminhar): *"Se este for um tema com relevância para a vossa gestão este ano, faria sentido falarmos 10 minutos por Teams ou a sua indicação é articular diretamente com os Recursos Humanos?"*
+    *   **Fecho:** *"Fico a aguardar o seu feedback. / Com os melhores cumprimentos, / Bruno Vicente"*.
 
 ### G. Biblioteca de Tratamento de Objeções B2B
 Utiliza estas abordagens para contornar hesitações do cliente de forma elegante, focando na flexibilidade e no valor do negócio:

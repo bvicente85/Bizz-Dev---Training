@@ -41,6 +41,10 @@ Sempre que redigires e-mails de qualificação de oportunidades (inbound ou segu
     - **Permissão de Adiamento Sem Culpa:** Dar permissão explícita para o tema ter sido adiado, justificando com a gestão interna da SKOLAE (*"Caso o tema tenha ficado para mais tarde, diga-me também sem problema, para eu conseguir ajustar o nosso planeamento."*).
     - **Avanço Ágil:** Apresentar o próximo passo simples se a aprovação estiver concluída (*"Se estiverem já em condições de avançar, podemos então combinar a reunião de alinhamento pedagógico e começar a fechar as datas."*).
     - **Pergunta Factual e Direta:** Evitar rodeios de vendas (*"Conseguiram entretanto avançar com a aprovação e têm já alguma previsão para a realização da formação?"*).
+11. **Resposta a Pedidos Inbound com Tentativa Telefónica Sem Sucesso:** Perante uma lead inbound que pede cotação direta de catálogo e que não atendeu a tentativa de chamada telefónica:
+    - **Zero Questionários por E-mail:** Não responder com um questionário extenso de perguntas a devolver por escrito (isso gera atrito e passa o esforço cognitivo para o cliente).
+    - **Anatomia em 4 Blocos:** Agradecimento e interesse genuíno $\rightarrow$ Registo sereno e natural da tentativa de contacto telefónico (*"Tentei ligar-lhe há pouco para falarmos, mas como não foi possível, escrevo-lhe por aqui."*) $\rightarrow$ Justificação de conversa rápida de 10 min por telefone/Teams com base em *soluções habitualmente desenhadas à medida* $\rightarrow$ Pergunta direta sem ordens nem imperativos (*"Como está a sua disponibilidade nos próximos dias para falarmos?"*).
+    - **Fecho Ágil:** Terminar com *"Obrigado e até breve."*
 
 ## Diretrizes Ambientais e de Infraestrutura (Windows & CLI)
 Sempre que executares operações de ficheiro ou pesquisas no terminal:
@@ -86,6 +90,39 @@ Templates nunca podem sobrepor-se às regras metodológicas. O desenho de qualqu
 6. **Omissão de Ruído:** Sem listas de bullets de áreas de intervenção nem reconstituição de históricos passados, mantendo a abordagem 100% focada, limpa e ágil.
 7. **Zero Pitch de Catálogo em Abordagens Iniciais a Lideranças de RH:** Quando o contacto com a direção de RH tiver origem numa indicação da receção, nunca despejar áreas de formação setoriais ou listas de catálogo. O foco deve ser puramente perceber como a organização opera a formação e se recorre a entidades externas, oferecendo uma *Commercial Door* elegante (*falar brevemente vs. indicação de quem acompanha a área*).
 8. **Naturalidade da Linguagem Oral em Chamadas (Cold Calls):** Em guiões e mapas de chamadas telefónicas, escrever estritamente como uma pessoa portuguesa fala naturalmente ao telefone (frases curtas, uma ideia de cada vez). Banir jargão de relatório (*"levantamento de contactos"*, *"como estão organizados estes temas"*, *"acompanha diretamente esta componente"*). Na abertura, limitar o discurso a: Identificação $\rightarrow$ Razão simples do contacto $\rightarrow$ Pergunta de qualificação de pasta. Imediatamente a seguir: **parar e ouvir**, sem descarregar o discovery process na abertura.
+
+### 3. Protocolo de Prospeção Multi-Departamental (Multi-Threading Outreach)
+Sempre que o utilizador solicitar abordar uma organização através de múltiplos contactos/departamentos em simultâneo (*multi-threading*), o sistema deve executar de ponta a ponta as seguintes 4 fases:
+
+1. **Fase 1: Mapeamento de Inteligência Empresarial & Interlocutores (Apollo & Web):**
+   - Mapear a entidade jurídica em Portugal (NIF, morada/fábrica/sede, setor e dimensão).
+   - Identificar interlocutores-chave cobrindo os flancos essenciais:
+     * **Recursos Humanos / Pessoas:** Titular natural da pasta de formação;
+     * **Direção Geral / Managing Director:** Patrocinador executivo de topo;
+     * **Direções Operacionais e Funcionais:** Direção Industrial/Produção, Logística/Cadeia de Abastecimento, TI/Sistemas, Comercial/Vendas, etc.
+
+2. **Fase 2: Arquitetura de Envio Escalonado (Staggered Cadence):**
+   - **Dia 1 (Manhã):** RH / Pessoas — Entrada prioritária na titular da pasta de formação para registo prévio no inbox.
+   - **Dia 1 (Final da tarde / ~17h):** Direção Geral — Abordagem executiva desfasada (se reencaminhar internamente, os RH já têm o e-mail no inbox).
+   - **Dias Seguintes:** Direções operacionais e técnicas (espaçadas por manhã e tarde para cobrir o terreno sem saturar a organização).
+   - **Mecânica de Proteção e Reencaminhamento Top-Down:** As abordagens à Direção Geral e Direções Operacionais reconhecem explicitamente a existência dos RH (*"ou se a indicação é articular diretamente com os Recursos Humanos?"*), facilitando o reencaminhamento sem melindres internos.
+
+3. **Fase 3: Padrão Cirúrgico de Redação dos E-mails (Anatomia em 4 Blocos):**
+   Todos os e-mails de outreach multi-threading devem respeitar rigorosamente a seguinte anatomia:
+   - **Bloco 1 (Identificação & Notoriedade):** *"Olá [Nome], boa tarde. O meu nome é Bruno Vicente e sou consultor da SKOLAE (antiga Abilways) na área de [área correspondente]."*
+   - **Bloco 2 (Legitimidade de Pasta):** Justificar expressamente porque estamos a contactar aquela pessoa em específico (*"Sendo o/a [Nome] o responsável pela área de [Área]..."* ou *"Tenho a indicação de que é o responsável pela área de [Área], pelo que poderá ser a pessoa certa para..."*).
+   - **Bloco 3 (Pergunta de Qualificação de Pasta):** Perguntar se costumam recorrer a parceiros externos à medida para ações nessa área ou se é gerido internamente / articulado exclusivamente com os Recursos Humanos.
+   - **Bloco 4 (CTA de Alto Engagement):**
+     * *Para RH e Direções Operacionais:* Pergunta direta com `?` focada em utilidade e desafios reais: *"Se tiverem desafios prioritários no desenvolvimento das equipas para os próximos meses, podemos falar 10 minutos por Teams para nos conhecermos e perceber onde podemos ser úteis em algum tema?"*
+     * *Para Direção Geral:* Bifurcação Executiva que permite responder em 5 segundos: *"Se este for um tema com relevância para a vossa gestão este ano, faria sentido falarmos 10 minutos por Teams ou a sua indicação é articular diretamente com os Recursos Humanos?"*
+   - **Fecho e Despedida:** *"Fico a aguardar o seu feedback. / Com os melhores cumprimentos, / Bruno Vicente"*.
+
+4. **Fase 4: Gestão Documental & Memória de Conta (Obsidian):**
+   - Criar obrigatoriamente a pasta da conta em `03_Carteira_Clientes/032_Clientes/[Nome_Empresa]/`.
+   - Gerar os 3 ficheiros estruturados:
+     * `[Empresa]_context.md`: Ficha de Inteligência com YAML Frontmatter (Fase 3.5), dados cadastrais, decisores e contexto setorial.
+     * `[Empresa]_progress.md`: Cronograma com datas/horas exatas de envio, minutas personalizadas completas de cada flanco e registo de status.
+     * `_Índice_[Empresa].md`: Ficheiro de navegação da conta.
 
 ## Alertas Financeiros e Logísticos (Propostas & Custos Diretos)
 1. **Localização e Deslocações (Sede em Lisboa):** A sede da SKOLAE situa-se em Lisboa. Sempre que uma formação presencial decorrer fora da Grande Lisboa (ex: Torres Vedras, Porto, Évora, etc.), deves **emitir obrigatoriamente um alerta** para verificar se os custos de deslocação, portagens, alimentação e estadia do formador foram devidamente considerados na proposta financeira ou ressalvados como encargo do cliente.
