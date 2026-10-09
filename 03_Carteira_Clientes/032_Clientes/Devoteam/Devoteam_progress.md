@@ -11,21 +11,24 @@ timestamp: 2026-09-29T17:30:00Z
 *Links:* [Contexto](./Devoteam_context.md) | [Notas e Comunicações](./Devoteam_meeting_notes.md)
 
 ## Estado no Funil de Vendas
-* **Fase:** Qualificação / Reunião de Diagnóstico Agendada (08/10/2026 às 15h30, a aguardar confirmação formal por e-mail)
+* **Fase:** Elaboração de Proposta Pedagógica & Comercial (Compromisso de envio até 12/10/2026)
 
 ## Oportunidade em Aberto
-* **Designação Odoo:** Devoteam | Formação de Pitch (Probabilidade: 41.85%)
-* **Tema:** Formação em "Elevator Pitch" e Técnicas de Apresentação Individuais
-* **Público-alvo:** Colaboradores de IT / Consultores (maioritariamente perfis técnicos)
-* **Idioma:** Inglês (*English delivery*)
-* **Formato:** Presencial (em sala)
-* **Metodologia Solicitada:** Prática, dinâmicas de grupo, apresentações individuais e *role plays* com feedback estruturado individual
-* **Soluções SKOLAE em Catálogo:** [`Public Speaking & Presenting with Impact`](../../01_Conhecimento_Base/011_Biblioteca_Programas/16_Oferta_em_Ingles/course_public_speaking_presenting_impact.md) e [`Como Fazer um Pitch`](../../01_Conhecimento_Base/011_Biblioteca_Programas/01_Vendas_e_Negociacao/Curso_Como_Fazer_um_Pitch.md)
+* **Designação Odoo:** Devoteam | Formação de Pitch & Soft Skills Nearshore (Probabilidade em alta)
+* **Tema:** *Pitch, Self-Presentation & Communication Lab for Junior Tech Profiles* (100% em Inglês)
+* **Público-alvo:** Perfis Júnior de IT (Engenharia, Cloud, Nearshore) com lacunas comunicacionais em entrevistas de cliente e diálogo em projeto
+* **Formato:** Presencial em Lisboa, 1 dia intensivo (7h/8h)
+* **Dimensão:** 1 turma piloto com limite de 10 participantes
+* **Metodologia:** Ultra-prática (*action learning*, jogos/teatro, *role plays*, simulações com gravação e feedback individual imediato)
+* **Janela Temporal:** Final de novembro de 2026 (ou final de janeiro de 2027)
 
 ## Próximos Passos
-* `[ ]` Aguardar confirmação formal por e-mail de Carolina Lopes para a reunião Teams de quinta-feira, 8 de outubro, às 15:30.
-* `[ ]` Realizar reunião de qualificação/diagnóstico a 08/10/2026 às 15h30 via Teams (calibrar número exato de formandos, duração de 1 ou 2 dias, datas pretendidas e local da formação).
-* `[ ]` Elaborar proposta técnica e comercial em inglês / formato *Pitch Lab* à medida.
+* `[ ]` **Elaborar Proposta Pedagógica e Comercial:**
+  * Alinhar desenho do workshop de 1 dia (módulos práticos de auto-apresentação, desmistificação de entrevistas de cliente e comunicação em projeto) com coordenação pedagógica (Hélder Marques / formador em inglês).
+  * Estruturar proposta financeira para 1 edição (até 10 participantes) + dia de sala/logística se aplicável.
+* `[ ]` **Enviar Proposta à Carolina Lopes:**
+  * Prazo: até segunda-feira, **12 de outubro de 2026**.
+  * Enviar para `carolina.lopes@devoteam.com` com enquadramento de valor nos 2 gaps identificados.
 
 ## Histórico de Interações
 * **[29-09-2026] - Chamada Telefónica com Carolina Lopes (Devoteam):**

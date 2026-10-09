@@ -3,12 +3,14 @@ status: Ativo
 core_business: Consultoria em Tecnologias de Informação, Cloud, Cibersegurança, Dados e Transformação Digital
 decisores:
   - Carolina Lopes (L&D Specialist | Learning & Development)
-data_ultima_interacao: 2026-09-29
+  - Joana (HR Business Partner)
+  - Lara (Diretora de Departamento / L&D Leadership)
+data_ultima_interacao: 2026-10-08
 areas_interesse:
-  - Elevator Pitch
-  - Técnicas de Apresentação e Comunicação de Impacto para Perfis Técnicos
-  - Formação em Inglês (Public Speaking / Pitch Lab)
-  - Soft Skills em Tecnologias de Informação
+  - Elevator Pitch e Auto-apresentação (Self-Pitch em Entrevistas de Cliente)
+  - Comunicação e Apresentação de Soluções em Projeto IT
+  - Soft Skills para Perfis Técnicos Júnior
+  - Formação Presencial em Inglês (Pitch & Communication Lab)
 ---
 
 # Contexto do Cliente: Devoteam
@@ -20,21 +22,33 @@ areas_interesse:
 * **Setor:** Tecnologias de Informação / Consultoria e Transformação Digital
 * **Website:** https://pt.devoteam.com
 * **Gestor de Conta (SKOLAE):** Bruno Vicente
-* **Origem da Oportunidade:** Inbound (pedido formal via e-mail e registado no CRM Odoo como *"Devoteam | Formação de Pitch"*, probabilidade inicial 41.85%)
+* **Origem da Oportunidade:** Inbound (pedido formal via e-mail e registado no CRM Odoo como *"Devoteam | Formação de Pitch"*, probabilidade em alta)
 
 ## Stakeholders Identificados
 * **Carolina Lopes:**
   * **Cargo:** L&D Specialist (Equipa de Learning & Development)
   * **Email:** `carolina.lopes@devoteam.com`
   * **Telefone:** `+351 963 812 728`
-  * **Papel:** Ponto focal de L&D / Champion Operacional do pedido formativo
+  * **Papel:** Ponto focal operacional de L&D / Gestora do pedido
+* **Joana:**
+  * **Cargo:** HR Business Partner (Nearshore)
+  * **Papel:** Alinhamento estratégico com o negócio
+* **Lara:**
+  * **Cargo:** Diretora do Departamento de L&D / Pessoas
+  * **Papel:** Patrocinadora executiva / Decisora de topo
 
 ## Histórico de Dores e Necessidades
+* **[08-10-2026] - Reunião de Diagnóstico Realizada (Teams 15:30):**
+  * **Contexto do Negócio:** Unidade Nearshore da Devoteam. Cerca de 20% da equipa trabalha exclusivamente com clientes internacionais.
+  * **Dor Crítica Identificada:** Colaboradores **júnior** com elevado conhecimento técnico, mas com bloqueio em *soft skills*:
+    1. *Entrevistas com Clientes:* Passam nos testes técnicos internos, mas chumbam na entrevista de validação com o cliente final por falta de impacto, segurança e clareza na auto-apresentação (*self-pitch*).
+    2. *Comunicação em Projeto:* Dificuldade em reportar e estruturar o diálogo técnico no dia a dia.
+  * **Especificações Acordadas:**
+    - Formato: Presencial em Lisboa, 1 dia intensivo (7h/8h).
+    - Turma: Piloto com máximo de 10 participantes júnior.
+    - Metodologia: Ação pura (*action learning*, dinâmicas teatrais de desbloqueio, *role plays*, simulações gravadas com feedback individual obrigatório). Mínima teoria.
+    - Idioma: 100% em Inglês.
+    - Janela temporal: Finais de novembro de 2026 (ou final de janeiro de 2027).
+  * **Estado Atual:** Reunião realizada com sucesso. **Ainda sem proposta definida** — proposta pedagógica e financeira em elaboração para envio até segunda-feira, 12 de outubro de 2026.
 * **[28-09-2026] - Inbound Formação em "Elevator Pitch" e Técnicas de Apresentação (Inglês):**
-  * **Necessidade:** Desenvolver a capacidade de colaboradores da Devoteam (maioritariamente perfis técnicos de IT/Consultoria) comunicarem com clareza, confiança e impacto.
-  * **Requisitos expressos pelo cliente:**
-    1. **Idioma:** Inglês (100% *English delivery*);
-    2. **Formato:** Presencial (em sala);
-    3. **Metodologia:** Abordagem prática, dinâmicas de grupo, apresentações e *role plays*;
-    4. **Acompanhamento:** Feedback estruturado e individual sobre o desempenho para aperfeiçoamento contínuo.
-  * **Estado Atual:** Reunião de diagnóstico alinhada por chamada telefónica a 29/09/2026 e prevista para quinta-feira, 8 de outubro de 2026, às 15:30 via Teams (a aguardar e-mail de formalização de Carolina Lopes).
+  * Receção do pedido inicial de Carolina Lopes focado em técnicas de apresentação e pitch para perfis técnicos. Alinhada reunião exploratória telefónica a 29/09/2026.

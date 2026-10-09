@@ -75,13 +75,13 @@
 #### D. Paulo (Logistic & Purchasing Manager — Logística & Compras)
 * **Assunto:** Equipas de logística e compras | Europastry
 * **Texto:**
-> Olá Paulo, boa tarde.
+> Olá Paulo, bom dia.
 > 
-> O meu nome é Bruno Vicente e sou consultor da SKOLAE (antiga Abilways) na área de formação corporativa para equipas operacionais e de suporte.
+> O meu nome é Bruno Vicente e sou consultor da SKOLAE (antiga Abilways) na área de formação corporativa e desenvolvimento de competências.
 > 
-> Tenho a indicação de que é o responsável pela área de logística e compras da Europastry, pelo que poderá ser a pessoa certa para perceber se têm previsto algum reforço de competências com entidades externas, ou se estes temas são conduzidos em exclusivo pela equipa de Recursos Humanos.
+> Tenho a indicação de que é o responsável pela área de logística e compras da Europastry, pelo que lhe pergunto se costumam recorrer a parceiros externos para ações de formação das vossas equipas.
 > 
-> Caso faça sentido trocar uma breve nota sobre o vosso contexto operacional, teremos oportunidade de falar 10 minutos por Teams?
+> Se este for um tema com relevância para a vossa operação este ano, podemos falar 10 minutos por Teams ou a sua indicação é articular diretamente com os Recursos Humanos?
 > 
 > Fico a aguardar o seu feedback.
 > 
@@ -89,15 +89,15 @@
 > Bruno Vicente
 
 #### E. José Varandas (IT Manager — Sistemas & TI)
-* **Assunto:** Competências tecnológicas e equipas de TI | Europastry
+* **Assunto:** Formação e equipas de TI | Europastry
 * **Texto:**
 > Olá José, boa tarde.
 > 
-> O meu nome é Bruno Vicente e sou consultor da SKOLAE (antiga Abilways) no desenvolvimento de programas de formação e capacitação tecnológica para empresas.
+> O meu nome é Bruno Vicente e sou consultor da SKOLAE (antiga Abilways) na área de formação e desenvolvimento de equipas.
 > 
-> Tenho a indicação de que é o responsável pela área de TI na Europastry, pelo que poderá ser a pessoa certa para perceber se têm previsto algum reforço de competências técnicas ou digitais com parceiros externos, ou se estas matérias são articuladas exclusivamente com os Recursos Humanos.
+> Tenho a indicação de que é o responsável pela área de TI na Europastry, pelo que lhe pergunto se costumam recorrer a parceiros externos para formação técnica da vossa equipa.
 > 
-> Caso faça sentido avaliar novas abordagens para a vossa equipa ou para a organização, teremos oportunidade de falar 10 minutos por Teams?
+> Se fizer sentido perceber onde podemos ser úteis, podemos falar 10 minutos por Teams ou a sua indicação é ver este tema diretamente com os Recursos Humanos?
 > 
 > Fico a aguardar o seu feedback.
 > 

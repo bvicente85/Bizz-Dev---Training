@@ -91,3 +91,48 @@
   * Carolina sugeriu **quinta-feira, 8 de outubro, às 15:30**.
   * Bruno confirmou disponibilidade de horário.
 * **Compromisso / Formalização:** Carolina ficou de enviar resposta ao e-mail para confirmar formalmente o agendamento da reunião para 8 de outubro às 15:30.
+
+---
+
+## Reunião de Diagnóstico L&D: 8 de Outubro de 2026 (15:30)
+
+**Participantes:**
+* **Devoteam (Área Nearshore):**
+  * **Carolina Lopes** (L&D Specialist)
+  * **Joana** (HR Business Partner)
+  * **Lara** (Diretora do Departamento / L&D Leadership)
+* **SKOLAE:**
+  * **Bruno Vicente** (Business Development / Gestor de Conta)
+  * **Hélder Marques** (Conteúdos e Eventos)
+
+**Canal:** Microsoft Teams  
+**Registo Granola:** [`Formação em soft skills e comunicação para perfis júnior da Devoteam`](https://notes.granola.ai/d/8a2e2902-bc1c-4a5e-ae9d-6abb4e6de187)
+
+### 1. Diagnóstico da Dor e Necessidade Real
+* **Público-Alvo Principal:** Perfis **júnior** com forte componente técnica (IT, engenharia, desenvolvimento, cloud), mas com lacunas profundas em *soft skills* e postura comunicacional.
+* **Os 2 Contextos Críticos de Fricção (Business Pain):**
+  1. **Entrevistas com Clientes (Impacto Direto em Alocação/Faturação):** Os juniores passam nos testes e entrevistas técnicas internas da Devoteam, mas **falham redondamente na entrevista de validação com o cliente final**. Falta capacidade de auto-apresentação (*self-pitch* profissional), gerar empatia e transmitir segurança.
+  2. **Diálogos em Projeto:** Dificuldade evidente em comunicar aos gestores e clientes o que estão a fazer no dia a dia, bloqueando alinhamentos e gerando perceção errada sobre o seu trabalho.
+* **Idioma Mandatório:** **100% em Inglês** (*delivery* integral e dinâmicas na língua inglesa). Cerca de 20% da equipa Nearshore trabalha exclusivamente com contas internacionais.
+* **Perfis Sénior:** Podem pontualmente participar, mas não são o foco central da ação.
+
+### 2. Formato e Metodologia Acordados
+* **Duração Recomendada:** **1 dia completo (7h/8h)** intensivo.
+  * *Vantagens apontadas pela Devoteam:* Facilita dinâmicas contínuas e resolve a logística de trazer colaboradores que estão fora de Lisboa num único dia; como vários perfis estão em *bench* (sem faturação a clientes), 1 dia inteiro não impacta projetos ativos.
+* **Dimensão da Turma:** **Máximo 10 participantes** na 1.ª edição piloto (garante que todos têm tempo de palco e prática deliberada).
+* **Metodologia Pedagógica:**
+  * Ultra prática: *action learning*, *role plays*, simulações ativas, jogos e elementos de dinâmica teatral/desbloqueio.
+  * Componente teórica reduzida ao mínimo absoluto (evitar formato palestra que desmotiva perfis juniores).
+  * **Feedback individual estruturado** durante as simulações é considerado inegociável.
+  * Possibilidade de disponibilizar conteúdos/guias *self-paced* complementares em aberto.
+
+### 3. Janela de Calendário & Prazos
+* **Datas Preferenciais:** Final de **novembro de 2026** (ainda no ano corrente).
+* **Cenário Alternativo:** Final de **janeiro de 2027** (caso aprovações internas ou orçamentais transitem para o novo ano).
+* **Dezembro Descartado:** Mês inviável devido a feriados, fecho de ano e férias das equipas.
+
+### 4. Próximos Passos & Compromisso Assumido
+* `[ ]` **Envio de Proposta Pedagógica e Comercial (Bruno Vicente):**
+  * Prazo de envio: **Até segunda-feira, 12 de outubro de 2026**.
+  * Conteúdo: Estrutura pedagógica do dia, metodologia de *Pitch & Self-Presentation Lab*, matriz de dinâmicas práticas, plano de feedback individual e proposta de investimento financeiro.
+  * Destinatária: Carolina Lopes (`carolina.lopes@devoteam.com`).
