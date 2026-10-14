@@ -150,3 +150,17 @@
   * **Training-Lab de Consolidação:** A Alcina e o Bruno concordaram que o grupo ganha substancialmente com um Training-Lab complementar (4h) agendado 3 a 4 semanas após a formação para consolidação de comportamentos em contexto real de cliente.
   * **Data Proposta de Arranque:** **27 de novembro de 2026** (sexta-feira), perfeitamente enquadrada na janela acordada com a Devoteam.
 
+
+---
+
+## Reunião de Apresentação de Proposta: 14 de Outubro de 2026 (Teams)
+*Ata Completa:* [[meeting-report-devoteam-2026-10-14]] | [Ver Ficheiro Markdown](../../034_Reunioes_Clientes/2026-10/meeting-report-devoteam-2026-10-14.md)  
+**Participantes:** Bruno Vicente (SKOLAE), Carolina Lopes (Devoteam).
+
+### Resumo Executivo:
+* Apresentação da proposta *«Comunicar com Impacto: Da Apresentação Pessoal ao Pitch Profissional»*.
+* Formato 100% em Inglês, presencial nas instalações da Devoteam em Lisboa, turma até 12 formandos.
+* Estrutura em 3 fases: Preparação (alinhamento L&D + pre-work com questionário/vídeo), 1 dia de formação (7h), Avaliação Nível 1 e 2.
+* Metodologia: Exercício inicial sem indicações (sem gravação de câmara devido ao perfil reservado/tímido dos formandos), Golden Circle e pitch final para demonstrar evolução.
+* Investimento apresentado: 1.300,00 € + IVA para o dia de formação (7h). Opção de Training Lab de 4 horas (a realizar 2 a 3 meses depois) com valor separado.
+* Próximo passo: Bruno envia proposta corrigida com indicação expressa de inglês e duração de 4h no Training Lab para Carolina validar com Joana e direção de L&D.

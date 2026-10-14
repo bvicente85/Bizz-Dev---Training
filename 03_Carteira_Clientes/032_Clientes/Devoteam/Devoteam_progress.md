@@ -32,6 +32,11 @@ timestamp: 2026-09-29T17:30:00Z
   * Enviar para `carolina.lopes@devoteam.com` acompanhada de enquadramento executivo e sugestão da data de **27 de novembro**.
 
 ## Histórico de Interações
+* **[14-10-2026] - Reunião de Apresentação de Proposta com Carolina Lopes:**
+  * Reunião via Teams para apresentação da solução. Carolina validou o programa de 7h presencial em Lisboa, 100% em inglês (formadora Alcina).
+  * Valor apresentado: 1.300 € + IVA para 1 dia (7h). Opção de Training Lab de 4h com valor à parte.
+  * Ação imediata: Bruno envia proposta corrigida (refletindo idioma inglês e duração do Training Lab de 4h) para validação interna da Carolina com a Joana e L&D.
+
 * **[29-09-2026] - Chamada Telefónica com Carolina Lopes (Devoteam):**
   * Contacto telefónico de seguimento. Carolina confirmou receção do e-mail anterior, justificando que não tinha conseguido responder por sobrecarga e prioridades urgentes.
   * Acordada reunião de diagnóstico via Teams para quinta-feira, 8 de outubro de 2026, às 15:30 (segunda-feira 5/10 é feriado). Carolina ficou de responder ao e-mail a confirmar formalmente.
