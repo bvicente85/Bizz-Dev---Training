@@ -20,6 +20,7 @@ timestamp: 2026-06-18T10:59:00Z
 3.  **[LOGÍSTICA]** Definir datas para as turmas de Rapid Training for Managers, Comunicação Interpessoal e Design Thinking assim que adjudicadas.
 
 ## Histórico de Interações
+*   **2026-10-14:** Definição de proposta para Francisca Galante: propor o dia 26 de novembro à tarde para completar as 21h de Design Thinking; Gestão de Projetos reagendada para novembro com António Bento.
 *   **2026-06-08:** Francisca solicita ponto de situação da revisão. Bruno responde com a proposta financeira global revista (Ref - 19956), indicando ser o melhor esforço comercial que a Skolae consegue apresentar.
 *   **2026-05-20:** Francisca solicita proposta de Design Thinking para equipas de IT e Produto focada em inovação e nos 14 projetos-pilar da empresa.
 *   **2026-05-13:** Reunião de planeamento. Expandido o âmbito para Gestão de Tempo e Comunicação. Confirmado formato de turmas espelho para Liderança Intermédia.

@@ -11,6 +11,7 @@ timestamp: 2026-06-18T10:59:00Z
 
 
 ## 🚦 Estado Atual do Funil de Vendas
+* **14/10/2026:** Sessões reagendadas para 27 e 28 de outubro. Verificar cobranças pendentes e enviar email de confirmação à cliente.
 * **Fase:** Venda estabelecida / Preparação da atividade letiva. (Reunião de Kick-off efetuada a 31/03/2026).
 * **Solução e Assunto:** Formação focada em Vendas Consultivas e Negociação, com uma pesada vertente customizada na temática de Gestão de Conflitos e Inteligência Emocional (direcionado ao alinhamento interno Comercial/Operações).
 

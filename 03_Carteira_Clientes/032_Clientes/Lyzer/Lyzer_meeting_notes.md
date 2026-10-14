@@ -74,3 +74,9 @@ timestamp: 2026-06-18T10:59:00Z
 ## Histórico de Atas de Reuniões
 * [Ata de Reunião - 13/05/2026](../../034_Reunioes_Clientes/2026-05/meeting-report-lyzer-2026-05-13.md)
 * [Ata de Reunião - 04/05/2026](../../034_Reunioes_Clientes/2026-05/meeting-report-lyzer-2026-05-04.md)
+
+## 14 de Outubro de 2026 | Alinhamento de Calendário (Design Thinking & Gestão de Projetos)
+*Ata Completa:* [[meeting-report-alinhamento-projetos-novembro-2026-10-14]] | [Ver Ficheiro Markdown](../../034_Reunioes_Clientes/2026-10/meeting-report-alinhamento-projetos-novembro-2026-10-14.md)
+* **Participantes:** Bruno Vicente e Coordenação de Projetos.
+* **Design Thinking (21h):** Cliente solicitou maior número de sessões no período da tarde. Acordado propor o acréscimo do **dia 26 de novembro à tarde** mantendo a totalidade das 21 horas para não comprometer os exercícios práticos.
+* **Gestão de Projetos (António Bento):** Curso reagendado para novembro com reunião de preparação já marcada. Forte alinhamento com a nova dinâmica comercial pretendida pelo novo administrador francês.

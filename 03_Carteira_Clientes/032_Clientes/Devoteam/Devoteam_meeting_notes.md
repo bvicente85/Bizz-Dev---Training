@@ -132,7 +132,21 @@
 * **Dezembro Descartado:** Mês inviável devido a feriados, fecho de ano e férias das equipas.
 
 ### 4. Próximos Passos & Compromisso Assumido
-* `[ ]` **Envio de Proposta Pedagógica e Comercial (Bruno Vicente):**
-  * Prazo de envio: **Até segunda-feira, 12 de outubro de 2026**.
+* `[x]` **Envio de Proposta Pedagógica e Comercial (Bruno Vicente):**
+  * Prazo de envio: **12 de outubro de 2026**.
   * Conteúdo: Estrutura pedagógica do dia, metodologia de *Pitch & Self-Presentation Lab*, matriz de dinâmicas práticas, plano de feedback individual e proposta de investimento financeiro.
   * Destinatária: Carolina Lopes (`carolina.lopes@devoteam.com`).
+
+---
+
+## 09/10/2026 - Alinhamento Pedagógico com Formadora (Alcina)
+
+* **Intervenientes:** Alcina (Formadora especialista em Desenvolvimento Pessoal e Comunicação em Inglês) e Bruno Vicente (SKOLAE).
+* **Pontos Acordados:**
+  * **Disponibilidade e Interesse:** A Alcina confirmou total interesse e disponibilidade para assumir o projeto da Devoteam.
+  * **Idioma:** Entrega 100% em Inglês fluente.
+  * **Custo Direto:** Taxa horária de 55,00 €/hora (formação em inglês).
+  * **Duração Recomendada:** 7 horas (1 dia completo) é a duração ideal para o programa desenhado. Da 1.ª apresentação do dia para a última (construção e entrega do pitch individual), os participantes registam uma evolução nítida de desempenho.
+  * **Training-Lab de Consolidação:** A Alcina e o Bruno concordaram que o grupo ganha substancialmente com um Training-Lab complementar (4h) agendado 3 a 4 semanas após a formação para consolidação de comportamentos em contexto real de cliente.
+  * **Data Proposta de Arranque:** **27 de novembro de 2026** (sexta-feira), perfeitamente enquadrada na janela acordada com a Devoteam.
+

@@ -15,20 +15,21 @@ timestamp: 2026-09-29T17:30:00Z
 
 ## Oportunidade em Aberto
 * **Designação Odoo:** Devoteam | Formação de Pitch & Soft Skills Nearshore (Probabilidade em alta)
-* **Tema:** *Pitch, Self-Presentation & Communication Lab for Junior Tech Profiles* (100% em Inglês)
-* **Público-alvo:** Perfis Júnior de IT (Engenharia, Cloud, Nearshore) com lacunas comunicacionais em entrevistas de cliente e diálogo em projeto
-* **Formato:** Presencial em Lisboa, 1 dia intensivo (7h/8h)
-* **Dimensão:** 1 turma piloto com limite de 10 participantes
-* **Metodologia:** Ultra-prática (*action learning*, jogos/teatro, *role plays*, simulações com gravação e feedback individual imediato)
-* **Janela Temporal:** Final de novembro de 2026 (ou final de janeiro de 2027)
+* **Tema:** *Comunicar com Impacto: Da Apresentação Pessoal ao Pitch Profissional* (100% em Inglês)
+* **Público-alvo:** Consultores e perfis técnicos/júnior de IT (Engenharia, Cloud, Nearshore) com necessidade de elevar o impacto em entrevistas de cliente e diálogo em projeto
+* **Formato:** Presencial em Lisboa, 1 dia intensivo (7 horas)
+* **Dimensão:** 1 turma com 8 a 10 participantes
+* **Metodologia:** Ultra-prática (*action learning*, simulações com gravação e feedback individual imediato) + Opção de Training-Lab (4h) de consolidação
+* **Formadora Alocada:** Alcina (especialista de desenvolvimento pessoal em inglês, taxa 55€/h)
+* **Data Prevista de Arranque:** **27 de novembro de 2026** (confirmada disponibilidade pela Alcina)
 
 ## Próximos Passos
-* `[ ]` **Elaborar Proposta Pedagógica e Comercial:**
-  * Alinhar desenho do workshop de 1 dia (módulos práticos de auto-apresentação, desmistificação de entrevistas de cliente e comunicação em projeto) com coordenação pedagógica (Hélder Marques / formador em inglês).
-  * Estruturar proposta financeira para 1 edição (até 10 participantes) + dia de sala/logística se aplicável.
+* `[x]` **Estruturar Proposta Pedagógica em PPTX:**
+  * Ficheiro oficial gerado: `Proposta_Devoteam_Comunicar_com_Impacto_Pitch.pptx` (baseado no programa alinhado com a Alcina e adaptado à caracterização da Devoteam).
+* `[ ]` **Definir Proposta Financeira:**
+  * Fixar valor por turma de 7h (base) e opção com Training-Lab de 4h (custo formadora: 55€/h).
 * `[ ]` **Enviar Proposta à Carolina Lopes:**
-  * Prazo: até segunda-feira, **12 de outubro de 2026**.
-  * Enviar para `carolina.lopes@devoteam.com` com enquadramento de valor nos 2 gaps identificados.
+  * Enviar para `carolina.lopes@devoteam.com` acompanhada de enquadramento executivo e sugestão da data de **27 de novembro**.
 
 ## Histórico de Interações
 * **[29-09-2026] - Chamada Telefónica com Carolina Lopes (Devoteam):**

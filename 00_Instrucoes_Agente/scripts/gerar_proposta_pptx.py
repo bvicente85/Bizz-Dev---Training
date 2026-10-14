@@ -27,7 +27,7 @@ F_TITLE_SBD = 'GT Walsheim Pro Bold SBd'
 F_TITLE_REG = 'GT Walsheim Pro'
 F_BODY = 'Basier Circle'
 F_BODY_BOLD = 'Basier BOLD'
-F_BODY_SQ = 'Basier Square'
+F_BODY_SQ = 'Basier Circle'
 
 def set_run(run, text, font_name, size_pt, bold=False, color_rgb=None):
     run.text = text
@@ -176,9 +176,18 @@ def gerar_proposta(data, template_path=r'Template Proposta - 1 curso.pptx', outp
                 p = tf.paragraphs[0]
                 p.text = ''
                 p.alignment = PP_ALIGN.RIGHT
-                set_run(p.add_run(), f'Sugerimos que a ação formativa não ultrapasse os {formandos_num} participantes, de forma a garantir o action learning. ', F_BODY, 12, bold=False)
-                set_run(p.add_run(), 'O propósito desta proposta', F_BODY, 12, bold=False, color_rgb=ORANGE_ACCENT)
-                set_run(p.add_run(), f' será: {proposito}', F_BODY, 12, bold=False)
+                set_run(p.add_run(), f'Sugerimos que cada turma não ultrapasse os {formandos_num} participantes, de forma a garantir a realização de simulações, gravação e feedback individualizado.', F_BODY, 12, bold=False)
+
+            elif sh.shape_type == pptx.enum.shapes.MSO_SHAPE_TYPE.GROUP and sh.name == 'Agrupar 17':
+                for c in sh.shapes:
+                    if c.name == 'CaixaDeTexto 22' and c.has_text_frame:
+                        p = c.text_frame.paragraphs[0]
+                        p.text = ''
+                        set_run(p.add_run(), 'PROPÓSITO', 'Arial Nova', 14, bold=True)
+                    elif c.name == 'CaixaDeTexto 13' and c.has_text_frame:
+                        c.text_frame.clear()
+                        p = c.text_frame.paragraphs[0]
+                        set_run(p.add_run(), proposito, F_BODY, 13.5, bold=True)
 
             elif sh.name == 'Retângulo: Canto Arredondado 15':
                 p = tf.paragraphs[0]

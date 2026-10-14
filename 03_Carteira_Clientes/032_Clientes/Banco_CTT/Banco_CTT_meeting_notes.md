@@ -45,3 +45,26 @@ timestamp: 2026-10-01T14:10:00Z
 > 
 > Cumprimentos,  
 > Bruno Vicente
+
+---
+
+## 09/10/2026 - Abordagem Relacional a Tarcísio Pontes (Head of HR)
+
+* **Intervenientes:** Tarcísio Pontes (Head of HR - Banco CTT) e Bruno Vicente (SKOLAE).
+* **Canal:** LinkedIn (1.ª Conexão) / E-mail (`tarcisio.l.pontes@bancoctt.pt`).
+* **Assunto (se e-mail):** `Desenvolvimento de competências | Banco CTT`
+* **Objetivo:** Ativação de alavanca relacional baseada no relacionamento anterior (Millennium bcp / Vantagem+). Em vez de vender uma reunião ao C-Level, foi solicitado o seu conselho e orientação sobre quem na equipa de RH acompanha a formação corporativa, mantendo a porta aberta para um contacto de topo.
+* **Mensagem Enviada:**
+
+> Caro Tarcísio,
+> 
+> Espero que esteja tudo bem consigo.
+> 
+> Já passaram alguns anos desde que falámos sobre projetos de formação, nos tempos da Vantagem+.
+> 
+> Atualmente estou na SKOLAE (antiga Abilways/IFE) e sou o responsável pelo acompanhamento do Banco CTT, pelo que fazia todo o sentido retomar o contacto.
+> 
+> Gostava de lhe pedir o seu conselho sobre quem na sua equipa será a pessoa mais indicada para conversarmos sobre os projetos de formação e desenvolvimento de competências no banco — e seria também um gosto enorme voltar a falar consigo, se a sua disponibilidade o permitir.
+> 
+> Com os melhores cumprimentos,  
+> Bruno Vicente

@@ -80,7 +80,16 @@ Quando preparares guiões ou mapas de conversa para chamadas telefónicas, deves
 
 ---
 
-## 5. Templates e Modelos de Sucesso (Comercial)
+## 5. Diretrizes Específicas de Espanhol (ES)
+
+*   **Linguagem Conversacional e Idiomática:** Em comunicações comerciais em espanhol, privilegiar um tom conversacional, fluido e idiomático, perfeitamente alinhado com o ambiente de negócios contemporâneo em Espanha e na América Latina.
+*   **Proibição de Artificialismo e Burocratês:** Banir terminantemente construções arcaicas, traduções literais a partir do português ou fórmulas excessivamente institucionais (ex: evitar fórmulas como *"por medio de la presente"*, *"quedo a su entera disposición"*, *"me dirijo a usted con el fin de"*).
+*   **Concisão e Proximidade:** Usar tratamento profissional mas direto (*"Hola [Nombre]"* ou *"Estimado/a [Nombre]"* dependendo do perfil), frases curtas e perguntas diretas de baixo atrito.
+*   **Expressões Naturais de Fecho:** Fechar de forma limpa e moderna (ex: *"Quedo a la espera de tus comentarios / de sus comentarios"*, *"Un saludo cordial,"* ou *"Gracias y un saludo"*).
+
+---
+
+## 6. Templates e Modelos de Sucesso (Comercial)
 
 Utiliza estes templates calibrados como base de escrita, adaptando os campos entre parênteses:
 

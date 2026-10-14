@@ -11,9 +11,13 @@ timestamp: 2026-10-01T14:10:00Z
 *Links:* [Contexto](./Banco_CTT_context.md) | [Notas e Comunicações](./Banco_CTT_meeting_notes.md)
 
 ## Estado no Funil de Vendas
-* **Fase:** Qualificação / Reunião Proposta (Aguarda feedback de agenda)
+* **Fase:** Qualificação / Abordagem Relacional C-Level (Head of HR)
 
 ## Histórico de Interações
+* **[09-10-2026] - Abordagem Relacional Estratégica a Tarcísio Pontes (Head of HR):**
+  * Bruno Vicente reativou o contacto com Tarcísio Pontes (com quem mantinha histórico profissional prévio dos tempos do Millennium bcp / Vantagem+), que lidera atualmente os RH do Banco CTT.
+  * Estratégia de aproximação: Pedido de conselho executivo sobre quem na sua equipa de RH acompanha os projetos de formação e desenvolvimento de competências no banco, deixando a porta aberta para retomar o contacto direto de topo.
+  * Canal: Mensagem enviada via LinkedIn / E-mail direto (`tarcisio.l.pontes@bancoctt.pt`).
 * **[01-10-2026] - Chamada Telefónica de Reativação e Qualificação (Sara Prudente):**
   * Bruno Vicente realizou chamada telefónica direta para a Sara Prudente.
   * A Sara reconheceu prontamente a entidade (*"Skolae antiga Abilways"*).
@@ -21,6 +25,6 @@ timestamp: 2026-10-01T14:10:00Z
   * E-mail institucional confirmado: `sara.r.prudente@bancoctt.pt`.
 
 ## Próximos Passos
-* `[ ]` Enviar e-mail de seguimento à Sara Prudente com a proposta de reunião e opções de agenda (terça 06/10, quarta 07/10 e quinta 08/10).
-* `[ ]` Acompanhar resposta da Sara quanto à identificação do responsável de L&D / agendamento da reunião via Teams.
-* `[ ]` Preparar enquadramento consultivo das soluções SKOLAE para o setor bancário após validação do interlocutor.
+* `[ ]` Acompanhar retorno do Tarcísio Pontes ao pedido de aconselhamento / indicação de interlocutor.
+* `[ ]` Articular reunião exploratória com o interlocutor designado (ou com o próprio Tarcísio, se a sua agenda o permitir).
+* `[ ]` Alinhar com a equipa de RH o enquadramento de projetos de formação e desenvolvimento de competências para 2026/2027.

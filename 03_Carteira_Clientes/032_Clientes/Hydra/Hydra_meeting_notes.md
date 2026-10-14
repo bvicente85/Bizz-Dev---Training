@@ -22,3 +22,10 @@ As ações (quatro meios dias) serão presenciais (nas instalações de Braga), 
 
 ## Transcrição Integral da Reunião
 [Removido por Manutenção de Sistema para poupança de tokens. Ver gravação local original se necessário.]
+
+## 14 de Outubro de 2026 - Ponto de Situação de Calendário e Faturação
+*Ata Completa:* [[meeting-report-alinhamento-projetos-novembro-2026-10-14]] | [Ver Ficheiro Markdown](../../034_Reunioes_Clientes/2026-10/meeting-report-alinhamento-projetos-novembro-2026-10-14.md)
+* **Participantes:** Bruno Vicente e Coordenação de Projetos.
+* **Calendário:** Sessões de formação reagendadas para **27 e 28 de outubro de 2026**.
+* **Cobranças/Financeiro:** Existem cobranças pendentes a acompanhar.
+* **Próximos Passos:** Enviar e-mail à Hydra a confirmar as novas datas das sessões e contactar Margarida (Topskillers) para aferir novidades de equipa e contratações.

@@ -32,3 +32,8 @@ timestamp: 2026-06-18T10:59:00Z
 
 
 
+
+## Histórico Recente
+
+* **14/10/2026 (Preparação Beer Game):** Reunião com Paulo Mestre e João Diniz. Ação presencial confirmada para 23 de outubro (armazém fecha).
+* **14/10/2026 (Gestão de Turmas):** Turma de outubro de Motivação adiada para janeiro de 2027 (falha interna JCS na convocatória). As 2 turmas de novembro mantêm-se. Lista de presenças a submeter para POs por centro de custo (2.800€).

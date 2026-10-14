@@ -14,6 +14,7 @@
 * [Autozitania](./Autozitania/Autozitania_context.md)
 * [Base Capital](./Base Capital/Base Capital_context.md) - Automóvel (Representante de marcas premium como Mercedes-Benz, smart, Aston Martin e Maserati - ex: C. Santos VP).
 * [BASF](./BASF/BASF_context.md)
+* [Banco CTT](./Banco_CTT/Banco_CTT_context.md) - Banca / Setor Financeiro (Grupo CTT) | **Fase:** Qualificação / Reativação Relacional C-Level
 * [BBVA](./BBVA/BBVA_context.md) - Banca / Setor Financeiro
 * [Bondalti Water](./Bondaltiwater/Bondaltiwater_context.md) - Tratamento de Águas / Serviços Ambientais (Grupo Bondalti) | **Fase:** Implementação / Formação de Línguas (Espanhol e Francês)
 * [BragaHabit](./BragaHabit/BragaHabit_context.md)
