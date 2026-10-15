@@ -74,10 +74,14 @@ Quando preparares guiões ou mapas de conversa para chamadas telefónicas, deves
 
 ## 4. Diretrizes Específicas de Inglês (EN)
 
-*   **Uso Obrigatório de Contrações (CRÍTICO):** Usa sempre contrações (*it's, aren't, they're, you'll, don't, won't*) em vez de formas expandidas (*it is, are not*). A falta de contrações em inglês soa a robô.
+*   **Uso Obrigatório de Contrações (CRÍTICO):** Usa sempre contrações (*it's, aren't, they're, you'll, don't, won't, I'm, we've*) em vez de formas expandidas (*it is, are not*). A falta de contrações em inglês soa a robô.
+*   **A Regra da Âncora Leve (Anti-Over-Engineering):** Na frase de abertura, nunca amontoar a empresa, marcas, eventos e qualificadores numa só oração. Usar a fórmula concisa e afirmativa de 12 palavras: *"I'm Bruno Vicente from SKOLAE, a Portuguese learning and development partner."*
+*   **Presente Simples vs. Present Perfect:** Preferir o presente afirmativo (*"We work with technology companies on tailored development initiatives..."*) ao presente perfeito (*"We've been partnering..."*), conferindo maior solidez, certeza e maturidade comercial.
+*   **Corte Radical de "Warm-Up Excuses":** Nunca usar justificações defensivas como *"As we haven't worked with you yet..."*. Assumir o contacto com naturalidade e ligar diretamente aos eixos de competências: *"I wanted to reach out to understand how [Company] approaches these areas and whether there might be opportunities to support your teams with specific development initiatives."*
+*   **O CTA Clássico de Baixo Atrito:** Fechar de forma limpa com uma pergunta direta de uma frase: *"Would you be open to a brief 10-minute conversation next week?"*.
 *   **Proibição de Conetores Académicos/Formais:** Banir conectores típicos de IA como *Moreover, Furthermore, Indeed, Therefore, In today's fast-paced world*.
 *   **Linguagem Coloquial Profissional:** Usar expressões idiomáticas naturais e verbos frasais comuns no meio de negócios internacional (ex: *kicking in, dug into, take your word for it*).
-*   **Saudações e Fechos:** Iniciar com *"Hi [Nome],"* (simples e natural). Evitar *"I hope this finds you well"*; preferir *"Hope you're doing well"*. Terminar com *"Thanks,"*, *"All the best,"* ou *"Speak soon,"*.
+*   **Saudações e Fechos:** Iniciar com *"Hi [Nome],"* (simples e natural). Evitar *"I hope this finds you well"*; preferir *"Hope you're doing well"*. Terminar com *"Thanks,"*, *"Best regards,"* ou *"Speak soon,"*.
 
 ---
 
@@ -455,6 +459,23 @@ Modelos calibrados para software houses, consultoras de tecnologias de informaç
         > 
         > Bruno Vicente  
         > SKOLAE Formação
+
+### J. Outreach Internacional a Lideranças de L&D / Tech (Modelo Executivo de 60 Palavras)
+*   **Objetivo:** Abordagem direta a Diretores / Gestores de Learning & Development de empresas multinacionais, unicórnios ou scale-ups de tecnologia sediadas ou com hubs em Portugal.
+*   **Assunto:** [Company] / SKOLAE: Team Development & Capability Building
+*   **Template Padrão (EN):**
+    > Hi [Name],
+    > 
+    > I'm Bruno Vicente from SKOLAE, a Portuguese learning and development partner.
+    > 
+    > We work with technology companies on tailored development initiatives, particularly around [3 competências, ex: leadership for engineering managers, technical communication and team effectiveness].
+    > 
+    > I wanted to reach out to understand how [Company] approaches these areas and whether there might be opportunities to support your teams with specific development initiatives.
+    > 
+    > Would you be open to a brief 10-minute conversation next week?
+    > 
+    > Best regards,  
+    > Bruno
 
 ---
 

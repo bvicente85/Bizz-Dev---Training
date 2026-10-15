@@ -26,13 +26,17 @@ timestamp: 2026-10-15T13:40:00Z
 > *Thanks and speak soon,*  
 > *Bruno Vicente*
 
-### Versão E-mail Direto (`emma.rigl@talkdesk.com`):
+### Versão E-mail Direto (`emma.rigl@talkdesk.com`) — Versão Aprovada:
 > *Subject: Talkdesk / SKOLAE: Team Development & Capability Building*  
 > *Hi Emma,*  
-> *I'm Bruno Vicente with SKOLAE (the organization behind Expo RH here in Portugal), where we work with tech scale-ups and corporate teams on tailored learning and capability development.*  
-> *We've been partnering with tech organizations on dedicated programs around technical storytelling, leadership for engineering managers, and team effectiveness.*  
-> *As we haven't worked directly with Talkdesk yet, I wanted to see how you currently approach team development and whether you partner with external providers on dedicated initiatives.*  
-> *If you're open to a quick 10-minute intro via Teams, let me know what your availability looks like next week.*  
-> *Thanks and speak soon,*  
-> *Bruno Vicente*  
-> *SKOLAE Formação*
+>  
+> *I'm Bruno Vicente from SKOLAE, a Portuguese learning and development partner.*  
+>  
+> *We work with technology companies on tailored development initiatives, particularly around leadership for engineering managers, technical communication and team effectiveness.*  
+>  
+> *I wanted to reach out to understand how Talkdesk approaches these areas and whether there might be opportunities to support your teams with specific development initiatives.*  
+>  
+> *Would you be open to a brief 10-minute conversation next week?*  
+>  
+> *Best regards,*  
+> *Bruno*
