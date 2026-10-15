@@ -16,10 +16,10 @@ timestamp: 2026-10-15T11:50:00Z
 
 * **Interlocutor:** Rafael Rodrigues (Human Resources Manager | MWC)
 * **Canal:** Mensagem no LinkedIn (1.ª ligação direta)
-* **Texto Preparado para Envio:**
+* **Texto Aprovado para Envio:**
   > *Olá Rafael, obrigado por aceitar a ligação.*  
   > *Sou consultor na SKOLAE (antiga Abilways), onde acompanho a área de formação corporativa e desenvolvimento de competências.*  
-  > *Acompanho o vosso projeto de referência no Douro e a forte aposta que a Menin Wine Company faz na experiência e bem-estar das pessoas. Na SKOLAE temos apoiado várias organizações nos setores agroalimentar e de hospitalidade — desde a excelência no atendimento e foco no cliente até à liderança de equipas e dinâmicas de cultura e bem-estar.*  
+  > *Acompanho o vosso projeto no Douro e a referência que a Menin Wine Company tem vindo a construir. Na SKOLAE apoiamos várias empresas nos setores vitivinícola e de hospitalidade — desde a excelência no atendimento e foco no cliente até à liderança de equipas e comunicação operacional.*  
   > *Gostaria de perceber como costumam gerir o desenvolvimento das vossas equipas e se recorrem habitualmente a parceiros externos nesta matéria.*  
   > *Se fizer sentido uma breve troca de impressões, terei todo o gosto em falar consigo via Teams.*  
   > *Bom trabalho e boa semana,*  
