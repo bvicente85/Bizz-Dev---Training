@@ -41,6 +41,7 @@ Estes princípios aplicam-se a qualquer texto gerado, em português ou em inglê
 Evitar linguagem corporativa vazia, adjetivação promocional excessiva ou expressões genéricas e subservientes em qualquer idioma.
 
 *   **Em Português:** Evitar termos cliché como *sinergia, alavancar, pivotar, crucial, vital, robusto, holístico, disruptivo, de ponta, inteiramente ao dispor, não hesite em contactar*. Esta lista serve como forte recomendação para manter o tom humano e direto, não sendo uma proibição absoluta caso a palavra seja estritamente necessária no contexto.
+*   **Proibição de Pleonasmos e Duplicações de Jargão:** Banir terminantemente a duplicação desnecessária de termos equivalentes (ex: *«formação e capacitação»*, *«competências e capacidades»*, *«desenho e arquitetura de percursos»*). Se a palavra *«formação»* comunica o conceito com total clareza, cortar o segundo termo. Menos ruído gera maior força comunicativa.
 *   **Em Inglês:** Evitar expressões como *synergy, leverage, bandwidth, pivoting, disruptive, holistic, deep dive, groundbreaking, seamless, robust, cutting-edge, crucial, vital, don't hesitate to reach out, testament*.
 
 ---
@@ -152,6 +153,25 @@ Utiliza estes templates calibrados como base de escrita, adaptando os campos ent
     > Se for um tema que acompanha diretamente, terei todo o gosto em falar consigo brevemente. Caso contrário, agradeço desde já se me puder indicar quem acompanha esta área.
     > 
     > Obrigado pela atenção.
+    > Cumprimentos,
+    > 
+    > Bruno Vicente  
+    > SKOLAE Formação
+
+#### Variante A4: Abordagem a Liderança / Direção de RH com Alavanca Expo RH & Validação de Pasta
+*   **Objetivo:** Abordagem direta a Diretores / Responsáveis de Recursos Humanos com ancoragem na autoridade institucional da Expo RH, relevância setorial e validação elegante de responsabilidade sobre a pasta.
+*   **Assunto:** [Nome da Empresa] / SKOLAE: Formação e Desenvolvimento de Equipas
+*   **Template Padrão (PT-PT):**
+    > Caro [Nome], boa tarde.
+    > 
+    > O meu nome é Bruno Vicente e sou consultor na SKOLAE, entidade organizadora do evento Expo RH, onde acompanho a área de formação corporativa e desenvolvimento de competências.
+    > 
+    > Temos trabalhado com várias organizações do setor [Setor, ex: industrial e metalomecânico], sobretudo em temas como liderança para chefias intermédias e equipas operacionais, mas nunca tivemos a oportunidade de trabalhar com a [Nome da Empresa]. Nesse sentido, gostaria de perceber como têm vindo a trabalhar o desenvolvimento das vossas equipas e se costumam recorrer a parceiros externos nesta área.
+    > 
+    > Não tenho também a certeza se esta é uma temática acompanhada diretamente por si ou se me poderá dar alguma indicação sobre quem acompanha estas matérias na organização.
+    > 
+    > Obrigado pela atenção.
+    > 
     > Cumprimentos,
     > 
     > Bruno Vicente  
@@ -343,8 +363,17 @@ Utiliza estas abordagens para contornar hesitações do cliente de forma elegant
 Para prospeção ativa de novos clientes, seguir esta sequência com intervalos de 3 a 5 dias entre abordagens:
 
 *   **Ponto de Contacto 1: Convite de Ligação no LinkedIn (Curto e Sem Venda)**
-    > Olá [Nome]. Acompanho com muito interesse o setor de [Setor] e reparei na vossa presença/crescimento na [Empresa]. Gostaria de juntá-lo à minha rede profissional por aqui. Um abraço, Bruno Vicente.
-*   **Ponto de Contacto 2: Mensagem/Email de Contexto Comercial (Foco no Sinal de Dor)**
+    > Olá [Nome]. Acompanho com muito interesse o setor de [Setor] e reparei na vossa presença/crescimento na [Empresa]. Gostaria de juntá-lo à minha rede profissional. Um abraço, Bruno Vicente.
+*   **Ponto de Contacto 2A: Mensagem LinkedIn Pós-Aceitação (Qualificação Direta de Baixo Atrito - Recomendado)**
+    > Olá [Nome], obrigado por aceitar a ligação.
+    > 
+    > Sou consultor na SKOLAE, onde acompanho a área de formação corporativa.
+    > 
+    > Como vi que está na equipa de [Pessoas / Recursos Humanos] da [Nome da Empresa], queria só perceber se a formação das equipas passa por si, ou se me aconselha a falar com outro colega.
+    > 
+    > Obrigado e boa semana,  
+    > Bruno Vicente
+*   **Ponto de Contacto 2B: Mensagem/Email de Contexto Comercial (Foco no Sinal de Dor)**
     > Olá [Nome], obrigado por aceitar a ligação.
     > 
     > Tenho a indicação de que lidera a área de [Área/RH] na [Empresa]. Na SKOLAE temos apoiado organizações do setor de [Setor] (como a [Caso de Sucesso do Setor]) a ultrapassar desafios de [Dor típica do setor, ex: adaptação à IA / liderança de equipas operacionais].
