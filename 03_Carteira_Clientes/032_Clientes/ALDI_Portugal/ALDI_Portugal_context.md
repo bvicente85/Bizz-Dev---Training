@@ -75,6 +75,7 @@ timestamp: 2026-06-18T10:59:00Z
 * **Novo Pedido de Informação - Microsoft Excel (18/08/2026):** Receção de consulta de mercado enviada por Rita Fernandes para formação de ~70 colaboradores em Microsoft Excel com teste de diagnóstico e cotação em formato Presencial e Live Training. Proposta enviada a 18/08.
 * **Confirmação e Análise de Proposta Excel (26/08/2026):** Mariana Ramalho confirmou a receção da proposta, informando que aproveitam o NDA do tendering anterior e que a proposta de Excel se encontra em fase de análise interna.
 * **Follow-up Comercial Excel (09/09/2026):** Contacto de follow-up efetuado focado na análise da proposta de Excel e disponibilidade para esclarecimentos.
+* **Auscultação Plano 2027 & Convite Experience Day (22/10/2026):** Na sequência de contacto de sondagem, Mariana Ramalho comunicou foco no fecho de 2026 e projetos já calendarizados para início de 2027, solicitando catálogo para arquivo de planeamento. Bruno Vicente partilhou o site de programas, Business Cases, a oferta de Consultoria & Assessments e enviou convite para o Experience Day de 19 de novembro de 2026 em Lisboa.
 
 
 

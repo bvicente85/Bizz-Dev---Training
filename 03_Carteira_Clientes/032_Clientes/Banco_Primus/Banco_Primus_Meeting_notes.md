@@ -3,12 +3,49 @@ type: Meeting Notes
 title: Notas e Histórico de Reuniões - Banco Primus
 description: Registo de atas, alinhamentos e notas de reuniões com o Banco Primus.
 tags: [reunioes, atas, banco_primus, liliana_azedo]
-timestamp: 2026-10-02T14:15:00Z
+timestamp: 2026-10-21T11:00:00Z
 ---
 
 # Notas e Histórico de Reuniões: Banco Primus
 
 *Links:* [Contexto](./Banco_Primus_Context.md) | [Progresso Comercial](./Banco_Primus_Progress.md)
+
+## 2026-10-21 - RFP Plano de Formação 2027 & Chamada de Alinhamento (Granola)
+
+* **Interlocutora:** Liliana Garcia Azedo (Recursos Humanos / Formação)
+* **Responsável SKOLAE:** Bruno Vicente
+* **Canal:** E-mail formal + Chamada Telefónica de Alinhamento (10 min)
+* **Relatório Detalhado:** [[meeting-report-Banco_Primus-2026-10-21]]
+
+### 1. Pedido Formal de Propostas (RFP 2027)
+A Liliana solicitou propostas estruturadas para 4 programas nucleares com ligação direta ao Budget 2027 e ao Business Plan 2027-2031:
+1. **Strategic Banking Management: Profitability, RAROC & Value Creation** (*Executive Board Members* - 8 módulos: Banking Strategy, RAROC, Economic Profit, Capital Allocation CET1 vs ROE, Stress Testing, Sensitivity Analysis, Pricing vs CoR, Crescimento vs ROA vs ROE).
+2. **Leadership through Transformation** (*Diretores* - 6 módulos: Strategic Clarity, Uncertainty & Decision-Making, Performance & Accountability, Change & Transformation, Cross-Silos Risk/Business/Control, Leading People).
+3. **Primus Manager** (*Managers* - 6 módulos: KPIs & OKRs, Problem Solving & Root Cause, Process Mapping & Lean As-Is/To-Be, Agile/Hybrid PM, Data Literacy Excel/Power BI, People Management & Difficult Conversations).
+4. **Responsible AI** (*Transversal: Board, Diretores e Managers* - 8 módulos: AI for Executives, Governance/Regulation, Casos de Uso Consumer & Auto Finance, Risco de Crédito, GenAI Productivity, Cibersegurança/Fraude, Business Case, Leadership & Change).
+
+### 2. Alinhamento da Chamada Telefónica (Granola)
+* **Idioma:** Em Português (todos os programas e documentação).
+* **Modalidade:** Presencial (fator mandatório, instalações do banco ou da SKOLAE).
+* **Turmas:** Máximo de 10 participantes por turma.
+* **Metodologia:** Total abertura a metodologias vivenciais, interativas e disruptivas, quebrando a tradição teórica e promovendo pensamento crítico e debate focado no negócio.
+* **Inteligência Artificial:** Adoção forçada de Microsoft Copilot imposta pelo Grupo internacional por motivos de segurança e compliance (risco de dados com ChatGPT pessoal). Board teve formação introdutória há 1 mês; resto da equipa em fase precoce. Foco em competências transferíveis e governança.
+* **Experience Day (19/11):** Bruno convidou o Banco Primus para o evento gratuito na Av. da Liberdade (para 2 participantes), com destaque para *Cook & Learn*, Liderança e IA.
+
+### 3. Compromissos e Prazos
+* Bruno: Enviar e-mail de convite para o Experience Day (hoje, 21/10).
+* Bruno: Enviar proposta estruturada para os 4 programas até terça-feira (27/10) ou quarta-feira (28/10).
+* Liliana: Integrar as propostas no plano de 2027 no início de novembro para aprovação interna.
+
+---
+
+## 02/10/2026 - E-mail de Retoma Comercial (Liliana Garcia Azedo)
+
+* **Destinatária:** Liliana Garcia Azedo (Recursos Humanos / Formação)
+* **Assunto:** Banco Primus / SKOLAE: Planeamento de Formação e Projeto-Piloto
+* **Texto Enviado:** Reativação comercial focada em apoiar no próximo ciclo de formação e contrariar resistências internas com metodologias vivenciais e medição de impacto.
+
+---
 
 ## 07/11/2025 - Reunião de Reaproximação Comercial
 
@@ -37,27 +74,3 @@ timestamp: 2026-10-02T14:15:00Z
 ### 4. Compromissos e Próximos Passos
 * Manter acompanhamento do planeamento e evolução do plano de formação;
 * Posicionar a realização de um workshop-diagnóstico ou projeto-piloto para homologação prática da metodologia SKOLAE.
-
----
-
-## 02/10/2026 - E-mail de Retoma Comercial (Liliana Garcia Azedo)
-
-* **Destinatária:** Liliana Garcia Azedo (Recursos Humanos / Formação)
-* **Assunto:** Banco Primus / SKOLAE: Planeamento de Formação e Projeto-Piloto
-* **Texto Enviado:**
-  > *"Olá Liliana, boa tarde.*  
-  >  
-  > *Espero que esteja tudo bem.*  
-  >  
-  > *Retomo o nosso contacto a propósito da definição do próximo ciclo de formação do Banco Primus.*  
-  >  
-  > *Recordo que um dos vossos desafios passava por contrariar a resistência interna a ações comportamentais tradicionais através de formatos mais dinâmicos e gamificados. Mantemos todo o interesse em estruturar convosco um primeiro projeto-piloto focado, com uma metodologia vivencial e medição clara de impacto adaptada à vossa escala.*  
-  >  
-  > *Gostaria de perceber se tem disponibilidade para uma breve reunião nos próximos dias para avaliarmos este formato e vermos como estão os timings do vosso plano.*  
-  >  
-  > *Obrigado e um bom fim de semana!*  
-  >  
-  > *Cumprimentos,*  
-  > *Bruno Vicente*  
-  > *SKOLAE Formação (anteriormente Abilways)"*
-

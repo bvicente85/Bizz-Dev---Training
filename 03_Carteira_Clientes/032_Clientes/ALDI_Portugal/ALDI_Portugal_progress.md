@@ -10,11 +10,11 @@ timestamp: 2026-06-18T10:59:00Z
 *Links Relativos:* [Contexto](./ALDI_Portugal_context.md) | [Notas de Reunião](./ALDI_Portugal_meeting_notes.md)
 
 ## Status Atual
-* **Fase do Funil:** Proposta / Análise de Propostas (Tendering) - Follow-up Microsoft Excel (Única Ativa)
-* **Última Interação:** 09/09/2026 (Envio de e-mail de follow-up comercial para Mariana Ramalho e Rita Fernandes sobre a proposta de Excel)
+* **Fase do Funil:** Relação Estabelecida / Auscultação para 2027 & Convite Experience Day
+* **Última Interação:** 22/10/2026 (Resposta de Mariana Ramalho sobre foco em fechar 2026 e início de 2027; envio por Bruno Vicente do ecossistema de formação, Business Cases, consultoria/assessments e convite para o Experience Day)
 * **Próximos Marcos:**
-  * Obter feedback e decisão sobre a proposta de Microsoft Excel (Setembro 2026).
-  * Planear arranque e diagnósticos online para meados de outubro de 2026.
+  * Potencial participação de Mariana Ramalho / colega da equipa de L&D no **Experience Day** da SKOLAE (19/11/2026, Lisboa).
+  * Manter a SKOLAE no arquivo de parceiros do ALDI para novas necessidades que surjam ao longo de 2027.
 
 ## Oportunidades
 
@@ -32,6 +32,10 @@ timestamp: 2026-06-18T10:59:00Z
 *   **Resultado:** Proposta não adjudicada / rejeitada pelo cliente na decisão final do tendering de 21/08/2026. Oportunidade encerrada como Perdida.
 
 ## Histórico de Interações
+* **22/10/2026 (Partilha de Ecossistema & Convite Experience Day):**
+  * Mariana Ramalho respondeu ao e-mail de sondagem: explicou que estão a fechar projetos de 2026 e já têm outros para início de 2027, pelo que não vê necessidades imediatas nem necessidade de reunião agora. Pediu catálogo de formação para consulta e auscultação no planeamento de 2027.
+  * Bruno Vicente respondeu acolhendo o timing, desmistificando o catálogo em função do modelo 100% intra-empresa à medida da SKOLAE, partilhou o site oficial com programas de referência, anexou o PDF de *Business Cases*, apresentou a oferta de Consultoria Estratégica & Assessments (TTI Success Insights, DISC, Clima, ROI, BPO) e formalizou o convite para o **Experience Day de 19 de novembro de 2026** em Lisboa.
+* **16/10/2026 (Sondagem Plano 2027):** Envio de e-mail por Bruno Vicente a questionar sobre eventuais necessidades de formação adicionais para fecho de 2026 ou arranque do plano de 2027.
 * **09/09/2026 (Follow-up Excel):** Envio de e-mail de seguimento a Mariana Ramalho e Rita Fernandes focado na análise da proposta de Microsoft Excel e disponibilidade para esclarecimentos.
 * **26/08/2026 (Receção & Validação NDA):** Mariana Ramalho enviou e-mail a agradecer o envio da proposta, a informar que utilizam o NDA celebrado no tendering anterior e que a proposta de Excel se encontra em fase de análise interna.
 * **21/08/2026 (Decisão Tender Liderança):** Proposta do programa ALDI Leadership Run não adjudicada / rejeitada internamente pelo ALDI. Foco comercial transitou integralmente para a oportunidade de Microsoft Excel.

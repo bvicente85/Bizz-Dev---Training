@@ -3,12 +3,32 @@ type: Meeting Notes
 title: Notas de Reunião - GPFA
 description: Histórico de atas, notas e conclusões de reuniões com o cliente GPFA.
 tags: [reunioes, atas]
-timestamp: 2026-06-18T10:59:00Z
+timestamp: 2026-10-20T11:30:00Z
 ---
 # GPFA - Notas de Reuniões e Contactos
 
 *Links:* [Contexto](./GPFA_context.md) | [Progresso Comercial](./GPFA_progress.md)
 
+
+## 2026-10-20 - Reunião Técnica de Descoberta & Acompanhamento de Automação com IA
+**Participantes:** Hugo Freitas (GPFA / EPFR), Samuel Mourato (People Change AI), Marco Almas (People Change AI), Bruno Vicente (SKOLAE)  
+**Canal:** Remoto (Teams / Granola)  
+**Relatório Detalhado:** [[meeting-report-GPFA-2026-10-20]]
+
+### Resumo & Diagnóstico Técnico:
+- **Evolução do Foco:** Não se trata de uma formação genérica de catálogo, mas de um **acompanhamento técnico prático (mentoria aplicada)** focado em automação com IA.
+- **Iniciativa Interna do Cliente:** O Hugo já subscreveu licenças do Claude (Claude Pro / Team Premium) há cerca de 1 mês e desenvolveu sozinho protótipos de agentes para leitura de plantas e geração de memórias descritivas (reduzindo o tempo de várias horas para 1-2 horas).
+- **Risco Identificado:** Risco de criar "peças soltas" sem validação técnica de arquitetura, segurança e boas práticas.
+- **Necessidades & Autonomia:** A GPFA quer capacitar o Hugo (e eventualmente 1 a 2 colegas) para que consiga construir agentes e fluxos de automação de forma autónoma. Preferem claramente ter a competência internamente em vez de subcontratar desenvolvimento exterior.
+- **Sistemas & Limitações:**
+  - Estão a migrar para Microsoft 365 / Outlook; IT em outsourcing (gestão passiva de rede).
+  - AutoCAD: abordagem genérica a explorar no futuro; Revit: fora de questão para já.
+  - Hardware: portátil atual (32 GB RAM) é curto para CAD/Revit + IA em simultâneo; People Change AI sugeriu avaliar hardware após o arranque do acompanhamento.
+- **Compromissos e Próximos Passos:**
+  - Marco Almas (People Change AI): partilhar o design da solução de formação em formato editável com nota curricular e valores/margens.
+  - SKOLAE (Bruno Vicente) / People Change AI: enviar proposta de solução à GPFA ainda esta semana, endereçada a Hugo Freitas com Miguel Freitas (dono) em cópia.
+
+---
 
 ## 2026-08-28 - Reunião de Alinhamento e Diagnóstico
 **Participantes:** Miguel Freitas, Hugo, Raquel Santos, Fernando, André (GPFA); Bruno Vicente (SKOLAE)  
@@ -31,7 +51,7 @@ timestamp: 2026-06-18T10:59:00Z
 ---
 
 ## 2026-08-20 - Contacto por Email (Dúvida Copilot vs Claude)
-**Participantes:** Raquel Santos (GPFA), Bruno Vicente (SKOLAE)
+**Participantes:** Raquel Santos (GPFA), Bruno Vicente (SKOLAE)  
 **CC:** Miguel Freitas (GPFA - Gerência)
 
 ### Notas:
@@ -58,7 +78,7 @@ timestamp: 2026-06-18T10:59:00Z
 ---
 
 ## 2026-05-13 - Pedido de Informação (Odoo)
-**Participantes:** Raquel Santos (GPFA)
+**Participantes:** Raquel Santos (GPFA)  
 **Canal:** Pedido de Informação / Entrada CRM
 
 ### Notas:
@@ -68,7 +88,3 @@ timestamp: 2026-06-18T10:59:00Z
 
 **Transcrição do Pedido:**
 > "Bom dia. Estamos a avaliar internamente a possibilidade de qualificar os nossos colaboradores na área de IA e gostaríamos de obter mais informações sobre as formações disponíveis relacionadas com o Microsoft Copilot. Muito obrigada. Cumprimentos,"
-
-
-
-

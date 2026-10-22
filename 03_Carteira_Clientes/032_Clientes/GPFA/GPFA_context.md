@@ -2,8 +2,8 @@
 type: Cliente Context
 title: Contexto do Cliente - GPFA
 description: Perfil de contexto, setor e interlocutores do cliente GPFA.
-tags: [cliente, cliente]
-timestamp: 2026-06-18T10:59:00Z
+tags: [cliente, engenharia, arquitetura, automacao_ia]
+timestamp: 2026-10-20T11:30:00Z
 ---
 # GPFA - Contexto e Perfil
 
@@ -11,28 +11,42 @@ timestamp: 2026-06-18T10:59:00Z
 
 
 ## Perfil da Empresa
-- **Nome:** GPFA
-- **Sector:** Engenharia, Arquitetura e Fiscalização de Obra
-- **Website:** [Pendente]
-- **Dimensão:** 34 colaboradores. Atuam como empreiteiros gerais, gestão de obras, fiscalização e coordenação de segurança. Pioneiros em BIM (desde 2007) em Portugal.
+- **Nome:** GPFA (GPFA / EPFR)
+- **Sector:** Arquitetura, Engenharia, Fiscalização e Gestão de Obras
+- **Especialização:** Forte especialização e volume de trabalho em projetos de **postos de abastecimento de combustível e redes de mobilidade elétrica** (onde cerca de 80% do trabalho técnico/documental é altamente repetitivo e padronizado).
+- **Dimensão:** ~20 a 34 colaboradores. Pioneiros em BIM (desde 2007) em Portugal.
+- **Ambiente de TI:** Em processo de migração para **Microsoft 365 / Outlook**. IT gerido em regime de outsourcing focado apenas em gestão de rede e resposta a emergências.
 
 ## Stakeholders
-- **Miguel Freitas** (Gerente / Decisor Principal)
+- **Miguel Freitas** (Sócio-Gerente / Proprietário e Decisor Principal)
   - Email: miguelfreitas@gpfa.pt
-- **Raquel Santos** (Administrativa / Interlocutor Operacional)
+  - *Nota:* Deve estar obrigatoriamente em cópia em todas as propostas formais e comunicações de seguimento.
+- **Hugo Freitas** (Área Administrativa, Processos & Automação / Champion Técnico de IA)
+  - Visão transversal completa de todos os fluxos e processos do gabinete (do início ao fim da obra).
+  - Background autodidata em programação (bases em C++ e PHP; noções básicas de Python).
+  - Lidera internamente a exploração de IA: adquiriu licenças do Claude (Claude Pro / Team Premium) e desenvolveu os primeiros protótipos de agentes para leitura de projetos e geração de memórias descritivas.
+- **Raquel Santos** (Administrativa / Interlocutor Operacional CRM)
   - Email: raquelsantos@gpfa.pt
   - Telemóvel: 915728099
-- **Hugo** (Área Técnica / Entusiasta de IA) - Focado no estudo de viabilidade de APIs do Claude, servidores e conectores MCP para acesso ao NAS (servidor local).
-- **André** (Desenho e BIM)
+- **André** (Desenho e Modelação BIM)
 - **Fernando** (Polivalente / Operacional)
 
-## Dores e Necessidades Identificadas
-- **Aumento de Produtividade e Redução de Erros:** Necessidade urgente de automatizar tarefas altamente repetitivas da operação diária:
-  - Análise e comparação de mapas de orçamentos de subempreiteiros (consome manhãs inteiras).
-  - Adaptação de memórias descritivas padrão (alteração de dados urbanísticos, requerente, áreas, sem falhar campos).
-  - Geração de termos de responsabilidade (até 9 termos por projeto, repetido 2 a 3 vezes ao dia).
-  - Agregação de PDFs específicos assinalados/assinados (PDF/A para submissão camarária) e conversões de DWFx a partir de AutoCAD.
-- **Dilema Tecnológico (Copilot vs Claude):** 
-  - O Copilot foi avaliado (custo de 214€ a 352€/ano/user), mas a equipa técnica (liderada pelo Hugo) pende fortemente para o **Claude** devido à sua capacidade analítica de documentos complexos e viabilidade de integração com o servidor local (NAS) via API e conectores MCP.
-  - Objetivo: Definir o caminho tecnológico até final de setembro e implementar as soluções até 8-10 de dezembro.
+## Parceiro Técnico Estratégico SKOLAE
+- **People Change AI:**
+  - **Samuel Mourato** e **Marco Almas** (Especialistas em IA prática, agentes autónomos e automação corporativa).
+  - Responsáveis pela arquitetura pedagógica do acompanhamento técnico, desenho da mentoria hands-on e suporte à integração de agentes no ecossistema da GPFA.
 
+## Dores e Oportunidades de Automação
+1. **Redução Drástica do Trabalho Repetitivo Documental:**
+   - 80% dos projetos (postos de combustível e carregadores elétricos) seguem matrizes idênticas.
+   - Elaboração morosa de memórias descritivas (processo tradicional demorava várias horas; com automação pode cair para 1 a 2 horas).
+   - Termos de responsabilidade repetitivos (até 9 termos por projeto) e mapas comparativos de orçamentos de subempreiteiros.
+2. **Mitigação do Risco Técnico ("Peças Soltas"):**
+   - O Hugo já iniciou a construção autónoma de agentes no Claude, mas existe o risco de construir fluxos frágeis sem boas práticas de arquitetura de dados, prompting profissional e controlo de versões.
+   - A GPFA quer capacitá-lo com mentoria técnica dedicada para garantir robustez, autonomia interna e escalabilidade.
+3. **Fronteira com CAD e Revit:**
+   - *AutoCAD:* Potencial de abordagem genérica / automação de ficheiros, mas sem integração profunda por agora.
+   - *Revit:* Fora de âmbito no imediato (proprietário e dados sensíveis).
+4. **Infraestrutura e Hardware:**
+   - Portátil atual (32 GB RAM) insuficiente para computação paralela CAD + IA local/cloud.
+   - A definir após piloto técnico: aquisição de workstation desktop de topo vs. servidor dedicado local (Xeon).

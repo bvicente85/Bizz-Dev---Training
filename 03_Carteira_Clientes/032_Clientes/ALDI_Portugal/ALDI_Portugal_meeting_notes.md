@@ -10,6 +10,18 @@ timestamp: 2026-06-18T10:59:00Z
 *Links Relativos:* [Contexto](./ALDI_Portugal_context.md) | [Progresso Comercial](./ALDI_Portugal_progress.md)
 
 
+## 22/10/2026 - Ponto de Situação L&D & Convite Experience Day
+* **Participantes:** Mariana Ramalho (Specialist Learning & Development - ALDI Portugal), Bruno Vicente (SKOLAE)
+* **Canal:** E-mail
+* **Resumo:**
+  * Mariana Ramalho indicou que a equipa de L&D do ALDI está focada em encerrar os projetos deste ano e já tem outros alinhados para o início de 2027, não prevendo necessidades imediatas e dispensando reunião por agora.
+  * Solicitou catálogo de formação para consulta interna ao longo de 2027 e auscultação da oferta dos parceiros.
+  * Bruno Vicente respondeu a enquadrar o modelo intra-empresa exclusivo da SKOLAE, partilhou os programas do site, o PDF de *Business Cases*, a oferta de Consultoria Estratégica & Assessments psicométricos (TTI Success Insights, DISC, Clima, ROI, BPO/Academias) e endereçou o convite para o **Experience Day de 19 de novembro de 2026** nos Training Labs de Lisboa.
+
+## 16/10/2026 - Sondagem Plano 2027
+* **Participantes:** Bruno Vicente (SKOLAE), Mariana Ramalho (ALDI Portugal)
+* **Objetivo:** Sondar eventuais necessidades adicionais para fecho de ano ou arranque do planeamento de 2027.
+
 ## 09/09/2026 - Follow-up Comercial (Proposta Microsoft Excel)
 * **Participantes:** Bruno Vicente (SKOLAE), Mariana Ramalho e Rita Fernandes (ALDI Portugal)
 * **Objetivo:** Contacto de seguimento para perceber a previsão de conclusão da análise da proposta de Microsoft Excel e disponibilizar apoio ou esclarecimentos.

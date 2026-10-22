@@ -35,8 +35,15 @@ A SKOLAE Formação complementa a sua oferta pedagógica com serviços de consul
 * **Nível 4 (Resultados):** Impacto nos KPI's da organização.
 * **Nível 5 (ROI):** Medição do retorno financeiro do investimento.
 
-## 6. Ferramentas de Diagnóstico (Assessments)
-* **DISC:** Perfis comportamentais.
-* **EQ (Emotional Quotient™):** Inteligência Emocional.
-* **WPMOT:** Forças impulsionadoras (Motivadores).
-* **Feedback 360º:** Diagnóstico de competências de liderança.
+## 6. Ferramentas de Diagnóstico e Assessments (Parceria TTI Success Insights & Questools)
+A SKOLAE integra avaliações psicométricas e estudos globais nos seus projetos formativos:
+* **Nível Individual:**
+  * **TriMetrix®:** Avaliação integrada de Comportamentos (DISC), Forças Impulsionadoras (Driving Forces/WPMOT) e Inteligência Emocional (EQ).
+  * **EQ & EQ 360 (Emotional Quotient™):** Mapeamento individual e multidimensional de competências emocionais e relacionais.
+* **Nível Equipas:**
+  * **Blended & Grouping:** Mapeamento coletivo da matriz de perfis e estilos para alinhamento e teambuilding.
+  * **multiRater 360º / 720º:** Avaliação multi-avaliador de competências de liderança com reaplicação pós-formação (720º) para medição de evolução real.
+* **Nível Organizacional:**
+  * **ECO (Estudo de Clima Organizacional - Questools):** Diagnóstico sistémico da organização em 4 eixos (Empresa, Liderança, Trabalho, Relação).
+  * **S&BE (Estudo de Satisfação & Bem-Estar - Questools):** Avaliação de bem-estar psíquico, vivência no posto e riscos psicossociais.
+*(Consulte o dossier detalhado em `01_Conhecimento_Base/012_Outras_Fontes_Conhecimento/Parceiro_TTI_Success_Insights_Assessments_e_Surveys.md`)*
