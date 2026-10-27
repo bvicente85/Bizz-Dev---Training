@@ -44,6 +44,13 @@ A skill deve ser ativada sempre que o utilizador pedir:
    * Sem bullets literais (linhas limpas de texto simples).
 6. **Preservação Invariável do Bloco Metodológico Gráfico Standard (Slide 12 / Slide 8):**
    * No slide de abertura do itinerário (Slide 12 no template base de 22 slides / Slide 8 após eliminação das capas excedentes), o bloco gráfico à direita (`CaixaDeTexto 83`, `CaixaDeTexto 84` e `CaixaDeTexto 85`: *"TREINO / ESTIMULAR A APRENDIZAGEM"*, *"Cenarização; role playing..."*, *"Utilização de exemplos, estudos de caso..."* e *"Clarificação de conceitos / Feedback / Sínteses / Debriefings"*) é **estritamente standard e invariável**. **Nunca deve ser adaptado ou alterado**, mantendo-se 100% fiel ao template de origem.
+7. **Bloco Oficial de Contactos (Slide Final / Retângulo 2):**
+   * O bloco de contactos no slide de fecho deve conter **obrigatoriamente e por esta ordem** os três interlocutores oficiais com domínio `@abilways.pt`:
+     * **Bruno Vicente** (Business Developer | `bvicente@abilways.pt` | `Tlm.: (+35 1) 91 411 26 29`);
+     * **Nuno Jorge** (Head of Sales | `njorge@abilways.pt` | `Tlm.: (+351) 910 457 434`);
+     * **Telma Lopes** (Pedagogica Coordinator | `tlopes@abilways.pt` | `Tlm.: (+351) 914 165 110`).
+8. **Grafia Oficial Invariável (Zero "SKOALE"):**
+   * A marca escreve-se **estritamente SKOLAE** (ou **SKOLAE Formação**). A gralha tipográfica *"SKOALE"* (comum no Slide 15 / Slide da Filial Portuguesa dos templates antigos) deve ser **sempre corrigida para SKOLAE** em todas as propostas geradas.
 
 ---
 

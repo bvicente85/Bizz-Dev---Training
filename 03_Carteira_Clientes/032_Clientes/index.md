@@ -12,6 +12,7 @@
 * [Aquaservice](./Aquaservice/Aquaservice_context.md) - Distribuição de água engarrafada / Dispensadores de água (Serviços / Bens de Consumo)
 * [Audaxys-Linedata](./Audaxys-Linedata/Audaxys-Linedata_context.md) - Provavelmente Tecnologia/Software (Linedata é um player global de soluções financeiras).
 * [Autozitania](./Autozitania/Autozitania_context.md)
+* [Axians & VINCI Energies](./Axians_Vinci_Energies/Axians_context.md) - Tecnologias de Informação / Transição Energética (VINCI Energies Academy) | **Fase:** Qualificação Avançada (Trilho Sales & BD)
 * [Base Capital](./Base Capital/Base Capital_context.md) - Automóvel (Representante de marcas premium como Mercedes-Benz, smart, Aston Martin e Maserati - ex: C. Santos VP).
 * [BASF](./BASF/BASF_context.md)
 * [Banco CTT](./Banco_CTT/Banco_CTT_context.md) - Banca / Setor Financeiro (Grupo CTT) | **Fase:** Qualificação / Reativação Relacional C-Level
@@ -48,6 +49,7 @@
 * [Generali Tranquilidade](./Generali Tranquilidade/Generali Tranquilidade_context.md) - Seguros e Serviços Financeiros | **Fase:** Prospeção / Qualificação (Team Building)
 * [Grupo Nabeiro - Delta Cafés](./Grupo Nabeiro - Delta Cafés/Grupo Nabeiro - Delta Cafés_context.md) - Indústria Alimentar / Bebidas (Torrefação e Distribuição de Café) | **Estado Atual:** Em Curso (Delta Feel Good / Oportunidade em Espanha)
 * [Hi-Interactive](./Hi-Interactive/Hi-Interactive_context.md)
+* [HMM Fundão](./HMM_Fundao/HMM_Fundao_context.md) - Indústria Transformadora / Componentes de Luxo (Groupe HMM) | **Fase:** Qualificação (Governação de Dados / DAMA)
 * [Horse](./Horse/Horse_context.md) - **Fase:** prospeção / Qualificação (Follow-up efetuado).
 * [Hydra](./Hydra/Hydra_context.md) - **Fase:** Venda estabelecida / Preparação da atividade letiva. (Reunião de Kick-off efetuada a 31/03/2026).
 * [IBER-OLEFF](./IBER-OLEFF/IBER-OLEFF_context.md) - Componentes Automóveis / Plásticos (A confirmar)
@@ -56,6 +58,7 @@
 * [ISCSP](./ISCSP/ISCSP_context.md)
 * [Joaquim Chaves Saúde](./Joaquim Chaves Saúde/Joaquim Chaves Saúde_context.md) - Saúde (Análises Clínicas, etc.)
 * [Jumia](./Jumia/Jumia_context.md) - E-Commerce / Tecnologia | **Fase:** Apresentação de Proposta
+* [KLX](./KLX/KLX_context.md) - Consultoria e Serviços Corporativos / Tecnologia | **Fase:** Proposta Enviada (Team Building Cook & Learn)
 * [Labialfarma](./Labialfarma/Labialfarma_context.md) - Indústria Farmacêutica / Nutracêutica
 * [Lacos Seguros](./Lacos Seguros/Lacos Seguros_context.md) - Mediação de Seguros (automóvel, vida, saúde, casa, negócios) e Prestação de Serviços (sistemas de formação, consultoria de gestão).
 * [Lyzer](./Lyzer/Lyzer_context.md)

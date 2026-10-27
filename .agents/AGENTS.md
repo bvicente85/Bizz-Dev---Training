@@ -89,7 +89,13 @@ A SKOLAE Formação opera **exclusivamente** no segmento de formação intra-emp
 - **Estrutura de Preço:** O investimento é sempre contratado no formato dedicado (valor por ação/grupo ou por tutoria individual dedicada à empresa), nunca em modelo de inscrição avulsa por vaga de calendário.
 
 ## Marca Oficial e Identidade
-A empresa parceira representa-se exclusivamente como **Skolae** ou **SKOLAE Formação**. Nunca deves utilizar grafias erradas foneticamente (como "Scollai" ou "Scolae") na redação, revisão de propostas, e-mails, atas ou relatórios.
+A empresa parceira representa-se exclusivamente como **Skolae** ou **SKOLAE Formação**. Nunca deves utilizar grafias erradas foneticamente (como "Scollai" ou "Scolae") ou gralhas tipográficas (como "SKOALE", muito comum no Slide 15 dos templates antigos) na redação, revisão de propostas, e-mails, atas ou relatórios.
+
+## Bloco Oficial de Contactos em Propostas PowerPoint (Slide Final)
+Em todas as propostas comerciais geradas em PowerPoint, o slide final de contactos deve conter obrigatoriamente e pela seguinte ordem os três contactos institucionais (com o domínio oficial `@abilways.com`):
+1. **Bruno Vicente** — Business Developer | `bvicente@abilways.com` | `Tlm.: (+35 1) 91 411 26 29`
+2. **Nuno Jorge** — Head of Sales | `njorge@abilways.com` | `Tlm.: (+351) 910 457 434`
+3. **Telma Lopes** — Pedagogica Coordinator | `tlopes@abilways.com` | `Tlm.: (+351) 914 165 110`
 
 ## Rigor na Escrita em Inglês B2B
 Sempre que redigires comunicações em inglês (e-mails, propostas ou abordagens), deves aplicar estritamente e por defeito as regras do guia `bd_estilo_escrita.md`:

@@ -339,6 +339,70 @@ def gerar_proposta(data, template_path=r'Template Proposta - 1 curso.pptx', outp
                         p = tf.add_paragraph()
                         set_run(p.add_run(), top, F_BODY, 10.5, bold=False)
 
+    # ==============================================================================
+    # CORREÇÃO GLOBAL: Substituir 'SKOALE' por 'SKOLAE'
+    # ==============================================================================
+    for s in prs.slides:
+        for sh in s.shapes:
+            if sh.has_text_frame and 'SKOALE' in sh.text_frame.text:
+                for p in sh.text_frame.paragraphs:
+                    if 'SKOALE' in p.text:
+                        for r in p.runs:
+                            if 'SKOALE' in r.text:
+                                r.text = r.text.replace('SKOALE', 'SKOLAE')
+                        if 'SKOALE' in p.text:
+                            p.text = p.text.replace('SKOALE', 'SKOLAE')
+
+    # ==============================================================================
+    # SLIDE FINAL (Contactos Oficiais da Equipa Comercial e Pedagógica)
+    # ==============================================================================
+    s_last = prs.slides[-1]
+    for sh in s_last.shapes:
+        if sh.name == 'Retângulo 2':
+            tf = sh.text_frame
+            tf.clear()
+            contacts = [
+                ('Bruno Vicente', 'Business Developer', 'bvicente@abilways.pt', 'Tlm.: (+35 1) 91 411 26 29'),
+                ('Nuno Jorge', 'Head of Sales', 'njorge@abilways.pt', 'Tlm.: (+351) 910 457 434'),
+                ('Telma Lopes', 'Pedagogica Coordinator', 'tlopes@abilways.pt', 'Tlm.: (+351) 914 165 110')
+            ]
+            for idx, (name, role, email, phone) in enumerate(contacts):
+                p0 = tf.paragraphs[0] if idx == 0 else tf.add_paragraph()
+                if idx > 0:
+                    p_sp = tf.add_paragraph()
+                    p_sp.text = ''
+                    p_sp.font.size = Pt(6)
+                    p0 = tf.add_paragraph()
+                
+                r0 = p0.add_run()
+                r0.text = name
+                r0.font.name = F_BODY
+                r0.font.size = Pt(13)
+                r0.font.bold = True
+                
+                p1 = tf.add_paragraph()
+                r1 = p1.add_run()
+                r1.text = role
+                r1.font.name = F_BODY
+                r1.font.size = Pt(11)
+                r1.font.bold = False
+                
+                p2 = tf.add_paragraph()
+                r2 = p2.add_run()
+                r2.text = email
+                r2.font.name = F_BODY
+                r2.font.size = Pt(11)
+                r2.font.bold = False
+                r2.font.underline = True
+                r2.font.color.rgb = ORANGE_ACCENT
+                
+                p3 = tf.add_paragraph()
+                r3 = p3.add_run()
+                r3.text = phone
+                r3.font.name = F_BODY
+                r3.font.size = Pt(11)
+                r3.font.bold = False
+
     # Determinar caminho de saída
     if not output_path:
         pasta_cliente = os.path.join(r'03_Carteira_Clientes\032_Clientes', cliente)
