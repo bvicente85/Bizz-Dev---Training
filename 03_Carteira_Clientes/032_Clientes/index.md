@@ -31,6 +31,7 @@
 * [CUF](./CUF/CUF_context.md) - Saúde / Prestação de Cuidados de Saúde | **Fase:** Reativação / Qualificação
 * [Correo_Express](./Correo_Express/CorreoExpress_context.md)
 * [DEIBA](./DEIBA/DEIBA_context.md) - Indústria e Distribuição (Fertilizantes, Logística, AdBlue).
+* [Desentop Ambiente](./Desentop_Ambiente/Desentop_Ambiente_context.md) - Gestão Global de Serviços e Resíduos | **Fase:** Proposta Enviada (Excel, Power BI, M365, Stress/Tempo e Liderança)
 * [Details](./Details/Details_context.md)
 * [DHM](./DHM/DHM_context.md)
 * [Divimontagem](./Divimontagem/divimontagem_context.md) - Construção Civil / Engenharia ("Divimontagem- Construções").

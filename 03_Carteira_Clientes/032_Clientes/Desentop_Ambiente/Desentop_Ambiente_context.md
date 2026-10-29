@@ -1,58 +1,53 @@
+---
+status: Ativo
+core_business: Gestão Global de Serviços e Resíduos (Desentupimentos, construção civil, manutenção de superfícies, sinistros e restauração)
+decisores:
+  - Patrícia Bicho (Responsável QAS — Qualidade, Ambiente e Segurança)
+data_ultima_interacao: 2026-10-29
+areas_interesse:
+  - Microsoft Excel (com Teste de Diagnóstico Online Gratuito)
+  - Power BI (Dashboards para Manutenção)
+  - Microsoft 365 Produtividade (Outlook, Teams, pastas partilhadas, coautoria e Copilot)
+  - Gestão do Stress e do Tempo (Responsáveis de Sinistros - 6 paxs)
+  - Liderança e Gestão de Equipas (Líderes Operacionais promovidos internamente - 6 a 8 paxs)
+---
+
 # Desentop Ambiente — Dossier de Cliente
+
+*Links:* [Progresso Comercial](./Desentop_Ambiente_progress.md) | [Notas de Reuniões](./Desentop_Ambiente_meeting_notes.md) | [Índice do Dossier](./_Índice_Desentop_Ambiente.md)
 
 ## 1. Identificação da Conta & Contactos
 - **Entidade:** Desentop Ambiente - Gestão Global de Serviços e Resíduos, Lda.
 - **NIF:** PT503555380
 - **Morada:** Rua Boqueirão Ferro, N.º 4, Quinta dos Palmares, 2680-177 Camarate
+- **Delegações:** Camarate (Lisboa) e Espinho (Norte).
 - **Dimensão da Equipa:** ~20 a 30 colaboradores repartidos por 2 polos/escritórios (Polo A com ~10 pessoas, Polo B com ~25 pessoas: administrativa, orçamentistas, técnicos de sinistros e manutenção).
 - **Interlocutora Principal:** **Patrícia Bicho** (Responsável QAS — Qualidade, Ambiente e Segurança)
-- **E-mail:** `patriciabicho@desentop.com`
-- **Telefone:** `937 570 031`
+- **E-mail:** patriciabicho@desentop.com
+- **Telefone:** 937 570 031
 - **Gestor da Conta (SKOLAE):** Bruno Vicente
+- **Origem do Contacto:** Recomendação de uma amiga da Patrícia (cliente recorrente da SKOLAE).
 
 ---
 
 ## 2. Histórico de Interações & Oportunidade
-- **19/10/2026 — Pedido Web Inbound & Chamada de Qualificação Telefónica:**
-  - Bruno Vicente contactou telefonicamente a Patrícia Bicho na sequência do pedido no site.
-  - **Dores e Necessidades Mapeadas:**
-    1. *Excel:* Heterogeneidade vincada entre os dois escritórios. Alguns colaboradores avançados que não precisam; outros com muitas dúvidas na construção de fórmulas e tabelas para orçamentos e relatórios de sinistros. Patrícia acolheu de imediato a proposta do **Teste de Diagnóstico Online Gratuito de Nivelamento da SKOLAE**.
-    2. *Microsoft 365 & SharePoint:* Migração recente da empresa para o ecossistema nuvem. Usam o e-mail mas têm bloqueios e receios no arquivo partilhado, permissões e coautoria no SharePoint.
-    3. *Inteligência Artificial & Copilot:* Vários colaboradores já utilizam ferramentas abertas de IA por iniciativa própria; a empresa quer canalizar isso para uso produtivo e seguro nas rotinas administrativas, percebendo o papel do Copilot.
-  - **Gatilho de Urgência & Budget (Deal-Maker):**
-    - A cliente confirmou expressamente que tem verbas cativas do **Fundo de Compensação do Trabalho (FCT)** destinadas a formação profissional e pretende/precisa de **investir ainda no ano civil de 2026**.
-    - Patrícia é rápida a responder, mas necessita de proposta formal completa para submeter à aprovação da administração.
-- **20/10/2026 — Formalização das Propostas Pedagógica e Financeira (Ref. 21615):**
-  - Proposta técnica e proposta financeira validadas e estruturadas sob a **Ref. 21615 - Excel_M365_IA**, válidas até 31/12/2026.
+- **19/10/2026 — Pedido Web Inbound & Chamada de Qualificação:**
+  - Primeiro mapeamento das necessidades em Excel, migração para M365 e curiosidade em Inteligência Artificial.
+  - Identificação de saldo cativo de **Fundo de Compensação do Trabalho (FCT)** a aplicar obrigatoriamente até ao final de 2026.
+- **20/10/2026 — Proposta Preliminar (Ref. 21615):**
+  - Desenho inicial focado apenas em Excel, SharePoint e IA.
+- **29/10/2026 (10:59) — Reunião de Diagnóstico Aprofundado (Granola):**
+  - Reunião via Teams com Patrícia Bicho onde se reestruturou o portfólio de necessidades:
+    1. *Excel (~15 paxs):* Nivelamento via Teste Diagnóstico gratuito; delegações de Lisboa e Espinho (Norte).
+    2. *Power BI:* Inclusão de módulo para o gestor de manutenção (perfil analítico avançado em Excel).
+    3. *Microsoft 365 Produtividade:* Eliminação do foco em SharePoint (já gerido pelo informático) e foco na adoção de Teams, Outlook, coautoria e Copilot.
+    4. *Gestão do Stress e do Tempo:* Turma dedicada de **6 pessoas** para responsáveis da área de sinistros.
+    5. *Liderança e Gestão de Equipas:* Turma dedicada de **6 a 8 pessoas** para líderes promovidos internamente da área operacional.
+- **29/10/2026 (Tarde) — Envio da Proposta Comercial Atualizada:**
+  - Proposta revista e completa enviada por e-mail à Patrícia Bicho para validação interna e aprovação com base no montante de saldo FCT disponível.
 
 ---
 
-## 3. Estrutura da Proposta Oficial (Ref. 21615)
-
-### A. Proposta Técnica / Pedagógica
-* **Fase 0 (Pre-work):** Teste de Diagnóstico Online de Competências em Excel (sem encargo adicional) para elaboração da matriz de nivelamento prévia à constituição das turmas.
-* **Eixo 1 — Microsoft Excel (14h por nível):**
-  * *Nível Inicial (14h):* Fundamentos, navegação, referências e regras de cálculo estruturantes ($$).
-  * *Nível Intermédio (14h):* Cálculos condicionais (`CONTAR.SE`, `SOMA.SE`), funções temporais, procuras analíticas (`PROCV`/`PROCX`) e tabelas dinâmicas.
-  * *Nível Avançado (14h):* Fórmulas matriciais complexas, aninhamentos lógicos e cenários operacionais.
-* **Eixo 2 — Microsoft 365 & SharePoint Utilizador (7h):**
-  * Colaboração em nuvem, gestão de bibliotecas, permissões de acesso, coautoria em tempo real e prevenção de versões duplicadas por e-mail.
-* **Eixo 3 — Desenvolver a Eficácia Profissional com IA (7h):**
-  * Engenharia de prompts para rotinas de escritório, redação/síntese de ocorrências e relatórios, análise de dados e segurança de informação confidencial.
-* **Consolidação & Avaliação de Impacto:** Training Lab prático pós-ação (3h30) e avaliação em 2 níveis do modelo Kirkpatrick.
-
-### B. Proposta Financeira Oficial (Valores Unitários por Turma Dedicada até 12 Formandos)
-* **Microsoft Excel (14h - Inicial, Intermédio ou Avançado):** 1.300,00 € + IVA (23%)
-* **Microsoft SharePoint - Utilizadores (7h):** 1.500,00 € + IVA (23%)
-* **Desenvolver Eficácia Profissional com IA (7h):** 2.000,00 € + IVA (23%)
-* **Valor Global de Referência (1 Turma de cada tema):** 4.800,00 € + IVA (Total com IVA: 5.904,00 €)
-* **Condições Comerciais:**
-  * Modalidade: Intra-empresa (Presencial ou Live Training via Teams/Zoom).
-  * Pagamento: 30 dias.
-  * Certificação DGERT com emissão de certificados SIGO (elegibilidade total para resgate de fundos FCT).
-
----
-
-## 4. Próximos Passos
-1. Envio dos documentos oficiais à Patrícia Bicho com a minuta de acompanhamento.
-2. Agendamento de breve reunião de 10 minutos via Teams com a Patrícia e a Administração para validação das turmas e fixação do cronograma para novembro/dezembro de 2026.
+## 3. Próximos Passos
+1. Aguardar feedback da Patrícia Bicho e confirmação do valor exato de saldo FCT apurado pelos Recursos Humanos.
+2. Agendar reunião de alinhamento de datas para execução em novembro e dezembro de 2026.
