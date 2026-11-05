@@ -23,7 +23,7 @@
 * [Browning_Viana](./Browning_Viana/Browning_Viana_context.md)
 * [Caixa Credito Agricola](./Caixa Credito Agricola/Caixa_Credito_Agricola_context.md) - Banca / Setor Financeiro | **Fase:** Consulta de Mercado (Vortal)
 * [Carl Zeiss](./Carl Zeiss/Carl Zeiss_context.md) - Ótica, Tecnologias de Saúde, Lentes de Precisão.
-* [Cegid](./Cegid/cegid_context.md)
+* [Cegid](./Cegid/cegid_context.md) - Software de Gestão / TI | **Fase:** Em Pausa / Cancelada (Reestruturação interna em IT/IS; reavaliar em 2027)
 * [Chagas](./Chagas/Chagas_context.md)
 * [Cimpor](./Cimpor/Cimpor_context.md) - Indústria cimenteira e materiais de construção | **Fase:** Qualificação
 * [Coficab](./Coficab/Coficab_context.md) - *Status Atual:** Apresentação de Proposta / Negociação
@@ -32,6 +32,7 @@
 * [Correo_Express](./Correo_Express/CorreoExpress_context.md)
 * [DEIBA](./DEIBA/DEIBA_context.md) - Indústria e Distribuição (Fertilizantes, Logística, AdBlue).
 * [Desentop Ambiente](./Desentop_Ambiente/Desentop_Ambiente_context.md) - Gestão Global de Serviços e Resíduos | **Fase:** Proposta Enviada (Excel, Power BI, M365, Stress/Tempo e Liderança)
+* [Duck River Agriculture](./Duck_River_Agriculture/Duck_River_Agriculture_context.md) - Agro-indústria e Agricultura de Precisão (Frutos Secos e Azeite) | **Fase:** Qualificação Ativa (Inbound Formação IA)
 * [Details](./Details/Details_context.md)
 * [DHM](./DHM/DHM_context.md)
 * [Divimontagem](./Divimontagem/divimontagem_context.md) - Construção Civil / Engenharia ("Divimontagem- Construções").
@@ -43,6 +44,7 @@
 * [Europalco](./Europalco/Europalco_context.md)
 * [FEA - Fundação Eugénio de Almeida](./FEA_Fundacao_Eugenio_de_Almeida/FEA_Fundacao_Eugenio_de_Almeida_context.md) - Social, Cultural e Agroalimentar | Qualificação
 * [Ferreira_de_Sa](./Ferreira_de_Sa/Ferreira_de_Sa_context.md) - Indústria Têxtil / Tapeçaria de Luxo (Forte componente de exportação).
+* [Five Stars](./Five_Stars/Five_Stars_context.md) - Avaliação de Marcas e Estudos de Mercado | **Fase:** Proposta Enviada (Cook & Learn)
 * [Forte_de_Gaia](./Forte_de_Gaia/Forte_de_Gaia_context.md) - Hotelaria / Turismo
 * [Fromagerie BEL](./Fromagerie BEL/FromageriesBEL_Context.md)
 * [Garcias](./Garcias/Garcias_context.md) - Distribuição de Bebidas | Preparação de Proposta (Apoio à Zélia)
@@ -59,7 +61,7 @@
 * [ISCSP](./ISCSP/ISCSP_context.md)
 * [Joaquim Chaves Saúde](./Joaquim Chaves Saúde/Joaquim Chaves Saúde_context.md) - Saúde (Análises Clínicas, etc.)
 * [Jumia](./Jumia/Jumia_context.md) - E-Commerce / Tecnologia | **Fase:** Apresentação de Proposta
-* [KLX](./KLX/KLX_context.md) - Consultoria e Serviços Corporativos / Tecnologia | **Fase:** Proposta Enviada (Team Building Cook & Learn)
+* [KLX](./KLX/KLX_context.md) - Consultoria e Serviços Corporativos / Tecnologia | **Fase:** Proposta Enviada (Cook & Learn - Sara) / Qualificação Ativa (Natal 5 pax - Catarina Pamplona)
 * [Labialfarma](./Labialfarma/Labialfarma_context.md) - Indústria Farmacêutica / Nutracêutica
 * [Lacos Seguros](./Lacos Seguros/Lacos Seguros_context.md) - Mediação de Seguros (automóvel, vida, saúde, casa, negócios) e Prestação de Serviços (sistemas de formação, consultoria de gestão).
 * [Lyzer](./Lyzer/Lyzer_context.md)

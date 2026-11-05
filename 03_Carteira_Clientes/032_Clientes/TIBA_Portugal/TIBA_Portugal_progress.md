@@ -16,6 +16,10 @@ timestamp: 2026-09-15T11:45:00Z
 * **Próximo Marco:** Partilhar feedback consolidado das formadoras com a TIBA e acompanhar decisão das propostas de Soft Skills/Excel e Team Building
 
 ## Oportunidade em Negociação
+* **Proposta de Continuidade Comercial — Negociação Avançada e Gestão de Objeções:**
+  * **Status:** Apresentação PPTX gerada a 03/11/2026 com base no feedback pedagógico da formadora Cristina.
+  * **Carga Horária:** 21h (recomendada para role-plays a 100% da turma) ou 14h.
+  * **Público:** 10 a 14 comerciais da TIBA Portugal e Cluster (Moçambique, Angola e Cabo Verde).
 * **Formação de Sales Mindset & Prospeção Digital (Concluída com Sucesso):**
   * **Status:** Concluída a 14/09/2026. Feedback de excelência da cliente (equipas saíram da zona de conforto e elogio direto às formadoras).
 * **Proposta Enviada (11/09/2026) - Eficácia Pessoal e Excel:**

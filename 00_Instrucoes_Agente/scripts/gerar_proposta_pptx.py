@@ -362,9 +362,9 @@ def gerar_proposta(data, template_path=r'Template Proposta - 1 curso.pptx', outp
             tf = sh.text_frame
             tf.clear()
             contacts = [
-                ('Bruno Vicente', 'Business Developer', 'bvicente@abilways.pt', 'Tlm.: (+35 1) 91 411 26 29'),
-                ('Nuno Jorge', 'Head of Sales', 'njorge@abilways.pt', 'Tlm.: (+351) 910 457 434'),
-                ('Telma Lopes', 'Pedagogica Coordinator', 'tlopes@abilways.pt', 'Tlm.: (+351) 914 165 110')
+                ('Bruno Vicente', 'Business Developer', 'bvicente@abilways.com', 'Tlm.: (+35 1) 91 411 26 29'),
+                ('Nuno Jorge', 'Head of Sales', 'njorge@abilways.com', 'Tlm.: (+351) 910 457 434'),
+                ('Telma Lopes', 'Pedagogica Coordinator', 'tlopes@abilways.com', 'Tlm.: (+351) 914 165 110')
             ]
             for idx, (name, role, email, phone) in enumerate(contacts):
                 p0 = tf.paragraphs[0] if idx == 0 else tf.add_paragraph()

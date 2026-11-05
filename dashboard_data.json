@@ -1,0 +1,200 @@
+{
+  "last_updated": "2026-11-02T08:50:00",
+  "sync_source": "03_Carteira_Clientes/Daily_Summaries",
+  "previous_week": {
+    "period_label": "Semana de 26 a 30 de Outubro de 2026",
+    "kpis": {
+      "completed_tasks": 16,
+      "proposals_sent": 4,
+      "meetings_done": 5,
+      "completion_rate": "94%"
+    },
+    "completed_tasks_list": [
+      {
+        "id": "pw-1",
+        "title": "Envio de proposta formativa dedicada AgilePM v3 Foundation",
+        "client": "Nélia / Formação",
+        "category": "Proposta",
+        "day": "Sexta",
+        "date": "30 Out",
+        "completed": true
+      },
+      {
+        "id": "pw-2",
+        "title": "Adição e qualificação de 21 novos contactos de RH e Liderança no Excel",
+        "client": "Odoo / Base RH",
+        "category": "Operações",
+        "day": "Sexta",
+        "date": "30 Out",
+        "completed": true
+      },
+      {
+        "id": "pw-3",
+        "title": "Criação de aba dedicada 'RH Hoje' com 52 novos contactos VCF",
+        "client": "Base de Dados RH",
+        "category": "Operações",
+        "day": "Quinta",
+        "date": "29 Out",
+        "completed": true
+      },
+      {
+        "id": "pw-4",
+        "title": "Revisão e envio de proposta de Liderança e Team Building Imersivo",
+        "client": "Sport TV",
+        "category": "Proposta",
+        "day": "Quarta",
+        "date": "28 Out",
+        "completed": true
+      },
+      {
+        "id": "pw-5",
+        "title": "Call de diagnóstico de necessidades de formação e bem-estar",
+        "client": "Aubay Portugal",
+        "category": "Reunião",
+        "day": "Quarta",
+        "date": "28 Out",
+        "completed": true
+      },
+      {
+        "id": "pw-6",
+        "title": "Follow-up consultivo de proposta de Gestão de Stress e Resiliência",
+        "client": "Europastry",
+        "category": "Follow-up",
+        "day": "Terça",
+        "date": "27 Out",
+        "completed": true
+      },
+      {
+        "id": "pw-7",
+        "title": "Organização da nova base de contactos Não-RH & Liderança (211 registos)",
+        "client": "Contactos Liderança",
+        "category": "Operações",
+        "day": "Segunda",
+        "date": "26 Out",
+        "completed": true
+      }
+    ]
+  },
+  "current_week": {
+    "period_label": "Semana de 2 a 6 de Novembro de 2026",
+    "days": [
+      {
+        "day_name": "Segunda-feira",
+        "short_name": "SEG",
+        "date": "2 Nov",
+        "is_today": true,
+        "tasks": [
+          {
+            "id": "cw-1",
+            "title": "Follow-up soft break-up de propostas pendentes de outubro",
+            "client": "Clientes Pipeline",
+            "category": "Follow-up",
+            "completed": true
+          },
+          {
+            "id": "cw-2",
+            "title": "Alinhamento e revisão de propostas Wellness Team Building",
+            "client": "SKOLAE",
+            "category": "Proposta",
+            "completed": true
+          },
+          {
+            "id": "cw-3",
+            "title": "Triagem e contacto inicial com Diretores de Operações qualificados",
+            "client": "Base Não-RH",
+            "category": "Follow-up",
+            "completed": false
+          }
+        ]
+      },
+      {
+        "day_name": "Terça-feira",
+        "short_name": "TER",
+        "date": "3 Nov",
+        "is_today": false,
+        "tasks": [
+          {
+            "id": "cw-4",
+            "title": "Reunião de diagnóstico consultivo com Direção de Pessoas",
+            "client": "Banco CTT",
+            "category": "Reunião",
+            "completed": false
+          },
+          {
+            "id": "cw-5",
+            "title": "Desenho de proposta dedicada à medida para formação comercial",
+            "client": "Vipex",
+            "category": "Proposta",
+            "completed": false
+          }
+        ]
+      },
+      {
+        "day_name": "Quarta-feira",
+        "short_name": "QUA",
+        "date": "4 Nov",
+        "is_today": false,
+        "tasks": [
+          {
+            "id": "cw-6",
+            "title": "Follow-up de qualificação SPIN após contacto telefónico",
+            "client": "Talkdesk",
+            "category": "Follow-up",
+            "completed": false
+          },
+          {
+            "id": "cw-7",
+            "title": "Revisão pedagógica de conteúdos com a coordenação",
+            "client": "Interno SKOLAE",
+            "category": "Operações",
+            "completed": false
+          }
+        ]
+      },
+      {
+        "day_name": "Quinta-feira",
+        "short_name": "QUI",
+        "date": "5 Nov",
+        "is_today": false,
+        "tasks": [
+          {
+            "id": "cw-8",
+            "title": "Apresentação de proposta de valor presencial",
+            "client": "Finerge",
+            "category": "Reunião",
+            "completed": false
+          },
+          {
+            "id": "cw-9",
+            "title": "Envio de síntese executiva pós-reunião",
+            "client": "Finerge",
+            "category": "Follow-up",
+            "completed": false
+          }
+        ]
+      },
+      {
+        "day_name": "Sexta-feira",
+        "short_name": "SEX",
+        "date": "6 Nov",
+        "is_today": false,
+        "tasks": [
+          {
+            "id": "cw-10",
+            "title": "Fecho de pipeline semanal e apuramento de reuniões agendadas",
+            "client": "Gestão Comercial",
+            "category": "Operações",
+            "completed": false
+          },
+          {
+            "id": "cw-11",
+            "title": "Registo e arquivamento semanal no Obsidian às 17:00",
+            "client": "Sistema",
+            "category": "Operações",
+            "completed": false
+          }
+        ]
+      }
+    ]
+  }
+}

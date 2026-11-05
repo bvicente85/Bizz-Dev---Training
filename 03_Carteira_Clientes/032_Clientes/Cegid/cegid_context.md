@@ -1,9 +1,15 @@
 ---
-type: Cliente Context
-title: Contexto do Cliente - Cegid
-description: Perfil de contexto, setor e interlocutores do cliente Cegid.
-tags: [cliente, cliente]
-timestamp: 2026-06-18T10:59:00Z
+status: Adormecido
+core_business: Software de Gestão e Soluções Cloud (Integração Primavera e Grupo Cegid)
+decisores:
+  - Dalila Brito (HRBP e Responsável de Formação PT)
+  - Safa Masmoudi (Lead IT/IS)
+data_ultima_interacao: 2026-10-30
+areas_interesse:
+  - Cibersegurança & Risk Management (IT/IS)
+  - GDPR / Proteção de Dados (IT/IS)
+  - IA Aplicada ao Marketing e Gestão de Projetos
+  - Liderança e Feedback Assertivo
 ---
 # Contexto do Cliente: Cegid
 
@@ -42,6 +48,7 @@ timestamp: 2026-06-18T10:59:00Z
    * **Necessidade:** Desenvolver assertividade mantendo a motivação.
 
 ## Histórico Comercial
+* **2026-10-30:** E-mail de Dalila Brito (HRBP) a comunicar o cancelamento formal da formação de Cibersegurança e RGPD para a equipa de IT/IS, decorrente de reestruturações internas na composição das equipas envolvidas. Sem visibilidade do plano de formação de 2027 por agora, mas com abertura para novas oportunidades no próximo ano.
 * **2026-06-24:** Reunião técnica de alinhamento com equipa IT IS da Cegid (Susana, Safa, Diana). Pedro Gonçalves (formador) esteve presente e ficou de desenhar os programas das ações. Identificou-se a necessidade de um teste de maturidade inicial (*baseline*), foco em fluxos B2B e acompanhamento contínuo pós-formação (microlearning, videocast, newsletter, training lab).
 * **2026-06-05:** Receção de email de Dalila Brito a propor reunião para dia **24 de junho às 15:00 CET** (14:00 PT) com os *managers* das áreas de IT/IS para levantar necessidades de GDPR e Security & Risk Management para Portugal, Espanha e França.
 * **2026-05-05:** Envio da proposta pedagógica e financeira para "IA Aplicada ao Marketing" (Ref: 20139) — duas turmas de 7h, com o valor de 4.140,00 € + IVA (desconto de 10% aplicado para adjudicação conjunta).

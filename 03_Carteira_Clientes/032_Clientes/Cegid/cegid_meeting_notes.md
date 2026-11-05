@@ -10,6 +10,15 @@ timestamp: 2026-06-18T10:59:00Z
 *Links:* [Contexto](./cegid_context.md) | [Progresso Comercial](./cegid_progress.md)
 
 
+## 2026-10-30: E-mail de Dalila Brito (Cancelamento do Projeto de Segurança e RGPD)
+* **Interlocutora:** Dalila Brito (HR Business Partner)
+* **Assunto:** RE: [EXTERNAL] SKOLAE - Ponto de situação | Segurança e RGPD
+* **Resumo:**
+  * Dalila respondeu ao e-mail de ponto de situação enviado pelo Bruno Vicente.
+  * Informou que alterações recentes na estrutura interna das equipas de IT/IS que iriam receber a formação ditaram o cancelamento da ação nesta fase.
+  * Indicou que não possuem ainda visibilidade sobre o plano e necessidades de formação para 2027, mas manifestou total disponibilidade para reatar o contacto assim que surgirem novas oportunidades.
+* **Ação:** Fazer fecho cordial e manter a conta no radar para Q1 2027.
+
 ## 2026-06-05: Email de Dalila Brito (Seguimento e Proposta de Reunião)
 * **Ponto de Situação:** Dalila Brito retomou o tema da formação transversal de cibersegurança e proteção de dados.
 * **Proposta de Reunião:** Sugerido o agendamento de uma reunião para dia **24 de junho às 15:00 CET** (14:00 em Portugal).

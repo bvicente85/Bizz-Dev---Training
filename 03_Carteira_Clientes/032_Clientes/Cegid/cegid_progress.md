@@ -11,10 +11,11 @@ timestamp: 2026-06-18T10:59:00Z
 
 
 ## Status do Funil
-* **Fase Atual:** Proposta Enviada / Em Negociação.
-* **Temperatura:** Alta (Oportunidade concreta com orçamento e volume definido).
+* **Fase Atual:** Cancelada por Reestruturação Interna / Em Pausa (Radar 2027)
+* **Temperatura:** Fria (Processo formalmente encerrado para 2026)
 
 ## Histórico de Interações
+* **2026-10-30:** Dalila Brito respondeu ao ponto de situação de Segurança e RGPD a comunicar o cancelamento formal da formação: alterações na estrutura interna das equipas de IT/IS ditaram a anulação do projeto por agora. A Cegid não tem ainda visibilidade das necessidades de 2027, mantendo abertura para futuras oportunidades.
 * **2026-09-10:** Envio de e-mail de follow-up para aferir o estado de análise das propostas de Cibersegurança e GDPR.
 * **2026-07-08:** Envio das propostas Pedagógica e Financeira (Security & Risk Management and GDPR) a Safa Masmoudi e Diana Sanchez, propondo segmentação em duas *pathways* formativas.
 * **2026-07-08:** Validação da estrutura com o formador Pedro Gonçalves e criação do programa de formação final em Português e Inglês (UK) de acordo com a Skill SKOLAE.
@@ -26,9 +27,9 @@ timestamp: 2026-06-18T10:59:00Z
 * **2026-04-28:** Reunião de diagnóstico. Identificação de 3 eixos: IA PM (Ibérico), IA Marketing (PT) e Liderança (PT).
 
 ## Próximos Passos (Next Actions)
-1. **[CEGID]** Aguardar feedback ao *follow-up* das propostas de Security & Risk Management / GDPR. Em caso de *ghosting*, aplicar técnica de "limpeza de arquivo" (*soft break-up*).
-2. **[BRUNO]** Fazer follow-up da proposta de IA Marketing (Ref: 20139) — **Prazo: Esta semana**.
-3. **[DALILA]** Responder às questões de qualificação sobre o curso de IA para Gestão de Projetos (Pendente).
+1. **[BRUNO]** Enviar breve e-mail de resposta à Dalila Brito em tom descontraído e desdramatizado ("sem qualquer problema, mantemos a porta aberta para 2027").
+2. **[CADÊNCIA COMERCIAL]** Reativar contacto com Dalila Brito em Q1 2027 para levantamento de prioridades do novo plano anual.
+3. **[ARQUIVO]** Dossier colocado em estado Adormecido.
 
 
 ## Notas Estratégicas
@@ -46,3 +47,7 @@ timestamp: 2026-06-18T10:59:00Z
 
 ### Comprovativo de Envio da Proposta
 ![Email Enviado - Proposta Cegid](./email_enviado_cegid_08_07_2026.png)
+
+
+### Comprovativo de Cancelamento (30/10/2026)
+![Email Cancelamento - Cegid](./email_cancelamento_cegid_30_10_2026.png)

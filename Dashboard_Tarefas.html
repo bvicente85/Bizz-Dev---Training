@@ -1,0 +1,1018 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Painel de Tarefas & Negócio | SKOLAE</title>
+  <style>
+    :root {
+      --bg-color: #F5F5F7;
+      --card-bg: #FFFFFF;
+      --card-border: rgba(0, 0, 0, 0.04);
+      --card-shadow: 0 4px 20px rgba(0, 0, 0, 0.03), 0 1px 3px rgba(0, 0, 0, 0.02);
+      --card-hover-shadow: 0 8px 30px rgba(0, 0, 0, 0.06);
+      
+      --text-primary: #1D1D1F;
+      --text-secondary: #86868B;
+      --text-tertiary: #A1A1A6;
+      
+      --accent-blue: #0071E3;
+      --accent-blue-soft: #E8F2FD;
+      --accent-orange: #FF9B23;
+      --accent-orange-soft: #FFF2E2;
+      --accent-green: #34C759;
+      --accent-green-soft: #EBF9EE;
+      --accent-purple: #AF52DE;
+      --accent-purple-soft: #F7EDFC;
+      
+      --divider: #E5E5EA;
+      --radius-lg: 20px;
+      --radius-md: 14px;
+      --radius-sm: 8px;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", "Segoe UI", Inter, sans-serif;
+      background-color: var(--bg-color);
+      color: var(--text-primary);
+      line-height: 1.45;
+      padding: 40px 32px 80px;
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    /* HEADER */
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      margin-bottom: 32px;
+      padding-bottom: 20px;
+      border-bottom: 1px solid var(--divider);
+    }
+
+    .header-left h2 {
+      font-size: 13px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+      color: var(--accent-orange);
+      margin-bottom: 4px;
+    }
+
+    .header-left h1 {
+      font-size: 32px;
+      font-weight: 700;
+      letter-spacing: -0.6px;
+      color: var(--text-primary);
+    }
+
+    .header-right {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 8px;
+    }
+
+    .sync-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 12px;
+      background: #FFFFFF;
+      border: 1px solid var(--card-border);
+      border-radius: 20px;
+      font-size: 12px;
+      font-weight: 500;
+      color: var(--text-secondary);
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.02);
+    }
+
+    .sync-dot {
+      width: 7px;
+      height: 7px;
+      background-color: var(--accent-green);
+      border-radius: 50%;
+    }
+
+    .btn-new-task {
+      background-color: var(--text-primary);
+      color: #FFFFFF;
+      border: none;
+      padding: 8px 16px;
+      border-radius: 12px;
+      font-size: 13px;
+      font-weight: 500;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    .btn-new-task:hover {
+      background-color: #333336;
+      transform: translateY(-1px);
+    }
+
+    /* SECTION TITLES */
+    .section-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 14px;
+    }
+
+    .section-title {
+      font-size: 18px;
+      font-weight: 600;
+      letter-spacing: -0.3px;
+      color: var(--text-primary);
+    }
+
+    .section-subtitle {
+      font-size: 13px;
+      color: var(--text-secondary);
+    }
+
+    /* WIDGET 1: SEMANA ANTERIOR (KPI CARDS) */
+    .retro-container {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: var(--radius-lg);
+      padding: 24px;
+      box-shadow: var(--card-shadow);
+      margin-bottom: 36px;
+    }
+
+    .kpi-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 16px;
+      margin-bottom: 18px;
+    }
+
+    .kpi-card {
+      background: #FBFBFC;
+      border: 1px solid rgba(0, 0, 0, 0.03);
+      border-radius: var(--radius-md);
+      padding: 16px 20px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      transition: transform 0.2s ease;
+    }
+
+    .kpi-card:hover {
+      transform: translateY(-2px);
+    }
+
+    .kpi-value {
+      font-size: 28px;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+      color: var(--text-primary);
+      margin-bottom: 2px;
+    }
+
+    .kpi-value.orange { color: var(--accent-orange); }
+    .kpi-value.blue { color: var(--accent-blue); }
+    .kpi-value.green { color: var(--accent-green); }
+
+    .kpi-label {
+      font-size: 12px;
+      font-weight: 500;
+      color: var(--text-secondary);
+      text-transform: uppercase;
+      letter-spacing: 0.4px;
+    }
+
+    .accordion-toggle {
+      background: none;
+      border: none;
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--accent-blue);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      padding: 4px 0;
+      margin-top: 4px;
+    }
+
+    .accordion-toggle:hover {
+      text-decoration: underline;
+    }
+
+    .accordion-content {
+      display: none;
+      margin-top: 16px;
+      padding-top: 16px;
+      border-top: 1px solid var(--divider);
+    }
+
+    .accordion-content.open {
+      display: block;
+    }
+
+    .completed-tasks-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 13px;
+    }
+
+    .completed-tasks-table th {
+      text-align: left;
+      padding: 8px 12px;
+      color: var(--text-secondary);
+      font-weight: 500;
+      border-bottom: 1px solid var(--divider);
+    }
+
+    .completed-tasks-table td {
+      padding: 10px 12px;
+      border-bottom: 1px solid rgba(0, 0, 0, 0.03);
+      color: var(--text-primary);
+    }
+
+    /* WIDGET 2: TIMELINE SEMANA ATUAL (5 COLUMNS) */
+    .week-columns {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 16px;
+    }
+
+    .day-column {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: var(--radius-lg);
+      padding: 18px 16px;
+      box-shadow: var(--card-shadow);
+      display: flex;
+      flex-direction: column;
+      min-height: 480px;
+      transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    .day-column.today {
+      border: 1.5px solid rgba(0, 113, 227, 0.4);
+      box-shadow: 0 4px 20px rgba(0, 113, 227, 0.08);
+      background: #FFFFFF;
+    }
+
+    .day-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding-bottom: 12px;
+      margin-bottom: 14px;
+      border-bottom: 1px solid var(--divider);
+    }
+
+    .day-name {
+      font-size: 14px;
+      font-weight: 700;
+      letter-spacing: -0.2px;
+    }
+
+    .day-column.today .day-name {
+      color: var(--accent-blue);
+    }
+
+    .day-date {
+      font-size: 12px;
+      font-weight: 500;
+      color: var(--text-secondary);
+    }
+
+    .day-badge-today {
+      background: var(--accent-blue);
+      color: #FFFFFF;
+      font-size: 10px;
+      font-weight: 600;
+      padding: 2px 7px;
+      border-radius: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.3px;
+    }
+
+    .tasks-list {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      flex-grow: 1;
+    }
+
+    .task-card {
+      background: #FBFBFC;
+      border: 1px solid rgba(0, 0, 0, 0.04);
+      border-radius: var(--radius-md);
+      padding: 12px;
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      transition: all 0.2s ease;
+      cursor: pointer;
+      user-select: none;
+    }
+
+    .task-card:hover {
+      background: #FFFFFF;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
+      border-color: rgba(0, 0, 0, 0.08);
+    }
+
+    .task-checkbox {
+      appearance: none;
+      -webkit-appearance: none;
+      width: 18px;
+      height: 18px;
+      border: 1.5px solid #C7C7CC;
+      border-radius: 5px;
+      margin-top: 2px;
+      flex-shrink: 0;
+      cursor: pointer;
+      display: grid;
+      place-content: center;
+      transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    .task-checkbox:checked {
+      background-color: var(--accent-green);
+      border-color: var(--accent-green);
+    }
+
+    .task-checkbox:checked::before {
+      content: "";
+      width: 9px;
+      height: 5px;
+      border-left: 2px solid white;
+      border-bottom: 2px solid white;
+      transform: rotate(-45deg) translate(1px, -1px);
+    }
+
+    .task-body {
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .task-title {
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--text-primary);
+      line-height: 1.35;
+      transition: all 0.2s ease;
+    }
+
+    .task-card.completed .task-title {
+      text-decoration: line-through;
+      color: var(--text-tertiary);
+    }
+
+    .task-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      align-items: center;
+      margin-top: 2px;
+    }
+
+    .badge {
+      font-size: 10.5px;
+      font-weight: 500;
+      padding: 2px 7px;
+      border-radius: 6px;
+      display: inline-block;
+    }
+
+    .badge-client {
+      background-color: #EFEFF4;
+      color: #3A3A3C;
+    }
+
+    .badge-category.proposta { background-color: var(--accent-orange-soft); color: #C96F00; }
+    .badge-category.reuniao { background-color: var(--accent-blue-soft); color: var(--accent-blue); }
+    .badge-category.followup { background-color: var(--accent-green-soft); color: #248A3D; }
+    .badge-category.operacoes { background-color: var(--accent-purple-soft); color: var(--accent-purple); }
+
+    /* MODAL NEW TASK */
+    .modal-overlay {
+      display: none;
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0, 0, 0, 0.25);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      z-index: 1000;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .modal-overlay.active {
+      display: flex;
+    }
+
+    .modal-box {
+      background: #FFFFFF;
+      border-radius: var(--radius-lg);
+      padding: 28px;
+      width: 440px;
+      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.15);
+      border: 1px solid var(--card-border);
+    }
+
+    .modal-title {
+      font-size: 18px;
+      font-weight: 700;
+      letter-spacing: -0.3px;
+      margin-bottom: 16px;
+    }
+
+    .form-group {
+      margin-bottom: 14px;
+    }
+
+    .form-group label {
+      display: block;
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--text-secondary);
+      margin-bottom: 6px;
+      text-transform: uppercase;
+      letter-spacing: 0.3px;
+    }
+
+    .form-control {
+      width: 100%;
+      padding: 10px 12px;
+      border-radius: 10px;
+      border: 1px solid var(--divider);
+      font-size: 14px;
+      font-family: inherit;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+
+    .form-control:focus {
+      border-color: var(--accent-blue);
+    }
+
+    .modal-actions {
+      display: flex;
+      justify-content: flex-end;
+      gap: 10px;
+      margin-top: 20px;
+    }
+
+    .btn-secondary {
+      background: #E5E5EA;
+      color: var(--text-primary);
+      border: none;
+      padding: 8px 14px;
+      border-radius: 10px;
+      font-size: 13px;
+      font-weight: 500;
+      cursor: pointer;
+    }
+
+    .btn-primary {
+      background: var(--accent-blue);
+      color: white;
+      border: none;
+      padding: 8px 16px;
+      border-radius: 10px;
+      font-size: 13px;
+      font-weight: 500;
+      cursor: pointer;
+    }
+
+    @media (max-width: 1024px) {
+      .week-columns {
+        grid-template-columns: repeat(2, 1fr);
+      }
+      .kpi-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+
+    @media (max-width: 680px) {
+      .week-columns {
+        grid-template-columns: 1fr;
+      }
+      .kpi-grid {
+        grid-template-columns: 1fr;
+      }
+      header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 14px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header>
+    <div class="header-left">
+      <h2 id="header-eyebrow">SKOLAE Formação • Business Development</h2>
+      <h1 id="header-date">Segunda-feira, 2 de Novembro</h1>
+    </div>
+    <div class="header-right">
+      <div class="sync-badge">
+        <span class="sync-dot"></span>
+        <span id="sync-status">Sincronizado • 17:00</span>
+      </div>
+      <button class="btn-new-task" onclick="openNewTaskModal()">
+        <span>+</span> Nova Tarefa
+      </button>
+    </div>
+  </header>
+
+  <!-- WIDGET 1: SEMANA ANTERIOR -->
+  <section class="retro-container">
+    <div class="section-header">
+      <div>
+        <h3 class="section-title">Semana Anterior</h3>
+        <p class="section-subtitle" id="prev-week-period">Retrospetiva de 26 a 30 de Outubro</p>
+      </div>
+    </div>
+    
+    <div class="kpi-grid">
+      <div class="kpi-card">
+        <span class="kpi-value green" id="kpi-completed">16</span>
+        <span class="kpi-label">Tarefas Cumpridas</span>
+      </div>
+      <div class="kpi-card">
+        <span class="kpi-value orange" id="kpi-proposals">4</span>
+        <span class="kpi-label">Propostas Enviadas</span>
+      </div>
+      <div class="kpi-card">
+        <span class="kpi-value blue" id="kpi-meetings">5</span>
+        <span class="kpi-label">Reuniões / Calls</span>
+      </div>
+      <div class="kpi-card">
+        <span class="kpi-value" id="kpi-rate">94%</span>
+        <span class="kpi-label">Taxa de Conclusão</span>
+      </div>
+    </div>
+
+    <button class="accordion-toggle" onclick="togglePrevTasks()">
+      <span id="accordion-arrow">▸</span> Ver tarefas realizadas na semana passada
+    </button>
+    
+    <div class="accordion-content" id="prev-tasks-content">
+      <table class="completed-tasks-table">
+        <thead>
+          <tr>
+            <th>Tarefa</th>
+            <th>Cliente / Projeto</th>
+            <th>Categoria</th>
+            <th>Dia</th>
+          </tr>
+        </thead>
+        <tbody id="prev-tasks-tbody">
+          <!-- Populated by JS -->
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- WIDGET 2: SEMANA ATUAL -->
+  <section>
+    <div class="section-header">
+      <div>
+        <h3 class="section-title">Semana Atual</h3>
+        <p class="section-subtitle" id="current-week-period">Segunda a Sexta • 2 a 6 de Novembro</p>
+      </div>
+    </div>
+
+    <div class="week-columns" id="week-columns-container">
+      <!-- Populated by JS -->
+    </div>
+  </section>
+
+  <!-- MODAL: NOVA TAREFA -->
+  <div class="modal-overlay" id="task-modal">
+    <div class="modal-box">
+      <h3 class="modal-title">Adicionar Nova Tarefa</h3>
+      <div class="form-group">
+        <label>Descrição da Tarefa</label>
+        <input type="text" id="modal-task-title" class="form-control" placeholder="Ex: Enviar proposta de Liderança...">
+      </div>
+      <div class="form-group">
+        <label>Cliente / Projeto</label>
+        <input type="text" id="modal-task-client" class="form-control" placeholder="Ex: Europastry, Sport TV...">
+      </div>
+      <div class="form-group">
+        <label>Categoria</label>
+        <select id="modal-task-category" class="form-control">
+          <option value="Proposta">Proposta</option>
+          <option value="Reunião">Reunião / Call</option>
+          <option value="Follow-up">Follow-up</option>
+          <option value="Operações">Operações</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label>Dia da Semana</label>
+        <select id="modal-task-day" class="form-control">
+          <option value="0">Segunda-feira</option>
+          <option value="1">Terça-feira</option>
+          <option value="2">Quarta-feira</option>
+          <option value="3">Quinta-feira</option>
+          <option value="4">Sexta-feira</option>
+        </select>
+      </div>
+      <div class="modal-actions">
+        <button class="btn-secondary" onclick="closeNewTaskModal()">Cancelar</button>
+        <button class="btn-primary" onclick="saveNewTask()">Guardar</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- EMBEDDED DATA FALLBACK (Runs seamlessly without CORS on file://) -->
+  <script id="embedded-data" type="application/json">
+  {
+    "last_updated": "2026-11-02T08:50:00",
+    "sync_source": "03_Carteira_Clientes/Daily_Summaries",
+    "previous_week": {
+      "period_label": "Semana de 26 a 30 de Outubro de 2026",
+      "kpis": {
+        "completed_tasks": 16,
+        "proposals_sent": 4,
+        "meetings_done": 5,
+        "completion_rate": "94%"
+      },
+      "completed_tasks_list": [
+        {
+          "id": "pw-1",
+          "title": "Envio de proposta formativa dedicada AgilePM v3 Foundation",
+          "client": "Nélia / Formação",
+          "category": "Proposta",
+          "day": "Sexta",
+          "date": "30 Out",
+          "completed": true
+        },
+        {
+          "id": "pw-2",
+          "title": "Adição e qualificação de 21 novos contactos de RH e Liderança no Excel",
+          "client": "Odoo / Base RH",
+          "category": "Operações",
+          "day": "Sexta",
+          "date": "30 Out",
+          "completed": true
+        },
+        {
+          "id": "pw-3",
+          "title": "Criação de aba dedicada 'RH Hoje' com 52 novos contactos VCF",
+          "client": "Base de Dados RH",
+          "category": "Operações",
+          "day": "Quinta",
+          "date": "29 Out",
+          "completed": true
+        },
+        {
+          "id": "pw-4",
+          "title": "Revisão e envio de proposta de Liderança e Team Building Imersivo",
+          "client": "Sport TV",
+          "category": "Proposta",
+          "day": "Quarta",
+          "date": "28 Out",
+          "completed": true
+        },
+        {
+          "id": "pw-5",
+          "title": "Call de diagnóstico de necessidades de formação e bem-estar",
+          "client": "Aubay Portugal",
+          "category": "Reunião",
+          "day": "Quarta",
+          "date": "28 Out",
+          "completed": true
+        },
+        {
+          "id": "pw-6",
+          "title": "Follow-up consultivo de proposta de Gestão de Stress e Resiliência",
+          "client": "Europastry",
+          "category": "Follow-up",
+          "day": "Terça",
+          "date": "27 Out",
+          "completed": true
+        },
+        {
+          "id": "pw-7",
+          "title": "Organização da nova base de contactos Não-RH & Liderança (211 registos)",
+          "client": "Contactos Liderança",
+          "category": "Operações",
+          "day": "Segunda",
+          "date": "26 Out",
+          "completed": true
+        }
+      ]
+    },
+    "current_week": {
+      "period_label": "Semana de 2 a 6 de Novembro de 2026",
+      "days": [
+        {
+          "day_name": "Segunda-feira",
+          "short_name": "SEG",
+          "date": "2 Nov",
+          "is_today": true,
+          "tasks": [
+            {
+              "id": "cw-1",
+              "title": "Follow-up soft break-up de propostas pendentes de outubro",
+              "client": "Clientes Pipeline",
+              "category": "Follow-up",
+              "completed": true
+            },
+            {
+              "id": "cw-2",
+              "title": "Alinhamento e revisão de propostas Wellness Team Building",
+              "client": "SKOLAE",
+              "category": "Proposta",
+              "completed": true
+            },
+            {
+              "id": "cw-3",
+              "title": "Triagem e contacto inicial com Diretores de Operações qualificados",
+              "client": "Base Não-RH",
+              "category": "Follow-up",
+              "completed": false
+            }
+          ]
+        },
+        {
+          "day_name": "Terça-feira",
+          "short_name": "TER",
+          "date": "3 Nov",
+          "is_today": false,
+          "tasks": [
+            {
+              "id": "cw-4",
+              "title": "Reunião de diagnóstico consultivo com Direção de Pessoas",
+              "client": "Banco CTT",
+              "category": "Reunião",
+              "completed": false
+            },
+            {
+              "id": "cw-5",
+              "title": "Desenho de proposta dedicada à medida para formação comercial",
+              "client": "Vipex",
+              "category": "Proposta",
+              "completed": false
+            }
+          ]
+        },
+        {
+          "day_name": "Quarta-feira",
+          "short_name": "QUA",
+          "date": "4 Nov",
+          "is_today": false,
+          "tasks": [
+            {
+              "id": "cw-6",
+              "title": "Follow-up de qualificação SPIN após contacto telefónico",
+              "client": "Talkdesk",
+              "category": "Follow-up",
+              "completed": false
+            },
+            {
+              "id": "cw-7",
+              "title": "Revisão pedagógica de conteúdos com a coordenação",
+              "client": "Interno SKOLAE",
+              "category": "Operações",
+              "completed": false
+            }
+          ]
+        },
+        {
+          "day_name": "Quinta-feira",
+          "short_name": "QUI",
+          "date": "5 Nov",
+          "is_today": false,
+          "tasks": [
+            {
+              "id": "cw-8",
+              "title": "Apresentação de proposta de valor presencial",
+              "client": "Finerge",
+              "category": "Reunião",
+              "completed": false
+            },
+            {
+              "id": "cw-9",
+              "title": "Envio de síntese executiva pós-reunião",
+              "client": "Finerge",
+              "category": "Follow-up",
+              "completed": false
+            }
+          ]
+        },
+        {
+          "day_name": "Sexta-feira",
+          "short_name": "SEX",
+          "date": "6 Nov",
+          "is_today": false,
+          "tasks": [
+            {
+              "id": "cw-10",
+              "title": "Fecho de pipeline semanal e apuramento de reuniões agendadas",
+              "client": "Gestão Comercial",
+              "category": "Operações",
+              "completed": false
+            },
+            {
+              "id": "cw-11",
+              "title": "Registo e arquivamento semanal no Obsidian às 17:00",
+              "client": "Sistema",
+              "category": "Operações",
+              "completed": false
+            }
+          ]
+        }
+      ]
+    }
+  }
+  </script>
+
+  <!-- APPLICATION LOGIC -->
+  <script>
+    let appData = null;
+
+    // Load data: LocalStorage > Embedded fallback > Fetch
+    function initData() {
+      const stored = localStorage.getItem('skolae_dashboard_data');
+      if (stored) {
+        try {
+          appData = JSON.parse(stored);
+        } catch (e) {
+          console.error("Error loading localStorage data", e);
+        }
+      }
+      if (!appData) {
+        const embeddedEl = document.getElementById('embedded-data');
+        if (embeddedEl) {
+          appData = JSON.parse(embeddedEl.textContent);
+        }
+      }
+      renderDashboard();
+    }
+
+    function saveState() {
+      if (appData) {
+        localStorage.setItem('skolae_dashboard_data', JSON.stringify(appData));
+      }
+    }
+
+    function renderDashboard() {
+      if (!appData) return;
+
+      // Render KPIs
+      const prev = appData.previous_week;
+      document.getElementById('prev-week-period').textContent = prev.period_label;
+      document.getElementById('kpi-completed').textContent = prev.kpis.completed_tasks;
+      document.getElementById('kpi-proposals').textContent = prev.kpis.proposals_sent;
+      document.getElementById('kpi-meetings').textContent = prev.kpis.meetings_done;
+      document.getElementById('kpi-rate').textContent = prev.kpis.completion_rate;
+
+      // Render Previous Week Tasks Table
+      const prevTbody = document.getElementById('prev-tasks-tbody');
+      prevTbody.innerHTML = '';
+      prev.completed_tasks_list.forEach(t => {
+        const catClass = getCategoryClass(t.category);
+        const tr = document.createElement('tr');
+        tr.innerHTML = `
+          <td><strong>${escapeHtml(t.title)}</strong></td>
+          <td><span class="badge badge-client">${escapeHtml(t.client)}</span></td>
+          <td><span class="badge badge-category ${catClass}">${escapeHtml(t.category)}</span></td>
+          <td style="color: var(--text-secondary);">${escapeHtml(t.day)} (${escapeHtml(t.date || '')})</td>
+        `;
+        prevTbody.appendChild(tr);
+      });
+
+      // Render Current Week
+      const curr = appData.current_week;
+      document.getElementById('current-week-period').textContent = curr.period_label;
+      const columnsContainer = document.getElementById('week-columns-container');
+      columnsContainer.innerHTML = '';
+
+      curr.days.forEach((day, dayIndex) => {
+        const col = document.createElement('div');
+        col.className = `day-column ${day.is_today ? 'today' : ''}`;
+        
+        let tasksHtml = '';
+        day.tasks.forEach((task, taskIndex) => {
+          const catClass = getCategoryClass(task.category);
+          tasksHtml += `
+            <div class="task-card ${task.completed ? 'completed' : ''}" onclick="toggleTask(${dayIndex}, ${taskIndex})">
+              <input type="checkbox" class="task-checkbox" ${task.completed ? 'checked' : ''} onclick="event.stopPropagation(); toggleTask(${dayIndex}, ${taskIndex})">
+              <div class="task-body">
+                <span class="task-title">${escapeHtml(task.title)}</span>
+                <div class="task-meta">
+                  <span class="badge badge-client">${escapeHtml(task.client)}</span>
+                  <span class="badge badge-category ${catClass}">${escapeHtml(task.category)}</span>
+                </div>
+              </div>
+            </div>
+          `;
+        });
+
+        col.innerHTML = `
+          <div class="day-header">
+            <div>
+              <div class="day-name">${escapeHtml(day.day_name)}</div>
+              <div class="day-date">${escapeHtml(day.date)}</div>
+            </div>
+            ${day.is_today ? '<span class="day-badge-today">Hoje</span>' : ''}
+          </div>
+          <div class="tasks-list">
+            ${tasksHtml || '<p style="font-size: 12px; color: var(--text-tertiary); text-align: center; margin-top: 20px;">Sem tarefas agendadas</p>'}
+          </div>
+        `;
+
+        columnsContainer.appendChild(col);
+      });
+    }
+
+    function toggleTask(dayIndex, taskIndex) {
+      const task = appData.current_week.days[dayIndex].tasks[taskIndex];
+      task.completed = !task.completed;
+      saveState();
+      renderDashboard();
+    }
+
+    function togglePrevTasks() {
+      const content = document.getElementById('prev-tasks-content');
+      const arrow = document.getElementById('accordion-arrow');
+      content.classList.toggle('open');
+      arrow.textContent = content.classList.contains('open') ? '▾' : '▸';
+    }
+
+    function openNewTaskModal() {
+      document.getElementById('task-modal').classList.add('active');
+      document.getElementById('modal-task-title').focus();
+    }
+
+    function closeNewTaskModal() {
+      document.getElementById('task-modal').classList.remove('active');
+      document.getElementById('modal-task-title').value = '';
+      document.getElementById('modal-task-client').value = '';
+    }
+
+    function saveNewTask() {
+      const title = document.getElementById('modal-task-title').value.trim();
+      const client = document.getElementById('modal-task-client').value.trim() || 'Geral';
+      const category = document.getElementById('modal-task-category').value;
+      const dayIdx = parseInt(document.getElementById('modal-task-day').value, 10);
+
+      if (!title) {
+        alert('Por favor indica a descrição da tarefa.');
+        return;
+      }
+
+      const newTask = {
+        id: 'user-' + Date.now(),
+        title: title,
+        client: client,
+        category: category,
+        completed: false
+      };
+
+      appData.current_week.days[dayIdx].tasks.push(newTask);
+      saveState();
+      renderDashboard();
+      closeNewTaskModal();
+    }
+
+    function getCategoryClass(cat) {
+      if (!cat) return 'operacoes';
+      const c = cat.toLowerCase();
+      if (c.includes('prop')) return 'proposta';
+      if (c.includes('reun') || c.includes('call') || c.includes('diag')) return 'reuniao';
+      if (c.includes('follow') || c.includes('spin')) return 'followup';
+      return 'operacoes';
+    }
+
+    function escapeHtml(text) {
+      if (!text) return '';
+      return String(text)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+    }
+
+    window.addEventListener('DOMContentLoaded', initData);
+  </script>
+</body>
+</html>
