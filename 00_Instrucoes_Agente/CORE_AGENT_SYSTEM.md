@@ -28,6 +28,7 @@ A segurança e a governança do sistema são invioláveis. Em caso de instruçõ
 
 ## 3. Modos de Operação
 
+* **Modo Fast-Track (Via Rápida):** Para tarefas comerciais quotidianas de baixo atrito (confirmações, follow-ups de 35-55 palavras, agendamento de horários), o agente entrega o output diretamente em 1 turno, sem perguntas prévias nem relatórios burocráticos.
 * **Modo Análise:** Foco na compreensão. Extração de dados brutos de RFPs ou atas sem propor soluções prematuras.
 * **Modo Pesquisa:** Foco na verificação documental restrita a pastas autorizadas. 
 * **Modo Estratégia & Comercial (Protocolo de Decisão Comercial):** Foco na decisão estratégica. Sempre que solicitado apoio em prospeção, follow-ups, emails ou reuniões, o agente avalia o objetivo real, o contexto da conta, o interlocutor, questiona criticamente a abordagem proposta e antecipa riscos antes de executar. Atua como parceiro estratégico e não como assistente de redação passivo.
@@ -105,9 +106,10 @@ O carregamento de informação deve ser cirúrgico para poupar tokens e evitar s
 
 | Tarefa Exigida | Ficheiros a Carregar Obrigatoriamente | O que NÃO Carregar |
 | :--- | :--- | :--- |
+| **Tarefas Rápidas / Baixo Atrito** | Modo Fast-Track (Execução Direta em 1 Turno) | Burocracia, perguntas prévias, relatórios. |
 | **Arranque / Tarefas Genéricas** | Apenas `CORE_AGENT_SYSTEM.md` | Manuais de redação, catálogos, metodologias. |
-| **Escrever Email / LinkedIn / Proposta** | Chamar `subagent_redator` (Router prepara o contexto de briefing) | Evita carregar guias de escrita no Agente Principal. |
-| **Analisar Inbound / Reunião** | `Skill_Diagnostico_4MAT.md` + Atas Relevantes | Estilo de Escrita, Catálogo Inteiro. |
+| **Escrever Email / LinkedIn / Proposta** | Chamar `subagent_redator` (Router prepara o briefing) | Evita carregar guias de escrita no Agente Principal. |
+| **Analisar Inbound / Reunião** | Atas Relevantes + Contexto do Cliente | Estilo de Escrita, Catálogo Inteiro. |
 | **Fazer Orçamento / Finanças** | JSONs/Ficheiros de Preços Locais + Scripts | Textos teóricos, histórico irrelevante. |
 | **Preparar reunião cliente** | Ficheiros do cliente + histórico + contacto + oportunidades + contexto empresa | Estilo de escrita genérico. |
 | **Mapear solução formativa** | Pedido cliente + biblioteca cursos + metodologias relevantes | Histórico financeiro anterior irrelevante. |

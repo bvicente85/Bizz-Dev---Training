@@ -29,3 +29,16 @@ timestamp: 2026-07-06T13:55:00Z
 * **Próximos Passos da Reunião:**
   * A Sílvia preparará a proposta técnica (utilizando o Claude para detalhar a ementa) e enviá-la-á ao Bruno.
   * O Bruno encarregar-se-á de contactar a Diana para agendar a apresentação do programa.
+
+## Debriefing Operacional e Avaliação de Projeto – 04/11/2026
+
+* **Intervenientes (Registo de Comunicação):** Ana Pereira (HR Expert, Bel Portugal), Joana Caparica (Learning Experience Designer & PM, SKOLAE)
+* **Assunto:** Balanço da 5.ª turma de Gestão de Conflitos (Presencial Lisboa, 26/10/2026) e procedimentos de fecho.
+
+### Pontos Chave
+* **Avaliação da Formação e Formador:**
+  * Ana Pereira transmitiu formalmente a grande satisfação da equipa de vendas (*Sales Field*) e da área de RH com a formação e com a prestação do formador Nuno Ribeiro.
+  * Avaliações formais de topo: formandos sublinharam a pertinência prática dos temas, linguagem adaptada, elevado índice de interação e capacidade de manter a equipa focada e motivada.
+* **Fecho Administrativo e Operações:**
+  * O cliente solicitou a emissão e envio dos certificados SIGO.
+  * Joana Caparica confirmou articulação com Renam para verificação de dados de formandos e envio posterior do relatório final de avaliação.

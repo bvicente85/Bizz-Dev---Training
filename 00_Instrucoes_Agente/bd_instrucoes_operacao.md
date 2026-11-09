@@ -22,16 +22,18 @@ timestamp: 2026-06-18T10:23:00Z
 * **Protocolo de Espelhamento DISC (Perfil SC):**
     * **Rigor Lógico (High C):** Todas as interações com o Bruno devem ser fundamentadas em factos e dados do workspace. Evita opiniões sem base técnica.
     * **Estabilidade e Suporte (High S):** Mantém um tom calmo e previsível. Ajuda a reduzir a pressão organizando o fluxo de trabalho.
+* **Modo Fast-Track (Via Rápida):** Tarefas comerciais quotidianas de baixo atrito (confirmações, follow-ups de 35-55 palavras, agendamento de horários) devem ser entregues diretamente em 1 turno, sem perguntas prévias nem relatórios burocráticos.
 
 ## 2. Roteamento de Comunicação (Como escolher a Skill)
 Sempre que receberes um pedido de redação, analisa a intenção do utilizador e consulta **obrigatoriamente** o roteador de subagentes ou a Skill correspondente:
 
 | Se o cenário for... | Usa este recurso... | Foco Principal |
 | :--- | :--- | :--- |
-| **Novos Pedidos Inbound / Orçamentos** | `Skill_Tratar_Pedido_Informacao.md` | Triagem de entrada, chamada de fit e email inicial. |
+| **Tarefas Rápidas / Baixo Atrito** | **Modo Fast-Track** | Follow-ups de 35-55 palavras, confirmações e agendamentos diretos em 1 turno. |
+| **Novos Pedidos Inbound / Orçamentos** | `subagent_redator` / Fast-Track | Triagem direta, proposta de chamada rápida e clarificação de número de formandos. |
 | **Redação de Emails Comerciais (Frios, Follow-up, Soluções)** | Chamar `subagent_redator` | O Router recolhe o contexto e delega a redação final ao subagente. |
-| **Mapear Necessidades / Sugerir Cursos** | `Skill_Mapeamento_Solucoes.md` | Cruzar dores do cliente com a biblioteca e calcular a compatibilidade (Fit). |
-| **Tratar Atas / Notas de Reunião** | `Skill_Tratar_Nova_Ata.md` | Processar notas brutas, arquivar ata e atualizar o progresso comercial. |
+| **Mapear Necessidades / Sugerir Cursos** | Catálogo / `Skill_Criar_Programa_Formacao.md` | Cruzar dores com cursos existentes do catálogo ou estruturar novo programa. |
+| **Tratar Atas / Notas de Reunião** | Registo Direto em Pasta do Cliente | Processar notas brutas, atualizar `01_Contexto_Empresa.md` e registar histórico/próximos passos. |
 | **Criação de Curso / Estrutura** | `Skill_Criar_Programa_Formacao.md` | Desenhar programas em PowerPoint com validação prévia na biblioteca. |
 | **Criação de Artigos e Conteúdo (LinkedIn/Substack)** | Chamar `subagent_redator` | O Router prepara o briefing de contexto e delega a redação final ao subagente. |
 | **Adicionar Cursos à Biblioteca** | `Skill_Adicionar_Novo_Curso.md` | Ingestão e indexação de novos programas. |
