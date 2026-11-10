@@ -24,6 +24,8 @@ Sempre que o Bruno pedir para criar um programa ou curso, o output deve seguir e
 9.  **Programa Detalhado** (Módulos e tópicos por módulo)
 10. **Caso de Sucesso (Prova Social)** (Ver Secção 7 - Opcional, mas altamente recomendado quando aplicável)
 
+> **Iconografia Lucide (Sob Pedido Expresso):** Por defeito, a proposta foca-se na estrutura pedagógica e textual. Apenas quando o Bruno pedir expressamente (*"com ícones"*, *"com grafismos"*, *"usar Lucide"*), deves mapear e indicar os ícones SVG mais adequados da biblioteca local [`assets/icons/lucide/`](../assets/icons/lucide/) para cada competência ou módulo.
+
 > **Nota para Propostas Multi-Curso:** Se a proposta incluir dois ou mais cursos distintos (ex: para públicos diferentes da mesma empresa), deves gerar um **Enquadramento Unificado** e um **Propósito Unificado** que sirvam de "chapéu" para a abertura da proposta, fundindo as dores de ambos os públicos numa única narrativa lógica, antes de iniciar o detalhe (pontos 5 a 9) para cada programa individualmente.
 
 ---

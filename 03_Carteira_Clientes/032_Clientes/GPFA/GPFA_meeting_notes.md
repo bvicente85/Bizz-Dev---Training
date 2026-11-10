@@ -3,12 +3,31 @@ type: Meeting Notes
 title: Notas de Reunião - GPFA
 description: Histórico de atas, notas e conclusões de reuniões com o cliente GPFA.
 tags: [reunioes, atas]
-timestamp: 2026-10-20T11:30:00Z
+timestamp: 2026-11-10T15:50:00Z
 ---
 # GPFA - Notas de Reuniões e Contactos
 
-*Links:* [Contexto](./GPFA_context.md) | [Progresso Comercial](./GPFA_progress.md)
+*Links:* [Contexto](./GPFA_context.md) | [Progresso Comercial](./GPFA_progress.md) | [Índice Dossier](./_Índice_GPFA.md)
 
+
+## 2026-11-10 - Conclusão e Validação da Proposta Comercial SKOLAE
+**Participantes:** Bruno Vicente (SKOLAE), em articulação com People Change AI (Samuel Mourato, Marco Almas e José Martins)  
+**Canal:** Interno / Preparação Comercial  
+
+### Notas & Decisões:
+- **Receção dos Conteúdos Técnicos:** Marco Almas e Samuel Mourato entregaram o desenho curricular e a proposta base de capacitação para o Hugo Freitas (formador José Martins).
+- **Adequação ao Standard Visual SKOLAE:** 
+  - Transposição integral para o template mestre institucional (14 slides).
+  - Redesenho completo dos roadmaps para **Linhas Horizontais de Fluxo** (inspirado no padrão executivo Desentop Ambiente), garantindo tipografia ampla (9.8pt a 10.5pt Basier Circle), eliminação de quebras artificiais de linha e adição de caixas de entregáveis práticos por módulo.
+  - Inserção de scorecards de duração no topo das opções e marca gráfica oficial SKOLAE em todos os diapositivos de conteúdo.
+  - Preservação do slide Kirkpatrick 100% nativo da SKOLAE e enquadramento institucional do formador José Martins.
+- **Validação Estrita de Horas e Sessões:**
+  - **Opção A (Formação Direta Intensiva):** 6 sessões de 3h em 2 semanas (18h) + follow-up aos 30 dias de 2h. Total: **20 horas** (Valor: **2.400,00 € + IVA**).
+  - **Opção B (Bootstrap + Bolsa Técnica 20h - Recomendada):** 3 sessões de 3h na Semana 1 (9h) + bolsa remota flexível de 20h ao longo de 6 meses (sessões de 1h-1h30 ou code review de 30 min). Total: **29 horas** (Valor: **3.480,00 € + IVA**).
+  - Valores financeiros retirados dos diapositivos e mantidos estritamente para o corpo do e-mail.
+- **Próxima Ação:** Enviar proposta formal por e-mail a Hugo Freitas com Miguel Freitas em cópia obrigatória.
+
+---
 
 ## 2026-10-20 - Reunião Técnica de Descoberta & Acompanhamento de Automação com IA
 **Participantes:** Hugo Freitas (GPFA / EPFR), Samuel Mourato (People Change AI), Marco Almas (People Change AI), Bruno Vicente (SKOLAE)  
@@ -33,6 +52,7 @@ timestamp: 2026-10-20T11:30:00Z
 ## 2026-08-28 - Reunião de Alinhamento e Diagnóstico
 **Participantes:** Miguel Freitas, Hugo, Raquel Santos, Fernando, André (GPFA); Bruno Vicente (SKOLAE)  
 **Canal:** Remoto (Teams)  
+**Relatório Detalhado:** [[meeting-report-GPFA-2026-08-28]]
 
 ### Notas:
 - **Apresentação do Cliente:** GPFA é uma empresa de engenharia e arquitetura com 34 colaboradores. Muito focada em produtividade (pioneira em BIM desde 2007) e tem como objetivo estratégico implementar IA até 10 de dezembro de 2026.
@@ -85,6 +105,3 @@ timestamp: 2026-10-20T11:30:00Z
 - Receção de contacto para avaliar formação em IA.
 - Foco principal: **Microsoft Copilot**.
 - A empresa está a fazer uma ronda de exploração interna.
-
-**Transcrição do Pedido:**
-> "Bom dia. Estamos a avaliar internamente a possibilidade de qualificar os nossos colaboradores na área de IA e gostaríamos de obter mais informações sobre as formações disponíveis relacionadas com o Microsoft Copilot. Muito obrigada. Cumprimentos,"

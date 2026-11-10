@@ -6,10 +6,10 @@
 - **Morada:** Rua da Alfândega, 108, 1100-016 Lisboa
 - **Website:** [www.tmlmobilidade.pt](https://www.tmlmobilidade.pt)
 - **Setor:** Empresa Pública / Gestão da Mobilidade e Transportes da Área Metropolitana de Lisboa (Carris Metropolitana, Bilhética Navegante, Planeamento de Transportes)
-- **Interlocutora Principal:** **Beatriz Reis**
-  - **Função:** Recursos Humanos
-  - **E-mail:** `beatriz.reis@tmlmobilidade.pt`
-  - **Telefone:** `962 983 480`
+- **Interlocutores:**
+  - **Beatriz Reis** (Recursos Humanos | `beatriz.reis@tmlmobilidade.pt` | `962 983 480`) — Contacto inicial inbound
+  - **Marta Tavares** — Interlocutora na reunião de alinhamento e decisão de conteúdos
+  - **Miguel Dinis** — Interlocutor na reunião de alinhamento e decisão de conteúdos
 - **Gestor da Conta (SKOLAE):** Bruno Vicente
 - **Equipa de Vendas:** Training
 - **Origem da Lead:** Lead Web (Odoo CRM) — 22/10/2026
@@ -23,17 +23,19 @@
 - **Mensagem da Interlocutora:**
   > *"Boa tarde, Espero que se encontrem bem. Venho por este meio solicitar um orçamento relativa à realização de formação de media training, assim como um conjunto de conteúdos programáticos. O contacto deve ser feito preferencialmente via email. Obrigada"*
 - **Canal Solicitado:** Contacto preferencialmente via **e-mail**.
-- **Ação Imediata (Bruno Vicente):** Envio de e-mail de qualificação de baixo atrito para levantamento dos 3 parâmetros essenciais à orçamentação e calibragem pedagógica:
-  1. Número de formandos e respetivo perfil funcional (ex.: porta-vozes, administração, assessoria de comunicação/imprensa);
-  2. Previsão de calendarização pretendida;
-  3. Local de realização preferencial (instalações da TML vs. Training Labs da SKOLAE na Av. da Liberdade, Lisboa).
+- **Ação Imediata (Bruno Vicente):** Envio de proposta inicial de 14h (Ref. 21690).
+
+### 05/11/2026 — Reunião de Alinhamento com Marta Tavares e Miguel Dinis
+- **Formato Requisitado (2 em 1):**
+  - Módulo 1 (Media Training - 14h): Conselho de Administração.
+  - Módulo 2 (Comunicação de Crise em Cibersegurança - 3h30): Conselho de Administração + Equipa de Crise da TML.
+- **Logística:** Presencial, desdobrado em meios-dias, com objetivo de realização ainda em 2026.
+- **Integração:** Articular com o plano de resposta a incidentes já existente na TML.
 
 ---
 
-## 3. Enquadramento Pedagógico — Media Training SKOLAE
-- **Modalidade:** Intra-empresa dedicada (Tutoria individual / Pequeno grupo de porta-vozes).
-- **Metodologia:** Sessões práticas com câmara de vídeo, simulações de entrevistas (TV, rádio, imprensa escrita, declarações sob pressão), visionamento e feedback técnico individual.
-- **Formadores de Referência:** Jornalistas e especialistas seniores de comunicação social e assessoria de imprensa.
-- **Locais Disponíveis:**
-  - *In Company:* Nas instalações da TML em Lisboa;
-  - *SKOLAE Training Labs:* Avenida da Liberdade, Lisboa (com salas adaptadas e meios audiovisuais).
+## 3. Enquadramento Pedagógico — Media Training & Gestão de Crise SKOLAE
+- **Modalidade:** Intra-empresa dedicada (Conselho de Administração + Equipa de Crise).
+- **Carga Horária Total:** 17h30 (Módulo I: 3h30 Jurídico/Crise Cibersegurança; Módulo II: 14h00 Media Training Prático).
+- **Metodologia:** Sessões práticas desdobradas em meios-dias, simulações de entrevistas e declarações de crise, integração de procedimentos práticos de cibersegurança e suporte da formadora especialista Alda Benamor.
+- **Local:** Instalações da TML em Lisboa.

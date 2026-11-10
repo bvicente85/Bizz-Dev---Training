@@ -1,0 +1,751 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SKOLAE — BIZZ DEV AI</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            skolae: {
+              orange: '#FF912B',
+              hover: '#F07E16',
+              soft: '#FFF5EC',
+              bg: '#FBFBFD',
+              panel: '#F5F5F7',
+              slate: '#111827',
+              border: '#E5E7EB'
+            }
+          },
+          fontFamily: {
+            sans: ['"Basier Circle"', 'Inter', '-apple-system', 'BlinkMacSystemFont', 'sans-serif']
+          }
+        }
+      }
+    }
+  </script>
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body class="bg-[#FBFBFD] text-[#111827] select-none">
+
+  <!-- LAYOUT PRINCIPAL EM 3 SECÇÕES (APPLE / LINEAR / DOTS STANDARD) -->
+  <div class="flex h-screen w-screen overflow-hidden">
+
+    <!-- =================================================================== -->
+    <!-- 1. BARRA LATERAL ESQUERDA (IDENTIDADE, AÇÕES RÁPIDAS & CONTAS)      -->
+    <!-- =================================================================== -->
+    <aside class="w-[290px] flex-shrink-0 bg-[#F5F5F7]/85 border-r border-[#E5E7EB] flex flex-col justify-between h-full">
+
+      <!-- Topo: Identidade da Marca SKOLAE BIZZ DEV AI -->
+      <div class="p-4 pb-3 border-b border-[#E5E7EB]/80">
+        <div class="flex items-center justify-between">
+          <div class="flex items-center gap-2.5">
+            <div class="w-8 h-8 rounded-xl bg-[#FF912B] flex items-center justify-center text-white font-bold text-sm shadow-sm">
+              S
+            </div>
+            <div>
+              <div class="flex items-center gap-1.5">
+                <span class="font-bold text-[14px] tracking-tight text-[#111827]">SKOLAE</span>
+                <span class="text-[10px] font-semibold uppercase tracking-wider px-1.5 py-0.5 rounded-md bg-[#FFF5EC] text-[#FF912B] border border-[#FF912B]/25">
+                  BIZZ DEV AI
+                </span>
+              </div>
+              <p class="text-[11px] text-[#6B7280] leading-tight mt-0.5">100% Intra-Empresa · Bruno Vicente</p>
+            </div>
+          </div>
+          <button onclick="openContactsModal()" title="Consultar Bases de Dados Excel (031_Bases_Dados)"
+            class="w-7 h-7 rounded-lg bg-white border border-[#E5E7EB] hover:border-[#FF912B] flex items-center justify-center text-[#4B5563] hover:text-[#FF912B] transition">
+            <span class="w-3.5 h-3.5 lucide-inline" data-lucide="database"></span>
+          </button>
+        </div>
+
+        <!-- Botões de Ação Rápida -->
+        <div class="mt-3.5 space-y-1.5">
+          <div class="text-[10.5px] font-semibold uppercase tracking-wider text-[#6B7280] px-1 mb-1">
+            Ações Rápidas
+          </div>
+
+          <button onclick="openFastTrackModal()" class="quick-action-btn">
+            <span class="icon-wrap"><span class="w-3.5 h-3.5 lucide-inline" data-lucide="zap"></span></span>
+            <div class="truncate">
+              <div class="text-[12.5px] font-semibold leading-tight">Follow-up Fast-Track</div>
+              <div class="text-[10.5px] text-[#6B7280]">Padrão conciso 35–55 palavras</div>
+            </div>
+          </button>
+
+          <button onclick="openPPTModal()" class="quick-action-btn">
+            <span class="icon-wrap"><span class="w-3.5 h-3.5 lucide-inline" data-lucide="file-text"></span></span>
+            <div class="truncate">
+              <div class="text-[12.5px] font-semibold leading-tight">Nova Proposta PPT</div>
+              <div class="text-[10.5px] text-[#6B7280]">Slide 6 (4 parágrafos) + Contactos</div>
+            </div>
+          </button>
+
+          <button onclick="openMarginModal()" class="quick-action-btn">
+            <span class="icon-wrap"><span class="w-3.5 h-3.5 lucide-inline" data-lucide="bar-chart-3"></span></span>
+            <div class="truncate">
+              <div class="text-[12.5px] font-semibold leading-tight">Auditar Margem</div>
+              <div class="text-[10.5px] text-[#6B7280]">Matriz TMB 25-26 · Meta ≥ 65%</div>
+            </div>
+          </button>
+
+          <button onclick="openIconsModal()" class="quick-action-btn">
+            <span class="icon-wrap"><span class="w-3.5 h-3.5 lucide-inline" data-lucide="palette"></span></span>
+            <div class="truncate">
+              <div class="text-[12.5px] font-semibold leading-tight">Biblioteca de Ícones Lucide</div>
+              <div class="text-[10.5px] text-[#6B7280]">2.029 vetores locais para slides</div>
+            </div>
+          </button>
+        </div>
+      </div>
+
+      <!-- Centro: Lista das Contas Ativas (03_Carteira_Clientes/032_Clientes) -->
+      <div class="flex-1 flex flex-col min-h-0 px-3 pt-3 pb-2">
+        <div class="flex items-center justify-between px-1 mb-2">
+          <span class="text-[10.5px] font-semibold uppercase tracking-wider text-[#6B7280]">
+            Contas em Carteira
+          </span>
+          <span id="sidebar-accounts-count" class="text-[11px] font-medium text-[#6B7280] bg-white px-2 py-0.5 rounded-full border border-[#E5E7EB]">
+            146
+          </span>
+        </div>
+
+        <!-- Campo de Pesquisa de Contas -->
+        <div class="relative mb-2">
+          <span class="w-3.5 h-3.5 text-[#9CA3AF] absolute left-2.5 top-1/2 -translate-y-1/2 lucide-inline" data-lucide="search"></span>
+          <input id="account-search-input" type="text" placeholder="Filtrar cliente ou setor..."
+            oninput="filterAccountsList()"
+            class="w-full pl-8 pr-7 py-1.5 text-[12.5px] bg-white border border-[#E5E7EB] rounded-lg focus:outline-none focus:border-[#FF912B] text-[#111827] placeholder-[#9CA3AF] transition" />
+        </div>
+
+        <!-- Filtros Rápidos de Estado -->
+        <div class="flex items-center gap-1 mb-2 px-0.5">
+          <button onclick="setAccountStatusFilter('Todos')" id="flt-Todos"
+            class="acc-filter-pill text-[11px] px-2 py-0.5 rounded-md font-medium bg-[#111827] text-white transition">
+            Todos
+          </button>
+          <button onclick="setAccountStatusFilter('Em Proposta')" id="flt-Em Proposta"
+            class="acc-filter-pill text-[11px] px-2 py-0.5 rounded-md font-medium bg-white text-[#4B5563] border border-[#E5E7EB] hover:border-[#D1D5DB] transition">
+            Proposta
+          </button>
+          <button onclick="setAccountStatusFilter('Ativo')" id="flt-Ativo"
+            class="acc-filter-pill text-[11px] px-2 py-0.5 rounded-md font-medium bg-white text-[#4B5563] border border-[#E5E7EB] hover:border-[#D1D5DB] transition">
+            Ativos
+          </button>
+        </div>
+
+        <!-- Lista Scrollable de Clientes -->
+        <div id="accounts-list-container" class="flex-1 overflow-y-auto space-y-1 pr-0.5 select-text">
+          <!-- Renderizado via JS -->
+        </div>
+      </div>
+
+      <!-- Rodapé da Sidebar: Estado da Base de Dados -->
+      <div class="p-3 border-t border-[#E5E7EB] bg-white/60 flex items-center justify-between text-[11px] text-[#6B7280]">
+        <div class="flex items-center gap-1.5">
+          <span class="w-2 h-2 rounded-full bg-emerald-500"></span>
+          <span>Repositório Local Sincronizado</span>
+        </div>
+        <button onclick="openContactsModal()" class="text-[#FF912B] hover:underline font-medium">
+          Contactos
+        </button>
+      </div>
+    </aside>
+
+    <!-- =================================================================== -->
+    <!-- 2. PAINEL CENTRAL (DASHBOARD MINIMALISTA & CHAT HUMANO)             -->
+    <!-- =================================================================== -->
+    <main class="flex-1 flex flex-col h-full bg-[#FBFBFD] min-w-0">
+
+      <!-- Topo: Dashboard Minimalista com 3 Cartões Métricos -->
+      <header class="px-6 pt-5 pb-3 border-b border-[#E5E7EB]/70 bg-[#FBFBFD]">
+        <div class="grid grid-cols-3 gap-4 max-w-5xl mx-auto">
+
+          <!-- Cartão 1: Tarefas da Semana (Concluídas vs. Pendentes) -->
+          <div onclick="openTasksModal()" class="apple-card apple-card-interactive p-3.5 cursor-pointer">
+            <div class="flex items-center justify-between mb-1.5">
+              <span class="text-[11.5px] font-medium text-[#6B7280]">Tarefas da Semana</span>
+              <span class="w-6 h-6 rounded-lg bg-[#FFF5EC] text-[#FF912B] flex items-center justify-center">
+                <span class="w-3.5 h-3.5 lucide-inline" data-lucide="check-square"></span>
+              </span>
+            </div>
+            <div class="flex items-baseline gap-2">
+              <span id="metric-tasks-value" class="text-[20px] font-bold tracking-tight text-[#111827]">2 / 11</span>
+              <span id="metric-tasks-sub" class="text-[11.5px] text-[#6B7280]">9 pendentes · clique p/ gerir</span>
+            </div>
+            <div class="w-full h-1.5 bg-[#F3F4F6] rounded-full mt-2 overflow-hidden">
+              <div id="metric-tasks-bar" class="h-full bg-[#FF912B] rounded-full transition-all duration-300" style="width: 18%"></div>
+            </div>
+          </div>
+
+          <!-- Cartão 2: Margem Média de Propostas -->
+          <div onclick="openMarginModal()" class="apple-card apple-card-interactive p-3.5 cursor-pointer">
+            <div class="flex items-center justify-between mb-1.5">
+              <span class="text-[11.5px] font-medium text-[#6B7280]">Margem Média de Propostas</span>
+              <span class="w-6 h-6 rounded-lg bg-emerald-50 text-emerald-600 flex items-center justify-center">
+                <span class="w-3.5 h-3.5 lucide-inline" data-lucide="trending-up"></span>
+              </span>
+            </div>
+            <div class="flex items-baseline gap-2">
+              <span id="metric-margin-value" class="text-[20px] font-bold tracking-tight text-[#111827]">70.3%</span>
+              <span class="text-[11px] font-medium px-1.5 py-0.5 rounded bg-emerald-50 text-emerald-700 border border-emerald-200">
+                Meta ≥ 65%
+              </span>
+            </div>
+            <p class="text-[11px] text-[#6B7280] mt-1.5 truncate">Matriz Oficial TMB 25-26 · Determinístico</p>
+          </div>
+
+          <!-- Cartão 3: Clientes Ativos -->
+          <div onclick="openContactsModal()" class="apple-card apple-card-interactive p-3.5 cursor-pointer">
+            <div class="flex items-center justify-between mb-1.5">
+              <span class="text-[11.5px] font-medium text-[#6B7280]">Clientes Ativos & Pipeline</span>
+              <span class="w-6 h-6 rounded-lg bg-[#F5F5F7] text-[#374151] flex items-center justify-center">
+                <span class="w-3.5 h-3.5 lucide-inline" data-lucide="briefcase"></span>
+              </span>
+            </div>
+            <div class="flex items-baseline gap-2">
+              <span id="metric-clients-active" class="text-[20px] font-bold tracking-tight text-[#111827]">42</span>
+              <span id="metric-clients-total" class="text-[11.5px] text-[#6B7280]">de 146 pastas em 032_Clientes</span>
+            </div>
+            <p id="metric-clients-proposals" class="text-[11px] text-[#FF912B] font-medium mt-1.5 truncate">
+              Propostas e diagnósticos em curso
+            </p>
+          </div>
+
+        </div>
+      </header>
+
+      <!-- Centro: Área de Conversa Fluida, Empática e Rápida -->
+      <div id="chat-messages-container" class="flex-1 overflow-y-auto px-6 py-5 select-text">
+        <div id="chat-messages-inner" class="max-w-3xl mx-auto space-y-4">
+          <!-- Mensagem de Boas-Vindas Inicial renderizada via JS -->
+        </div>
+      </div>
+
+      <!-- Rodapé Central: Caixa de Input Elegante com Atalhos Contextuais -->
+      <div class="px-6 pb-5 pt-2 bg-gradient-to-t from-[#FBFBFD] via-[#FBFBFD] to-transparent">
+        <div class="max-w-3xl mx-auto">
+
+          <!-- Atalhos Contextuais (Pills) -->
+          <div class="flex items-center gap-1.5 overflow-x-auto pb-2 no-scrollbar">
+            <button onclick="triggerQuickPrompt('Redige um follow-up Fast-Track de 35 a 55 palavras para o cliente selecionado')"
+              class="text-[11.5px] px-2.5 py-1 rounded-full bg-white border border-[#E5E7EB] hover:border-[#FF912B] hover:text-[#FF912B] text-[#4B5563] whitespace-nowrap transition shadow-2xs">
+              ⚡ Follow-up 35–55 palavras
+            </button>
+            <button onclick="triggerQuickPrompt('Prepara o Mapa de Conversa com as 6 Perguntas Nucleares para reunião de diagnóstico')"
+              class="text-[11.5px] px-2.5 py-1 rounded-full bg-white border border-[#E5E7EB] hover:border-[#FF912B] hover:text-[#FF912B] text-[#4B5563] whitespace-nowrap transition shadow-2xs">
+              🎯 Guião Reunião Diagnóstico (6 Perguntas)
+            </button>
+            <button onclick="triggerQuickPrompt('Qual é o estado factual do Projeto #SOMOS e a quem pertence?')"
+              class="text-[11.5px] px-2.5 py-1 rounded-full bg-white border border-[#E5E7EB] hover:border-[#FF912B] hover:text-[#FF912B] text-[#4B5563] whitespace-nowrap transition shadow-2xs">
+              🔍 Fact-Check #SOMOS (Carl Zeiss)
+            </button>
+            <button onclick="triggerQuickPrompt('Resumo do programa de 8 líderes com Assessments Thomas International para a Desentop Ambiente')"
+              class="text-[11.5px] px-2.5 py-1 rounded-full bg-white border border-[#E5E7EB] hover:border-[#FF912B] hover:text-[#FF912B] text-[#4B5563] whitespace-nowrap transition shadow-2xs">
+              📋 Dossier Desentop (Thomas + FCT)
+            </button>
+          </div>
+
+          <!-- Input Card -->
+          <div class="apple-card p-2.5 flex items-end gap-2.5 focus-within:border-[#FF912B] focus-within:ring-2 focus-within:ring-[#FF912B]/15">
+            <textarea id="chat-input" rows="2"
+              placeholder="Escreve um pedido comercial (ex: 'Follow-up para a Patrícia Bicho', 'Margem venda 2400 custo 780', 'Guião de diagnóstico')..."
+              onkeydown="handleChatKeydown(event)"
+              class="flex-1 resize-none bg-transparent border-0 focus:outline-none text-[13.5px] text-[#111827] placeholder-[#9CA3AF] px-2 py-1 leading-relaxed select-text"></textarea>
+            <div class="flex items-center gap-1.5 pb-0.5">
+              <span id="active-client-pill" class="hidden text-[11px] font-medium px-2 py-1 rounded-lg bg-[#FFF5EC] text-[#FF912B] border border-[#FF912B]/25">
+                Desentop Ambiente
+              </span>
+              <button onclick="sendChatMessage()"
+                class="h-8 px-3.5 rounded-lg bg-[#FF912B] hover:bg-[#F07E16] text-white font-medium text-[12.5px] flex items-center gap-1.5 shadow-xs transition cursor-pointer">
+                <span>Enviar</span>
+                <span class="w-3.5 h-3.5 lucide-inline" data-lucide="arrow-up-right"></span>
+              </button>
+            </div>
+          </div>
+
+          <div class="flex items-center justify-between px-1 mt-1.5 text-[10.5px] text-[#9CA3AF]">
+            <span>Padrão SKOLAE: Português Europeu estrito · Tratamento formal · Zero alucinação</span>
+            <span>Enter para enviar · Shift + Enter para nova linha</span>
+          </div>
+        </div>
+      </div>
+
+    </main>
+
+    <!-- =================================================================== -->
+    <!-- 3. PAINEL LATERAL DIREITO (CONTEXTO ATIVO DO CLIENTE)               -->
+    <!-- =================================================================== -->
+    <aside class="w-[360px] flex-shrink-0 bg-[#F5F5F7]/70 border-l border-[#E5E7EB] flex flex-col h-full select-text">
+
+      <!-- Cabeçalho do Cliente Selecionado -->
+      <div class="p-4 bg-white border-b border-[#E5E7EB]">
+        <div class="flex items-start justify-between gap-2">
+          <div class="min-w-0">
+            <div class="flex items-center gap-2">
+              <span id="ctx-status-badge" class="text-[10.5px] font-semibold px-2 py-0.5 rounded-full bg-[#FFF5EC] text-[#FF912B] border border-[#FF912B]/30">
+                Em Proposta
+              </span>
+              <span id="ctx-last-date" class="text-[11px] text-[#6B7280]">2026-11-05</span>
+            </div>
+            <h2 id="ctx-client-name" class="text-[16px] font-bold text-[#111827] tracking-tight mt-1 truncate">
+              Desentop Ambiente
+            </h2>
+            <p id="ctx-core-business" class="text-[11.5px] text-[#4B5563] line-clamp-2 mt-0.5 leading-snug">
+              Gestão Global de Serviços e Resíduos
+            </p>
+          </div>
+          <button onclick="openCurrentClientFolder()" title="Abrir pasta do cliente no Windows Explorer"
+            class="p-2 rounded-lg bg-[#F5F5F7] hover:bg-[#FFF5EC] text-[#4B5563] hover:text-[#FF912B] border border-[#E5E7EB] transition flex-shrink-0 cursor-pointer">
+            <span class="w-4 h-4 lucide-inline" data-lucide="folder-open"></span>
+          </button>
+        </div>
+
+        <!-- Tabs do Contexto Ativo -->
+        <div class="grid grid-cols-4 gap-1 mt-3.5 p-1 bg-[#F5F5F7] rounded-lg border border-[#E5E7EB]/80">
+          <button onclick="switchContextTab('resumo')" id="tab-btn-resumo"
+            class="ctx-tab-btn text-[11px] font-semibold py-1 rounded-md bg-white text-[#111827] shadow-2xs transition">
+            Resumo
+          </button>
+          <button onclick="switchContextTab('acoes')" id="tab-btn-acoes"
+            class="ctx-tab-btn text-[11px] font-medium py-1 rounded-md text-[#6B7280] hover:text-[#111827] transition">
+            Ações
+          </button>
+          <button onclick="switchContextTab('reunioes')" id="tab-btn-reunioes"
+            class="ctx-tab-btn text-[11px] font-medium py-1 rounded-md text-[#6B7280] hover:text-[#111827] transition">
+            Reuniões
+          </button>
+          <button onclick="switchContextTab('ficheiros')" id="tab-btn-ficheiros"
+            class="ctx-tab-btn text-[11px] font-medium py-1 rounded-md text-[#6B7280] hover:text-[#111827] transition">
+            Dossier
+          </button>
+        </div>
+      </div>
+
+      <!-- Conteúdo Scrollable do Contexto Ativo -->
+      <div id="ctx-panel-body" class="flex-1 overflow-y-auto p-4 space-y-3.5">
+        <!-- Preenchido dinamicamente por app.js -->
+      </div>
+
+    </aside>
+
+  </div>
+
+  <!-- ===================================================================== -->
+  <!-- MODAIS INTERATIVOS (FAST-TRACK, PROPOSTA PPT, MARGEM, ÍCONES, ETC.)   -->
+  <!-- ===================================================================== -->
+
+  <!-- MODAL 1: FOLLOW-UP FAST-TRACK (35-55 PALAVRAS) -->
+  <div id="modal-fast-track" class="fixed inset-0 z-50 hidden bg-black/30 backdrop-blur-[2px] flex items-center justify-center p-4">
+    <div class="bg-white rounded-2xl border border-[#E5E7EB] w-full max-w-2xl overflow-hidden" style="box-shadow: var(--shadow-modal);">
+      <div class="px-6 py-4 border-b border-[#E5E7EB] flex items-center justify-between bg-[#FBFBFD]">
+        <div class="flex items-center gap-2.5">
+          <span class="w-8 h-8 rounded-xl bg-[#FFF5EC] text-[#FF912B] flex items-center justify-center">
+            <span class="w-4 h-4 lucide-inline" data-lucide="zap"></span>
+          </span>
+          <div>
+            <h3 class="font-bold text-[15px] text-[#111827]">Gerador Follow-up Fast-Track & Outreach</h3>
+            <p class="text-[11.5px] text-[#6B7280]">Anatomia consultiva SKOLAE · Tratamento formal · Zero chavões ou pt-BR</p>
+          </div>
+        </div>
+        <button onclick="closeModal('modal-fast-track')" class="text-[#6B7280] hover:text-[#111827] p-1">
+          <span class="w-5 h-5 lucide-inline" data-lucide="x"></span>
+        </button>
+      </div>
+
+      <div class="p-6 space-y-4 select-text">
+        <div class="grid grid-cols-3 gap-3">
+          <div>
+            <label class="block text-[11px] font-semibold uppercase text-[#6B7280] mb-1">Cenário Comercial</label>
+            <select id="ft-template-type" onchange="refreshFastTrackDraft()"
+              class="w-full px-3 py-2 text-[12.5px] bg-[#FBFBFD] border border-[#E5E7EB] rounded-lg focus:outline-none focus:border-[#FF912B]">
+              <option value="followup_proposta">⚡ Follow-up Proposta (35–55 palavras)</option>
+              <option value="followup_aprovacao">⏳ Follow-up em Aprovação (Sem Culpa)</option>
+              <option value="proposta_pronta">📄 Notificar Proposta Pronta (Teams vs Email)</option>
+              <option value="soft_breakup">🗂️ Soft Break-up (Limpeza de Arquivo)</option>
+              <option value="outreach_rh">🎯 Outreach Consultivo — RH / People</option>
+              <option value="outreach_dg">🏢 Outreach Executivo — Direção Geral</option>
+            </select>
+          </div>
+          <div>
+            <label class="block text-[11px] font-semibold uppercase text-[#6B7280] mb-1">Interlocutor(a)</label>
+            <input id="ft-recipient" type="text" placeholder="Ex: Patrícia Bicho" oninput="refreshFastTrackDraft()"
+              class="w-full px-3 py-2 text-[12.5px] bg-[#FBFBFD] border border-[#E5E7EB] rounded-lg focus:outline-none focus:border-[#FF912B]" />
+          </div>
+          <div>
+            <label class="block text-[11px] font-semibold uppercase text-[#6B7280] mb-1">Tema / Projeto</label>
+            <input id="ft-topic" type="text" placeholder="Ex: Liderança e Gestão de Equipas" oninput="refreshFastTrackDraft()"
+              class="w-full px-3 py-2 text-[12.5px] bg-[#FBFBFD] border border-[#E5E7EB] rounded-lg focus:outline-none focus:border-[#FF912B]" />
+          </div>
+        </div>
+
+        <div>
+          <label class="block text-[11px] font-semibold uppercase text-[#6B7280] mb-1">Assunto Sugerido</label>
+          <input id="ft-subject" type="text"
+            class="w-full px-3 py-1.5 text-[12.5px] font-medium bg-[#F5F5F7] border border-[#E5E7EB] rounded-lg text-[#111827]" />
+        </div>
+
+        <div>
+          <div class="flex items-center justify-between mb-1">
+            <label class="text-[11px] font-semibold uppercase text-[#6B7280]">Minuta Pronta a Enviar</label>
+            <div class="flex items-center gap-2">
+              <span id="ft-word-badge" class="text-[11px] font-semibold px-2 py-0.5 rounded-full bg-emerald-50 text-emerald-700 border border-emerald-200">
+                46 palavras no corpo
+              </span>
+              <span id="ft-compliance-badge" class="text-[11px] font-medium px-2 py-0.5 rounded-full bg-[#FFF5EC] text-[#FF912B]">
+                ✓ PT-PT Estrito
+              </span>
+            </div>
+          </div>
+          <textarea id="ft-body" rows="8" oninput="updateLiveWordCount()"
+            class="w-full p-3.5 text-[13px] leading-relaxed bg-[#FBFBFD] border border-[#E5E7EB] rounded-xl focus:outline-none focus:border-[#FF912B] font-sans text-[#111827]"></textarea>
+        </div>
+      </div>
+
+      <div class="px-6 py-3.5 bg-[#F5F5F7] border-t border-[#E5E7EB] flex items-center justify-between">
+        <span class="text-[11.5px] text-[#6B7280]">Fecho obrigatório: «Fico a aguardar o seu feedback.»</span>
+        <div class="flex items-center gap-2">
+          <button onclick="copyFastTrackToClipboard()"
+            class="px-4 py-2 rounded-lg bg-[#FF912B] hover:bg-[#F07E16] text-white font-semibold text-[12.5px] flex items-center gap-1.5 shadow-xs transition cursor-pointer">
+            <span class="w-3.5 h-3.5 lucide-inline" data-lucide="copy"></span>
+            <span id="ft-copy-btn-label">Copiar E-mail</span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- MODAL 2: AUDITORIA DE MARGEM & SIMULADOR TMB 25-26 -->
+  <div id="modal-margin" class="fixed inset-0 z-50 hidden bg-black/30 backdrop-blur-[2px] flex items-center justify-center p-4">
+    <div class="bg-white rounded-2xl border border-[#E5E7EB] w-full max-w-3xl overflow-hidden" style="box-shadow: var(--shadow-modal);">
+      <div class="px-6 py-4 border-b border-[#E5E7EB] flex items-center justify-between bg-[#FBFBFD]">
+        <div class="flex items-center gap-2.5">
+          <span class="w-8 h-8 rounded-xl bg-[#FFF5EC] text-[#FF912B] flex items-center justify-center">
+            <span class="w-4 h-4 lucide-inline" data-lucide="bar-chart-3"></span>
+          </span>
+          <div>
+            <h3 class="font-bold text-[15px] text-[#111827]">Simulador TMB 25-26 & Auditor Determinístico de Margem</h3>
+            <p class="text-[11.5px] text-[#6B7280]">Integrado com <code>00_Instrucoes_Agente/scripts/calcular_margem.py</code> · Meta obrigatória ≥ 65%</p>
+          </div>
+        </div>
+        <button onclick="closeModal('modal-margin')" class="text-[#6B7280] hover:text-[#111827] p-1">
+          <span class="w-5 h-5 lucide-inline" data-lucide="x"></span>
+        </button>
+      </div>
+
+      <div class="p-6 grid grid-cols-12 gap-5 select-text">
+        <!-- Coluna Esquerda: Inputs TMB 25-26 -->
+        <div class="col-span-7 space-y-3">
+          <div>
+            <label class="block text-[11px] font-semibold uppercase text-[#6B7280] mb-1">Área Formativa (Taxa Horária TMB 25-26)</label>
+            <select id="mrg-area" onchange="onMarginAreaChange()"
+              class="w-full px-3 py-2 text-[12.5px] bg-[#FBFBFD] border border-[#E5E7EB] rounded-lg focus:outline-none focus:border-[#FF912B]">
+              <option value="50">Soft Skills / Liderança / Vendas / M365 (50 €/h)</option>
+              <option value="65">Soft Skills em Inglês / Financeira / Jurídica / Design Thinking (65 €/h)</option>
+              <option value="55">Logística / Marketing / IT Técnico (55 €/h)</option>
+              <option value="45">IT Ótica do Utilizador — Excel / Office (45 €/h)</option>
+              <option value="80">Lean Management (80 €/h)</option>
+              <option value="100">Inteligência Artificial (IA) / IPS (100 €/h)</option>
+              <option value="30">Idiomas (30 €/h)</option>
+            </select>
+          </div>
+
+          <div class="grid grid-cols-3 gap-2.5">
+            <div>
+              <label class="block text-[11px] font-semibold uppercase text-[#6B7280] mb-1">Horas Formador</label>
+              <input id="mrg-horas" type="number" step="1" value="14" oninput="runMarginAudit()"
+                class="w-full px-3 py-1.5 text-[13px] bg-[#FBFBFD] border border-[#E5E7EB] rounded-lg" />
+            </div>
+            <div>
+              <label class="block text-[11px] font-semibold uppercase text-[#6B7280] mb-1">Valor/Hora (€)</label>
+              <input id="mrg-rate" type="number" step="5" value="50" oninput="runMarginAudit()"
+                class="w-full px-3 py-1.5 text-[13px] bg-[#FBFBFD] border border-[#E5E7EB] rounded-lg" />
+            </div>
+            <div>
+              <label class="block text-[11px] font-semibold uppercase text-[#6B7280] mb-1">Nº Formandos</label>
+              <input id="mrg-pax" type="number" step="1" value="12" oninput="runMarginAudit()"
+                class="w-full px-3 py-1.5 text-[13px] bg-[#FBFBFD] border border-[#E5E7EB] rounded-lg" />
+            </div>
+          </div>
+
+          <div class="grid grid-cols-3 gap-2.5">
+            <div>
+              <label class="block text-[11px] font-semibold uppercase text-[#6B7280] mb-1">Estafeta (€)</label>
+              <input id="mrg-estafeta" type="number" step="0.05" value="9.05" oninput="runMarginAudit()"
+                class="w-full px-3 py-1.5 text-[13px] bg-[#FBFBFD] border border-[#E5E7EB] rounded-lg" />
+            </div>
+            <div>
+              <label class="block text-[11px] font-semibold uppercase text-[#6B7280] mb-1">Outros / Assessments</label>
+              <input id="mrg-outros" type="number" step="10" value="0" oninput="runMarginAudit()"
+                class="w-full px-3 py-1.5 text-[13px] bg-[#FBFBFD] border border-[#E5E7EB] rounded-lg" />
+            </div>
+            <div>
+              <label class="block text-[11px] font-semibold uppercase text-[#6B7280] mb-1">Localidade</label>
+              <input id="mrg-local" type="text" value="Lisboa" placeholder="Ex: Porto, Évora" oninput="runMarginAudit()"
+                class="w-full px-3 py-1.5 text-[13px] bg-[#FBFBFD] border border-[#E5E7EB] rounded-lg" />
+            </div>
+          </div>
+
+          <div class="flex items-center gap-4 pt-1">
+            <label class="flex items-center gap-1.5 text-[12px] text-[#374151] cursor-pointer">
+              <input id="mrg-kit" type="checkbox" checked onchange="runMarginAudit()" class="accent-[#FF912B]" />
+              <span>Kit Formando Abilways (2,00 €/pax)</span>
+            </label>
+            <label class="flex items-center gap-1.5 text-[12px] text-[#374151] cursor-pointer">
+              <input id="mrg-tabuleiro" type="checkbox" onchange="runMarginAudit()" class="accent-[#FF912B]" />
+              <span>Inclui Tabuleiro / Jogo Físico</span>
+            </label>
+          </div>
+
+          <div class="pt-2 border-t border-[#E5E7EB]">
+            <label class="block text-[11.5px] font-bold uppercase text-[#111827] mb-1">
+              Preço de Venda Proposto ao Cliente (€ s/ IVA)
+            </label>
+            <div class="flex items-center gap-2">
+              <input id="mrg-preco-venda" type="number" step="10" value="2300" oninput="runMarginAudit()"
+                class="flex-1 px-3.5 py-2 text-[15px] font-bold bg-[#FFF5EC]/60 border border-[#FF912B] rounded-xl text-[#111827] focus:outline-none" />
+              <button onclick="applyMinimum65Price()"
+                class="px-3 py-2 rounded-xl bg-[#F5F5F7] hover:bg-[#E5E7EB] text-[11.5px] font-semibold text-[#374151] transition cursor-pointer">
+                Fixar nos 65%
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Coluna Direita: Resultado Determinístico -->
+        <div class="col-span-5 bg-[#FBFBFD] border border-[#E5E7EB] rounded-xl p-4 flex flex-col justify-between">
+          <div>
+            <div class="flex items-center justify-between mb-2">
+              <span class="text-[11px] font-semibold uppercase tracking-wider text-[#6B7280]">Resultado da Auditoria</span>
+              <span id="mrg-status-pill" class="text-[11px] font-bold px-2.5 py-0.5 rounded-full bg-emerald-100 text-emerald-800">
+                APROVADA ≥ 65%
+              </span>
+            </div>
+
+            <div class="text-center py-3 my-2 bg-white rounded-xl border border-[#E5E7EB]">
+              <div id="mrg-pct-display" class="text-[32px] font-bold tracking-tight text-emerald-600">68.1%</div>
+              <div class="text-[11.5px] text-[#6B7280]">Margem Bruta Comercial</div>
+            </div>
+
+            <div class="space-y-1.5 text-[12.5px] mt-3">
+              <div class="flex justify-between">
+                <span class="text-[#6B7280]">Custos Diretos Totais:</span>
+                <span id="mrg-custos-display" class="font-semibold text-[#111827]">733,05 €</span>
+              </div>
+              <div class="flex justify-between">
+                <span class="text-[#6B7280]">Margem Bruta Absoluta:</span>
+                <span id="mrg-abs-display" class="font-semibold text-[#111827]">1.566,95 €</span>
+              </div>
+              <div class="flex justify-between pt-1 border-t border-[#E5E7EB]">
+                <span class="text-[#6B7280]">Preço Mínimo (65,0%):</span>
+                <span id="mrg-min65-display" class="font-bold text-[#FF912B]">2.094,43 €</span>
+              </div>
+            </div>
+
+            <div id="mrg-alerts-box" class="mt-3 space-y-1.5"></div>
+          </div>
+
+          <pre id="mrg-script-raw" class="mt-3 p-2.5 bg-[#111827] text-gray-200 rounded-lg text-[10.5px] font-mono overflow-x-auto leading-snug"></pre>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- MODAL 3: NOVA PROPOSTA PPT (SLIDE 6 EM 4 PARÁGRAFOS + CONTACTOS OFICIAIS) -->
+  <div id="modal-ppt" class="fixed inset-0 z-50 hidden bg-black/30 backdrop-blur-[2px] flex items-center justify-center p-4">
+    <div class="bg-white rounded-2xl border border-[#E5E7EB] w-full max-w-3xl overflow-hidden" style="box-shadow: var(--shadow-modal);">
+      <div class="px-6 py-4 border-b border-[#E5E7EB] flex items-center justify-between bg-[#FBFBFD]">
+        <div class="flex items-center gap-2.5">
+          <span class="w-8 h-8 rounded-xl bg-[#FFF5EC] text-[#FF912B] flex items-center justify-center">
+            <span class="w-4 h-4 lucide-inline" data-lucide="file-text"></span>
+          </span>
+          <div>
+            <h3 class="font-bold text-[15px] text-[#111827]"> Construtor de Proposta PowerPoint (SKOLAE Standard)</h3>
+            <p class="text-[11.5px] text-[#6B7280]">Anatomia oficial de 4 parágrafos do Slide 6 · Basier Circle 12pt · Destaque #FF912B</p>
+          </div>
+        </div>
+        <button onclick="closeModal('modal-ppt')" class="text-[#6B7280] hover:text-[#111827] p-1">
+          <span class="w-5 h-5 lucide-inline" data-lucide="x"></span>
+        </button>
+      </div>
+
+      <div class="p-6 space-y-4 max-h-[78vh] overflow-y-auto select-text">
+        <div class="grid grid-cols-2 gap-3">
+          <div>
+            <label class="block text-[11px] font-semibold uppercase text-[#6B7280] mb-1">Empresa Cliente (Destaque #FF912B)</label>
+            <input id="ppt-client-name" type="text" oninput="generatePPTPreview()"
+              class="w-full px-3 py-2 text-[12.5px] bg-[#FBFBFD] border border-[#E5E7EB] rounded-lg focus:outline-none focus:border-[#FF912B]" />
+          </div>
+          <div>
+            <label class="block text-[11px] font-semibold uppercase text-[#6B7280] mb-1">Tema / Programa de Formação</label>
+            <input id="ppt-theme" type="text" value="Liderança Operacional e Gestão de Equipas" oninput="generatePPTPreview()"
+              class="w-full px-3 py-2 text-[12.5px] bg-[#FBFBFD] border border-[#E5E7EB] rounded-lg focus:outline-none focus:border-[#FF912B]" />
+          </div>
+        </div>
+
+        <div class="grid grid-cols-2 gap-3">
+          <div>
+            <label class="block text-[11px] font-semibold uppercase text-[#6B7280] mb-1">Impacto Direto nas Equipas (Parágrafo 2)</label>
+            <input id="ppt-impact" type="text" value="a eficácia operacional, a colaboração e o desempenho diário das equipas" oninput="generatePPTPreview()"
+              class="w-full px-3 py-1.5 text-[12px] bg-[#FBFBFD] border border-[#E5E7EB] rounded-lg focus:outline-none focus:border-[#FF912B]" />
+          </div>
+          <div>
+            <label class="block text-[11px] font-semibold uppercase text-[#6B7280] mb-1">4 a 5 Eixos Fundamentais (Parágrafo 4)</label>
+            <input id="ppt-pillars" type="text" value="a comunicação assertiva, a delegação eficaz, a gestão de prioridades, o feedback construtivo e a tomada de decisão" oninput="generatePPTPreview()"
+              class="w-full px-3 py-1.5 text-[12px] bg-[#FBFBFD] border border-[#E5E7EB] rounded-lg focus:outline-none focus:border-[#FF912B]" />
+          </div>
+        </div>
+
+        <!-- Preview Visual do Slide 6 -->
+        <div class="p-4 rounded-xl bg-[#FBFBFD] border border-[#E5E7EB]">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-[11px] font-bold uppercase tracking-wider text-[#FF912B]">Slide 6 — Enquadramento Oficial (4 Parágrafos)</span>
+            <span class="text-[10.5px] text-[#6B7280]">Basier Circle 12pt · #333333 · Espaçamento 14pt</span>
+          </div>
+          <div id="ppt-slide6-preview" class="space-y-3 text-[13px] text-[#333333] leading-relaxed bg-white p-4 rounded-lg border border-[#E5E7EB]">
+          </div>
+        </div>
+
+        <!-- Slide 12, Slide 13 & Slide Final Contactos -->
+        <div class="grid grid-cols-2 gap-3">
+          <div class="p-3.5 rounded-xl bg-[#FBFBFD] border border-[#E5E7EB]">
+            <div class="text-[11px] font-bold uppercase tracking-wider text-[#111827] mb-2">
+              Slide 12 — Competências (Tags 2–3 palavras)
+            </div>
+            <div id="ppt-slide12-preview" class="flex flex-wrap gap-1.5"></div>
+            <div class="text-[10.5px] text-[#6B7280] mt-2.5 pt-2 border-t border-[#E5E7EB]">
+              🔒 Bloco lateral direito <em>«TREINO / ESTIMULAR A APRENDIZAGEM»</em> mantido intacto.
+            </div>
+          </div>
+
+          <div class="p-3.5 rounded-xl bg-[#FBFBFD] border border-[#E5E7EB]">
+            <div class="text-[11px] font-bold uppercase tracking-wider text-[#111827] mb-2">
+              Slide Final — Contactos Institucionais
+            </div>
+            <div class="space-y-1.5 text-[11.5px] text-[#374151]">
+              <div><strong>1. Bruno Vicente</strong> — Business Developer · <code>bvicente@abilways.com</code> · (+351) 91 411 26 29</div>
+              <div><strong>2. Nuno Jorge</strong> — Head of Sales · <code>njorge@abilways.com</code> · (+351) 910 457 434</div>
+              <div><strong>3. Telma Lopes</strong> — Pedagogical Coordinator · <code>tlopes@abilways.com</code> · (+351) 914 165 110</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="px-6 py-3.5 bg-[#F5F5F7] border-t border-[#E5E7EB] flex items-center justify-between">
+        <button onclick="openWorkspaceTemplatePPT()" class="text-[12px] text-[#4B5563] hover:text-[#111827] font-medium flex items-center gap-1.5 cursor-pointer">
+          <span class="w-3.5 h-3.5 lucide-inline" data-lucide="external-link"></span>
+          <span>Abrir Template PowerPoint Oficial</span>
+        </button>
+        <button onclick="copyPPTFramework()"
+          class="px-4 py-2 rounded-lg bg-[#FF912B] hover:bg-[#F07E16] text-white font-semibold text-[12.5px] flex items-center gap-1.5 shadow-xs transition cursor-pointer">
+          <span class="w-3.5 h-3.5 lucide-inline" data-lucide="copy"></span>
+          <span id="ppt-copy-btn-label">Copiar Enquadramento Slide 6</span>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- MODAL 4: BIBLIOTECA DE ÍCONES LUCIDE (assets/icons/lucide/) -->
+  <div id="modal-icons" class="fixed inset-0 z-50 hidden bg-black/30 backdrop-blur-[2px] flex items-center justify-center p-4">
+    <div class="bg-white rounded-2xl border border-[#E5E7EB] w-full max-w-3xl overflow-hidden" style="box-shadow: var(--shadow-modal);">
+      <div class="px-6 py-4 border-b border-[#E5E7EB] flex items-center justify-between bg-[#FBFBFD]">
+        <div class="flex items-center gap-2.5">
+          <span class="w-8 h-8 rounded-xl bg-[#FFF5EC] text-[#FF912B] flex items-center justify-center">
+            <span class="w-4 h-4 lucide-inline" data-lucide="palette"></span>
+          </span>
+          <div>
+            <h3 class="font-bold text-[15px] text-[#111827]">Biblioteca Local de Ícones Lucide</h3>
+            <p class="text-[11.5px] text-[#6B7280]">Lido diretamente de <code>assets/icons/lucide/</code> (<span id="lucide-total-badge">2029</span> ficheiros SVG disponíveis)</p>
+          </div>
+        </div>
+        <button onclick="closeModal('modal-icons')" class="text-[#6B7280] hover:text-[#111827] p-1">
+          <span class="w-5 h-5 lucide-inline" data-lucide="x"></span>
+        </button>
+      </div>
+
+      <div class="p-6 space-y-4 select-text">
+        <div class="flex items-center gap-3">
+          <input id="lucide-search-input" type="text" placeholder="Pesquisar ícone por nome (ex: target, users, award, brain, shield-check)..."
+            oninput="searchLucideLibrary()"
+            class="flex-1 px-3.5 py-2 text-[13px] bg-[#FBFBFD] border border-[#E5E7EB] rounded-xl focus:outline-none focus:border-[#FF912B]" />
+          <span id="lucide-copy-toast" class="text-[12px] font-medium text-[#FF912B] hidden">Copiado!</span>
+        </div>
+
+        <div id="lucide-grid-container" class="grid grid-cols-6 sm:grid-cols-8 gap-2.5 max-h-[55vh] overflow-y-auto p-1">
+          <!-- Renderizado via JS -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- MODAL 5: BASE DE DADOS DE CONTACTOS EXCEL (031_Bases_Dados) -->
+  <div id="modal-contacts" class="fixed inset-0 z-50 hidden bg-black/30 backdrop-blur-[2px] flex items-center justify-center p-4">
+    <div class="bg-white rounded-2xl border border-[#E5E7EB] w-full max-w-4xl overflow-hidden" style="box-shadow: var(--shadow-modal);">
+      <div class="px-6 py-4 border-b border-[#E5E7EB] flex items-center justify-between bg-[#FBFBFD]">
+        <div class="flex items-center gap-2.5">
+          <span class="w-8 h-8 rounded-xl bg-[#FFF5EC] text-[#FF912B] flex items-center justify-center">
+            <span class="w-4 h-4 lucide-inline" data-lucide="database"></span>
+          </span>
+          <div>
+            <h3 class="font-bold text-[15px] text-[#111827]">Base de Dados de Contactos & Contas (031_Bases_Dados)</h3>
+            <p class="text-[11.5px] text-[#6B7280]">Pesquisa unificada em <code>Contacts 2026-2027.xlsx</code>, <code>Contactos_RH</code> e <code>Contactos_Nao_RH_Lideranca.xlsx</code></p>
+          </div>
+        </div>
+        <button onclick="closeModal('modal-contacts')" class="text-[#6B7280] hover:text-[#111827] p-1">
+          <span class="w-5 h-5 lucide-inline" data-lucide="x"></span>
+        </button>
+      </div>
+
+      <div class="p-6 space-y-4 select-text">
+        <div class="flex items-center gap-3">
+          <input id="contacts-search-input" type="text" placeholder="Pesquisar por empresa, nome, cargo, e-mail ou setor..."
+            oninput="searchContactsDatabase()"
+            class="flex-1 px-3.5 py-2 text-[13px] bg-[#FBFBFD] border border-[#E5E7EB] rounded-xl focus:outline-none focus:border-[#FF912B]" />
+          <span id="contacts-count-label" class="text-[12px] text-[#6B7280]"></span>
+        </div>
+
+        <div class="max-h-[55vh] overflow-y-auto border border-[#E5E7EB] rounded-xl">
+          <table class="w-full text-left border-collapse text-[12.5px]">
+            <thead class="bg-[#F5F5F7] text-[#4B5563] sticky top-0">
+              <tr>
+                <th class="py-2.5 px-3 font-semibold border-b border-[#E5E7EB]">Empresa</th>
+                <th class="py-2.5 px-3 font-semibold border-b border-[#E5E7EB]">Nome</th>
+                <th class="py-2.5 px-3 font-semibold border-b border-[#E5E7EB]">Cargo</th>
+                <th class="py-2.5 px-3 font-semibold border-b border-[#E5E7EB]">E-mail / Telefone</th>
+                <th class="py-2.5 px-3 font-semibold border-b border-[#E5E7EB]">Origem</th>
+              </tr>
+            </thead>
+            <tbody id="contacts-table-body" class="divide-y divide-[#E5E7EB]"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- MODAL 6: TAREFAS DA SEMANA (dashboard_data.json) -->
+  <div id="modal-tasks" class="fixed inset-0 z-50 hidden bg-black/30 backdrop-blur-[2px] flex items-center justify-center p-4">
+    <div class="bg-white rounded-2xl border border-[#E5E7EB] w-full max-w-2xl overflow-hidden" style="box-shadow: var(--shadow-modal);">
+      <div class="px-6 py-4 border-b border-[#E5E7EB] flex items-center justify-between bg-[#FBFBFD]">
+        <div class="flex items-center gap-2.5">
+          <span class="w-8 h-8 rounded-xl bg-[#FFF5EC] text-[#FF912B] flex items-center justify-center">
+            <span class="w-4 h-4 lucide-inline" data-lucide="check-square"></span>
+          </span>
+          <div>
+            <h3 class="font-bold text-[15px] text-[#111827]">Plano de Ação Semanal (SKOLAE BIZZ DEV)</h3>
+            <p id="tasks-modal-period" class="text-[11.5px] text-[#6B7280]">Sincronizado com <code>dashboard_data.json</code></p>
+          </div>
+        </div>
+        <button onclick="closeModal('modal-tasks')" class="text-[#6B7280] hover:text-[#111827] p-1">
+          <span class="w-5 h-5 lucide-inline" data-lucide="x"></span>
+        </button>
+      </div>
+      <div id="tasks-modal-list" class="p-6 space-y-2 max-h-[65vh] overflow-y-auto select-text"></div>
+    </div>
+  </div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

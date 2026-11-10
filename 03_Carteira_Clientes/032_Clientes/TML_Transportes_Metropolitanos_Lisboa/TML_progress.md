@@ -11,38 +11,42 @@ timestamp: 2026-10-22T09:15:00Z
 *Links:* [Contexto](./TML_context.md) | [Índice do Dossier](./_Índice_TML.md)
 
 ## Estado no Funil de Vendas
-* **Fase:** Proposta Enviada (Proposta Abilways_Ref - 21690 - Media Training)
-* **Oportunidade:** Media Training (14h Presencial — Conselho de Administração da TML)
-* **Valor:** 2.490,00 € + IVA (Total: 3.062,70 €) — Modelo fechado por turma até 12 participantes
-* **Probabilidade:** 70% (Proposta enviada em antecipação ao prazo de segunda-feira)
-* **Interlocutora:** Beatriz Reis (Recursos Humanos | `beatriz.reis@tmlmobilidade.pt` | `962 983 480`)
-* **Formadora Alocada:** Alda Benamor (Especialista em Comunicação Estratégica, Reputação e Media Training para Executivos / CA)
+* **Fase:** Proposta Atualizada Enviada (Proposta SKOLAE_Ref - 21690 - Media Training & Gestão de Crise)
+* **Oportunidade:** Media Training (14h) + Gestão de Crise em Cibersegurança (3h30) — Total: 17h30 Presencial
+* **Destinatários:** Conselho de Administração (17h30 completas) + Equipa de Crise da TML (integração no módulo de 3h30)
+* **Probabilidade:** 75%
+* **Interlocutores:** Marta Tavares e Miguel Dinis (decisores operacionais e pedagógicos) | Beatriz Reis (Recursos Humanos | `beatriz.reis@tmlmobilidade.pt`)
+* **Formadora Alocada:** Alda Benamor (Comunicação Estratégica, Reputação e Media Training)
 
 ---
 
-## Parâmetros da Proposta Enviada
-1. **Destinatários & Flexibilidade:**
-   * Membros do Conselho de Administração (garantidos 2 membros com possibilidade de integração dos restantes). Proposta cotada para grupo até 12 participantes, mantendo o investimento inalterado.
+## Parâmetros da Proposta Atualizada (10/11/2026)
+1. **Estrutura Bimodal (2 em 1):**
+   * **Módulo I (3h30):** Enquadramento Jurídico e Gestão de Crise em Cibersegurança (quadro legal, reporte de incidentes, alinhamento porta-voz/equipa técnica).
+   * **Módulo II (14h00):** Media Training Prático e Simulação de Imprensa (entrevistas, falar em público, antecipação, controlo de mensagens sob pressão).
 2. **Formato & Carga Horária:**
-   * 14 Horas Presenciais nas instalações da TML em Lisboa.
-3. **Alinhamento Pedagógico Prévio:**
-   * Reunião prévia de preparação incluída entre a formadora Alda Benamor e a TML para calibrar cenários, mensagens-chave e dinâmicas às necessidades da administração.
+   * 17h30 presenciais nas instalações da TML em Lisboa, estruturadas em regime de meios-dias para compatibilidade de agenda executiva.
+3. **Calendarização:**
+   * Prevista para realização ainda no decorrer do 4.º trimestre de 2026.
 
 ---
 
 ## Histórico de Interações
-* **[22-10-2026] — Entrada de Lead Web (Odoo CRM):**
-  * Pedido formal de orçamento e programa de Media Training submetido por Beatriz Reis.
-* **[22-10-2026] — Qualificação e Envio Imediato de Proposta (Ref. 21690):**
-  * Beatriz indicou que a formação se destina ao Conselho de Administração (garantidos 2 membros com flexibilidade para os restantes) em formato presencial nas instalações da TML.
-  * Bruno Vicente enviou proposta no próprio dia com formadora Alda Benamor (14h presenciais, 2.490,00 € para grupo até 12 participantes).
+* **[10-11-2026] — Envio de Proposta Reformulada e E-mail de Seguimento:**
+  * Bruno Vicente enviou e-mail a Marta Tavares e Miguel Dinis com a proposta revista (Ref. 21690) adaptada para 17h30 e desdobrada em meios-dias.
+* **[06-11-2026] — Alinhamento Pedagógico Interno com Joana (SKOLAE):**
+  * Desenho da solução integrada com Pedro Gonçalves (3h30 legal/cibersegurança) e Alda Benamor (14h media training com jornalista de redação convidado).
+* **[05-11-2026] — Reunião com Marta Tavares e Miguel Dinis (TML):**
+  * Pedido de fusão entre Media Training (CA) e Comunicação de Crise em Cibersegurança (CA + Equipa de Crise), em meios-dias presenciais para 2026.
 * **[22-10-2026] — Feedback da Cliente & Processo de Consulta Pública:**
-  * Beatriz agradeceu a rapidez e explicou que, sendo entidade pública, estão a comparar várias propostas sob o critério da solução mais vantajosa economicamente.
-  * Reunião interna agendada para seleção da entidade formadora, com compromisso de decisão e resposta até ao final do dia de **terça-feira (27/10/2026)**.
+  * Beatriz Reis informou sobre consulta a várias entidades e compromisso de seleção interna.
+* **[22-10-2026] — Qualificação e Envio de Proposta Inicial (Ref. 21690):**
+  * Envio de proposta inicial de 14h presenciais para o CA (Alda Benamor).
+* **[22-10-2026] — Entrada de Lead Web (Odoo CRM):**
+  * Pedido formal de orçamento e programa submetido por Beatriz Reis.
 
 ---
 
 ## Próximos Passos (Next Steps)
-* `[ ]` **(Bruno Vicente):** Enviar resposta curta de cortesia e disponibilidade de suporte à reunião interna [22/10/2026].
-* `[ ]` **(Beatriz Reis / TML):** Resposta e decisão final da reunião interna da TML [Prazo: Terça-feira, final do dia].
-* `[ ]` **(Bruno Vicente):** Caso não haja contacto até quarta-feira de manhã, efetuar follow-up leve de apoio.
+* `[ ]` **(Marta Tavares / Miguel Dinis / TML):** Análise da proposta reformulada de 17h30 e validação interna.
+* `[ ]` **(Bruno Vicente):** Follow-up consultivo na próxima semana caso não haja feedback prévio sobre datas e aprovação.

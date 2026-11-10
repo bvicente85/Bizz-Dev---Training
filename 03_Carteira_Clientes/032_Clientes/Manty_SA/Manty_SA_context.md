@@ -2,31 +2,23 @@
 type: Cliente Context
 title: Contexto do Cliente - Manty_SA
 description: Perfil de contexto, setor e interlocutores do cliente Manty_SA.
-tags: [cliente, cliente]
-timestamp: 2026-06-18T10:59:00Z
+tags: [cliente, inbound, palestras, teambuilding]
+timestamp: 2026-11-10T08:42:00Z
 ---
-# Manty SA - Contexto
+# Manty SA - Contexto do Cliente
 
-*Links:* [Progresso Comercial](./Manty_SA_progress.md) | [Notas de Reunião](./Manty_SA_meeting_notes.md)
-
+*Links:* [Progresso Comercial](./Manty_SA_progress.md) | [Notas de Reunião e Contactos](./Manty_SA_meeting_notes.md) | [Índice](./_Índice_Manty_SA.md)
 
 ## Perfil da Empresa
 * **Nome:** MANTY SA - SUCURSAL EM PORTUGAL
-* **Setor:** [A confirmar]
-* **Website:** [A confirmar]
+* **Domínio / Matriz:** `manty.ch` (Suíça com sucursal e operações em Portugal)
+* **Gestor de Conta (SKOLAE):** Bruno Vicente
 
 ## Stakeholders
-* **Rute Fazenda:** Head of Human Resources (Contacto Inicial)
-    * Email: rute.fazenda@manty.ch
-    * Telefone: 914412651
+* **Rute Fazenda:** HR Director / Head of HR  
+  * E-mail: `rute.fazenda@manty.ch`  
+  * Telefone: `914 412 651`
 
-## Histórico e Dores
-* **2026-05-07:** Pedido de informação via site sobre "team buildings".
-* **2026-05-12:** Identificada necessidade para grupo de 35 a 40 pessoas. Proposto o Team Building "Learn to Change" (gestão e abertura à mudança), em formato de dia inteiro (10h00 às 17h00).
-* **2026-05-18:** Proposta enviada com inclusão de espaço sugerido (Cowork Cascais).
-* **Estado:** Proposta Enviada (A aguardar feedback).
-
-## Notas Estratégicas
-* Foco em Team Building de mudança organizacional (Learn to Change).
-* Rácio ideal recomendado no catálogo: turmas de 12 participantes, mas o grupo total é de 35-40 pessoas.
-
+## Histórico de Interações na SKOLAE
+* **Maio de 2026:** Contacto inicial para organização de Team Building de 35 a 40 pessoas (proposta de "Learn to Change").
+* **Novembro de 2026:** Nova manifestação de interesse orientada a palestras corporativas da SKOLAE.

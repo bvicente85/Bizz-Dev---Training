@@ -1,0 +1,69 @@
+{
+  "cliente": "VECTOR B2B",
+  "cliente_completo": "VECTOR B2B - DRUG DEVELOPING",
+  "area": "TECNOLOGIAS DE INFORMAÇÃO & CONFORMIDADE",
+  "titulo_curso": "CIBERSEGURANÇA E PROTEÇÃO DE DADOS",
+  "subtitulo": "Sensibilização prática para o dia a dia profissional",
+  "duracao": "3 horas",
+  "duracao_detalhe": "Sessão online síncrona dedicada em Live Training (Teams / Zoom)",
+  "destinatarios": "Colaboradores transversais da VECTOR B2B",
+  "formandos_num": "35",
+  "modalidade": "Live Training (Online síncrono)",
+  "subtitulo_enquadramento": "Sensibilização Prática e Proteção da Informação",
+  "enquadramento_p1": "Os responsáveis da VECTOR B2B tomaram a decisão de investir no desenvolvimento de competências de Cibersegurança e Proteção de Dados das suas equipas.",
+  "enquadramento_p2": "Desde sempre a SKOLAE Formação dispõe no seu portfólio de soluções de aprendizagem específicas para o desenvolvimento de competências de segurança da informação e conformidade digital que possam potenciar uma postura vigilante e a salvaguarda operacional nas equipas.",
+  "enquadramento_p3": "Uma boa cultura de segurança e proteção de dados nas organizações tem impacto no clima organizacional, na produtividade e, consequentemente, no negócio.",
+  "enquadramento_p4": "Contextualizamos que abordar a cibersegurança e o RGPD é integrar temas tão fundamentais como a prevenção de engenharia social e phishing, a higiene digital no posto de trabalho, a partilha responsável de informação e a resposta atempada a incidentes.",
+  "proposito": "Dotar os colaboradores de conhecimentos práticos e hábitos de segurança digital que permitam reconhecer riscos, manusear dados com respeito pelo RGPD e atuar preventivamente perante potenciais ameaças.",
+  "competencias": [
+    "Literacia de Ciberameaças",
+    "Higiene Digital",
+    "Conformidade RGPD",
+    "Prevenção de Incidentes"
+  ],
+  "objetivos_especificos": [
+    "Identificar sinais de alerta em e-mails fraudulentos e tentativas de engenharia social",
+    "Aplicar rotinas seguras de gestão de palavras-passe e acesso a sistemas de trabalho",
+    "Tratar e partilhar ficheiros e dados pessoais de acordo com os princípios do RGPD",
+    "Ativar os procedimentos internos corretos perante qualquer suspeita ou ocorrência de incidente"
+  ],
+  "modulos": [
+    {
+      "titulo": "O Fator Humano na Cibersegurança",
+      "topicos": [
+        "Panorama atual do cibercrime e o colaborador como primeira linha de defesa",
+        "Reconhecimento de phishing, spear-phishing, spoofing e anexos maliciosos",
+        "Segurança em trabalho híbrido, redes públicas e bloqueio de postos de trabalho"
+      ]
+    },
+    {
+      "titulo": "Higiene Digital e Gestão de Acessos",
+      "topicos": [
+        "Boas práticas na criação e salvaguarda de palavras-passe robustas",
+        "A importância e o impacto do duplo fator de autenticação (MFA)",
+        "Prevenção do uso de ferramentas não autorizadas e utilização responsável de plataformas"
+      ]
+    },
+    {
+      "titulo": "Proteção de Dados (RGPD) no Quotidiano",
+      "topicos": [
+        "Conceitos operacionais essenciais de dados pessoais e informação sensível",
+        "Cuidados no envio de e-mails em grupo, gestão de anexos e pastas partilhadas",
+        "O dever de confidencialidade, conservação e eliminação segura de informação"
+      ]
+    },
+    {
+      "titulo": "Resposta a Incidentes e Casos Práticos",
+      "topicos": [
+        "O que constitui uma violação de segurança ou perda de dados (Data Breach)",
+        "Como agir de imediato perante cliques inadvertidos, enganos ou anomalias",
+        "Circuito interno de comunicação e discussão de cenários práticos do dia a dia"
+      ]
+    }
+  ],
+  "metodologia_p1": "Formação interativa online (Live Training) combinando exposição temática com discussão de dilemas reais e esclarecimento de dúvidas.",
+  "metodologia_p2": "Entidade Formadora Certificada pela DGERT com emissão de certificados profissionais através da plataforma oficial SIGO.",
+  "metodologia_foco": "Sensibilização prática e direta com aplicação imediata ao trabalho diário.",
+  "metodologia_cenarizacao": "Análise de exemplos reais de e-mails fraudulentos e boas práticas no manuseamento de dados",
+  "metodologia_casos": "Cenários práticos do quotidiano corporativo adaptados à realidade da VECTOR B2B"
+}

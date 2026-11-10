@@ -3,7 +3,7 @@ status: Ativo
 core_business: Avaliação de Marcas, Consultoria e Estudos de Mercado (Cinco Estrelas / Five Stars)
 decisores:
   - Alexandre Lourenço (Diretor / Ponto de Contacto)
-data_ultima_interacao: 2026-11-02
+data_ultima_interacao: 2026-11-10
 areas_interesse:
   - Team Building Experiencial (Cook & Learn)
   - Trabalho em Equipa e Coesão Interpessoal

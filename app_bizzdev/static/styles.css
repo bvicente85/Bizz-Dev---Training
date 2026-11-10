@@ -1,0 +1,265 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+:root {
+  --bg-primary: #FBFBFD;
+  --bg-secondary: #F5F5F7;
+  --card-bg: #FFFFFF;
+  --border-subtle: #E5E7EB;
+  --border-hover: #D1D5DB;
+  --skolae-orange: #FF912B;
+  --skolae-orange-hover: #F07E16;
+  --skolae-orange-soft: #FFF5EC;
+  --text-primary: #111827;
+  --text-secondary: #4B5563;
+  --text-muted: #6B7280;
+  --shadow-soft: 0 1px 3px rgba(17, 24, 39, 0.03), 0 4px 12px rgba(17, 24, 39, 0.02);
+  --shadow-elevated: 0 4px 20px -2px rgba(17, 24, 39, 0.06), 0 2px 6px -1px rgba(17, 24, 39, 0.03);
+  --shadow-modal: 0 20px 45px -10px rgba(17, 24, 39, 0.14), 0 4px 16px -2px rgba(17, 24, 39, 0.06);
+}
+
+* {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Basier Circle', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  letter-spacing: -0.011em;
+  overflow: hidden;
+  height: 100vh;
+}
+
+/* Scrollbars elegantes estilo macOS / Linear */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(156, 163, 175, 0.35);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(107, 114, 128, 0.55);
+}
+
+/* Cartões Flutuantes Apple / Dots */
+.apple-card {
+  background: var(--card-bg);
+  border: 1px solid var(--border-subtle);
+  border-radius: 14px;
+  box-shadow: var(--shadow-soft);
+  transition: all 0.18s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.apple-card-interactive:hover {
+  border-color: rgba(255, 145, 43, 0.45);
+  box-shadow: var(--shadow-elevated);
+  transform: translateY(-1px);
+}
+
+/* Botões de Ação Rápida */
+.quick-action-btn {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 9px 12px;
+  border-radius: 10px;
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text-primary);
+  background: #FFFFFF;
+  border: 1px solid var(--border-subtle);
+  box-shadow: 0 1px 2px rgba(17, 24, 39, 0.02);
+  transition: all 0.15s ease;
+  text-align: left;
+  cursor: pointer;
+}
+
+.quick-action-btn:hover {
+  border-color: var(--skolae-orange);
+  background: var(--skolae-orange-soft);
+  color: #111827;
+  transform: translateY(-0.5px);
+}
+
+.quick-action-btn .icon-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 26px;
+  height: 26px;
+  border-radius: 7px;
+  background: #F5F5F7;
+  color: #4B5563;
+  flex-shrink: 0;
+  transition: all 0.15s ease;
+}
+
+.quick-action-btn:hover .icon-wrap {
+  background: var(--skolae-orange);
+  color: #FFFFFF;
+}
+
+/* Item de Conta na Sidebar */
+.account-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 10px;
+  border-radius: 9px;
+  cursor: pointer;
+  transition: all 0.14s ease;
+  border: 1px solid transparent;
+}
+
+.account-item:hover {
+  background: #FFFFFF;
+  border-color: var(--border-subtle);
+}
+
+.account-item.active {
+  background: #FFFFFF;
+  border-color: rgba(255, 145, 43, 0.45);
+  box-shadow: 0 2px 8px rgba(255, 145, 43, 0.08);
+}
+
+/* Indicadores Visuais de Estado */
+.status-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 9999px;
+  flex-shrink: 0;
+}
+.status-dot.proposta {
+  background-color: #FF912B;
+  box-shadow: 0 0 0 3px rgba(255, 145, 43, 0.16);
+}
+.status-dot.ativo {
+  background-color: #10B981;
+  box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.14);
+}
+.status-dot.qualificacao {
+  background-color: #3B82F6;
+}
+.status-dot.carteira {
+  background-color: #D1D5DB;
+}
+
+/* Formatação Markdown Limpa no Chat e Contexto */
+.prose-skolae {
+  font-size: 13.75px;
+  line-height: 1.62;
+  color: var(--text-primary);
+}
+.prose-skolae h3 {
+  font-size: 14.5px;
+  font-weight: 600;
+  color: #111827;
+  margin-top: 0;
+  margin-bottom: 8px;
+  letter-spacing: -0.015em;
+}
+.prose-skolae h4 {
+  font-size: 13px;
+  font-weight: 600;
+  color: #374151;
+  margin-top: 12px;
+  margin-bottom: 6px;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+.prose-skolae p {
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+.prose-skolae ul, .prose-skolae ol {
+  margin-top: 4px;
+  margin-bottom: 10px;
+  padding-left: 18px;
+}
+.prose-skolae li {
+  margin-bottom: 4px;
+}
+.prose-skolae strong {
+  font-weight: 600;
+  color: #111827;
+}
+.prose-skolae blockquote {
+  margin: 10px 0;
+  padding: 8px 12px;
+  border-left: 3px solid var(--skolae-orange);
+  background: var(--skolae-orange-soft);
+  border-radius: 0 8px 8px 0;
+  font-size: 12.75px;
+  color: #374151;
+}
+.prose-skolae code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-size: 12px;
+  padding: 2px 5px;
+  background: #F3F4F6;
+  border-radius: 5px;
+  color: #111827;
+}
+.prose-skolae pre {
+  background: #FBFBFD;
+  border: 1px solid #E5E7EB;
+  border-radius: 10px;
+  padding: 12px 14px;
+  overflow-x: auto;
+  font-size: 13px;
+  line-height: 1.55;
+  white-space: pre-wrap;
+  margin: 10px 0;
+}
+.prose-skolae table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 10px 0;
+  font-size: 12.5px;
+}
+.prose-skolae th, .prose-skolae td {
+  border: 1px solid #E5E7EB;
+  padding: 6px 10px;
+  text-align: left;
+}
+.prose-skolae th {
+  background: #F5F5F7;
+  font-weight: 600;
+}
+
+/* Animação suave de entrada de mensagens */
+@keyframes fadeSlideUp {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-msg {
+  animation: fadeSlideUp 0.22s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* SVG Inline Container */
+.lucide-inline svg {
+  width: 100%;
+  height: 100%;
+  stroke: currentColor;
+  stroke-width: 1.85;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  fill: none;
+}

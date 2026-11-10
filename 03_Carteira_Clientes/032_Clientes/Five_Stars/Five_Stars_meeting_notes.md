@@ -3,12 +3,21 @@ type: Meeting Notes
 title: Notas de Reunião - Five Stars
 description: Histórico de reuniões e contactos com a Five Stars.
 tags: [reunioes, atas, five_stars, alexandre_lourenco, cook_and_learn]
-timestamp: 2026-11-02T17:50:00Z
+timestamp: 2026-11-10T17:21:00Z
 ---
 
 # Notas de Reunião: Five Stars
 
 *Links:* [Contexto](./Five_Stars_context.md) | [Progresso Comercial](./Five_Stars_progress.md) | [Índice](./_Índice_Five_Stars.md)
+
+## 2026-11-10 — Envio de E-mail de Follow-up (Bruno Vicente)
+* **Interlocutor:** Alexandre Lourenço (Diretor)
+* **Canal:** Email
+* **Objetivo:**
+  * Reativar contacto decorridos 8 dias do envio da proposta técnica e financeira (Ref. 21742).
+  * Gestão de calendário: validar enquadramento da solução e alertar para a necessidade de salvaguarda da data de **15 de dezembro** no espaço da Avenida da Liberdade e disponibilidade dos chefs da Teleculinária.
+
+---
 
 ## 2026-11-02 (16:46 GMT) — Reunião de Qualificação Team Building de Natal (Granola)
 

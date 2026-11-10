@@ -36,6 +36,10 @@ Sempre que forem gerados conteúdos pedagógicos ou propostas em PowerPoint (`.p
 2. **Objetivos Específicos (Slide 13):** Devem ter no máximo **1 linha (10 a 14 palavras)**, iniciados por verbos de ação no infinitivo e sem bullets literais.
 3. **Invariante do Bloco Gráfico Metodológico (Slide 12 / Slide 8):** O bloco lateral direito *"TREINO / ESTIMULAR A APRENDIZAGEM"* é parte gráfica standard e institucional do template mestre da SKOLAE e nunca pode ser alterado ou customizado em função do programa.
 
+4. **Iconografia e Grafismos Lucide (Apenas Sob Pedido Expresso):**
+   * **Modo Padrão:** Não carregar nem sugerir ícones por defeito para manter o fluxo rápido e minimalista.
+   * **Quando Solicitado Expressamente:** Se o Bruno pedir *"com ícones"*, *"com grafismos"* ou *"usar Lucide"*, o agente consulta o repositório local [`assets/icons/lucide/`](file:///c:/Users/brunn/OneDrive%20-%20GIE%20IFE/Desktop/Bruno/PESSOAL/Business%20Development%20Formação/assets/icons/lucide/), mapeia os ficheiros SVG correspondentes aos módulos/competências (ex.: `target.svg`, `users.svg`, `award.svg`, `lightbulb.svg`, `shield-check.svg`) e, caso a criação seja via script `.pptx`, injeta os vetores nos respetivos slides.
+
 ---
 
 ## Alertas Financeiros e Logísticos (Propostas & Custos Diretos)
